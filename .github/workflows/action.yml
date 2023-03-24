@@ -20,7 +20,8 @@ jobs:
           key: ${{ github.ref }}
           path: .cache
       - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
-      - run: pip install mkdocs-macros-plugin mkdocs-literate-nav mkdocs-material-extensions
+      - run: pip install mkdocs-macros-plugin
+      - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
 env:
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
