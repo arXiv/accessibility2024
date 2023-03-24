@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
       "data-input-position": "bottom",
       "data-lang": "en",
       "data-theme": "https://github.com/arXiv/discussion/tree/master/docs/stylesheets/arxiv-giscus-theme.css",
-      "crossorigin": "use-credentials",
+      "crossorigin": "anonymous",
       "async": "",
   };
 
