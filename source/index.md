@@ -1,56 +1,25 @@
-# About arXiv
+# Welcome to the arXiv Accessibility Forum 2023
 
-arXiv is a curated research-sharing platform open to anyone. As a pioneer in digital open access, arXiv.org now hosts more than two million scholarly articles in eight subject areas, curated by our strong community of volunteer moderators.
-{.intro}
+## How do we make accessible research papers a reality?
 
-arXiv offers researchers a broad range of services: article submission, compilation, production, retrieval, search and discovery, web distribution for human readers, and API access for machines, together with content curation and preservation. Our emphasis on openness, collaboration, and scholarship provide the strong foundation on which arXiv thrives.
+![Logo for the arXiv forum](../assets/arxiv-lockup-forum.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
 
-arXiv currently serves the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. arXiv was founded by Paul Ginsparg in 1991 and is now maintained and operated by [Cornell Tech](https://www.tech.cornell.edu/).
+Together, we can chart a path towards fully accessible research papers, and leave with practical next steps for our own organizations.
 
-Operations are maintained by the [arXiv Leadership Team](people/leadership_team.md) and arXiv staff at Cornell. Governance of arXiv is led by the Leadership Team with guidance from the arXiv Scientific Advisory Board and the arXiv Member Advisory Board. arXiv is a community-supported resource funded by [Cornell University](https://www.cornell.edu/), the [Simons Foundation](https://www.simonsfoundation.org), [member institutions](ourmembers.md), and [donors](give.md).
+[Presenter Bios]()
+[Additional Resources]()
 
-Registered users may [submit articles](../help/submit.md) to be announced by arXiv. There are no fees or costs for article submission. Submissions to arXiv are subject to a [moderation process](../help/moderation/index.md) that classifies material as topical to the subject area and checks for scholarly value. Material is not peer-reviewed by arXiv - the contents of arXiv submissions are wholly the responsibility of the submitter and are presented “as is” without any warranty or guarantee. By hosting works and other materials on this site, arXiv, Cornell University, and their agents do not in any way convey implied approval of the assumptions, methods, results, or conclusions of the work.
-
-## News
-
-- [arXiv Reports](reports/index.md)
-- [Usage Stats](https://arxiv.org/stats/main)
-- [arXiv Blog](https://blogs.cornell.edu/arxiv)
-- [arXiv Twitter](https://twitter.com/arxiv)
-
-## Funding, Membership, & Giving
-
-- [Funding Support](funding.md)
-- [Donate to arXiv](donate.md)
-- [Institutional Membership Program](membership.md)
-- [Our Members](ourmembers.md)
-- [Our Supporters](supporters.md)
-
-
-## Who We Are
-
-- [arXiv Staff](people/staff.md)
-- [Leadership Team](people/leadership_team.md)
-- [Scientific Advisory Board](people/scientific_ad_board.md)
-- Section Advisory Committees
-	- [Physics](../help/physics/index.md#AdvisoryCommittee)
-	- [Mathematics](../help/math/index.md#AdvisoryCommittee)
-	- [Computer science (CoRR)](../help/cs/index.md)
-	- [Quantitative biology](../help/q-bio/index.md#AdvisoryCommittee)
-	- [Quantitative finance](../help/q-fin/index.md#AdvisoryCommittee)
-	- [Statistics](../help/statistics/index.md#AdvisoryCommittee)
-	- [Electrical engineering and systems science](../help/eess/index.md#AdvisoryCommittee)
-	- [Economics](../help/econ/index.md#AdvisoryCommittee)
-- [Member Advisory Board](people/member_ad_board.md)
-- [Technical Advisory Group](people/technical_ad_group.md)
-- [Volunteer Moderators](https://arxiv.org/moderators)
-- [Volunteer Developers](people/developers.md)
-- [Join arXiv's User Testing Group](user-testing.md)
-
-
-## General Information
-
-- [Governance](governance.md)
-- [Business Model](reports-financials.md)
-- [Annual Reports and Financials](reports/index.md)
-- [Brand Guide and Logo Usage](../brand/index.md)
+## Schedule
+| Time (EDT) | Session | Description | Details |
+| --- | --- | --- | --- |
+| 1:00pm | **Welcome** | Welcome notes and schedule overview | |
+| 1:05pm | **Introduction and Keynote** | Jonathan Godfrey: Why is this topic so essential? | |
+| 1:15pm | **Presentations** | Avneesh Singh, Cynthia Bennett, Anne Logan, Lucas Nadolskis, Breanne Kisselstein, and Patrick Smyth will share their unique expertise and lived experiences. How can their personal solutions to making research papers accessible become global and part of the culture? | [Presentation Discussion Board]() |
+| 2:20pm | **10 minute break** | | |
+| 2:30pm | **Panel Discussion** | Where in the pipeline do we need to change? Whose responsibility is it to make content accessible? A rich discussion with Neil Soiffer, Raja Kushalnagar, Julie R. Williamson, Frank Mittelbach, Sarah Kane, and facilitated by Bill Kasdorf. | [Panel Discussion Board]() |
+| 3:20pm | **10 minute break** | | |
+| 3:30pm | **Q&A Session 1**  |  Breakout room A: What can authors and publishers do right now? And what is coming in the next year? <br><br> Breakout room B: Mythbusting the needs of deaf academics when it comes to accessing research. | [Q&A Session 1A Discussion Board]()<br>[Q&A Session 1B Discussion Board]() |
+| 4:00pm | **Switch** | A few minutes to switch breakout rooms for Q&A session 2 | |
+| 4:05pm | **Q&A Session 2**  |  Breakout room A: How can AI and crowd-sourcing help with accessibility? <br><br> Breakout room B: Digging deeper into image and graph descriptions for scientific content. | [Q&A Session 2A Discussion Board]()<br>[Q&A Session 2B Discussion Board]() |
+| 4:35pm | **5 minute break** | | |
+| 4:40pm | **Closing Roundtable** | Converging on a shared path towards accessible research papers. | |
