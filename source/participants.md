@@ -1,8 +1,6 @@
-# Participant Bios (Draft)
+# Participant Bios
 
-![Logo for the arXiv forum](../../assets/arxiv-lockup-forum.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
-[Return to main Forum Info page](accessibility_forum.md)
-
+![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
 We are very pleased to be working with the following key participants to bring this forum to life:
 
 ### Dr. Jonathan Godfrey

@@ -2,11 +2,11 @@
 
 ## How do we make accessible research papers a reality?
 
-![Logo for the arXiv forum](../assets/arxiv-lockup-forum.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
-
+![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
 Together, we can chart a path towards fully accessible research papers, and leave with practical next steps for our own organizations.
 
 [Presenter Bios]()
+
 [Additional Resources]()
 
 ## Schedule
