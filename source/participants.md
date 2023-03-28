@@ -11,7 +11,7 @@ Jonathan's research is focused on the needs of the thousands of blind people aro
 ### Avneesh Singh
 Avneesh Singh, chair, accessibility task force - W3C EPUB 3 Working Group and Publishing Community Group.
 
-Avneesh aspires to make knowledge & information accessible to all, at affordable cost, using technical innovations and leveraged by inclusive strategies & global partnerships. [Avneesh's Linkedin](https://www.linkedin.com/in/avneesh-singh-01b32316/)
+Avneesh aspires to make knowledge and information accessible to all, at affordable cost, using technical innovations and leveraged by inclusive strategies & global partnerships. [Avneesh's Linkedin](https://www.linkedin.com/in/avneesh-singh-01b32316/)
 
 ### Dr. Cynthia Bennett
 Senior Research Scientist, Responsible AI and Human Centered Technology, Google.
@@ -37,6 +37,11 @@ Breanne is passionate about the power of community for underrepresented students
 Postdoctoral Fellow in Humanities Entrepreneurship at the Publics Lab, and Chief Learner at Iota School.
 
 Patrick is a blind hacker and programmer whose work focuses on citizen technology, critical infrastructure, accessibility, and technical pedagogy. [Patrick's homepage](https://smythp.com/index.html)
+
+### Bill Kasdorf
+Principal, Kasdorf & Associates; Founding partner, Publishing Technology Partners; W3C Global Publishing Evangelist, W3C Publishing Working Group member, EPUB 3 Community Group member.
+
+Bill offers consultancy to publishers on accessibility, XML/HTML/EPUB modeling and specification, standards alignment, and more. He believes accessibility in publishing has reached an inflection point and we are at a critical time for renewed action. [Bill's Linkedin](https://www.linkedin.com/in/billkasdorf/)
 
 ### Dr. Neil Soiffer
 Chief Listening Officer at Talking Cat Software.
@@ -64,10 +69,10 @@ Undergraduate Student at University of Pennsylvania with a focus on Astrophysics
 
 For Sarah, her career as a researcher is intertwined with her work as a disability advocate. She was born legally blind and has a strong interest in the accessibility of science to people with disabilities. Her work includes usability testing for Astronify, a project of the Space Telescope Institute turning datasets into audio.  [Sarah's University Profile](https://curf.upenn.edu/profile/kane-sarah)
 
-### Bill Kasdorf
-Principal, Kasdorf & Associates; Founding partner, Publishing Technology Partners; W3C Global Publishing Evangelist, W3C Publishing Working Group member, EPUB 3 Community Group member.
+### Dr. Kaveh Bazargan
+Director, River Valley Technologies
 
-Bill offers consultancy to publishers on accessibility, XML/HTML/EPUB modeling and specification, standards alignment, and more. He believes accessibility in publishing has reached an inflection point and we are at a critical time for renewed action. [Bill's Linkedin](https://www.linkedin.com/in/billkasdorf/)
+Kaveh is a physicist, and one of the first to use TeX (1983). In 1988 he founded River Valley Technologies, with the aim of improving the publishing process. Kaveh has a special interest in the accessibility of STM content, and in particular of mathematics. He is a proponent of open standards, and in particular an advocate of XML as the "format of record". [Kaveh's LinkedIn](https://www.linkedin.com/in/bazargankaveh/)
 
 ### Deyan Ginev
 Creator of ar5iv.org and LaTeXML developer; W3C Math Working Group member; PhD candidate in hiding (do not disturb).
@@ -95,7 +100,7 @@ Co-founder, Signly.
 Signly provides synchronous, in-vision, sign language translations on any webpage, with the goal of improving equal access to digital information, advice and services. [Mark's Linkedin](https://www.linkedin.com/in/mark-applin-20b9384/)
 
 ### Frank Elavsky
-PhD Candidate, Human-Computer Interaction Institute, Carnegie Mellon University; Data interaction research at Apple; W3C invited expert in Data Visualization in the ARIA Working Group.
+PhD Student, Human-Computer Interaction Institute, Carnegie Mellon University; Data interaction research at Apple; W3C invited expert in Data Visualization in the ARIA Working Group.
 
 Frank's research focuses on methods that improve greater adoption of accessibility practices, engineer tools and systems that improve inclusive practitioner work and outcomes, and critically examine ways that sociotechnical systems exclude people with disabilities. [Frank's Homepage](https://www.frank.computer/)
 
@@ -103,3 +108,15 @@ Frank's research focuses on methods that improve greater adoption of accessibili
 Founder of Overleaf; VP Researcher and Community Engagement at Digital Science.
 
 Overleaf is the world's leading LaTeX-based online authoring platform, used by researchers around the world. John's current work focuses on how to best serve the broad research community, with a particular focus on the end user. [John's Linkedin](https://www.linkedin.com/in/john-hammersley-6419a266/)
+
+### Kevin-John Black
+Preprints Product Lead, Cold Spring Harbor Laboratory.
+
+Kevin-John brings his experience leading bioRxiv and medRxiv towards offering full-text HTML version of papers, and the broad implications of HTML on researchers and publishers.
+
+### Charles LaPierre
+Principal Accessibility and Content Quality Architect, Benetech; member of the following W3C Working Groups: Publishing Working Group, MathML Refresh, ARIA, APA / Personalization Task Force, EPUB3 W3C Community Group, and co-chair of the Accessibility Metadata W3C Community Group.
+
+Charles has been a pioneer in accessible product development since 1993 and is the technical architect of the Global Certified Accessible initiative at Benetech. This certification identifies publisher content as conforming to the EPUB 1.0 Accessibility Specification, for which Charles was a co-editor. [Charles' Linkedin](https://www.linkedin.com/in/charles-lapierre-8a16a13/)
+
+## Discussion
