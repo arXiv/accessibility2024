@@ -15,7 +15,7 @@
   --md-text-font: "freight-sans-pro";
   --md-code-font-family: "ibm-plex-mono", monospace;
   /*default theme colors*/
-  --md-primary-fg-color:  var(--color-cornell-red);
+  --md-primary-fg-color:  var(--color-archival-blue);
   --md-primary-fg-color--light: var(--color-access-lime);
   --md-primary-fg-color--lightest:  var(--color-warm-wash);
   --md-primary-fg-color--dark:  var(--color-library-grey);

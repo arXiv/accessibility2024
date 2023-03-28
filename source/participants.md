@@ -89,7 +89,7 @@ Software Developer, Facebook; NVDA community developer.
 
 Tony is a software developer and active contributor to improving screen reader technology. [Tony's Linkedin](https://www.linkedin.com/in/tony-malykh-2971591/)
 
-### Ulrike Fischer (not yet confirmed, hoping she can join us)
+### Ulrike Fischer
 Member of the LaTeX project.
 
 Ulrike's main focus is currently on LaTeX packages related to accessibility. LaTeX's five year plan will have profound accessibility impacts. [Ulrike's Author Bio](https://www.informit.com/authors/bio/BA672B25-A399-4C25-9AC6-472F5BF29CA2)
