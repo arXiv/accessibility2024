@@ -1,7 +1,19 @@
 #Forum Presentations
 
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
-This page holds presenter bios and useful links related to the arXiv Forum on accessible research papers. It is also a location to add your comments and continue the discussion. We know we will not have time during the forum to discuss everything of interest. Please use this space to continue the conversation related to the presentations.
+Find the detailed presentation schedule, presenter bios, and useful links. Go to the [discussion panel](#discussion) at the bottom and continue the conversation. We know we will not have time during the forum to discuss everything of interest. Please use this space to continue the conversation related to the presentations.
+
+## Presentation Details
+
+| Time (EDT) | Presenter | Description |
+| --- | --- | --- |
+| 1:05-1:15 | **Jonathan Godfrey** | Why this topic so essential |
+| 1:05-1:15 | **Avneesh Singh** | The role of standards in addressing the inaccessibility crisis of academic papers |
+| 1:25-1:35 | **Cynthia Bennett** | When Alt Text Stakes are Higher: What an Actually Blind Peer Reviewer Needs from Figure Descriptions |
+| 1:35-1:45 | **Lucas Nadolskis** | Working twice as hard for less information: the real impact of inaccessible content on the daily life of a researcher |
+| 1:45-1:55 | **Stacey Scott** | Has academic publishing reached an inflection point for accessibility? |
+| 1:55-2:05 | **Patrick Smyth** | Notebooks for All: lessons learned about making data more accessible |
+| 2:05-2:15 | **Anne Logan and Breanne Kisselstein** | The essential role of support networks in navigating an inaccessible ecosystem. |
 
 ## Presenter Bios
 
