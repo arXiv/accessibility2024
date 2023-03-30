@@ -20,4 +20,7 @@ Charles has been a pioneer in accessible product development since 1993 and is t
 
 ## Resources
 
+Shared by Physicist John Gardner, this NSF-funded project [will create the AIMS (Automated, Integrated, Multimodal Software) system to generate accessible STEM content](https://www.slu.edu/news/2022/december/nsf-convergence-accelerator-grant.php). On a related note, Kaveh Bazargan moderated a panel that included John on [Conquering the Production of Mathematical Content](https://www.csescienceeditor.org/wp-content/uploads/2015/06/Apr-Jun-2015.pdf)
+
 ## Discussion
+Use this discussion board to continue conversations about alt tags and long descriptions for scientific images, or to share your relevant projects.

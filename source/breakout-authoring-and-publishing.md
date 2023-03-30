@@ -25,5 +25,10 @@ Director, River Valley Technologies
 Kaveh is a physicist, and one of the first to use TeX (1983). In 1988 he founded River Valley Technologies, with the aim of improving the publishing process. Kaveh has a special interest in the accessibility of STM content, and in particular of mathematics. He is a proponent of open standards, and in particular an advocate of XML as the "format of record". [Kaveh's LinkedIn](https://www.linkedin.com/in/bazargankaveh/)
 
 ## Resources
+The following related resources have been shared by our participants and other scholars.
+
+- Kaveh Bazargan moderates a session on [conquering the production of mathematical content](https://www.csescienceeditor.org/wp-content/uploads/2015/06/Apr-Jun-2015.pdf) for the  Council of Science Editors.
+- A post by Ross Munce on [allowing authors to submit good structured documents right from the start](https://blog.riojournal.com/2015/09/03/opening-up-the-early-stages-of-research-lse-blog-about-rio/)
 
 ## Discussion
+Use this discussion board to continue conversations about what authors and publishers can do now and in the near future to advance accessibility, or to share your relevant projects.

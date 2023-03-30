@@ -120,6 +120,11 @@ a.button-large:hover, a.button-reg:hover {
   margin-left:1em;
 }
 
+/*Tables*/
+.md-typeset table:not([class]) {
+  font-size: 1em;
+}
+
 /*HEADER AREA*/
 .attribution {
   display: flex;
@@ -374,7 +379,8 @@ pre .md-clipboard {
 /*Blockquotes*/
 .md-typeset blockquote {
   margin: 0 !important;
-  padding: 1em !important;
+  margin-bottom: 3em !important;
+  padding: .1em 1em !important;
   border-left: 0 !important;
   background-color: var(--blockquote-bg-color);
   color: var(--blockquote-fg-color);

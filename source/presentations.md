@@ -53,3 +53,4 @@ Postdoctoral Fellow in Humanities Entrepreneurship at the Publics Lab, and Chief
 Patrick is a blind hacker and programmer whose work focuses on citizen technology, critical infrastructure, accessibility, and technical pedagogy. [Patrick's homepage](https://smythp.com/index.html)
 
 ## Discussion
+Use this discussion board to continue conversations related to the presentations, or to share your relevant projects.

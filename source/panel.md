@@ -42,3 +42,4 @@ Preprints Product Lead, Cold Spring Harbor Laboratory.
 Kevin-John brings his experience leading bioRxiv and medRxiv towards offering full-text HTML version of papers, and the broad implications of HTML on researchers and publishers.
 
 ## Discussion
+Use this discussion board to continue conversations that come up during the panel discussion, or to share your relevant projects.

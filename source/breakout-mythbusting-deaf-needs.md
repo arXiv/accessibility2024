@@ -25,5 +25,9 @@ Co-founder, Signly.
 Signly provides synchronous, in-vision, sign language translations on any webpage, with the goal of improving equal access to digital information, advice and services. [Mark's Linkedin](https://www.linkedin.com/in/mark-applin-20b9384/)
 
 ## Resources
+The following related resources have been shared by our participants and other scholars.
+
+[Creating accessible oral and poster presentations](https://www.ismpmi.org/Community/Interactions/Lists/Posts/Post.aspx?List=12f06e9b%2D9922%2D498e%2Da11b%2Da42e98ba0e81&ID=412&Web=ee471bbf%2Dac80%2D48f6%2D883d%2Da3981c7cc59b)
 
 ## Discussion
+Use this discussion board to continue conversations about the accessibility needs of deaf academics, or to share your relevant projects.

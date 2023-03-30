@@ -6,3 +6,4 @@ Find additional resources from our presenters, panelists, and other key particip
 ## Resources
 
 ## Discussion
+Use this discussion board to comment and ask questions about the resources above, or to share your relevant research.
