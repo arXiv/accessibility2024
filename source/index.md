@@ -23,4 +23,4 @@ Together, we can chart a path towards fully accessible research papers, and leav
 | 4:40pm | **Closing Roundtable** | Converging on a shared path towards accessible research papers. | |
 
 ## Discussion
-Use this discussion board for general comments about the forum. More focused discussions can be found on other topical pages.
+Welcome! Use this discussion board for general comments about the forum. More focused discussions can be found on other topical pages in the sidebar navigation.

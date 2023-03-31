@@ -128,4 +128,4 @@ Principal Accessibility and Content Quality Architect, Benetech; member of the f
 Charles has been a pioneer in accessible product development since 1993 and is the technical architect of the Global Certified Accessible initiative at Benetech. This certification identifies publisher content as conforming to the EPUB 1.0 Accessibility Specification, for which Charles was a co-editor. [Charles' LinkedIn](https://www.linkedin.com/in/charles-lapierre-8a16a13/)
 
 ## Discussion
-Use this board to thank the key participants.
+Use this discussion area to say hi to the key participants. Find dedicated pages in the navigation sidebar to discuss the [presentations](presentations.md), [panel](panel.md), or individual Q&A sessions.
