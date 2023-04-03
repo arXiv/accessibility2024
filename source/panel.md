@@ -1,7 +1,9 @@
 #Panel Discussion
 
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
-Find panelist bios and useful links. Go to the [discussion panel](#discussion) at the bottom and continue the conversation. We know the forum is too short to discuss everything of interest. Please use this space to continue conversations related to the panel discussion.
+Find panelist bios below, along with related resources.
+
+We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation on topics that come up in the panel discussion.
 
 ## Panelist Bios
 

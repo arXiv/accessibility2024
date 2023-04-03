@@ -1,6 +1,10 @@
-#Forum Q&A: AI, Crowdsourcing, and Accessibility
+#Forum Q&A session 2A
+## How can AI and Crowd-sourcing help with accessibility?
+
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
-This page holds key participant bios and useful links related to the Q&A session on how AI and Crowd Sourcing can advance accessibility. It is also a location to add your comments and continue the conversation. We know we will not have time during the forum to discuss everything of interest. Please use this space to continue the conversation related to authoring and publishing.
+This page holds key participant bios and useful links related to the Q&A session on how AI and crowd-sourcing can advance accessibility.
+
+We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation related to AI and crowdsourcing.
 
 ## Bios
 ### Arwa Alnajashi

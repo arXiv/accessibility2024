@@ -7,4 +7,5 @@
 * [Q&A Session 2A](breakout-mythbusting-deaf-needs.md)
 * [Q&A Session 2B](breakout-alt-descriptions.md)
 * [Next Steps Roundtable](roundtable.md)
-* [About Discussion Boards](getting-started.md)
+* [Discussion Boards how-to](getting-started.md)
+* [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_br1lFL94OVQB5nE)

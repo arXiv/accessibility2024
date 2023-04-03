@@ -1,6 +1,10 @@
-#Forum Q&A: Authoring and Publishing
+#Forum Q&A session 1A
+## What can authors and publishers do right now? And what is coming in the next year?
+
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
-This page holds key participant bios and useful links related to the Q&A session on authoring tools. It is also a location to add your comments and continue the conversation. We know we will not have time during the forum to discuss everything of interest. Please use this space to continue the conversation related to authoring and publishing.
+This page holds key participant bios and useful links related to the Q&A session on authoring tools.
+
+We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation related to what authors and publishers can do right now and in the near future.
 
 ## Bios
 

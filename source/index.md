@@ -5,7 +5,7 @@
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
 Join arXiv on April 17th, from 1:00pm - 5:00pm Eastern to delve into how we can make accessible research papers a reality.
 
-Together, we can chart a path towards fully accessible research papers, and leave with practical next steps for our own organizations.
+Together, we can converge on practical next steps for our own organizations.
 <div style="clear:both;"></div>
 ## Schedule
 | Time (EDT) | Session | Description | Links |

@@ -1,7 +1,9 @@
 #Forum Presentations
 
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
-Find the detailed presentation schedule, presenter bios, and useful links. Go to the [discussion panel](#discussion) at the bottom and continue the conversation. We know we will not have time during the forum to discuss everything of interest. Please use this space to continue the conversation related to the presentations.
+Find a detailed presentation schedule below, along with presenter bios and related resources.
+
+We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation related to the presentations.
 
 ## Presentation Details
 

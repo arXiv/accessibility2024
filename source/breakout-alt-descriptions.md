@@ -1,6 +1,10 @@
-#Forum Q&A: Alt Text and Long Descriptions
+#Forum Q&A session 2B
+## Digging deeper into image and graph descriptions for scientific papers.
+
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
-This page holds key participant bios and useful links related to the Q&A session on long text descriptions for scientific content. It is also a location to add your comments and continue the conversation. We know we will not have time during the forum to discuss everything of interest. Please use this space to continue the conversation related to alternative and long descriptions for scientific images.
+This page holds key participant bios and useful links related to the Q&A session on alt-text and long descriptions.
+
+We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation related to descriptions of visualizations in research.
 
 ## Bios
 ### Dr. Cynthia Bennett

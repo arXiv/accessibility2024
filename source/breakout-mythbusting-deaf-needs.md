@@ -1,6 +1,10 @@
-#Forum Q&A: Mythbusting the needs of deaf academics
+#Forum Q&A session 1B
+## Myth-busting the needs of deaf academics when it comes to accessing research.
+
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
-This page holds key participant bios and useful links related to the Q&A session on mythbusting the needs of deaf academics. It is also a location to add your comments and continue the conversation. We know we will not have time during the forum to discuss everything of interest. Please use this space to continue the conversation related to authoring and publishing.
+This page holds key participant bios and useful links related to the Q&A session on frequent misunderstandings around the real needs of deaf academics.
+
+We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation related to the needs of the deaf community in research.
 
 ## Bios
 
