@@ -14,7 +14,7 @@ Together, we can converge on practical next steps for our own organizations.
 | 1:05pm | **Keynote** | Jonathan Godfrey: Why is this topic so essential? | |
 | 1:15pm | **Presentations** | Avneesh Singh, Cynthia Bennett, Anne Logan, Stacy Scott, Lucas Nadolskis, Breanne Kisselstein, and Patrick Smyth. | [Detailed Schedule](presentations.md#presentation-details)<br><br>[Presentations Discussion Board](presentations.md#discussion) |
 | 2:20pm | **10 minute break** | | |
-| 2:30pm | **Panel Discussion** | Where in the pipeline do we need to change? Whose responsibility is it to make content accessible? A rich discussion with Neil Soiffer, Raja Kushalnagar, Julie R. Williamson, Frank Mittelbach, Sarah Kane, and facilitated by Bill Kasdorf. | [Panel Discussion Board](panel.md#discussion) |
+| 2:30pm | **Panel Discussion** | Where in the pipeline do we need to change? Whose responsibility is it to make content accessible? A rich discussion with Neil Soiffer, Raja Kushalnagar, Julie R. Williamson, Frank Mittelbach, Sarah Kane, Kevin-John Black, and facilitated by Bill Kasdorf. | [Panel Discussion Board](panel.md#discussion) |
 | 3:20pm | **10 minute break** | | |
 | 3:30pm | **Q&A Session 1**  |  Breakout room A: What can authors and publishers do right now? And what is coming in the next year? <br><br> Breakout room B: Mythbusting the needs of deaf academics when it comes to accessing research. | [Q&A Session 1A Discussion Board](breakout-authoring-and-publishing.md#discussion)<br><br>[Q&A Session 1B Discussion Board](breakout-mythbusting-deaf-needs.md#discussion) |
 | 4:00pm | **Switch** | A few minutes to switch breakout rooms for Q&A session 2 | |
