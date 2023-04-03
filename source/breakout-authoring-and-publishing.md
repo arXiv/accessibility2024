@@ -33,6 +33,7 @@ The following related resources have been shared by our participants and other s
 
 - Kaveh Bazargan moderates a session on [conquering the production of mathematical content](https://www.csescienceeditor.org/wp-content/uploads/2015/06/Apr-Jun-2015.pdf) for the  Council of Science Editors.
 - A post by Ross Munce on [allowing authors to submit good structured documents right from the start](https://blog.riojournal.com/2015/09/03/opening-up-the-early-stages-of-research-lse-blog-about-rio/)
+- Prepared by Sonja Edler and her colleagues from the [Network of Repository Managers](https://datamanagement.univie.ac.at/en/research-data-management/network-of-repository-managers-repmannet/) at the University of Vienna, these [guidelines on preparing accessible content](https://phaidra.univie.ac.at/detail/o:1594525) address content from images to video and more.
 
 ## Discussion
 Use this discussion board to continue conversations about what authors and publishers can do now and in the near future to advance accessibility, or to share your relevant projects.
