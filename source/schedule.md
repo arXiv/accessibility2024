@@ -1,5 +1,5 @@
 # Forum Schedule
-Please join us for the following sessions. All times are in Eastern Daylight Time. 
+Please join us for the following sessions. All times are in Eastern Daylight Time.
 
 | Time (EDT) | Session | Description | Links |
 | --- | --- | --- | --- |
@@ -12,7 +12,7 @@ Please join us for the following sessions. All times are in Eastern Daylight Tim
 | 3:30pm | **Topic A**  |  Digging deeper into image and graph descriptions for scientific content | [Topic A Discussion Board](alt-descriptions.md#discussion) |
 | 3:55pm | **Topic B**  |  Myth-busting the needs of deaf academics when it comes to accessing research | [Topic B Discussion Board](mythbusting-deaf-needs.md#discussion) |
 | 4:20pm | **Topic C**  |  What can authors and publishers do right now? And what is coming in the next year? | [Topic C Discussion Board](authoring-and-publishing.md#discussion) |
-| 4:55pm | **Closing Remarks** | Let's keep the conversations and support going. | [Next Steps Discussion Board](next-steps.md#discussion) |
+| 4:45pm | **Closing** | Let's keep the conversations and support going. | [Next Steps Discussion Board](next-steps.md#discussion) |
 
 > **Update:** In response to the high level of interest in this event, we have been able to expand our Zoom hosting capacity and re-open registration:
 >
