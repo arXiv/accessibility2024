@@ -1,8 +1,5 @@
 # Forum Schedule
-
-> **Update:** In response to the high level of interest in this event, we have been able to expand our Zoom hosting capacity and re-open registration:
->
-> [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_br1lFL94OVQB5nE){.button-reg target="_blank"}
+Please join us for the following sessions. All times are in Eastern Daylight Time. 
 
 | Time (EDT) | Session | Description | Links |
 | --- | --- | --- | --- |
@@ -16,6 +13,10 @@
 | 3:55pm | **Topic B**  |  Myth-busting the needs of deaf academics when it comes to accessing research | [Topic B Discussion Board](mythbusting-deaf-needs.md#discussion) |
 | 4:20pm | **Topic C**  |  What can authors and publishers do right now? And what is coming in the next year? | [Topic C Discussion Board](authoring-and-publishing.md#discussion) |
 | 4:55pm | **Closing Remarks** | Let's keep the conversations and support going. | [Next Steps Discussion Board](next-steps.md#discussion) |
+
+> **Update:** In response to the high level of interest in this event, we have been able to expand our Zoom hosting capacity and re-open registration:
+>
+> [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_br1lFL94OVQB5nE){.button-reg target="_blank"}
 
 ## Discussion
 Use this discussion board for comments or questions about the schedule, or suggestions for the next forum. More focused discussions can be found on topical pages in the sidebar navigation.
