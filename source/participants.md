@@ -4,6 +4,8 @@
 We are very pleased to be working with the following key participants to bring this forum to life:
 
 ## Presenters
+Our presenters will share their direct experience and insights as academics encountering barriers to accessing research  in their fields.
+
 ### Dr. Jonathan Godfrey
 Senior Lecturer in Statistics, School of Mathematical and Computational Sciences, Massey University.
 
@@ -45,6 +47,8 @@ Accessibility Office, Taylor & Francis; Chair, Accessibility Action Group of The
 In her work as a researcher and in publishing, Stacy is committed to breaking down barriers and improving the availability of accessible education. She seeks to promote and realize her ‘raison d’être’ – "a world that is born-accessible and truly inclusive for all." [Stacy's LinkedIn](https://www.linkedin.com/in/stacy-scott-b7552737/)
 
 ## Panelists
+We are looking forward to a rich discussion with this panel of experts from across the ecosystem of authoring and publishing:
+
 ### Bill Kasdorf
 Principal, Kasdorf & Associates; Founding partner, Publishing Technology Partners; W3C Global Publishing Evangelist, W3C Publishing Working Group member, EPUB 3 Community Group member.
 
@@ -81,7 +85,9 @@ Preprints Product Lead, Cold Spring Harbor Laboratory.
 
 Kevin-John brings his experience leading bioRxiv and medRxiv towards offering full-text HTML version of papers, and the broad implications of HTML on researchers and publishers. [Kevin-John's LinkedIn](https://www.linkedin.com/in/kevinjohnblack/)
 
-## Breakouts
+## Topical Sessions
+In addition to Dr. Cynthia Bennet, Anne Logan, Breanne Kisselstein, and Dr. Raja Kushalnagar who are listed in the sections above, we also welcome the following participants:
+
 ### Deyan Ginev
 Creator of ar5iv.org and LaTeXML developer; W3C Math Working Group member; PhD candidate in hiding (do not disturb).
 
@@ -91,11 +97,6 @@ Deyan's main focus is to enhance the representation of mathematical expressions 
 Director, River Valley Technologies
 
 Kaveh is a physicist, and one of the first to use TeX (1983). In 1988 he founded River Valley Technologies, with the aim of improving the publishing process. Kaveh has a special interest in the accessibility of STM content, and in particular of mathematics. He is a proponent of open standards, and in particular an advocate of XML as the "format of record". [Kaveh's LinkedIn](https://www.linkedin.com/in/bazargankaveh/)
-
-### Arwa Alnajashi
-Data Scientist, Saudi Aramco.
-
-Arwa is a legally blind data scientist and self described "data transformation enthusiast." She holds a Bachelor's degree in Computer Science from the University of York, where she was recognized with the Simon Poulding award for being the top graduating woman. Her personal experiences have motivated her to actively participate in research projects that aim to combine her academic knowledge with her lived experience to find innovative solutions that benefit everyone, with a special focus on improving the lives of disabled individuals. [Arwa’s LinkedIn](https://www.linkedin.com/in/arwa-alnajashi-84b1541a2/)
 
 ### Tony Malykh
 Software Developer, Facebook; NVDA community developer.
@@ -126,6 +127,10 @@ Overleaf is the world's leading LaTeX-based online authoring platform, used by r
 Principal Accessibility and Content Quality Architect, Benetech; member of the following W3C Working Groups: Publishing Working Group, MathML Refresh, ARIA, APA / Personalization Task Force, EPUB3 W3C Community Group, and co-chair of the Accessibility Metadata W3C Community Group.
 
 Charles has been a pioneer in accessible product development since 1993 and is the technical architect of the Global Certified Accessible initiative at Benetech. This certification identifies publisher content as conforming to the EPUB 1.0 Accessibility Specification, for which Charles was a co-editor. [Charles' LinkedIn](https://www.linkedin.com/in/charles-lapierre-8a16a13/)
+
+> **Update:** In response to the high level of interest in this event, we have been able to expand our Zoom hosting capacity and re-open registration:
+>
+> [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_br1lFL94OVQB5nE){.button-reg target="_blank"}
 
 ## Discussion
 Use this discussion area to say hi to the key participants. Find dedicated pages in the navigation sidebar to discuss the [presentations](presentations.md), [panel](panel.md), or individual Q&A sessions.

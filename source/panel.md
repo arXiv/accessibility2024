@@ -1,4 +1,5 @@
-#Panel Discussion
+# Panel Discussion
+## Where in the pipeline do we need to change? Whose responsibility is it to make content accessible?
 
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
 Find panelist bios below, along with related resources.
@@ -42,6 +43,10 @@ For Sarah, her career as a researcher is intertwined with her work as a disabili
 Preprints Product Lead, Cold Spring Harbor Laboratory.
 
 Kevin-John brings his experience leading bioRxiv and medRxiv towards offering full-text HTML version of papers, and the broad implications of HTML on researchers and publishers.
+
+> **Update:** In response to the high level of interest in this event, we have been able to expand our Zoom hosting capacity and re-open registration:
+>
+> [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_br1lFL94OVQB5nE){.button-reg target="_blank"}
 
 ## Discussion
 Use this discussion board to continue conversations that come up during the panel discussion, or to share your relevant projects.

@@ -1,5 +1,9 @@
 # Welcome to the arXiv Accessibility Forum 2023
 
+> **Update:** In response to the high level of interest in this event, we have been able to expand our Zoom hosting capacity and re-open registration:
+>
+> [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_br1lFL94OVQB5nE){.button-reg target="_blank"}
+
 ## How do we make accessible research papers a reality?
 
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
