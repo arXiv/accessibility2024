@@ -28,10 +28,15 @@ Co-founder, Signly.
 
 Signly provides synchronous, in-vision, sign language translations on any webpage, with the goal of improving equal access to digital information, advice and services. [Mark's Linkedin](https://www.linkedin.com/in/mark-applin-20b9384/)
 
+### Carrie Cullen
+Research Librarian for Physical Sciences, UC Irvine.
+
+Carrie serves as the liaison to the Departments of Physics & Astronomy, Mathematics, and Statistics, as well as the liaison to the Campuswide Honors Collegium and supports information literacy instruction. [Carrie's Linkedin](https://www.linkedin.com/in/carrie-cullen-67478a123/)
+
 ## Resources
 The following related resources have been shared by our participants and other scholars.
 
-[Creating accessible oral and poster presentations](https://www.ismpmi.org/Community/Interactions/Lists/Posts/Post.aspx?List=12f06e9b%2D9922%2D498e%2Da11b%2Da42e98ba0e81&ID=412&Web=ee471bbf%2Dac80%2D48f6%2D883d%2Da3981c7cc59b)
+- This useful guide has many tips for [creating accessible oral and poster presentations](https://www.ismpmi.org/Community/Interactions/Lists/Posts/Post.aspx?List=12f06e9b%2D9922%2D498e%2Da11b%2Da42e98ba0e81&ID=412&Web=ee471bbf%2Dac80%2D48f6%2D883d%2Da3981c7cc59b)
 
 ## Discussion
 Use this discussion board to continue conversations about the accessibility needs of deaf academics, or to share your relevant projects. Can't comment? See [instructions](getting-started.md) for logging in with github.

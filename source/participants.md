@@ -123,6 +123,11 @@ Principal Accessibility and Content Quality Architect, Benetech; member of the f
 
 Charles has been a pioneer in accessible product development since 1993 and is the technical architect of the Global Certified Accessible initiative at Benetech. This certification identifies publisher content as conforming to the EPUB 1.0 Accessibility Specification, for which Charles was a co-editor. [Charles' LinkedIn](https://www.linkedin.com/in/charles-lapierre-8a16a13/)
 
+### Carrie Cullen
+Research Librarian for Physical Sciences, UC Irvine.
+
+Carrie serves as the liaison to the Departments of Physics & Astronomy, Mathematics, and Statistics, as well as the liaison to the Campuswide Honors Collegium and supports information literacy instruction. [Carrie's Linkedin](https://www.linkedin.com/in/carrie-cullen-67478a123/)
+
 > **Update:** In response to the high level of interest in this event, we have been able to expand our Zoom hosting capacity and re-open registration:
 >
 > [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_br1lFL94OVQB5nE){.button-reg target="_blank"}
