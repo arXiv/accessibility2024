@@ -98,11 +98,6 @@ Director, River Valley Technologies
 
 Kaveh is a physicist, and one of the first to use TeX (1983). In 1988 he founded River Valley Technologies, with the aim of improving the publishing process. Kaveh has a special interest in the accessibility of STM content, and in particular of mathematics. He is a proponent of open standards, and in particular an advocate of XML as the "format of record". [Kaveh's LinkedIn](https://www.linkedin.com/in/bazargankaveh/)
 
-### Tony Malykh
-Software Developer, Facebook; NVDA community developer.
-
-Tony is a software developer in Machine Learning and an active contributor to improving screen reader technology. [Tony's LinkedIn](https://www.linkedin.com/in/tony-malykh-2971591/)
-
 ### Ulrike Fischer
 Member of the LaTeX project.
 
