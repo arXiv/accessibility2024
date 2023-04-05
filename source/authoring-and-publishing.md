@@ -36,4 +36,4 @@ The following related resources have been shared by our participants and other s
 - Prepared by Sonja Edler and her colleagues from the [Network of Repository Managers](https://datamanagement.univie.ac.at/en/research-data-management/network-of-repository-managers-repmannet/) at the University of Vienna, these [guidelines on preparing accessible content](https://phaidra.univie.ac.at/detail/o:1594525) address content from images to video and more.
 
 ## Discussion
-Use this discussion board to continue conversations about what authors and publishers can do now and in the near future to advance accessibility, or to share your relevant projects.
+Use this discussion board to continue conversations about what authors and publishers can do now and in the near future to advance accessibility, or to share your relevant projects. Can't comment? See [instructions](getting-started.md) for logging in with github.

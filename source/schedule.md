@@ -19,4 +19,4 @@ Please join us for the following sessions. All times are in Eastern Daylight Tim
 > [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_br1lFL94OVQB5nE){.button-reg target="_blank"}
 
 ## Discussion
-Use this discussion board for comments or questions about the schedule, or suggestions for the next forum. More focused discussions can be found on topical pages in the sidebar navigation.
+Use this discussion board for comments or questions about the schedule, or suggestions for the next forum. More focused discussions can be found on topical pages in the sidebar navigation. Can't comment? See [instructions](getting-started.md) for logging in with github.

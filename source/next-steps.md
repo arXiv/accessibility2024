@@ -7,4 +7,4 @@ This is a space to share what each participant sees as the most crucial next ste
 Notes from our participants sharing their next steps will be added here. Check back soon.
 
 ## Discussion
-The closing roundtable is focused on actionable next steps. Use this discussion board to continue the discussion and share your next steps, as well as more opportunities to get engaged.
+The closing roundtable is focused on actionable next steps. Use this discussion board to continue the discussion and share your next steps, as well as more opportunities to get engaged. Can't comment? See [instructions](getting-started.md) for logging in with github.

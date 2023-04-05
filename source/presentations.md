@@ -9,7 +9,7 @@ We know we will not have time during the forum to discuss everything of interest
 
 | Time (EDT) | Presenter | Description |
 | --- | --- | --- |
-| 1:05-1:15 | **Jonathan Godfrey** | Why this topic so essential |
+| 1:05-1:15 | **Jonathan Godfrey** | Why this topic is so essential |
 | 1:05-1:15 | **Avneesh Singh** | The role of standards in addressing the inaccessibility crisis of academic papers |
 | 1:25-1:35 | **Cynthia Bennett** | When Alt Text Stakes are Higher: What an Actually Blind Peer Reviewer Needs from Figure Descriptions |
 | 1:35-1:45 | **Lucas Nadolskis** | Working twice as hard for less information: the real impact of inaccessible content on the daily life of a researcher |
@@ -55,3 +55,4 @@ Postdoctoral Fellow in Humanities Entrepreneurship at the Publics Lab, and Chief
 Patrick is a blind hacker and programmer whose work focuses on citizen technology, critical infrastructure, accessibility, and technical pedagogy. [Patrick's homepage](https://smythp.com/index.html)
 
 ## Discussion
+Use this discussion panel to say hi and ask questions about the presentations. Can't comment? See [instructions](getting-started.md) for logging in with github.

@@ -5,7 +5,7 @@ Due to high interest in the forum, and our four-hour time constraint, we have se
 
 The forum discussion boards use [giscus](https://github.com/giscus/giscus). This open source discussion platform has many benefits, including transparency and being free.
 
-To take part in forum-related discussions you will need to be logged in to your github account. If you do not have one yet, follow the instructions below to create a free account for the first time.
+To take part in forum-related discussions you will just need to be logged in to your github account. If you do not have one yet, follow the instructions below to create a free account for the first time.
 
 ## Instructions for creating a github account for the first time
 1. Go to the [github signup page](https://github.com/signup)
@@ -23,4 +23,4 @@ The [arXiv code of conduct](https://info.arxiv.org/help/policies/code_of_conduct
 > "We expect members of the arXiv community to foster a safe environment for communication of diverse views. All communication between arXiv community members should be respectful."
 
 ## Discussion
-Use this discussion to ask questions about arXiv's code of conduct, or ask about the discussion boards themselves.
+Use this discussion to ask questions about arXiv's code of conduct, or ask about the discussion boards themselves. Can't comment? See instructions above for logging in with your github account.

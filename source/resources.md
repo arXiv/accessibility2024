@@ -6,4 +6,4 @@ Find additional resources from our presenters, panelists, and other key particip
 ## Resources
 
 ## Discussion
-Use this discussion board to comment and ask questions about the resources above, or to share your relevant research.
+Use this discussion board to comment and ask questions about the resources above, or to share your relevant research. Can't comment? See [instructions](getting-started.md) for logging in with github.

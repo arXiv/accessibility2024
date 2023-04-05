@@ -20,4 +20,4 @@ Tony is a software developer and active contributor to improving screen reader t
 ## Resources
 
 ## Discussion
-Use this discussion board as a place to continue conversations about how AI and crowd-sourcing can benefit accessibility goals for research papers, or to share your relevant projects.
+Use this discussion board as a place to continue conversations about how AI and crowd-sourcing can benefit accessibility goals for research papers, or to share your relevant projects. Can't comment? See [instructions](getting-started.md) for logging in with github.

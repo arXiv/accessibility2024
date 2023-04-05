@@ -133,4 +133,4 @@ Charles has been a pioneer in accessible product development since 1993 and is t
 > [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_br1lFL94OVQB5nE){.button-reg target="_blank"}
 
 ## Discussion
-Use this discussion area to say hi to the key participants. Find dedicated pages in the navigation sidebar to discuss the [presentations](presentations.md), [panel](panel.md), or individual Q&A sessions.
+Use this discussion area to say hi to the key participants. Find dedicated pages in the navigation sidebar to discuss the [presentations](presentations.md), [panel](panel.md), or individual Q&A sessions. Can't comment? See [instructions](getting-started.md) for logging in with github.

@@ -49,4 +49,4 @@ Kevin-John brings his experience leading bioRxiv and medRxiv towards offering fu
 > [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_br1lFL94OVQB5nE){.button-reg target="_blank"}
 
 ## Discussion
-Use this discussion board to continue conversations that come up during the panel discussion, or to share your relevant projects.
+Use this discussion board to continue conversations that come up during the panel discussion, or to share your relevant projects. Can't comment? See [instructions](getting-started.md) for logging in with github.

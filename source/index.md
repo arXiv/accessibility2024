@@ -28,4 +28,4 @@ Together, we can converge on practical next steps for our own organizations.
 - Continue the conversation and support with [next steps](next-steps.md).
 
 ## Discussion
-Welcome! Use this discussion board for general comments about the forum. More focused discussions can be found on other topical pages in the sidebar navigation.
+Welcome! Use this discussion board for general comments about the forum. More focused discussions can be found on other topical pages in the sidebar navigation. Can't comment? See [instructions](getting-started.md) for logging in with github.
