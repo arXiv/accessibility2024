@@ -126,7 +126,7 @@ Charles has been a pioneer in accessible product development since 1993 and is t
 ### Carrie Cullen
 Research Librarian for Physical Sciences, UC Irvine.
 
-Carrie serves as the liaison to the Departments of Physics & Astronomy, Mathematics, and Statistics, as well as the liaison to the Campuswide Honors Collegium and supports information literacy instruction. [Carrie's Linkedin](https://www.linkedin.com/in/carrie-cullen-67478a123/)
+Carrie serves as the liaison to the Departments of Physics & Astronomy, Mathematics, and Statistics, participates in the UCI Libraries' systematic review service, and supports information literacy instruction. [Carrie's Linkedin](https://www.linkedin.com/in/carrie-cullen-67478a123/)
 
 > **Update:** In response to the high level of interest in this event, we have been able to expand our Zoom hosting capacity and re-open registration:
 >
