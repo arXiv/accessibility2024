@@ -32,8 +32,6 @@ Kaveh is a physicist, and one of the first to use TeX (1983). In 1988 he founded
 The following resources related to authoring and publishing accessible content have been shared by our participants and other scholars.
 
 - This 2022 paper from Wanda Diaz-Merced and colleagues looks at the [Accessibility of Astronomy Journal Papers](https://drive.google.com/file/d/1kYjCzch1HZKIlD0vmLmI0voTvDa5zokG/view?usp=sharing). Wanda also shared this simple (but not easy) advice for all of us at the forum: "Take concrete actions with no fears."
-- Kaveh Bazargan moderates a session on [conquering the production of mathematical content](https://www.csescienceeditor.org/wp-content/uploads/2015/06/Apr-Jun-2015.pdf) for the  Council of Science Editors.
-- A post by Ross Munce on [allowing authors to submit good structured documents right from the start](https://blog.riojournal.com/2015/09/03/opening-up-the-early-stages-of-research-lse-blog-about-rio/).
 - Prepared by Sonja Edler and her colleagues from the [Network of Repository Managers](https://datamanagement.univie.ac.at/en/research-data-management/network-of-repository-managers-repmannet/) at the University of Vienna, these [guidelines on preparing accessible content](https://phaidra.univie.ac.at/detail/o:1594525) address content from images to video and more.
 
 ## Discussion
