@@ -25,7 +25,10 @@ Together, we can converge on practical next steps for our own organizations.
 - [Topic C](authoring-and-publishing.md): What can authors and publishers do right now? And what is coming in the the next year?
 
 ## More
-- Continue the conversation and support with [next steps](next-steps.md).
+- Continue the conversation and take [next steps](next-steps.md).
+- All participants must follow arXiv's [code of conduct](https://info.arxiv.org/help/policies/code_of_conduct.html#inclusiveness-and-respect).
+- Read arXiv's [report](
+https://info.arxiv.org/about/accessibility_research_report.html) on improving the accessibility of research that inspired this forum.
 
 ## Discussion
 Welcome! Use this discussion board for general comments about the forum. More focused discussions can be found on other topical pages in the sidebar navigation. Can't comment? See [instructions](getting-started.md) for logging in with github.

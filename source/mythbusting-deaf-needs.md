@@ -1,8 +1,8 @@
-#Forum Q&A session 1B
+#Forum Q&A Topic B
 ## Myth-busting the needs of deaf academics when it comes to accessing research.
 
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
-This session will help untangle some of the many misunderstanding in academia around the needs of deaf scientists, and offer and opportunity to have your questions answered. Read on for participant bios and useful links.
+This session will help untangle some of the many misunderstanding in academia around the needs of deaf scientists, and the opportunity to have your questions answered. Read on for participant bios and useful links.
 
 We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation related to the needs of the deaf community when it comes to making research fully accessible.
 

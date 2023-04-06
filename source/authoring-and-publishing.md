@@ -1,8 +1,8 @@
-#Forum Q&A session 1A
+#Forum Q&A Topic C
 ## What can authors and publishers do right now? And what is coming in the next year?
 
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
-This page holds key participant bios and useful links related to the Q&A session on authoring tools.
+This session will illuminate some new and recent strides forward for authoring and publishing accessible research. Read on for participant bios and useful links.
 
 We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation related to what authors and publishers can do right now and in the near future.
 
