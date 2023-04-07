@@ -3,7 +3,7 @@
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
 Due to high interest in the forum, and our four-hour time constraint, we have set up discussion boards for each forum topic so that the conversation can continue beyond each session.
 
-The forum discussion boards use [giscus](https://github.com/giscus/giscus). This open source discussion platform has many benefits, including transparency and being free.
+The forum discussion boards use Github Discussions and [giscus](https://github.com/giscus/giscus). This open source discussion platform has many benefits, including transparency and being free.
 
 To take part in forum-related discussions you will just need to be logged in to your github account. If you do not have one yet, follow the instructions below to create a free account for the first time.
 
