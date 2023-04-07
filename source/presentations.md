@@ -27,17 +27,17 @@ Jonathan's research is focused on the needs of the thousands of blind people aro
 ### Avneesh Singh
 Avneesh Singh, chair, accessibility task force - W3C EPUB 3 Working Group and Publishing Community Group.
 
-Avneesh aspires to make knowledge & information accessible to all, at affordable cost, using technical innovations and leveraged by inclusive strategies & global partnerships. [Avneesh's Linkedin](https://www.linkedin.com/in/avneesh-singh-01b32316/)
+Avneesh aspires to make knowledge and information accessible to all, at affordable cost, using technical innovations and leveraged by inclusive strategies & global partnerships. [Avneesh's LinkedIn](https://www.linkedin.com/in/avneesh-singh-01b32316/)
 
 ### Dr. Cynthia Bennett
 Senior Research Scientist, Responsible AI and Human Centered Technology, Google.
 
-Cynthia's research involves disabled people as the experts of their own lived experiences, and accessible futures for everyone. [Cynthia's Linkedin](https://www.linkedin.com/in/clb5590/)
+Cynthia's research involves disabled people as the experts of their own lived experiences, and accessible futures for everyone. [Cynthia's LinkedIn](https://www.linkedin.com/in/clb5590/)
 
 ### Anne Logan
 PhD Candidate, Vanden Heuvel Lab, School of Integrative Plant Science Horticulture Section, Cornell University.
 
-Anne has always been very passionate about fruit crop production and hopes to develop teaching videos on all things fruit crop and wine related in ASL, and one day to own a farm winery. [Anne's Linkedin](https://www.linkedin.com/in/anne-kearney-logan-9a75b989/)
+Anne has always been very passionate about fruit crop production and hopes to develop teaching videos on all things fruit crop and wine related in ASL, and one day to own a farm winery. [Anne's LinkedIn](https://www.linkedin.com/in/anne-kearney-logan-9a75b989/)
 
 ### Lucas Nadolskis
 2023 Masters in Biomedical Engineering from Carnegie Mellon University; Incoming Neurosciences PhD Candidate, University of California Santa Barbara.
@@ -47,12 +47,18 @@ Lucas is passionate about what it will take to address inaccessible research pub
 ### Breanne Kisselstein
 PhD Candidate, School of Integrative Plant Science, Plant Pathology and Plant-Microbe Biology Section, Cornell University.
 
-Breanne is passionate about the power of community for underrepresented students, and the need for better support systems for blind and deaf researchers. [Breanne's Linkedin](https://www.linkedin.com/in/breannekisselstein/)
+Breanne is passionate about the power of community for underrepresented students, and the need for better support systems for blind and deaf researchers. [Breanne's LinkedIn](https://www.linkedin.com/in/breannekisselstein/)
 
 ### Dr. Patrick Smyth
 Postdoctoral Fellow in Humanities Entrepreneurship at the Publics Lab, and Chief Learner at Iota School.
 
-Patrick is a blind hacker and programmer whose work focuses on citizen technology, critical infrastructure, accessibility, and technical pedagogy. [Patrick's homepage](https://smythp.com/index.html)
+Patrick is a blind hacker and programmer whose work focuses on citizen technology, critical infrastructure, accessibility, and technical pedagogy. [Patrick's Homepage](https://smythp.com/index.html)
+
+### Stacy Scott
+Accessibility Office, Taylor & Francis; Chair, Accessibility Action Group of The Publishers Association; Member, Learned Publishing board for the Association of Learned, Professional and Society Publishers (ALPSP).
+
+In her work as a researcher and in publishing, Stacy is committed to breaking down barriers and improving the availability of accessible education. She seeks to promote and realize her ‘raison d’être’ – "a world that is born-accessible and truly inclusive for all." [Stacy's LinkedIn](https://www.linkedin.com/in/stacy-scott-b7552737/)
+
 
 ## Discussion
 Use this discussion panel to say hi and ask questions about the presentations. Can't comment? See [instructions](getting-started.md) for logging in with github.
