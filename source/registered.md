@@ -1,4 +1,4 @@
-# You are registered for the arXiv Accessibility Forum 2023
+# You are registered for the arXiv Accessibility Forum
 
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
 
