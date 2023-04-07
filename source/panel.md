@@ -44,6 +44,12 @@ Preprints Product Lead, Cold Spring Harbor Laboratory.
 
 Kevin-John brings his experience leading bioRxiv and medRxiv towards offering full-text HTML version of papers, and the broad implications of HTML on researchers and publishers.
 
+## Resources
+The following related resources have been shared by our panelists and other scholars.
+
+- Bill Kasdorf recommends this article from the Scholarly Kitchen, “[Advancing Accessibility in Scholarly Publishing: Recommendations for Digital Accessibility Best Practices](https://scholarlykitchen.sspnet.org/2023/03/03/guest-post-advancing-accessibility-in-scholarly-publishing-recommendations-for-digital-accessibility-best-practices/),” which provides a wealth of information and links to useful resources.
+
+
 > **Update:** In response to the high level of interest in this event, we have been able to expand our Zoom hosting capacity and re-open registration:
 >
 > [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_br1lFL94OVQB5nE){.button-reg target="_blank"}
