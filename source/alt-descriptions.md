@@ -1,8 +1,8 @@
 #Forum Q&A Topic A
-## Digging deeper into image descriptions for scientific papers.
+## Digging deeper into image descriptions for scientific content.
 
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
-This session will dig into the critical importance of alt text and descriptions for complex scientific images. We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation related to descriptions of visualizations in research.
+This session will dig into the critical importance of alt text and descriptions for complex images in scientific papers. We know we will not have time during the forum to discuss everything of interest, please use the [discussion](#discussion) at the bottom of the page to continue the conversation.
 
 ## Session Materials
 - [Live note-taking document](https://docs.google.com/document/d/1CqU1TlVG1AG8jwocjjwG3VD8zu-AsWHRFwa7Wk7smGI/edit?usp=sharing)
