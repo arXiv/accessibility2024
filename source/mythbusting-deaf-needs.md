@@ -11,7 +11,7 @@ We know we will not have time during the forum to discuss everything of interest
 ### Breanne Kisselstein
 PhD Candidate, School of Integrative Plant Science, Plant Pathology and Plant-Microbe Biology Section, Cornell University.
 
-Breanne is passionate about the power of community for underrepresented students, and the need for better support systems for blind and deaf researchers. [Breanne's Linkedin](https://www.linkedin.com/in/breannekisselstein/)
+Breanne is passionate about the power of community for underrepresented students, and the need for better support systems for blind and deaf researchers. [Breanne's Homepage](https://www.breannekisselstein.com/)
 
 ### Dr. Raja Kushalnagar
 Director of the Information Technology program in the Department of Science, Technology and Mathematics at Gallaudet University.
