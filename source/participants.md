@@ -71,7 +71,7 @@ Julie's research focuses on interaction in immersive environments and she is an 
 [Julie's LinkedIn](https://www.linkedin.com/in/julierico/)
 
 ### Frank Mittelbach
-Technical Lead of the LaTeX Project.
+Technical lead of the LaTeX Project Team.
 
 Frank is focused on the future development of the LaTeX typesetting system. A critical authoring tool in the fields of Math, Physics, Computer Science and more, LaTeX's five year plan will have profound accessibility impacts. [Details on Frank's work](https://www.latex-project.org/publications/indexbytopic/pdf/)
 
