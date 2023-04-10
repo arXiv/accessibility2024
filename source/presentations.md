@@ -22,7 +22,7 @@ We know we will not have time during the forum to discuss everything of interest
 ### Dr. Jonathan Godfrey
 Senior Lecturer in Statistics, School of Mathematical and Computational Sciences, Massey University.
 
-Jonathan's research is focused on the needs of the thousands of blind people around the world who need additional tools to make the visual elements of statistical thinking and practice less of a barrier. [Jonathan's Faculty Profile](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=416430). [Jonathan's Overview](/materials/presentation-jg.html)
+Jonathan's research is focused on the needs of the thousands of blind people around the world who need additional tools to make the visual elements of statistical thinking and practice less of a barrier. [Jonathan's Faculty Profile](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=416430). [Jonathan's Presentation Overview](/materials/presentation-jg.html)
 
 ### Avneesh Singh
 Avneesh Singh, chair, accessibility task force - W3C EPUB 3 Working Group and Publishing Community Group.

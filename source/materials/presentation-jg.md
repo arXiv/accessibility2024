@@ -4,7 +4,7 @@
 ## Topics covered
 - Who I am
 - Completed my PhD using LaTeX, because I couldn’t write an equation otherwise. Needed 10 hours of support per week to read print and to verify my own created print was correct.
-- My gold standard for accessibility (see [below](#my-gold-standard)).
+- My gold standard for accessibility (longer description [below](#my-gold-standard)).
 - I use HTML for everything today, because it is the same for me as it is for my audience. It puts me  on par with the sighted world, well almost.
 - 2022 was the first year I did not need to have weekly human support. I did my own writing, proof-reading, and all of my marking.
 - I am more functional and  more employable today than I was when I got my first full time job 20 years ago, all because I have improved access to journal articles, books, and other works  .
