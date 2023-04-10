@@ -2,14 +2,12 @@
 ## Digging deeper into image descriptions for scientific papers.
 
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
-This session will help clarify the importance of alt text and descriptions of different types of visual content in research.  There will also be an opportunity to have your questions answered. Read on for participant bios and useful links.
-
-We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation related to descriptions of visualizations in research.
+This session will dig into the critical importance of alt text and descriptions for complex scientific images. We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation related to descriptions of visualizations in research.
 
 ## Session Materials
-- [Live notetaking document](https://docs.google.com/document/d/1CqU1TlVG1AG8jwocjjwG3VD8zu-AsWHRFwa7Wk7smGI/edit?usp=sharing)
+- [Live note-taking document](https://docs.google.com/document/d/1CqU1TlVG1AG8jwocjjwG3VD8zu-AsWHRFwa7Wk7smGI/edit?usp=sharing)
 - [HTML demo of extended description under image](/materials/Extended_Description_Examples/ExtendedDetailsUnderImage.html)
-- [HTML demo of extended description on seperate page](/materials/Extended_Description_Examples/LinkToExtendedDetails.html)
+- [HTML demo of extended description on separate page](/materials/Extended_Description_Examples/LinkToExtendedDetails.html)
 
 ## Bios
 ### Dr. Cynthia Bennett
