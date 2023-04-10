@@ -1,5 +1,5 @@
 #Forum Q&A Topic A
-## Digging deeper into image and graph descriptions for scientific papers.
+## Digging deeper into image descriptions for scientific papers.
 
 ![Logo for the arXiv forum](../../assets/arxiv-lockup-forum-bgcolor.png){.mkd-img-right .mkd-border alt='logo for the arXiv forum' role="presentation"}
 This session will help clarify the importance of alt text and descriptions of different types of visual content in research.  There will also be an opportunity to have your questions answered. Read on for participant bios and useful links.

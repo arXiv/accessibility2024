@@ -3,7 +3,7 @@
 * [Participant Bios](participants.md)
 * [Presentations](presentations.md)
 * [Panel Discussion](panel.md)
-* [Topic: Image descriptions for scientific content](alt-descriptions.md)
+* [Topic: Digging deeper into image descriptions for scientific content](alt-descriptions.md)
 * [Topic: Mythbusting the needs of deaf academics](mythbusting-deaf-needs.md)
 * [Topic: What can authors and publishers do now](authoring-and-publishing.md)
 * [Next Steps](next-steps.md)
