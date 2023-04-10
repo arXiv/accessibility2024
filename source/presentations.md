@@ -9,7 +9,7 @@ We know we will not have time during the forum to discuss everything of interest
 
 | Time (EDT) | Presenter | Description |
 | --- | --- | --- |
-| 1:05-1:15 | **Jonathan Godfrey** | Why this topic is so essential |
+| 1:05-1:15 | **Jonathan Godfrey** | Why this topic is so essential. [Jonathan's Overview](/materials/presentation-jg.html) |
 | 1:05-1:15 | **Avneesh Singh** | The role of standards in addressing the inaccessibility crisis of academic papers |
 | 1:25-1:35 | **Cynthia Bennett** | When Alt Text Stakes are Higher: What an Actually Blind Peer Reviewer Needs from Figure Descriptions |
 | 1:35-1:45 | **Lucas Nadolskis** | Working twice as hard for less information: the real impact of inaccessible content on the daily life of a researcher |
@@ -22,7 +22,7 @@ We know we will not have time during the forum to discuss everything of interest
 ### Dr. Jonathan Godfrey
 Senior Lecturer in Statistics, School of Mathematical and Computational Sciences, Massey University.
 
-Jonathan's research is focused on the needs of the thousands of blind people around the world who need additional tools to make the visual elements of statistical thinking and practice less of a barrier. [Jonathan's Faculty Profile](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=416430)
+Jonathan's research is focused on the needs of the thousands of blind people around the world who need additional tools to make the visual elements of statistical thinking and practice less of a barrier. [Jonathan's Faculty Profile](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=416430). [Jonathan's Overview](/materials/presentation-jg.html)
 
 ### Avneesh Singh
 Avneesh Singh, chair, accessibility task force - W3C EPUB 3 Working Group and Publishing Community Group.
