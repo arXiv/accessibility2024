@@ -6,6 +6,11 @@ This session will help clarify the importance of alt text and descriptions of di
 
 We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation related to descriptions of visualizations in research.
 
+## Session Materials
+- [Live notetaking document](https://docs.google.com/document/d/1CqU1TlVG1AG8jwocjjwG3VD8zu-AsWHRFwa7Wk7smGI/edit?usp=sharing)
+- [HTML demo of extended description under image](/materials/Extended_Description_Examples/ExtendedDetailsUnderImage.html)
+- [HTML demo of extended description on seperate page](/materials/Extended_Description_Examples/LinkToExtendedDetails.html)
+
 ## Bios
 ### Dr. Cynthia Bennett
 Senior Research Scientist, Responsible AI and Human Centered Technology, Google.

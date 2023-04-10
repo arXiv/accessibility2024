@@ -6,6 +6,9 @@ This session will help untangle some of the many misunderstanding in academia ar
 
 We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation related to the needs of the deaf community when it comes to making research fully accessible.
 
+## Session Materials
+- [Live notetaking document](https://docs.google.com/document/d/16EX9sNF31ljv9hiQVxRNUVMGuME7Tw7hGwT67-l3qhw/edit?usp=share_link)
+
 ## Bios
 
 ### Breanne Kisselstein

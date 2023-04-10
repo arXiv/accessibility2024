@@ -6,6 +6,9 @@ This session will illuminate some new and recent strides forward for authoring a
 
 We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation related to what authors and publishers can do right now and in the near future.
 
+## Session Materials
+- [Live notetaking document](https://docs.google.com/document/d/1CqU1TlVG1AG8jwocjjwG3VD8zu-AsWHRFwa7Wk7smGI/edit?usp=share_link)
+
 ## Bios
 
 ### Deyan Ginev

@@ -6,6 +6,9 @@ Find panelist bios below, along with related resources.
 
 We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation on topics that come up in the panel discussion.
 
+## Session Materials
+- [Live notetaking document](https://docs.google.com/document/d/1FVGuqZCneXYAvg1jGuuXelz01wXov7TaavR-KmnFzZ4/edit?usp=sharing)
+
 ## Panelist Bios
 
 ### Bill Kasdorf
