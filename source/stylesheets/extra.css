@@ -608,3 +608,8 @@ ul.brand-colors li .text {
     margin: .35em 10px 0 0 !important;
   }
 }
+
+#no-giscus {
+  visibility: hidden;
+  display: none;
+}

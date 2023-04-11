@@ -22,4 +22,4 @@ The [arXiv code of conduct](https://info.arxiv.org/help/policies/code_of_conduct
 
 > "We expect members of the arXiv community to foster a safe environment for communication of diverse views. All communication between arXiv community members should be respectful."
 
-<div id="no-giscus"></div>
+# No Giscus {:.no-giscus}

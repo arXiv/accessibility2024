@@ -17,8 +17,10 @@ document.addEventListener('DOMContentLoaded', function () {
       "async": "",
   };
 
+  console.log("Running load-giscus");
+  console.log(document.getElementById('no-giscus'));
   // Dynamically create script tag
-  if (document.getElementById('no-giscus') != null) {
+  if (document.getElementById('no-giscus') == null) {
     const giscusScript = document.createElement("script");
     Object.entries(giscusAttributes).forEach(([key, value]) => giscusScript.setAttribute(key, value));
     document.getElementsByTagName("article")[0].appendChild(giscusScript);
