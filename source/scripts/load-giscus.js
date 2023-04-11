@@ -1,3 +1,5 @@
+
+
 document.addEventListener('DOMContentLoaded', function () {
     const giscusAttributes = {
       "src": "https://giscus.app/client.js",
@@ -16,7 +18,9 @@ document.addEventListener('DOMContentLoaded', function () {
   };
 
   // Dynamically create script tag
-  const giscusScript = document.createElement("script");
-  Object.entries(giscusAttributes).forEach(([key, value]) => giscusScript.setAttribute(key, value));
-  document.getElementsByTagName("article")[0].appendChild(giscusScript);
+  if (document.getElementById('no-giscus') != null) {
+    const giscusScript = document.createElement("script");
+    Object.entries(giscusAttributes).forEach(([key, value]) => giscusScript.setAttribute(key, value));
+    document.getElementsByTagName("article")[0].appendChild(giscusScript);
+  }
 })

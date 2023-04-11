@@ -32,3 +32,5 @@ https://info.arxiv.org/about/accessibility_research_report.html) on improving th
 
 ## Discussion
 Welcome! Use this discussion board for general comments about the forum. More focused discussions can be found on other topical pages in the sidebar navigation. Can't comment? See [instructions](getting-started.md) for logging in with github.
+
+<div id="no-giscus"></div>

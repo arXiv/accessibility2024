@@ -22,5 +22,4 @@ The [arXiv code of conduct](https://info.arxiv.org/help/policies/code_of_conduct
 
 > "We expect members of the arXiv community to foster a safe environment for communication of diverse views. All communication between arXiv community members should be respectful."
 
-## Discussion
-Use this discussion to ask questions about arXiv's code of conduct, or ask about the discussion boards themselves. Can't comment? See instructions above for logging in with your github account.
+<div id="no-giscus"></div>
