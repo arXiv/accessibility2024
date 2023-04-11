@@ -8,7 +8,7 @@ We know we will not have time during the forum to discuss everything of interest
 ## Presentation Materials
 - [Live notetaking document](https://docs.google.com/document/d/1J77XDkdzgNTFi3SP7IyGCRTunLHoFontgqaUsRGeMo4/edit?usp=sharing)
 
-## Presentation Details
+## Presentation Schedule
 
 | Time (EDT) | Presenter | Description |
 | --- | --- | --- |
