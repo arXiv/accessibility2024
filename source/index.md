@@ -30,4 +30,4 @@ Together, we can converge on practical next steps for our own organizations.
 - Read arXiv's [report](
 https://info.arxiv.org/about/accessibility_research_report.html) on improving the accessibility of research that inspired this forum.
 
-# No Giscus {:.no-giscus}
+![No Giscus](){#no-giscus}

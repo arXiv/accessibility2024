@@ -132,4 +132,4 @@ Carrie serves as the liaison to the Departments of Physics & Astronomy, Mathemat
 >
 > [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_br1lFL94OVQB5nE){.button-reg target="_blank"}
 
-# No Giscus {:.no-giscus}
+![No Giscus](){#no-giscus}

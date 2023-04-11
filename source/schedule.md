@@ -18,4 +18,4 @@ Please join us for the following sessions. All times are in Eastern Daylight Tim
 >
 > [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_br1lFL94OVQB5nE){.button-reg target="_blank"}
 
-# No Giscus {:.no-giscus}
+![No Giscus](){#no-giscus}
