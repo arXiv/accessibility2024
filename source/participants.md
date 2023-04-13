@@ -128,8 +128,15 @@ Research Librarian for Physical Sciences, UC Irvine.
 
 Carrie serves as the liaison to the Departments of Physics & Astronomy, Mathematics, and Statistics, participates in the UCI Libraries' systematic review service, and supports information literacy instruction. [Carrie's Linkedin](https://www.linkedin.com/in/carrie-cullen-67478a123/)
 
-> **Update:** In response to the high level of interest in this event, we have been able to expand our Zoom hosting capacity and re-open registration:
->
-> [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_br1lFL94OVQB5nE){.button-reg target="_blank"}
+##arXiv Presenting Staff
+### Charles Frankston
+arXiv Technical Director
+
+Charles is focused on helping ready arXiv for it's next 30 years of stable support of open science. He is shepherding arXiv's implementation of HTML conversions of papers and the move to the cloud, among other critical efforts. [Charles' LinkedIn](https://www.linkedin.com/in/cfrankston/)
+
+### Shamsi Brinn
+arXiv UX Manager
+
+To advance accessibility at arXiv, Shamsi brings the experiences of researchers with disabilities to the forefront of organizational planning, and championed the research, analysis, and production of arXiv's [2022 report on accessibility](https://info.arxiv.org/about/accessibility_research_report.html). She has also had the pleasure of organizing this forum and working with each of the wonderful participants above to bring it to life. Thank you for joining us! [Shamsi's LinkedIn](https://www.linkedin.com/in/shamsi-brinn/)
 
 ![No Giscus](){#no-giscus}

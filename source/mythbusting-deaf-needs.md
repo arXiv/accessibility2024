@@ -40,6 +40,7 @@ Carrie serves as the liaison to the Departments of Physics & Astronomy, Mathemat
 The following related resources have been shared by our participants and other scholars.
 
 - This useful guide has many tips for [creating accessible oral and poster presentations](https://www.ismpmi.org/Community/Interactions/Lists/Posts/Post.aspx?List=12f06e9b%2D9922%2D498e%2Da11b%2Da42e98ba0e81&ID=412&Web=ee471bbf%2Dac80%2D48f6%2D883d%2Da3981c7cc59b)
+- Breanne Kisselstein and Anne Logan share their experiences in this article on [surviving as a deaf graduate student](https://themindhears.org/2021/09/29/why-mutual-support-matters-surviving-as-deaf-hoh-graduate-students-at-a-predominantly-hearing-institution/)
 
 ## Discussion
 Use this discussion board to continue conversations about the accessibility needs of deaf academics, or to share your relevant projects. Can't comment? See [instructions](getting-started.md) for logging in with github.

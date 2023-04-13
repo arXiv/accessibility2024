@@ -7,27 +7,25 @@
 
 ## How do we make accessible research papers a reality?
 
-Join arXiv on April 17th, from 1:00pm - 5:00pm Eastern to delve into how we can make accessible research papers a reality.
-
-Together, we can converge on practical next steps for our own organizations.
+Join arXiv on April 17th, from 1:00pm - 5:00pm Eastern to delve into how we can make accessible research papers a reality. Together, we can improve our understanding and converge on practical next steps for our own organizations.
 <div style="clear:both;"></div>
 
 ## Explore
-- [View full schedule](schedule.md).
-- [Meet the participants](participants.md).
-- Get started with [discussion boards](getting-started.md).
+- [View full schedule](schedule.md)
+- [Meet the participants](participants.md)
+- Get started with [discussion boards](getting-started.md)
 
 ## Forum Sessions
-- [Presentations](presentations.md).
-- [Panel Discussion](panel.md).
+- [Presentations](presentations.md)
+- [Panel Discussion](panel.md)
 - [Topic A](alt-descriptions.md): Image descriptions for scientific content.
 - [Topic B](mythbusting-deaf-needs.md): Myth-busting the needs of deaf academics when it comes to accessing research.
 - [Topic C](authoring-and-publishing.md): What can authors and publishers do right now? And what is coming in the the next year?
+- [Closing Remarks](next-steps.md)
 
 ## More
-- Continue the conversation and take [next steps](next-steps.md).
 - All participants must follow arXiv's [code of conduct](https://info.arxiv.org/help/policies/code_of_conduct.html#inclusiveness-and-respect).
-- Read arXiv's [report](
-https://info.arxiv.org/about/accessibility_research_report.html) on improving the accessibility of research that inspired this forum.
+- Read arXiv's [accessibility research report](
+https://info.arxiv.org/about/accessibility_research_report.html) that inspired this forum.
 
 ![No Giscus](){#no-giscus}

@@ -7,13 +7,15 @@ We know we will not have time during the forum to discuss everything of interest
 
 ## Presentation Materials
 - [Live notetaking document](https://docs.google.com/document/d/1J77XDkdzgNTFi3SP7IyGCRTunLHoFontgqaUsRGeMo4/edit?usp=sharing)
+- [Jonathan Godfrey overview (html)](/materials/presentation-jg.html)
+- [Avneesh Singh slides (powerpoint)](/materials/Avneesh Singh-DAISY Consortium_2.pptx)
 
 ## Presentation Schedule
 
 | Time (EDT) | Presenter | Description |
 | --- | --- | --- |
 | 1:05-1:15 | **Jonathan Godfrey** | Why this topic is so essential. [Jonathan's Overview](/materials/presentation-jg.html) |
-| 1:05-1:15 | **Avneesh Singh** | The role of standards in addressing the inaccessibility crisis of academic papers |
+| 1:05-1:15 | **Avneesh Singh** | The role of standards in addressing the inaccessibility crisis of academic papers [Avneesh's slides (powerpoint)](/materials/Avneesh Singh-DAISY Consortium_2.pptx) |
 | 1:25-1:35 | **Cynthia Bennett** | When Alt Text Stakes are Higher: A Blind Peer Reviewer’s Experiences |
 | 1:35-1:45 | **Lucas Nadolskis** | Working twice as hard for less information: the real impact of inaccessible content on the daily life of a researcher |
 | 1:45-1:55 | **Stacey Scott** | Has academic publishing reached an inflection point for accessibility? |
@@ -61,7 +63,6 @@ Patrick is a blind hacker and programmer whose work focuses on citizen technolog
 Accessibility Office, Taylor & Francis; Chair, Accessibility Action Group of The Publishers Association; Member, Learned Publishing board for the Association of Learned, Professional and Society Publishers (ALPSP).
 
 In her work as a researcher and in publishing, Stacy is committed to breaking down barriers and improving the availability of accessible education. She seeks to promote and realize her ‘raison d’être’ – "a world that is born-accessible and truly inclusive for all." [Stacy's LinkedIn](https://www.linkedin.com/in/stacy-scott-b7552737/)
-
 
 ## Discussion
 Use this discussion panel to say hi and ask questions about the presentations. Can't comment? See [instructions](getting-started.md) for logging in with github.
