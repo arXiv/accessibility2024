@@ -5,7 +5,7 @@ Find a detailed presentation schedule below, along with presenter bios and relat
 
 We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation related to the presentations.
 
-## Presentation Materials
+## Session Materials
 - [Live notetaking document](https://docs.google.com/document/d/1J77XDkdzgNTFi3SP7IyGCRTunLHoFontgqaUsRGeMo4/edit?usp=sharing)
 - [Jonathan Godfrey overview (html)](/materials/presentation-jg.html)
 - [Avneesh Singh slides (powerpoint)](/materials/Avneesh Singh-DAISY Consortium_2.pptx)
