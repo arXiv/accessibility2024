@@ -51,6 +51,7 @@ Kevin-John brings his experience leading bioRxiv and medRxiv towards offering fu
 The following related resources have been shared by our panelists and other scholars.
 
 - Bill Kasdorf recommends this article from the Scholarly Kitchen, “[Advancing Accessibility in Scholarly Publishing: Recommendations for Digital Accessibility Best Practices](https://scholarlykitchen.sspnet.org/2023/03/03/guest-post-advancing-accessibility-in-scholarly-publishing-recommendations-for-digital-accessibility-best-practices/),” which provides a wealth of information and links to useful resources.
+- This research paper from Jason J.G. White, "[Making Scientific and Technical Materials Pervasively Accessible](https://scholarworks.rit.edu/jsesd/vol24/iss1/9/)" explores the question of what policies, standards and practices are needed to ensure accessibility. 
 
 
 > **Update:** In response to the high level of interest in this event, we have been able to expand our Zoom hosting capacity and re-open registration:
