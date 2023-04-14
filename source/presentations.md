@@ -9,18 +9,19 @@ We know we will not have time during the forum to discuss everything of interest
 - [Live notetaking document](https://docs.google.com/document/d/1J77XDkdzgNTFi3SP7IyGCRTunLHoFontgqaUsRGeMo4/edit?usp=sharing)
 - [Jonathan Godfrey overview (html)](/materials/presentation-jg.html)
 - [Avneesh Singh slides (powerpoint)](/materials/Avneesh Singh-DAISY Consortium_2.pptx)
+- [Breanne and Anne's slides (google slides)](https://docs.google.com/presentation/d/1EYtl6o2SXmDumM1ecnVaC8umPr8Vc6l_xs2R7qjhgrk/edit?usp=sharing)
 
 ## Presentation Schedule
 
 | Time (EDT) | Presenter | Description |
 | --- | --- | --- |
-| 1:05-1:15 | **Jonathan Godfrey** | Why this topic is so essential. [Jonathan's Overview](/materials/presentation-jg.html) |
-| 1:05-1:15 | **Avneesh Singh** | The role of standards in addressing the inaccessibility crisis of academic papers [Avneesh's slides (powerpoint)](/materials/Avneesh Singh-DAISY Consortium_2.pptx) |
+| 1:05-1:15 | **Jonathan Godfrey** | Why this topic is so essential. [Overview](/materials/presentation-jg.html) |
+| 1:05-1:15 | **Avneesh Singh** | The role of standards in addressing the inaccessibility crisis of academic papers [Powerpoint slides](/materials/Avneesh Singh-DAISY Consortium_2.pptx) |
 | 1:25-1:35 | **Cynthia Bennett** | When Alt Text Stakes are Higher: A Blind Peer Reviewer’s Experiences |
 | 1:35-1:45 | **Lucas Nadolskis** | Working twice as hard for less information: the real impact of inaccessible content on the daily life of a researcher |
 | 1:45-1:55 | **Stacey Scott** | Has academic publishing reached an inflection point for accessibility? |
 | 1:55-2:05 | **Patrick Smyth** | Notebooks for All: lessons learned about making data more accessible |
-| 2:05-2:15 | **Anne Logan and Breanne Kisselstein** | The essential role of support networks in navigating an inaccessible ecosystem. |
+| 2:05-2:15 | **Anne Logan and Breanne Kisselstein** | The essential role of support networks in navigating an inaccessible ecosystem. [Google slides)](https://docs.google.com/presentation/d/1EYtl6o2SXmDumM1ecnVaC8umPr8Vc6l_xs2R7qjhgrk/edit?usp=sharing)|
 
 ## Presenter Bios
 
