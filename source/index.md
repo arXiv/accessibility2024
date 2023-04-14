@@ -7,7 +7,7 @@
 
 ## How do we make accessible research papers a reality?
 
-Join arXiv on April 17th, from 1:00pm - 5:00pm Eastern to delve into how we can make accessible research papers a reality. Together, we can improve our understanding and converge on practical next steps for our own organizations.
+Join arXiv on April 17th, from 1:00pm - 5:00pm Eastern to delve into how we can make accessible research papers a reality. Accessibility ensures access regardless of disability. Together, we can improve our understanding and converge on practical next steps for our own organizations. If it's not accessible, can we really call it "open" science? 
 <div style="clear:both;"></div>
 
 ## Explore
