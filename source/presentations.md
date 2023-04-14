@@ -6,13 +6,13 @@ Find a detailed presentation schedule below, along with presenter bios and relat
 We know we will not have time during the forum to discuss everything of interest. Please use the [discussion](#discussion) at the bottom of the page to continue the conversation related to the presentations.
 
 ## Session Materials
-- [Live notetaking document](https://docs.google.com/document/d/1J77XDkdzgNTFi3SP7IyGCRTunLHoFontgqaUsRGeMo4/edit?usp=sharing)
-- [Jonathan Godfrey overview (html)](/materials/presentation-jg.html)
-- [Avneesh Singh slides (powerpoint)](/materials/Avneesh Singh-DAISY Consortium_2.pptx)
-- [Breanne and Anne's slides (google slides)](https://docs.google.com/presentation/d/1EYtl6o2SXmDumM1ecnVaC8umPr8Vc6l_xs2R7qjhgrk/edit?usp=sharing)
+- [Live notetaking document](https://docs.google.com/document/d/1J77XDkdzgNTFi3SP7IyGCRTunLHoFontgqaUsRGeMo4/edit?usp=sharing){target="_blank"}
+- [Jonathan Godfrey overview (HTML)](/materials/presentation-jg.html){target="_blank"}
+- [Avneesh Singh slides (Powerpoint)](/materials/Avneesh Singh-DAISY Consortium_2.pptx){target="_blank"}
+- [Cynthia Bennett narrative (Google doc)](https://docs.google.com/document/d/1tnoSaJXXXgMWCNWuXJwtMohCnTzknImiJ2jT05CtEPE/edit?usp=sharing){target="_blank"}
+- [Breanne Kisselstein and Anne Logan slides (Google slides)](https://docs.google.com/presentation/d/1EYtl6o2SXmDumM1ecnVaC8umPr8Vc6l_xs2R7qjhgrk/edit?usp=sharing){target="_blank"}
 
 ## Presentation Schedule
-
 | Time (EDT) | Presenter | Description |
 | --- | --- | --- |
 | 1:05-1:15 | **Jonathan Godfrey** | Why this topic is so essential. [Overview](/materials/presentation-jg.html) |
@@ -24,7 +24,6 @@ We know we will not have time during the forum to discuss everything of interest
 | 2:05-2:15 | **Anne Logan and Breanne Kisselstein** | The essential role of support networks in navigating an inaccessible ecosystem. [Google slides)](https://docs.google.com/presentation/d/1EYtl6o2SXmDumM1ecnVaC8umPr8Vc6l_xs2R7qjhgrk/edit?usp=sharing)|
 
 ## Presenter Bios
-
 ### Dr. Jonathan Godfrey
 Senior Lecturer in Statistics, School of Mathematical and Computational Sciences, Massey University.
 
