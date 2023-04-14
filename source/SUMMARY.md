@@ -8,4 +8,4 @@
 * [Topic: What can authors and publishers do now](authoring-and-publishing.md)
 * [Next Steps](next-steps.md)
 * [How To: Discussion Boards](getting-started.md)
-* [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_br1lFL94OVQB5nE)
+* [Register](https://cornell.zoom.us/webinar/register/WN_5O7sKasERt2Fs7EuZ4IhTw)
