@@ -73,7 +73,7 @@ Julie's research focuses on interaction in immersive environments and she is an 
 ### Frank Mittelbach
 Technical lead of the LaTeX Project Team.
 
-Frank is focused on the future development of the LaTeX typesetting system. A critical authoring tool in the fields of Math, Physics, Computer Science and more, LaTeX's five year plan will have profound accessibility impacts. [Details on Frank's work](https://www.latex-project.org/publications/indexbytopic/pdf/)
+Frank is focused on the future development of the LaTeX typesetting system. A critical authoring tool in the fields of Math, Physics, Computer Science and more, LaTeX's five year plan will have profound accessibility impacts. [Frank's LinkedIn](https://www.linkedin.com/in/frankmittelbach/)
 
 ### Sarah Kane
 Undergraduate Student at University of Pennsylvania with a focus on Astrophysics Research; PURM Research Assistant, Department of Physics and Astronomy; NSF REU Scholar, Department of Astronomy, University of Texas at Austin; 2023 Marshall Scholar.
@@ -137,6 +137,6 @@ Charles is focused on helping ready arXiv for it's next 30 years of stable suppo
 ### Shamsi Brinn
 arXiv UX Manager
 
-To advance accessibility at arXiv, Shamsi brings the experiences of researchers with disabilities to the forefront of organizational planning, and championed the research, analysis, and production of arXiv's [2022 report on accessibility](https://info.arxiv.org/about/accessibility_research_report.html). She has also had the pleasure of organizing this forum and working with each of the wonderful participants above to bring it to life. Thank you for joining us! [Shamsi's LinkedIn](https://www.linkedin.com/in/shamsi-brinn/)
+To advance accessibility at arXiv, Shamsi brings the experiences of researchers with disabilities to the forefront of organizational planning, and championed the research, analysis, and production of arXiv's [Dec. 2022 report on accessibility](https://info.arxiv.org/about/accessibility_research_report.html). She has also had the pleasure of organizing this forum and working with each of the wonderful participants above to bring it to life. Thank you for joining us! [Shamsi's LinkedIn](https://www.linkedin.com/in/shamsi-brinn/)
 
 ![No Giscus](){#no-giscus}
