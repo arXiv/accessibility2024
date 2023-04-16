@@ -17,7 +17,7 @@ We know we will not have time during the forum to discuss everything of interest
 | --- | --- | --- |
 | 1:05-1:15 | **Jonathan Godfrey** | Why this topic is so essential. [Overview](/materials/presentation-jg.html) |
 | 1:05-1:15 | **Avneesh Singh** | The role of standards in addressing the inaccessibility crisis of academic papers [Powerpoint slides](/materials/Avneesh Singh-DAISY Consortium_2.pptx) |
-| 1:25-1:35 | **Cynthia Bennett** | When Alt Text Stakes are Higher: A Blind Peer Reviewer’s Experiences |
+| 1:25-1:35 | **Cynthia Bennett** | When Alt Text Stakes are Higher: A Blind Peer Reviewer’s Experiences [Google doc](https://docs.google.com/document/d/1tnoSaJXXXgMWCNWuXJwtMohCnTzknImiJ2jT05CtEPE/edit?usp=sharing ) |
 | 1:35-1:45 | **Lucas Nadolskis** | Working twice as hard for less information: the real impact of inaccessible content on the daily life of a researcher |
 | 1:45-1:55 | **Stacey Scott** | Has academic publishing reached an inflection point for accessibility? |
 | 1:55-2:05 | **Patrick Smyth** | Notebooks for All: lessons learned about making data more accessible |
