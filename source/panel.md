@@ -33,9 +33,9 @@ Julie's research focuses on interaction in immersive environments and she is an 
 [Julie's Linkedin](https://www.linkedin.com/in/julierico/)
 
 ### Frank Mittelbach
-Technical lead of the LaTeX Project Team
+Technical lead of the LaTeX Project Team.
 
-Frank is focused on the future development of the LaTeX typesetting system. It is a critical authoring tool in the fields of Math, Physics, and Computer Science. LaTeX's five year plan will have profound accessibility impacts. [Frank's Linkedin](https://www.linkedin.com/in/frankmittelbach/)
+Frank is focused on the future development of the LaTeX typesetting system. A critical authoring tool in the fields of Math, Physics, Computer Science and more, LaTeX's five year plan will have profound accessibility impacts. [Frank's LinkedIn](https://www.linkedin.com/in/frankmittelbach/), [Details on Frank's work](https://www.latex-project.org/publications/indexbytopic/pdf/)
 
 ### Sarah Kane
 Undergraduate Student at University of Pennsylvania with a focus on Astrophysics Research; PURM Research Assistant, Department of Physics and Astronomy; NSF REU Scholar, Department of Astronomy, University of Texas at Austin; 2023 Marshall Scholar.
