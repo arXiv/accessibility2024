@@ -36,6 +36,7 @@ The following resources related to authoring and publishing accessible content h
 
 - This 2022 paper from Wanda Diaz-Merced and colleagues looks at the [Accessibility of Astronomy Journal Papers](https://drive.google.com/file/d/1kYjCzch1HZKIlD0vmLmI0voTvDa5zokG/view?usp=sharing). Wanda also shared this simple (but not easy) advice for all of us at the forum: "Take concrete actions with no fears."
 - Prepared by Sonja Edler and her colleagues from the [Network of Repository Managers](https://datamanagement.univie.ac.at/en/research-data-management/network-of-repository-managers-repmannet/) at the University of Vienna, these [guidelines on preparing accessible content](https://phaidra.univie.ac.at/detail/o:1594525) address content from images to video and more.
+- Deyan Ginev created [ar5iv](https://ar5iv.labs.arxiv.org/) to share articles from arXiv.org as responsive HTML5 web pages.
 
 ## Discussion
 Use this discussion board to continue conversations about what authors and publishers can do now and in the near future to advance accessibility, or to share your relevant projects. Can't comment? See [instructions](getting-started.md) for logging in with github.
