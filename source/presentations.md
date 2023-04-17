@@ -10,6 +10,7 @@ We know we will not have time during the forum to discuss everything of interest
 - [Jonathan Godfrey overview (HTML)](/materials/presentation-jg.html){target="_blank"}
 - [Avneesh Singh slides (Powerpoint)](/materials/Avneesh Singh-DAISY Consortium_2.pptx){target="_blank"}
 - [Cynthia Bennett narrative (Google doc)](https://docs.google.com/document/d/1tnoSaJXXXgMWCNWuXJwtMohCnTzknImiJ2jT05CtEPE/edit?usp=sharing){target="_blank"}
+- [Lucas Nadolskis slides (PDF)](/materials/presentation-ln.html){target="_blank"}
 - [Breanne Kisselstein and Anne Logan slides (Google slides)](https://docs.google.com/presentation/d/1EYtl6o2SXmDumM1ecnVaC8umPr8Vc6l_xs2R7qjhgrk/edit?usp=sharing){target="_blank"}
 
 ## Presentation Schedule
