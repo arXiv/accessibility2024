@@ -6,8 +6,9 @@ This session will dig into the critical importance of alt text and descriptions 
 
 ## Session Materials
 - [Live note-taking document](https://docs.google.com/document/d/1CqU1TlVG1AG8jwocjjwG3VD8zu-AsWHRFwa7Wk7smGI/edit?usp=sharing)
-- [HTML demo of extended description under image](/materials/Extended_Description_Examples/ExtendedDetailsUnderImage.html)
-- [HTML demo of extended description on separate page](/materials/Extended_Description_Examples/LinkToExtendedDetails.html)
+- [HTML demo of extended description under image](/materials/1-ExtendedDetailsUnderImage-Alt-Text-Only.html)
+- [HTML demo of extended description on separate page](/materials/Extended_Description_Examples/2-ExtendedDetailsUnderImage-Extended-Description-added.html)
+- [HTML demo of extended details under image](/materials/ExtendedDetailsUnderImage.html)
 
 ## Bios
 ### Dr. Cynthia Bennett
