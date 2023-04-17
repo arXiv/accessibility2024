@@ -38,9 +38,9 @@ Technical lead of the LaTeX Project Team.
 Frank is focused on the future development of the LaTeX typesetting system. A critical authoring tool in the fields of Math, Physics, Computer Science and more, LaTeX's five year plan will have profound accessibility impacts. [Frank's LinkedIn](https://www.linkedin.com/in/frankmittelbach/), [Details on Frank's work](https://www.latex-project.org/publications/indexbytopic/pdf/)
 
 ### Sarah Kane
-Undergraduate Student at University of Pennsylvania with a focus on Astrophysics Research; PURM Research Assistant, Department of Physics and Astronomy; NSF REU Scholar, Department of Astronomy, University of Texas at Austin; 2023 Marshall Scholar.
+Undergraduate Student in Astrophysics at the University of Pennsylvania, 2023 Marshall Scholar.
 
-For Sarah, her career as a researcher is intertwined with her work as a disability advocate. She was born legally blind and has a strong interest in the accessibility of science to people with disabilities. Her work includes usability testing for Astronify, a project of the Space Telescope Institute turning datasets into audio.  [Sarah's University Profile](https://curf.upenn.edu/profile/kane-sarah)
+For Sarah, her career as a researcher is intertwined with her work as a disability advocate. She was born legally blind and has a strong interest in the accessibility of science to people with disabilities. Her work includes usability testing for Astronify, a project of the Space Telescope Institute turning datasets into audio.  [Sarah's Marshall Scholar Profile](https://www.marshallscholarship.org/scholars/2023-scholars/sarah-kane)
 
 ### Kevin-John Black
 Preprints Product Lead, Cold Spring Harbor Laboratory.
