@@ -9,6 +9,12 @@ We know we will not have time during the forum to discuss everything of interest
 ## Session Materials
 - [Live notetaking document](https://docs.google.com/document/d/16EX9sNF31ljv9hiQVxRNUVMGuME7Tw7hGwT67-l3qhw/edit?usp=share_link)
 
+## Watch the recording
+<div class="mkd-ordered-list-third" markdown="1">
+1. [![Thumbnail image of Q&A session 2](/assets/video-thumbnail-qa2.jpg)](https://youtu.be/HgbNO0UL2e4){target="_blank"}
+    **Q&A: [Mythbusting the needs of deaf academics](https://youtu.be/HgbNO0UL2e4){target="_blank"}**
+</div>
+
 ## Bios
 
 ### Breanne Kisselstein

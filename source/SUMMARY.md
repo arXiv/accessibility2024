@@ -6,6 +6,4 @@
 * [Topic: Digging deeper into image descriptions for scientific content](alt-descriptions.md)
 * [Topic: Mythbusting the needs of deaf academics](mythbusting-deaf-needs.md)
 * [Topic: What can authors and publishers do now](authoring-and-publishing.md)
-* [Next Steps](next-steps.md)
-* [How To: Discussion Boards](getting-started.md)
-* [Register](https://cornell.zoom.us/webinar/register/WN_5O7sKasERt2Fs7EuZ4IhTw)
+* [Closing Remarks](next-steps.md)

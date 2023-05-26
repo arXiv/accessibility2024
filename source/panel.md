@@ -9,6 +9,12 @@ We know we will not have time during the forum to discuss everything of interest
 ## Session Materials
 - [Live notetaking document](https://docs.google.com/document/d/1FVGuqZCneXYAvg1jGuuXelz01wXov7TaavR-KmnFzZ4/edit?usp=sharing)
 
+## Watch the recording
+<div class="mkd-ordered-list-third" markdown="1">
+1. [![Thumbnail image of the panel video](/assets/video-thumbnail-panel.jpg)](https://youtu.be/OkzcFtZGE4Q){target="_blank"}
+    **Panel Discussion: [Whose responsibility is it to make research accessible?](https://youtu.be/OkzcFtZGE4Q){target="_blank"}**
+</div>
+
 ## Panelist Bios
 
 ### Bill Kasdorf

@@ -9,6 +9,12 @@ We know we will not have time during the forum to discuss everything of interest
 ## Session Materials
 - [Live notetaking document](https://docs.google.com/document/d/1CqU1TlVG1AG8jwocjjwG3VD8zu-AsWHRFwa7Wk7smGI/edit?usp=share_link)
 
+## Watch the recording
+<div class="mkd-ordered-list-third" markdown="1">
+1. [![Thumbnail image of Q&A session 3](/assets/video-thumbnail-qa3.jpg)](https://youtu.be/Alv__c5B1DA){target="_blank"}
+    **Q&A: [What can authors and publishers do right now? And in the next year?](https://youtu.be/Alv__c5B1DA){target="_blank"}**
+</div>
+
 ## Bios
 
 ### Deyan Ginev

@@ -14,6 +14,24 @@ We know we will not have time during the forum to discuss everything of interest
 - [Lucas Nadolskis slides (PDF)](/materials/presentation-ln.html){target="_blank"}
 - [Breanne Kisselstein and Anne Logan slides (Google slides)](https://docs.google.com/presentation/d/1EYtl6o2SXmDumM1ecnVaC8umPr8Vc6l_xs2R7qjhgrk/edit?usp=sharing){target="_blank"}
 
+## Watch the Recordings
+<div class="mkd-ordered-list-third" markdown="1">
+1. [![Thumbnail image of Jonathan's video](/assets/video-thumbnail-jg.jpg)](https://youtu.be/3aIcO0vrrQE){target="_blank"}
+   **Dr. Jonathan Godfrey: [Keynote address](https://youtu.be/3aIcO0vrrQE){target="_blank"}**
+1. [![Thumbnail image of Avneesh's video](/assets/video-thumbnail-AS.jpg)]( https://youtu.be/QLLIHvj4444){target="_blank"}
+    **Avneesh Singh: [The essential role of international standards in accessibility]( https://youtu.be/QLLIHvj4444){target="_blank"}**
+1. [![Thumbnail image of Cynthia's video](/assets/video-thumbnail-cb.jpg)](https://youtu.be/72JTu_zBkQA){target="_blank"}
+    **Dr. Cynthia Bennett: [When Alt text stakes are higher](https://youtu.be/72JTu_zBkQA){target="_blank"}**
+1. [![Thumbnail image of Lucas' video](/assets/video-thumbnail-ln.jpg)](https://youtu.be/3p6Mazaj6jM){target="_blank"}
+    **Lucas Nadolskis: [Working twice as hard for less information](https://youtu.be/3p6Mazaj6jM){target="_blank"}**
+1. [![Thumbnail image of Stacy's video](/assets/video-thumbnail-ss.jpg)](https://youtu.be/yGjQLL_-33w){target="_blank"}
+    **Stacy Scott: [Has publishing reached an inflection point for accessibility?](https://youtu.be/yGjQLL_-33w){target="_blank"}**
+1. [![Thumbnail image of Patrick's video](/assets/video-thumbnail-ps.jpg)](https://youtu.be/1v3jFCWQfI8){target="_blank"}
+    **Dr. Patrick Smyth: [Hackccessibility for All](https://youtu.be/1v3jFCWQfI8){target="_blank"}**
+1. [![Thumbnail image of ](/assets/video-thumbnail-bkal.jpg)](https://youtu.be/dgnnbQePafQ){target="_blank"}
+    **Breanne Kisselstein & Anne Logan: [Navigating inaccessible academic ecosystems](https://youtu.be/dgnnbQePafQ){target="_blank"}**
+</div>
+
 ## Presentation Schedule
 | Time (EDT) | Presenter | Description |
 | --- | --- | --- |

@@ -6,6 +6,11 @@ Charles Frankston, arXiv's Technical Director, will briefly touch on arXiv's cur
 ## Session Materials
 - [Live note-taking document](https://docs.google.com/document/d/1ytaxHkgn3-u86Msot4VOXaaRcddeUcIUfET3crEL12Q/edit?usp=sharing)
 
+<div class="mkd-ordered-list-third" markdown="1">
+1. [![Thumbnail image of Charles' closing remarks](/assets/video-thumbnail-cf.jpg)](https://youtu.be/-GMk6j1hgjE){target="_blank"}
+    **Charles Frankston: [Closing remarks](https://youtu.be/-GMk6j1hgjE){target="_blank"}**
+</div>
+
 ## Charles' Bio
 arXiv Technical Director
 

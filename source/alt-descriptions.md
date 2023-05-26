@@ -10,6 +10,12 @@ This session will dig into the critical importance of alt text and descriptions 
 - [HTML demo of extended description on separate page](/materials/Extended_Description_Examples/2-ExtendedDetailsUnderImage-Extended-Description-added.html)
 - [HTML demo of extended details under image](/materials/Extended_Description_Examples/ExtendedDetailsUnderImage.html)
 
+## Watch the recording
+<div class="mkd-ordered-list-third" markdown="1">
+1. [![Thumbnail image of Q&A session 1](/assets/video-thumbnail-qa1.jpg)](https://youtu.be/RVLfx_yRIwM){target="_blank"}
+    **Q&A: [Digging deeper into image descriptions for scientific content](https://youtu.be/RVLfx_yRIwM){target="_blank"}**
+</div>
+
 ## Bios
 ### Dr. Cynthia Bennett
 Senior Research Scientist, Responsible AI and Human Centered Technology, Google.
