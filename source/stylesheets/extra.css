@@ -15,7 +15,7 @@
   --md-text-font: "freight-sans-pro";
   --md-code-font-family: "ibm-plex-mono", monospace;
   /*default theme colors*/
-  --md-primary-fg-color:  var(--color-cornell-red);
+  --md-primary-fg-color:  var(--color-archival-blue);
   --md-primary-fg-color--light: var(--color-access-lime);
   --md-primary-fg-color--lightest:  var(--color-warm-wash);
   --md-primary-fg-color--dark:  var(--color-library-grey);
@@ -88,6 +88,9 @@ h2 { margin-top: 1em !important; }
 .margin0 {margin: 0 !important; }
 .margin5 { margin: 0 5px !important; }
 
+/*hide github edit button*/
+a.md-content__button.md-icon {display: none;}
+
 /*BUTTONS*/
 a.button-large, a.button-reg {
   -webkit-box-shadow: 0px 3px 6px 0px var(--shadow);
@@ -118,6 +121,11 @@ a.button-large:hover, a.button-reg:hover {
 .mkd-horz-spacing {
   margin-right:1em;
   margin-left:1em;
+}
+
+/*Tables*/
+.md-typeset table:not([class]) {
+  font-size: 1em;
 }
 
 /*HEADER AREA*/
@@ -317,6 +325,44 @@ nav.md-nav.md-nav--primary .md-nav__list .md-nav__item nav.md-nav .md-nav__list 
   }
 }
 
+/*third-screen Ordered List for videos*/
+.mkd-ordered-list-third ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex !important;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.mkd-ordered-list-third ol li {
+  width: 100%;
+  margin: 0 0 1em 0 !important;
+  padding:0em 0em 1em 0em;
+  -webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
+  box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
+  min-height:90px;
+  justify-content: center;
+  word-wrap: break-word;
+}
+.mkd-ordered-list-third ol li strong {
+  display: inline-block;
+  margin: 0.5em;
+  font-weight: normal;
+  font-size: .9em;
+}
+.mkd-ordered-list-third ol li img {
+  width: 100%;
+}
+@media (min-width: 576px) {
+  .mkd-ordered-list-third ol li {
+    width: calc(33% - .5em);
+  }
+}
+
+
+
 /*half-screen Ordered Lists*/
 .mkd-ordered-list-blocks ol {
   list-style: none;
@@ -374,7 +420,8 @@ pre .md-clipboard {
 /*Blockquotes*/
 .md-typeset blockquote {
   margin: 0 !important;
-  padding: 1em !important;
+  margin-bottom: 3em !important;
+  padding: .1em 1em !important;
   border-left: 0 !important;
   background-color: var(--blockquote-bg-color);
   color: var(--blockquote-fg-color);
@@ -598,4 +645,9 @@ ul.brand-colors li .text {
     width: calc(25% - 10px);
     margin: .35em 10px 0 0 !important;
   }
+}
+
+#no-giscus {
+  visibility: hidden;
+  display: none;
 }
