@@ -31,7 +31,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
-  logo: assets/arxiv-logo-one-color-white.svg
+  logo: assets/arxiv-logo-one-color-black.svg
   custom_dir: overrides
   favicon: assets/favicon.png
 extra_javascript:
