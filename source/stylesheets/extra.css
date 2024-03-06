@@ -22,8 +22,8 @@
   --md-primary-fg-color--dark:  var(--color-library-grey);
   --md-typeset-color:     black;
   --md-typeset-a-color:   var(--color-links);
-  --md-accent-fg-color:   var(--color-archival-blue);
-  --md-accent-bg-color:   var(--color-cool-wash);
+  --md-accent-fg-color:   var(--color-access-lime);
+  --md-accent-bg-color:   var(--color-library-grey);
   --blockquote-fg-color:  black;
   --blockquote-bg-color:  var(--md-primary-fg-color--lightest);
   --md-code-fg-color:     black;
@@ -36,11 +36,9 @@
 /* slate theme (dark mode) */
 [data-md-color-scheme="slate"] {
   --md-hue: 35;
-  --md-primary-fg-color--dark:  var(--color-access-lime);
   --md-default-bg-color:  hsla(var(--md-hue),10%,10%,1);
   --md-typeset-color:     var(--color-warm-wash);
-  --md-accent-fg-color:   var(--color-open-blue);
-  --md-accent-bg-color:   hsla(var(--md-hue),10%,7%,1);
+  --md-accent-bg-color:   var(--color-warm-wash);
   --md-code-fg-color:     var(--md-primary-fg-color--lightest);
   --md-code-bg-color:     black;
   --code-border-color:    black;
@@ -56,6 +54,9 @@ body {
   font-family: freight-sans-pro, sans-serif;
   font-style: normal;
   font-weight: 400;
+}
+.md-header {
+  color: black;
 }
 .md-header__button.md-logo {
   margin: 0;
@@ -233,7 +234,10 @@ h1 {
 }
 /*block for highlighting content or CTA*/
 .highlight {
-  border: 2px solid var(--md-primary-fg-color--dark);
+  background-color: hsla(67, 69%, 51%, 0.25);
+  /* background-color: var(--md-accent-fg-color); */
+  border: 2px solid var(--md-accent-fg-color);
+  border-radius: 6px;
   padding: 1em 2em;
 }
 .highlight h2 {
