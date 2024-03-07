@@ -11,6 +11,7 @@ This public (but hidden) page is for kicking off a brainstorm around this idea: 
 ## Possible next steps
 1. Invite a group of scientists with different disabilities, from different fields, and from around the world, to contribute to the discussion. arXiv's global platform is very helpful for goals like this one.
 1. Reach out to funding organizations. A lack of funding would not invalidate this direction, but it would certainly help.
+2. Give this list a name.
 1. Prepare a presentation and discussion for the September accessibility forum, and possibly other venues.
 
 ## A starting list
