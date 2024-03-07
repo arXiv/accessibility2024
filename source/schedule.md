@@ -1,6 +1,6 @@
 # Our event is taking form
 
-Please check this page soon for new developments and schedule specifics as the program takes shape.
+Please check this page soon for more developments and schedule specifics as the program takes shape.
 
 <!--
 For now, some of our confirmed participants include:
