@@ -73,9 +73,9 @@ p {
   font-style: normal;
 }
 a { transition: all 1s ease-in-out; }
-a:hover, a:focus {
-  outline-color: var(--md-accent-fg-color);
+.md-typeset a:hover, .md-typeset a:focus {
   outline-offset: 2px;
+  color: var(--md-accent-bg-color);
 }
 .md-content a { text-decoration: underline; }
 .md-content a:hover, .md-content a:focus { text-decoration: none; }
@@ -84,6 +84,7 @@ a:hover { transition: all 0.5s;}
 h1, h2, h3, h4, h5 {
   font-family: freight-sans-pro, sans-serif;
 }
+h1 { font-size: 3em; }
 h2 { margin-top: 1em !important; }
 .intro { font-size: 1.5em; font-family: freight-text-pro, serif; }
 .floatl { float: left; }
