@@ -1,5 +1,5 @@
-site_name: arXiv Accessibility Forum 2023
-site_url: https://accessibility2023.arxiv.org/
+site_name: arXiv Accessibility Forum 2024
+site_url: https://accessibility2024.arxiv.org/
 docs_dir: source
 
 # Forces links in the format /help/index.html instead of mkdocs default of /help
@@ -47,5 +47,5 @@ markdown_extensions:
   - pymdownx.snippets
 
 repo_name: GitHub
-repo_url: https://github.com/arXiv/arxiv-webinar
+repo_url: https://github.com/arXiv/accessibility2024
 edit_uri: blob/develop/source
