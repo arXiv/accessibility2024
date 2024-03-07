@@ -12,7 +12,9 @@ Learn, share, and be inspired for change. Accessibility means *access regardless
   <h2>Pre-Registration coming soon</h2>
   <p>Please check back shortly for our pre-registration link. We will share a more detailed agenda and registration as presenters are confirmed.</p>
 
-  <img src="../assets/forum-logotype-with-logo.svg" role="presentation" alt="arxiv forum logotype saying accessibility 2024">
+  <img src="../assets/forum-logotype-with-logo.svg" role="presentation" alt="arxiv forum logotype saying accessibility 2024" class="mkd-img-right mkd-img-50">
+
+  <div style="clear:both;"></div>
 </div>
 
 ## Stay tuned for these topics and more
