@@ -33,4 +33,8 @@ Topics should meet as many of these goals as possible:
 ## Recording the demos
 We are seeking about 45 minutes to an hour of raw footage, which we will edit down to about 20 minutes. You might need more or less time, this is just a guideline.
 
+Additionally, attendees from the previous year have made the following accommodation requests:
+- Position your camera so fans or other fast-moving objects are not visible.
+- Repeat information from graphics and charts in the slides as they might not be screen-reader accessible.
+
 **Hint from a pro:** To preserve continuity between the pre-recorded demo and the live event, wear the same shirt for both!
