@@ -33,4 +33,14 @@ Topics should meet as many of these goals as possible:
 ## Recording the demos
 We are seeking about 45 minutes to an hour of raw footage, which we will edit down to about 20 minutes. You might need more or less time, this is just a guideline.
 
+Additionally, attendees from the previous year have kindly requested to position your camera in a way that fans or other fast-moving objects are not visible.
+
 **Hint from a pro:** To preserve continuity between the pre-recorded demo and the live event, wear the same shirt for both!
+
+## Presentation materials
+If you use any additional materials such as slides in your demo, please forward them along with the recording so we can share with attendees ahead of time. To ensure accessibility, please consider the following:
+- Make them as much screen-reader-accessible as possible.
+- For charts and diagrams, repeat information during the demo verbally.
+- Use colorblind-friendly palettes. 
+- Use a large font size (14 and above reccommended).
+
