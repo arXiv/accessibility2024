@@ -1,36 +1,47 @@
 #Guidelines for presenters
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
-Dear Presenters, we are excited to collaborate with you on arXiv Accessibility Forum for 2024! We will have contacted you via email already to set up a brainstorming session, but also wanted to share the following information to better describe the format and goals of the Forum. We hope this is helpful as we hone in on demos and discussions.
+Dear Presenters, we are excited to collaborate with you on arXiv Accessibility Forum for 2024! We will have contacted you via email already to set up a brainstorming session, but also wanted to share the following information to better describe the format and goals of the Forum. We hope this is helpful as we hone in on introductory videos and discussions.
 
 ## Event Format
 The Accessibility Forum is an online event hosted over Zoom. It is free and open to anyone.
 
-This year we are testing a more flexible format that we hope will be friendly for both presenters and guests. Instead of one large event, we will host multiple smaller events spread out over the first two weeks in September. 
+This year we are testing a more flexible format that we hope will be friendly for both presenters and attendees. Instead of one large event, we will host multiple smaller events spread out over the first two weeks in September. 
 
-It also gives us more flexibility in the timing. We will not need to cut presenters off to stick to a strict schedule. We can also schedule events at times that make more sense for your time zone.
-
-We will be on the lookout for synergistic topics when possible, so we can schedule two events together in adjacent time slots. This will increase the number of events people can attend.
+It gives us more flexibility in the timing. We will not need to cut you off to stick to a strict schedule. We can also schedule events at times that make more sense for your time zone.
 
 ## Presentation Structure
-Each presentation will consist of a pre-recorded demo portion, followed by a live Q&A session. We hope this format will make the events more relaxing (even fun!) for our presenters. It is challenging to pull off a live demo. By pre-recording them we can ensure that mistakes and setup time get edited out and that we can share a concise and accurate edited video of what you want to present.
+Each presentation will consist of a pre-recorded 10-20 minute introductory video, followed by a 40-minute live discussion and Q&A session. We can go over 10 minutes if we need to. 
 
-Sharing content in advance was also one of the most requested accessibility-friendly features from last year's feedback. Pre-recording will allow us to do that, which will help expand access and participation in the Q&A sessions.
+We hope this format will make the events more relaxing (even fun!) for our presenters. It is challenging to pull off a live demo if the content is to deep dive on a technology. By pre-recording them, we can ensure that mistakes and setup time get edited out and that we can share a concise and accurate edited video of what you want to present.
 
-- At each session we will play the pre-recorded demo, and afterwards open up for discussion and a question and answer period.
-- The final demo video should be about 20 minutes. This means about 45 minutes to an hour of total recorded footage. Let us know if your demo needs more time, we are flexible and the 20 minutes is only a guideline.
--  The demo will be followed by around 30 minutes of live Q&A. We can go over by ten minutes if needed.
+Pre-recording will also allow us to share content in advance, one of the most requested accessibility-friendly features from last year's feedback. In this way, we hope to expand access and participation in the Q&A sessions.
 
 ## Honing your topic
-We may have already suggested a direction during email exchanges. During our brainstorm we will be seeking to make it more specific, and to determine the best group of people to present.
+We may have already suggested a direction during email exchanges or brainstorm meetings. As a general guideline, topics should meet as many of these goals as possible:
 
-Topics should meet as many of these goals as possible:
 - Highlight an effort to make the sciences more accessible.
 - Elevate the voices of scientists with disabilities.
 - Share an existing or new solution or practice.
 - Raise awareness of the current state of accessibility in the sciences.
 
-## Recording the demos
-We are seeking about 45 minutes to an hour of raw footage, which we will edit down to about 20 minutes. You might need more or less time, this is just a guideline.
+## Recording the videos
+The final pre-recorded video will be about 10-20 minutes. Let us know if your video needs more time. We will conduct the recording of the video over Zoom together and take the lead on editing down the raw footage.
 
-**Hint from a pro:** To preserve continuity between the pre-recorded demo and the live event, wear the same shirt for both!
+Please keep in mind of the following accessibility requests we have received from the attendees. 
+
+- Position your camera in a way that fans or other fast-moving objects are not visible. 
+- Use a simple language so that attendees whose first language is not English can better understand the content.
+- When speaking, ensure a noise-free environment and stay close to the microphone for better sound quality. 
+
+**Hint from a pro:** To preserve continuity between the pre-recorded intro video and the live event, wear the same shirt for both!
+
+## Presentation materials
+If your introductory video includes additional materials such as slides, please share with us over Email so we can post them along with the recording with attendees ahead of time. 
+
+To ensure accessibility, consider the following:
+
+- Make them as much screen-reader-accessible as possible.
+- For charts and diagrams, repeat information verbally.
+- Use a large font size (14 and above reccommended).
+
