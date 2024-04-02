@@ -3,9 +3,9 @@
 document.addEventListener('DOMContentLoaded', function () {
     const giscusAttributes = {
       "src": "https://giscus.app/client.js",
-      "data-repo": "arxiv/arxiv-webinar",
-      "data-repo-id": "R_kgDOHzoccw",
-      "data-category-id": "DIC_kwDOHzocc84CQwr5",
+      "data-repo": "arXiv/accessibility2024",
+      "data-repo-id": "R_kgDOLTbgeQ",
+      "data-category": "General",
       "data-mapping": "pathname",
       "data-strict": "0",
       "data-reactions-enabled": "1",
