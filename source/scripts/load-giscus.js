@@ -1,11 +1,10 @@
-
-
 document.addEventListener('DOMContentLoaded', function () {
     const giscusAttributes = {
       "src": "https://giscus.app/client.js",
       "data-repo": "arXiv/accessibility2024",
       "data-repo-id": "R_kgDOLTbgeQ",
       "data-category": "General",
+      "data-category-id": "DIC_kwDOLTbgec4CeaHJ",
       "data-mapping": "pathname",
       "data-strict": "0",
       "data-reactions-enabled": "1",
