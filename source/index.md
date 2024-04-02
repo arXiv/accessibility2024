@@ -9,8 +9,8 @@ Learn, share, and be inspired for change. Accessibility means *access regardless
 <div style="clear:both;"></div>
 
 <div class="highlight">
-  <h2>Pre-register now!</h2>
-  <p>To confirm your attendance, register in [this form] (https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y).</p>
+  <h2>Pre-registration is now open!</h2>
+  <p>Pre-register <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">in this form</a>. This will help us better estimate the amount of traffic for event operations. </p>
 
   <img src="../assets/forum-logotype-with-logo.svg" role="presentation" alt="arxiv forum logotype saying accessibility 2024" class="mkd-img-right mkd-img-50">
 
