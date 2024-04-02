@@ -9,8 +9,8 @@ Learn, share, and be inspired for change. Accessibility means *access regardless
 <div style="clear:both;"></div>
 
 <div class="highlight">
-  <h2>Pre-Registration coming soon</h2>
-  <p>Please check back shortly for our pre-registration link. We will share a more detailed agenda and registration as presenters are confirmed.</p>
+  <h2>Pre-register now!</h2>
+  <p>To confirm your attendance, register in [this form] (https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y).</p>
 
   <img src="../assets/forum-logotype-with-logo.svg" role="presentation" alt="arxiv forum logotype saying accessibility 2024" class="mkd-img-right mkd-img-50">
 
@@ -20,10 +20,9 @@ Learn, share, and be inspired for change. Accessibility means *access regardless
 ## Stay tuned for these topics and more
 - Sonification: Revealing new secrets in your data.
 - Tactile surfaces: Using sense of touch to engage with visualizations.
-- The "Hilbert's List" of accessibility: creating a new Millennium Award for progress in accessible research.
-- Accessible math: the bleeding edge of math display and how we can make it mainstream.
+- The "Hilbert's List" of accessibility: Creating a new Millennium Award for progress in accessible research.
 - HTML papers: how arXiv and LaTeXML made it happen.
-- And more to be announced soon
+- And more to be announced soon.
 
 ## Misc.
 - All participants must follow arXiv's [code of conduct](https://info.arxiv.org/help/policies/code_of_conduct.html#inclusiveness-and-respect){target="_blank"}.
