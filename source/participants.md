@@ -58,6 +58,7 @@ Deyan's main focus is to enhance the representation of mathematical expressions 
 ### Tony Malykh
 Software Engineer, Meta.
 
+TBD
 
 ### Michael (Mick) Curran
 Co-Founder and Lead Developer of NV Access Limited (NVDA).
@@ -66,11 +67,15 @@ Mick is the creator of the free and open source NVDA screen reading software, en
 
 ## Quest for Accessibility: Initiating the Millennium Prize Challenge
 
-### Josh Miele 
+### Joshua (Josh) Miele 
 Principal Accessibility Researcher, Amazon Lab126; 2021 MacArthur Foundation Fellow.
 
+TBD
 
 ### Sina Bahram
+Founder of Prime Access Computing
+
+TBD
 
 ### Dr. Patrick Smyth
 Postdoctoral Fellow in Humanities Entrepreneurship at the Publics Lab, and Chief Learner at Iota School.
@@ -98,19 +103,27 @@ Thijs' research focus is digital fabrication, a nascent subfield of human-comput
 
 ## No Need to Reinvent the Wheel! Resources and Stories at the Deaf Hub
 
-### Camille Oulette 
+### Camille Ouellette 
+Senior Lecturer in Biology and Deaf Hub Affliate, Rochester Institute of Technology.
+
+TBD [Camille's Faculty Profile](https://www.rit.edu/directory/ceonts-camille-ouellette)
 
 ### Hannah DeFelice
+Master's student in Environmental Science, Rochester Institute of Technology.
+
+TBD: Hannah is a blinddeaf environmental science researcher. She is currently working on the NSF-funded Multiscale RECIPES Project for Sustainable Food System.
 
 ## Advancing Accessibility in South America and Beyond with SciELO
 
-### Solange Maria dos Santos
+### Dr. Solange Maria dos Santos
 Online Submission & Preprints Coordinator, SciELO.
+
+Solange brings in scientific communication expertise in diverse geographical contexts, such as Argentina, Bolivia, Colombia, Mexico, Paraguay, and South Africa. [Solange's LinkedIn](https://www.linkedin.com/in/solangemariasantos/?originalSubdomain=br)
 
 ### Alex Mendonça
 Production and Publishing Coordinator, SciELO.
 
-
+During Alex's 17-year tenure at SciELO, he has co-led several significant strategies, including the transition from indexed journals to Open Science, as well as the implementation of Diversity, Equity, Inclusion and Accessibility (DEIA) policies. [Alex's LinkedIn](https://www.linkedin.com/in/alex-mendon%C3%A7a/?originalSubdomain=br)
 
 
 ## arXiv Presenting Staff

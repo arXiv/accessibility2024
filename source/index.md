@@ -20,10 +20,9 @@ Learn, share, and be inspired for change. Accessibility means *access regardless
 ## Stay tuned for these topics and more
 - Sonification: Revealing new secrets in your data.
 - Tactile surfaces: Using sense of touch to engage with visualizations.
-- The "Hilbert's List" of accessibility: creating a new Millennium Award for progress in accessible research.
-- Accessible math: the bleeding edge of math display and how we can make it mainstream.
+- The "Hilbert's List" of accessibility: Creating a new Millennium Award for progress in accessible research.
 - HTML papers: how arXiv and LaTeXML made it happen.
-- And more to be announced soon
+- And more to be announced soon.
 
 ## Misc.
 - All participants must follow arXiv's [code of conduct](https://info.arxiv.org/help/policies/code_of_conduct.html#inclusiveness-and-respect){target="_blank"}.
