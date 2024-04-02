@@ -26,7 +26,7 @@ Ph.D. Candidate in Astrophysics at the Institute of Astronomy, Univeristy of Cam
 
 For Sarah, her career as a researcher is intertwined with her work as a disability advocate. She was born legally blind and has a strong interest in the accessibility of science to people with disabilities. Her work includes usability testing for Astronify, a project of the Space Telescope Institute turning datasets into audio.[Sarah's LinkedIn Profile](https://uk.linkedin.com/in/sarah-kane-4a9414220)
 
-### Scott Fleming
+### Dr. Scott Fleming
 Archive Scientist at the Mikulski Archive for Space Telescopes (MAST), Space Telescope Science Institute (STSI). 
 
 Scott supports missions like GALEX, Kepler, K2, and TESS, spectroscopic data sets across the entire MAST archive. Research-wise, he is interested in open source software development, and new science that is enabled with archival or cross-mission data.[Scott's STSI Profile](https://www.stsci.edu/stsci-research/research-directory/scott-fleming)
@@ -49,11 +49,28 @@ TBD
 
 ## HTML Papers on arXiv: Where We Are Now and Where Next
 ### Deyan Ginev
-Creator of ar5iv.org and LaTeXML developer; W3C Math Working Group member; PhD candidate in hiding (do not disturb).
+Creator of ar5iv.org and LaTeXML Developer; W3C Math Working Group Member; Ph.D. candidate in hiding (do not disturb).
 
 Deyan's main focus is to enhance the representation of mathematical expressions in rendered research papers, improving their accessibility, computational semantics, and enabling further reuse in a broader class of applications. [Deyan's University Profile](https://kwarc.info/people/dginev/)
 
+### Norbert Preining
+
+### Tony Malykh
+Software Engineer, Meta.
+
+
+### Michael (Mick) Curran
+Co-Founder and Lead Developer of NV Access Limited (NVDA).
+
+Mick is the creator of the free and open source NVDA screen reading software, enabling more than 200,000 blind and vision impaired people worldwide to independently use computers. His expertise lies in software accessibility standards, software APIs, and best practice approaches to functional usability. [Mick's LinkedIn](https://au.linkedin.com/in/mdcurran)
+
 ## Quest for Accessibility: Initiating the Millennium Prize Challenge
+
+### Josh Miele 
+Principal Accessibility Researcher, Amazon Lab126; 2021 MacArthur Foundation Fellow.
+
+
+### Sina Bahram
 
 ### Dr. Patrick Smyth
 Postdoctoral Fellow in Humanities Entrepreneurship at the Publics Lab, and Chief Learner at Iota School.
@@ -62,9 +79,28 @@ Patrick is a blind hacker and programmer whose work focuses on citizen technolog
 
 ## AI's Role in Accessibility
 
-## Touching Innovation: Tactile Solutions for BVI Users
+### Arwa Alnajashi
+Data Scientist, Saudi Aramco.
+
+Arwa applies leading data science techniques to automate critical operations within the oil and gas industry. Her passion lies in creating an empowered and inclusive digital future, ensuring that advancements in technology pave the way for greater accessibility and efficiency across industries.[Arwa's LinkedIn Page](https://sa.linkedin.com/in/arwa-alnajashi-84b1541a2?trk=people-guest_people_search-card)
+
+## Touching Innovation: Tactile Surfaces for BVI Users
+
+### Ricardo Enrique Gonzalez
+Ph.D. Candidate in Information Science, Cornell Tech.
+
+Ricardo designs interactive systems that empower Blind and Low Vision users in 3D virtual environments, data analysis, AI powered systems, and mobile cameras. [Ricardo's Website](https://rgonzalezp.github.io/)
+
+### Dr. Thijs Jan Roumen
+Assistant Professor of Information Science and Matter of Tech Lab, Cornell Tech.
+
+Thijs' research focus is digital fabrication, a nascent subfield of human-computer interaction (HCI). He aims to create a technological basis that allows designers and engineers to build on each other's work and enable personal fabrication relevant to everyone as opposed to the industrialists and hobbyists. [Thijs's Website](http://thijsroumen.eu/)
 
 ## No Need to Reinvent the Wheel! Resources and Stories at the Deaf Hub
+
+### Camille Oulette 
+
+### Hannah DeFelice
 
 ## Advancing Accessibility in South America and Beyond with SciELO
 
@@ -74,19 +110,10 @@ Online Submission & Preprints Coordinator, SciELO.
 ### Alex Mendonça
 Production and Publishing Coordinator, SciELO.
 
-### Dr. Neil Soiffer
-Chief Listening Officer at Talking Cat Software.
-
-Neil Soiffer is a principal architect of MathML, the standard for putting math on the web. He is the main developer of MathPlayer and its replacement, MathCAT. They are used in NVDA and elsewhere to make math accessible in Web, Word, and PowerPoint documents.  He currently co-chairs the W3C Math Working Group. [Neil's LinkedIn](https://www.linkedin.com/in/neil-soiffer-1807b76/)
 
 
 
-
-##arXiv Presenting Staff
-### Charles Frankston
-arXiv Technical Director
-
-Charles is focused on helping ready arXiv for it's next 30 years of stable support of open science. He is shepherding arXiv's implementation of HTML conversions of papers and the move to the cloud, among other critical efforts. [Charles' LinkedIn](https://www.linkedin.com/in/cfrankston/)
+## arXiv Presenting Staff
 
 ### Shamsi Brinn
 arXiv UX Manager
