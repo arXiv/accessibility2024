@@ -1,4 +1,4 @@
-#Guidelines for presenters
+# Guidelines for presenters
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 Dear Presenters, we are excited to collaborate with you on arXiv Accessibility Forum for 2024! We will have contacted you via email already to set up a brainstorming session, but also wanted to share the following information to better describe the format and goals of the Forum. We hope this is helpful as we hone in on introductory videos and discussions.
