@@ -26,7 +26,10 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: sudo apt-get install pngquant 
+      - run: sudo apt-get install pngquant
+      - run: pip install setuptools
+      - run: pip install "cython<3.0.0" wheel
+      - run: pip install "pyyaml==6.0.0" --no-build-isolation
       - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
       - run: pip install -r requirements.txt
       - run: pip install mkdocs-macros-plugin
