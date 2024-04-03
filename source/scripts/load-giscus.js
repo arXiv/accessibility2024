@@ -19,31 +19,30 @@ document.addEventListener('DOMContentLoaded', function () {
   console.log("Running load-giscus");
   console.log(document.getElementById('no-giscus'));
   // Dynamically create script tag
+  const giscusScript = document.createElement("script");
   if (document.getElementById('no-giscus') == null) {
-    const giscusScript = document.createElement("script");
     Object.entries(giscusAttributes).forEach(([key, value]) => giscusScript.setAttribute(key, value));
     document.getElementsByTagName("article")[0].appendChild(giscusScript);
   }
 
-  function setColorTheme() {
-    if (darkModeMediaQuery.matches) {
-      document.body.setAttribute("data-md-color-scheme", "slate")
-    } 
-    else {
-      document.body.setAttribute("data-md-color-scheme", "default")
-    }
+  var palette = __md_get("__palette")
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "dark" : "light"
+    giscusScript.setAttribute("data-theme", theme)
   }
-  
-  const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
-  darkModeMediaQuery.addEventListener('change', (e) => {
-    setColorTheme();  
-  });
 
-  
+  var ref = document.querySelector("[data-md-component=palette]")
+  ref.addEventListener("change", function() {
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
+      var theme = palette.color.scheme === "slate" ? "dark" : "light"
 
-  document.onreadystatechange = () => {
-      if (document.readyState === "interactive") {
-        setColorTheme();
-      }
-    };
+      /* Instruct Giscus to change theme */
+      var frame = document.querySelector(".giscus-frame")
+      frame.contentWindow.postMessage(
+        { giscus: { setConfig: { theme } } },
+        "https://giscus.app"
+      )
+    }
+  })
 })
