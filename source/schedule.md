@@ -1,4 +1,4 @@
-# Our event is taking form
+# Preliminary Schedule
 
 Please check this page soon for more developments and schedule specifics as the program takes shape.
 
