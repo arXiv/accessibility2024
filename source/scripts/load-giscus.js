@@ -24,4 +24,26 @@ document.addEventListener('DOMContentLoaded', function () {
     Object.entries(giscusAttributes).forEach(([key, value]) => giscusScript.setAttribute(key, value));
     document.getElementsByTagName("article")[0].appendChild(giscusScript);
   }
+
+  function setColorTheme() {
+    if (darkModeMediaQuery.matches) {
+      document.body.setAttribute("data-md-color-scheme", "slate")
+    } 
+    else {
+      document.body.setAttribute("data-md-color-scheme", "default")
+    }
+  }
+  
+  const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+  darkModeMediaQuery.addEventListener('change', (e) => {
+    setColorTheme();  
+  });
+
+  
+
+  document.onreadystatechange = () => {
+      if (document.readyState === "interactive") {
+        setColorTheme();
+      }
+    };
 })
