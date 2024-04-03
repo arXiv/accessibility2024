@@ -1,24 +1,4 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
-    darkModeMediaQuery.addEventListener('change', (e) => {
-      setColorTheme();  
-    });
-
-    function setColorTheme() {
-      if (darkModeMediaQuery.matches) {
-        document.body.setAttribute("data-md-color-scheme", "slate")
-      } 
-      else {
-        document.body.setAttribute("data-md-color-scheme", "default")
-      }
-    }
-
-    document.onreadystatechange = () => {
-      if (document.readyState === "interactive") {
-        setColorTheme();
-      }
-    };
-
     const giscusAttributes = {
       "src": "https://giscus.app/client.js",
       "data-repo": "arXiv/accessibility2024",
@@ -45,9 +25,25 @@ document.addEventListener('DOMContentLoaded', function () {
     document.getElementsByTagName("article")[0].appendChild(giscusScript);
   }
 
-  // Load some of our css over theirs
-  const prims = document.querySelectorAll(".color-text-primary");
-  const curColor = getComputedStyle(document.documentElement).getPropertyValue('--md-typeset-color');
-  prims.forEach((obj) => {obj.style.color = curColor});
-  console.log(curColor);
+  function changeGiscusTheme () {
+    const theme = document.documentElement.getAttribute('data-theme') === 'dark' ?  'dark' : 'light'
+
+    function sendMessage(message) {
+      const iframe = document.querySelector('iframe.giscus-frame');
+      if (!iframe) return;
+      iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+    }
+
+    sendMessage({
+      setConfig: {
+        theme: theme
+      }
+    });
+  }
+
+  const darkModePreference = window.matchMedia("(prefers-color-scheme: dark)");
+  darkModePreference.addEventListener("change", (e) => {
+    console.log("Changing giscus theme");
+    changeGiscusTheme()
+  });
 })
