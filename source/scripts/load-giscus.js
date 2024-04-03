@@ -19,31 +19,30 @@ document.addEventListener('DOMContentLoaded', function () {
   console.log("Running load-giscus");
   console.log(document.getElementById('no-giscus'));
   // Dynamically create script tag
+  const giscusScript = document.createElement("script");
   if (document.getElementById('no-giscus') == null) {
-    const giscusScript = document.createElement("script");
     Object.entries(giscusAttributes).forEach(([key, value]) => giscusScript.setAttribute(key, value));
     document.getElementsByTagName("article")[0].appendChild(giscusScript);
   }
 
-  function changeGiscusTheme () {
-    const theme = document.documentElement.getAttribute('data-theme') === 'dark' ?  'dark' : 'light'
-
-    function sendMessage(message) {
-      const iframe = document.querySelector('iframe.giscus-frame');
-      if (!iframe) return;
-      iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
-    }
-
-    sendMessage({
-      setConfig: {
-        theme: theme
-      }
-    });
+  var palette = __md_get("__palette")
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate" ? "dark" : "light"
+    giscusScript.setAttribute("data-theme", theme)
   }
 
-  const darkModePreference = window.matchMedia("(prefers-color-scheme: dark)");
-  darkModePreference.addEventListener("change", (e) => {
-    console.log("Changing giscus theme");
-    changeGiscusTheme()
-  });
+  var ref = document.querySelector("[data-md-component=palette]")
+  ref.addEventListener("change", function() {
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
+      var theme = palette.color.scheme === "slate" ? "dark" : "light"
+
+      /* Instruct Giscus to change theme */
+      var frame = document.querySelector(".giscus-frame")
+      frame.contentWindow.postMessage(
+        { giscus: { setConfig: { theme } } },
+        "https://giscus.app"
+      )
+    }
+  })
 })
