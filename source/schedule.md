@@ -15,6 +15,8 @@ Last but not least, the forum provides a [Github Discussion Board](https://githu
 
 Please check this page soon for more topical developments and schedule specifics (date, time, video recording, etc) as the program takes shape.
 
+<a title="Add to Calendar" class="addeventstc" data-id="VX737201" href="https://www.addevent.com/calendar/VX737201" target="_blank">Add to Calendar</a> <script type="text/javascript" src="https://cdn.addevent.com/libs/stc/1.0.2/stc.min.js" async defer></script>
+
 
 <!-- | Date | Time (EDT) | Session | Description | Presenters | Introductory Video | -->
 | Session | Description | Presenters |
