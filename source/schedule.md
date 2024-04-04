@@ -16,6 +16,12 @@ Please check this page soon for more developments and schedule specifics as the 
 | **Together with Deaf Hub** | Resources, stories, and support at the Deaf Hub. | Camille Ouellette, Hannah DeFelice, and Deaf Hub colleagues |
 | **Accessibility in South America and Beyond with SciELO** | Development and next-steps of accessible research output sharing in the South American context | Solange Maria dos Santos, Alex Mendonça |
 
+<div style="clear:both;"></div>
+<div class="button-reg">
+  Excited about the diverse lineup? <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Register here</a> to be part of these conversations!
+  <div style="clear:both;"></div>
+</div>
+
 <!--
 For now, some of our confirmed participants include:
 
