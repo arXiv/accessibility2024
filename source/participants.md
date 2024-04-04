@@ -75,7 +75,7 @@ Founder of Prime Access Computing
 TBD
 
 ### Dr. Patrick Smyth
-Staff Developer Relations Engineer, Chainguard; Chief Learner, Iota School.
+Chief Learner, Iota School; Staff Developer Relations Engineer, Chainguard.
 
 Patrick is a blind hacker and programmer whose work focuses on citizen technology, critical infrastructure, accessibility, and technical pedagogy. [Patrick's Homepage](https://smythp.com/index.html){target="_blank"}
 
