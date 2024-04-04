@@ -1,14 +1,8 @@
-# Guidelines for presenters
+# Guidelines For Presenters
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
-Dear Presenters, we are excited to collaborate with you on arXiv Accessibility Forum for 2024! We will have contacted you via email already to set up a brainstorming session, but also wanted to share the following information to better describe the format and goals of the Forum. We hope this is helpful as we hone in on introductory videos and discussions.
+Dear Presenters, we are excited to collaborate with you on arXiv Accessibility Forum for 2024! To help you better understand the format and goals of the Forum as well as prepare for your presentation, we hope this page is helpful.
 
-## Event Format
-The Accessibility Forum is an online event hosted over Zoom. It is free and open to anyone.
-
-This year we are testing a more flexible format that we hope will be friendly for both presenters and attendees. Instead of one large event, we will host multiple smaller events spread out over the first two weeks in September. 
-
-It gives us more flexibility in the timing. We will not need to cut you off to stick to a strict schedule. We can also schedule events at times that make more sense for your time zone.
 
 ## Presentation Structure
 Each presentation will consist of a pre-recorded 10-20 minute introductory video, followed by a 40-minute live discussion and Q&A session. We can go over 10 minutes if we need to. 

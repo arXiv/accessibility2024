@@ -1,6 +1,19 @@
+# Event Format
+
+The Accessibility Forum is an online event hosted over Zoom. It is free and open to anyone.
+
+This year we are testing a more flexible format that we hope will be friendly for both presenters and attendees. Instead of one large event, we will host multiple smaller events spread out over the first two weeks in September.
+
+It gives us more flexibility in the timing. We will not need to cut off any sessions to stick to a strict schedule. We can also schedule events at times that make more sense for everyone's time zone.
+
+Each session will consist of a pre-recorded 10-20 minute introductory video, followed by a 40-minute live discussion and Q&A session. Intro videos, along with presentation materials if any, will be posted below starting from July. 
+
+Last but not least, the forum provides a [Github Discussion Board](https://github.com/arXiv/accessibility2024/discussions){target="_blank"} for general comments and discussions. We look forward to hearing from you.
+
+
 # Preliminary Schedule
 
-Please check this page soon for more developments and schedule specifics as the program takes shape.
+Please check this page soon for more topical developments and schedule specifics (date, time, video recording, etc) as the program takes shape.
 
 
 <!-- | Date | Time (EDT) | Session | Description | Presenters | Introductory Video | -->
@@ -15,6 +28,12 @@ Please check this page soon for more developments and schedule specifics as the 
 | **Tactile Prototype** | A demo on a tactile technology for BVI Users | Ricardo Gonzalez, Thijs Roumen |
 | **Together with Deaf Hub** | Resources, stories, and support at the Deaf Hub. | Camille Ouellette, Hannah DeFelice, and Deaf Hub colleagues |
 | **Accessibility in South America and Beyond with SciELO** | Development and next-steps of accessible research output sharing in the South American context | Solange Maria dos Santos, Alex Mendonça |
+
+<div style="clear:both;"></div>
+<div class="button-reg">
+  Excited about the diverse lineup? <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Register here</a> to be part of these conversations!
+  <div style="clear:both;"></div>
+</div>
 
 <!--
 For now, some of our confirmed participants include:
