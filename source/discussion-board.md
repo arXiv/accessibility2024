@@ -1,4 +1,4 @@
-#Getting Started with Discussion Boards
+# Getting started with Discussion Boards
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 We have set up discussion boards for each forum topic so that the conversation can continue beyond each session.

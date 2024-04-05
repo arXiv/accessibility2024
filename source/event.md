@@ -1,4 +1,4 @@
-# Event Format
+# Event format
 
 The Accessibility Forum is an online event hosted over Zoom. It is free and open to anyone.
 
@@ -8,10 +8,10 @@ It gives us more flexibility in the timing. We will not need to cut off any sess
 
 Each session will consist of a pre-recorded 10-20 minute introductory video, followed by a 40-minute live discussion and Q&A session. Intro videos, along with presentation materials if any, will be posted below starting from July. 
 
-Last but not least, the forum provides a [Github Discussion Board](https://github.com/arXiv/accessibility2024/discussions){target="_blank"} for general comments and discussions. We look forward to hearing from you.
+Last but not least, the forum provides [Github Discussion Boards](https://github.com/arXiv/accessibility2024/discussions){target="_blank"} for general comments and discussions. We look forward to hearing from you.
 
 
-# Preliminary Schedule
+# Preliminary schedule
 
 Please check this page soon for more topical developments and schedule specifics (date, time, video recording, etc) as the program takes shape.
 
