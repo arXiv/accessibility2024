@@ -1,4 +1,4 @@
-# Participant Bios
+# Presenter bios
 
 ![Logo for the arXiv forum](../assets/forum-logotype-only.svg){.forum-logotype alt='logo for the arXiv forum' role="presentation"}
 We are very pleased to be working with the following key participants to bring this forum to life. The bios are listed in the order of events taking place.

@@ -1,4 +1,4 @@
-* [Welcome](index.md)
-* [An accessible event](accessible-event.md)
-* [Event information](schedule.md)
-* [Discussion boards guide](getting-started.md)
+* [Home](index.md)
+* [Event information](event.md)
+* [Accessibility](accessibility.md)
+* [Discussion boards guide](discussion-board.md)
