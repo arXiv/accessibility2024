@@ -1,10 +1,10 @@
-# Guidelines For Presenters
+# Guidelines for presenters
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 Dear Presenters, we are excited to collaborate with you on arXiv Accessibility Forum for 2024! To help you better understand the format and goals of the Forum as well as prepare for your presentation, we hope this page is helpful.
 
 
-## Presentation Structure
+## Presentation structure
 Each presentation will consist of a pre-recorded 10-20 minute introductory video, followed by a 40-minute live discussion and Q&A session. We can go over 10 minutes if we need to. 
 
 We hope this format will make the events more relaxing (even fun!) for our presenters. It is challenging to pull off a live demo if the content is to deep dive on a technology. By pre-recording them, we can ensure that mistakes and setup time get edited out and that we can share a concise and accurate edited video of what you want to present.
