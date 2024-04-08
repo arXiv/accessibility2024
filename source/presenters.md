@@ -20,15 +20,15 @@ Program Lead, European Gravitational Wave Observatory; Director, Arecibo Observa
 
 Wanda is an astronomer and the developer of the technique, sonification, that converts astrophysical data into audible sound. As someone who lost her eyesight since teenage years, she is a leader in increasing equality of access to astronomy. [Wanda's Profile](){target="_blank"}
 
-### Sarah Kane
-Ph.D. Candidate in Astrophysics, Institute of Astronomy, Univeristy of Cambridge.
-
-For Sarah, her career as a researcher is intertwined with her work as a disability advocate. She was born legally blind and has a strong interest in the accessibility of science to people with disabilities. Her work includes usability testing for Astronify, a project of the Space Telescope Institute turning datasets into audio. [Sarah's LinkedIn Profile](https://uk.linkedin.com/in/sarah-kane-4a9414220){target="_blank"}
-
 ### Dr. Scott Fleming
 Archive Scientist at the Mikulski Archive for Space Telescopes (MAST), Space Telescope Science Institute (STSI). 
 
 Scott supports missions like GALEX, Kepler, K2, and TESS, spectroscopic data sets across the entire MAST archive. Research-wise, he is interested in open source software development, and new science that is enabled with archival or cross-mission data. [Scott's STSI Profile](https://www.stsci.edu/stsci-research/research-directory/scott-fleming){target="_blank"}
+
+### Sarah Kane
+Ph.D. Candidate in Astrophysics, Institute of Astronomy, Univeristy of Cambridge.
+
+For Sarah, her career as a researcher is intertwined with her work as a disability advocate. She was born legally blind and has a strong interest in the accessibility of science to people with disabilities. Her work includes usability testing for Astronify, a project of the Space Telescope Institute turning datasets into audio. [Sarah's LinkedIn Profile](https://uk.linkedin.com/in/sarah-kane-4a9414220){target="_blank"}
 
 <!-- ## Navigating an Accessible Research Journey  -->
 ### Venkatesh Potluri
@@ -41,9 +41,7 @@ Senior Lecturer in Statistics, School of Mathematical and Computational Sciences
 
 Jonathan's research is focused on the needs of the thousands of blind people around the world who need additional tools to make the visual elements of statistical thinking and practice less of a barrier. [Jonathan's Faculty Profile](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=416430){target="_blank"}
 
-### Nicole Verboncoeur
-Ph.D. Candidate in Physics, Cornell University.
-TBD
+
 
 <!-- ## HTML Papers on arXiv: Where We Are Now and Where Next -->
 ### Deyan Ginev
