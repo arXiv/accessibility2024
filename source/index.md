@@ -24,6 +24,45 @@ Learn, share, and be inspired for change. Accessibility means *access regardless
 - HTML papers: How arXiv and LaTeXML made it happen.
 - [See all sessions](../schedule)
 
+## Stay tuned for a diverse lineup of presenters 
+This year, we have the pleasure to have presenters coming from these organizations and bringing perspectives that converge on accessible research.
+
+
+
+![Logo-Amazon](../assets/logo/amazon.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+![Logo-arXiv](../assets/logo/arxiv.jpeg){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+![Logo-cambridge](../assets/logo/cambridge.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+![Logo-cornell-tech](../assets/logo/cornell-tech.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+
+<div style="clear:both;"></div>
+
+![Logo-european-gravitational-wave-observatory](../assets/logo/ego.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+![Logo-iota](../assets/logo/iota.svg){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+![Logo-latexml](../assets/logo/latexml.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+![Logo-massey](../assets/logo/massey.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+
+<div style="clear:both;"></div>
+
+![Logo-mozilla](../assets/logo/mozilla.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+![Logo-nv-access](../assets/logo/nvaccess.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+![Logo-prime-access-computing](../assets/logo/pac.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+![Logo-rit](../assets/logo/rit.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+
+<div style="clear:both;"></div>
+
+![Logo-saudi-aramco](../assets/logo/saudi-aramco.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+![Logo-scielo](../assets/logo/scielo.jpeg){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+![Logo-space-telescope-science-institute](../assets/logo/stsi.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+![Logo-university-of-washington](../assets/logo/uwash.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+
+<div style="clear:both;"></div>
+
+![Logo-virginia-tech](../assets/logo/virginia-tech.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
+
+<div style="clear:both;"></div>
+
+
+
 ## Get caught up on arXiv's accessibility practice
 - Read arXiv's [accessibility research report](
 https://info.arxiv.org/about/accessibility_research_report.html){target="_blank"} that inspired this forum.

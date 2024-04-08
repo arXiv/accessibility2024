@@ -383,6 +383,12 @@ h1 {
     margin:0 auto;
     display:block;
   }
+  .mkd-img-20 {
+    width:20% !important;
+    float:left;
+    margin:0 auto;
+    display:block;
+  }
 }
 
 /*third-screen Ordered List for videos*/
