@@ -8,7 +8,7 @@ It gives us more flexibility in the timing. We will not need to cut off any sess
 
 Each session will consist of a pre-recorded 10-20 minute introductory video, followed by a 40-minute live discussion and Q&A session. Intro videos, along with presentation materials if any, will be posted below starting from July. 
 
-Last but not least, the forum provides [Github Discussion Boards](https://github.com/arXiv/accessibility2024/discussions){target="_blank"} for general comments and discussions. We look forward to hearing from you.
+Last but not least, the forum provides Github Discussion Boards for general comments and discussions. We look forward to hearing from you.
 
 
 # Preliminary schedule
@@ -21,8 +21,8 @@ Please check this page soon for more topical developments and schedule specifics
 | --- | --- | --- |
 | **Rethinking Accessibility** | Dissecting accessibility as a social and cultural issue, rather than technical | Kim Bryant, Ashley Shew |
 | **Listening to Stars** | A demo and discussion on the sonification technique in astronomy | Wanda Diaz-Merced, Sarah Kane, Scott Fleming |
-| **Navigating Research Journey** | A walkthrough on a STEM research pipeline and ways to make it accessible | Venkatesh Potluri, Jonathan Godfrey, Nicole Verboncoeur |
-| **HTML on arXiv** | Development and next-steps of HTML papers on arXIv | Deyan Ginev, Norbert Preining, Tony Malykh, Michael Curran |
+| **Navigating Research Journey** | A walkthrough on a STEM research pipeline and ways to make it accessible | Venkatesh Potluri, Jonathan Godfrey |
+| **HTML on arXiv** | Development and next-steps of HTML papers on arXiv | Deyan Ginev, Norbert Preining, Tony Malykh, Michael Curran |
 | **Millennium Prize**  |  Like the Hilbert's List in Mathematics, but for accessibility; creating a new Millennium Award for progress in accessible science | Josh Miele, Sina Bahram, Patrick Smyth |
 | **AI's Role in Accessibility** | TBD | Arwa Alnajashi |
 | **Tactile Prototype** | A demo on a tactile technology for BVI Users | Ricardo Gonzalez, Thijs Roumen |
