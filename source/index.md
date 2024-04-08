@@ -24,11 +24,11 @@ Learn, share, and be inspired for change. Accessibility means *access regardless
 - HTML papers: How arXiv and LaTeXML made it happen.
 - [See all sessions](../schedule)
 
-## Want to get started now?
+## Get caught up on arXiv's accessibility practice
 - Read arXiv's [accessibility research report](
 https://info.arxiv.org/about/accessibility_research_report.html){target="_blank"} that inspired this forum.
-- Watch [recordings from last year's forum](https://accessibility2023.arxiv.org/index.html){target="_blank"} in case you missed the event.
-- Get caught up on the [new HTML format on arXiv](https://arxiv.org/html/2402.08954v1){target="_blank"}.
+- Access [recordings from last year's forum](https://accessibility2023.arxiv.org/index.html){target="_blank"} in case you missed the event.
+- Learn about the [new HTML format on arXiv](https://arxiv.org/html/2402.08954v1){target="_blank"}.
 
 
 ## Policy
