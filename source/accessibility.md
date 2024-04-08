@@ -10,7 +10,7 @@ We will have ASL interpreters at all events, and layer ASL on top of all pre-rec
 All pre-recorded introductory videos will have accessible, human-written captions. AI-generated captions cannot handle STEM content. You should see what zoom transcripts do with the words LaTeX and arXiv!
 
 ## Live note-taking
-Kind volunteers last year offered to take live notes in publicly available documents as a secondary way of following and checking back on discussions. We are [seeking volunteers](https://docs.google.com/spreadsheets/d/1cP2cVfs5inoLilPTRszyVlbJzuOkuYSSMTzlsnpIgLA/edit?usp=sharing) for this year too. Let us know if you can donate an hour to an event. It is fun and very helpful.
+Kind volunteers last year offered to take live notes in publicly available documents as a secondary way of following and checking back on discussions. We are [seeking volunteers](https://cornell.ca1.qualtrics.com/jfe/form/SV_aWzTnoqv2Mn9Niu) for this year too. Let us know if you can donate an hour to an event. It is fun and very helpful.
 
 
 ***
