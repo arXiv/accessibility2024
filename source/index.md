@@ -28,38 +28,31 @@ Learn, share, and be inspired for change. Accessibility means *access regardless
 This year, we have the pleasure to have presenters coming from these organizations and bringing perspectives that converge on accessible research.
 
 
-
-![Logo-Amazon](../assets/logo/amazon.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-![Logo-arXiv](../assets/logo/arxiv.jpeg){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-![Logo-cambridge](../assets/logo/cambridge.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-![Logo-cornell-tech](../assets/logo/cornell-tech.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-
-<div style="clear:both;"></div>
-
-![Logo-european-gravitational-wave-observatory](../assets/logo/ego.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-![Logo-iota](../assets/logo/iota.svg){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-![Logo-latexml](../assets/logo/latexml.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-![Logo-massey](../assets/logo/massey.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-
-<div style="clear:both;"></div>
-
-![Logo-mozilla](../assets/logo/mozilla.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-![Logo-nv-access](../assets/logo/nvaccess.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-![Logo-prime-access-computing](../assets/logo/pac.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-![Logo-rit](../assets/logo/rit.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-
-<div style="clear:both;"></div>
-
-![Logo-saudi-aramco](../assets/logo/saudi-aramco.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-![Logo-scielo](../assets/logo/scielo.jpeg){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-![Logo-space-telescope-science-institute](../assets/logo/stsi.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-![Logo-university-of-washington](../assets/logo/uwash.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-
-<div style="clear:both;"></div>
-
-![Logo-virginia-tech](../assets/logo/virginia-tech.png){.mkd-img-left .mkd-img-20 .mkd-img-margin}
-
-<div style="clear:both;"></div>
+<div class="logo-background">
+  <ul>
+    <img src="../assets/logo/amazon.png" class="mkd-img-20 mkd-img-margin" alt="Logo-amazon">
+    <img src="../assets/logo/arxiv.jpeg" class="mkd-img-20 mkd-img-margin" alt="Logo-arxiv">
+    <img src="../assets/logo/cambridge.png" class="mkd-img-20 mkd-img-margin" alt="Logo-cambridge">
+    <img src="../assets/logo/cornell-tech.png" class="mkd-img-20 mkd-img-margin" alt="Logo-cornell-tech">
+    <div style="clear:both;"></div>
+    <img src="../assets/logo/ego.png" class="mkd-img-20 mkd-img-margin" alt="Logo-european-gravitational-wave-observatory">
+    <img src="../assets/logo/iota.svg" class="mkd-img-20 mkd-img-margin" alt="Logo-iota">
+    <img src="../assets/logo/latexml.png" class="mkd-img-20 mkd-img-margin" alt="Logo-latexml">
+    <img src="../assets/logo/massey.png" class="mkd-img-20 mkd-img-margin" alt="Logo-massey">
+    <div style="clear:both;"></div>
+    <img src="../assets/logo/mozilla.png" class="mkd-img-20 mkd-img-margin" alt="Logo-mozilla">
+    <img src="../assets/logo/nvaccess.png" class="mkd-img-20 mkd-img-margin" alt="Logo-nvaccess">
+    <img src="../assets/logo/pac.png" class="mkd-img-20 mkd-img-margin" alt="Logo-prime-access-consulting">
+    <img src="../assets/logo/rit.png" class="mkd-img-20 mkd-img-margin" alt="Logo-rit">
+    <div style="clear:both;"></div>
+    <img src="../assets/logo/saudi-aramco.png" class="mkd-img-20 mkd-img-margin" alt="Logo-saudi-aramco">
+    <img src="../assets/logo/scielo.jpeg" class="mkd-img-20 mkd-img-margin" alt="Logo-scielo">
+    <img src="../assets/logo/stsi.png" class="mkd-img-20 mkd-img-margin" alt="Logo-space-telescope-science-institute">
+    <img src="../assets/logo/uwash.png" class="mkd-img-20 mkd-img-margin" alt="Logo-uwash">
+    <div style="clear:both;"></div>
+    <img src="../assets/logo/virginia-tech.png" class="mkd-img-20 mkd-img-margin" alt="Logo-virginia-tech">
+  </ul>
+</div>
 
 
 

@@ -250,6 +250,25 @@ h1 {
   }
 }
 
+/*block for logo background for dark mode*/
+.logo-background {
+  background-color: white;
+  border-radius: 6px;
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content: flex-start;
+  padding: 1em 2em;
+}
+.logo-background h2 {
+  margin-top:0 !important;
+}
+@media all and (max-width: 719px) {
+  .logo-background {
+    margin:0 !important;
+  }
+}
+
 /*ARXIV FOOTER*/
 .arxiv-footer {
   display: flex;
