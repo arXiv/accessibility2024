@@ -24,6 +24,38 @@ Learn, share, and be inspired for change. Accessibility means *access regardless
 - HTML papers: How arXiv and LaTeXML made it happen.
 - [See all sessions](../schedule)
 
+## Stay tuned for a diverse lineup of presenters 
+This year, we have the pleasure to have presenters coming from these organizations and bringing perspectives that converge on accessible research.
+
+
+<div class="logo-background">
+  <ul>
+    <img src="../assets/logo/amazon.png" class="mkd-img-20 mkd-img-margin" alt="Logo-amazon">
+    <img src="../assets/logo/arxiv.jpeg" class="mkd-img-20 mkd-img-margin" alt="Logo-arxiv">
+    <img src="../assets/logo/cambridge.png" class="mkd-img-20 mkd-img-margin" alt="Logo-cambridge">
+    <img src="../assets/logo/cornell-tech.png" class="mkd-img-20 mkd-img-margin" alt="Logo-cornell-tech">
+    <div style="clear:both;"></div>
+    <img src="../assets/logo/ego.png" class="mkd-img-20 mkd-img-margin" alt="Logo-european-gravitational-wave-observatory">
+    <img src="../assets/logo/iota.svg" class="mkd-img-20 mkd-img-margin" alt="Logo-iota">
+    <img src="../assets/logo/latexml.png" class="mkd-img-20 mkd-img-margin" alt="Logo-latexml">
+    <img src="../assets/logo/massey.png" class="mkd-img-20 mkd-img-margin" alt="Logo-massey">
+    <div style="clear:both;"></div>
+    <img src="../assets/logo/mozilla.png" class="mkd-img-20 mkd-img-margin" alt="Logo-mozilla">
+    <img src="../assets/logo/nvaccess.png" class="mkd-img-20 mkd-img-margin" alt="Logo-nvaccess">
+    <img src="../assets/logo/pac.png" class="mkd-img-20 mkd-img-margin" alt="Logo-prime-access-consulting">
+    <img src="../assets/logo/rit.svg" class="mkd-img-20 mkd-img-margin" alt="Logo-rit">
+    <div style="clear:both;"></div>
+    <img src="../assets/logo/saudi-aramco.png" class="mkd-img-20 mkd-img-margin" alt="Logo-saudi-aramco">
+    <img src="../assets/logo/scielo.jpeg" class="mkd-img-20 mkd-img-margin" alt="Logo-scielo">
+    <img src="../assets/logo/stsi.png" class="mkd-img-20 mkd-img-margin" alt="Logo-space-telescope-science-institute">
+    <img src="../assets/logo/uwash.png" class="mkd-img-20 mkd-img-margin" alt="Logo-uwash">
+    <div style="clear:both;"></div>
+    <img src="../assets/logo/virginia-tech.png" class="mkd-img-20 mkd-img-margin" alt="Logo-virginia-tech">
+  </ul>
+</div>
+
+
+
 ## Get caught up on arXiv's accessibility practice
 - Read arXiv's [accessibility research report](
 https://info.arxiv.org/about/accessibility_research_report.html){target="_blank"} that inspired this forum.

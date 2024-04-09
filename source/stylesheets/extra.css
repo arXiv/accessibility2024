@@ -250,6 +250,25 @@ h1 {
   }
 }
 
+/*block for logo background for dark mode*/
+.logo-background {
+  background-color: white;
+  border-radius: 6px;
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content: flex-start;
+  padding: 1em 2em;
+}
+.logo-background h2 {
+  margin-top:0 !important;
+}
+@media all and (max-width: 719px) {
+  .logo-background {
+    margin:0 !important;
+  }
+}
+
 /*ARXIV FOOTER*/
 .arxiv-footer {
   display: flex;
@@ -354,7 +373,7 @@ h1 {
   display:block;
 }
 .mkd-img-margin {
-  margin:10px !important;
+  margin:20px !important;
 }
 .mkd-img-thumb {
   max-width:80px !important;
@@ -363,6 +382,8 @@ h1 {
   border-radius:50%;
   width:120px;
 }
+
+
 @media (min-width: 576px) {
   .mkd-img-left {
     width:calc(50% - 1.25em);
@@ -379,6 +400,12 @@ h1 {
   }
   .mkd-img-50 {
     width:50% !important;
+    float:left;
+    margin:0 auto;
+    display:block;
+  }
+  .mkd-img-20 {
+    width:20% !important;
     float:left;
     margin:0 auto;
     display:block;
