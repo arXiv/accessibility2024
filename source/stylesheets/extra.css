@@ -251,15 +251,26 @@ h1 {
 }
 
 /*block for logo background for dark mode*/
-.logo-background {
+.logo-background ul {
   background-color: white;
   border-radius: 6px;
-  display:flex;
-  flex-direction:row;
-  flex-wrap:wrap;
+  display: flex !important;
+  flex-direction: row;
+  flex-wrap: wrap;
   justify-content: flex-start;
+  align-items: center;
   padding: 1em 2em;
+  list-style: none;
 }
+.logo-background li {
+  flex: 0 0 20%;
+  max-width: 20%;
+  margin: 10px;
+ }
+ .logo-background img {
+  width: 100;
+  height: auto;
+ }
 .logo-background h2 {
   margin-top:0 !important;
 }
