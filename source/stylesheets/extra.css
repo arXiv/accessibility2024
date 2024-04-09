@@ -372,6 +372,13 @@ h1 {
   margin:0 auto;
   display:block;
 }
+
+.mkd-img-20 {
+  width:100% !important;
+  margin:0 auto;
+  display:block;
+}
+
 .mkd-img-margin {
   margin:20px !important;
 }
