@@ -363,15 +363,22 @@ h1 {
   width:100% !important;
 }
 .mkd-img-60 {
-  width:100% !important;
+  width:60% !important;
   margin:0 auto;
   display:block;
 }
 .mkd-img-50 {
-  width:100% !important;
+  width:50% !important;
   margin:0 auto;
   display:block;
 }
+
+.mkd-img-20 {
+  width:20% !important;
+  margin:0 auto;
+  display:block;
+}
+
 .mkd-img-margin {
   margin:20px !important;
 }
