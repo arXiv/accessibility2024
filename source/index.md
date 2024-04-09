@@ -43,7 +43,7 @@ This year, we have the pleasure to have presenters coming from these organizatio
     <img src="../assets/logo/mozilla.png" class="mkd-img-20 mkd-img-margin" alt="Logo-mozilla">
     <img src="../assets/logo/nvaccess.png" class="mkd-img-20 mkd-img-margin" alt="Logo-nvaccess">
     <img src="../assets/logo/pac.png" class="mkd-img-20 mkd-img-margin" alt="Logo-prime-access-consulting">
-    <img src="../assets/logo/rit.png" class="mkd-img-20 mkd-img-margin" alt="Logo-rit">
+    <img src="../assets/logo/rit.svg" class="mkd-img-20 mkd-img-margin" alt="Logo-rit">
     <div style="clear:both;"></div>
     <img src="../assets/logo/saudi-aramco.png" class="mkd-img-20 mkd-img-margin" alt="Logo-saudi-aramco">
     <img src="../assets/logo/scielo.jpeg" class="mkd-img-20 mkd-img-margin" alt="Logo-scielo">
