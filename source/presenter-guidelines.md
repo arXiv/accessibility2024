@@ -1,18 +1,23 @@
 # Guidelines for presenters
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
-Dear Presenters, we are excited to collaborate with you on arXiv Accessibility Forum for 2024! To help you better understand the format and goals of the Forum as well as prepare for your presentation, we hope this page is helpful.
+Dear Presenters, we are excited to collaborate with you on the arXiv Accessibility Forum for 2024! We hope this page helps answer your questions about preparation and presenting.
 
+## Forum schedule
+This year, instead of one large event we will sprinkle events out across the first two weeks in September. This will allow us to choose dates and times that work with your time zone and other commitments. It will also take the time pressure off of each individual event so we won't feel rushed.
 
 ## Presentation structure
-Each presentation will consist of a pre-recorded 10-20 minute introductory video, followed by a 40-minute live discussion and Q&A session. We can go over 10 minutes if we need to. 
+Each presentation will consist of two parts:
 
-We hope this format will make the events more relaxing (even fun!) for our presenters. It is challenging to pull off a live demo if the content is to deep dive on a technology. By pre-recording them, we can ensure that mistakes and setup time get edited out and that we can share a concise and accurate edited video of what you want to present.
+1. A pre-recorded 10-20 minute introductory video
+1. Followed by a live discussion and Q&A session.
 
-Pre-recording will also allow us to share content in advance, one of the most requested accessibility-friendly features from last year's feedback. In this way, we hope to expand access and participation in the Q&A sessions.
+We hope this format will make the events stress-free and enjoyable for all presenters. It is challenging to pull off a live demo and by pre-recording we can take our time, make mistakes, and edit them out.
+
+Pre-recording will also allow us to share content in advance. This is the most requested accessibility accommodation from last year's feedback. It helps to expand access and results in more informed participation in the Q&A sessions.
 
 ## Honing your topic
-We may have already suggested a direction during email exchanges or brainstorm meetings. As a general guideline, topics should meet as many of these goals as possible:
+We may have already discussed a direction during email exchanges or brainstorm meetings. As a general guideline, topics should meet as many of these goals as possible:
 
 - Highlight an effort to make the sciences more accessible.
 - Elevate the voices of scientists with disabilities.
@@ -20,22 +25,25 @@ We may have already suggested a direction during email exchanges or brainstorm m
 - Raise awareness of the current state of accessibility in the sciences.
 
 ## Recording the videos
-The final pre-recorded video will be about 10-20 minutes. Let us know if your video needs more time. We will conduct the recording of the video over Zoom together and take the lead on editing down the raw footage.
+The final pre-recorded video will be about 10-20 minutes, though let us know if your video needs more time. We are flexible. We will conduct the recording of the video over Zoom together and take care of editing and adding captions.
 
-Please keep in mind of the following accessibility requests we have received from the attendees. 
+Please keep in mind of these top requests that we have heard from attendees.
 
-- Position your camera in a way that fans or other fast-moving objects are not visible. 
-- Use a simple language so that attendees whose first language is not English can better understand the content.
-- When speaking, ensure a noise-free environment and stay close to the microphone for better sound quality. 
+- Use clear language and explain any jargon or acronyms you use.
+- Position your camera in a way that fans or other fast-moving objects are not visible.
+- Record from a quiet environment and stay close to the microphone for best sound quality. 
 
 **Hint from a pro:** To preserve continuity between the pre-recorded intro video and the live event, wear the same shirt for both!
 
 ## Presentation materials
-If your introductory video includes additional materials such as slides, please share with us over Email so we can post them along with the recording with attendees ahead of time. 
+If you reference additional materials such as slides, please share the files with us over email and we will post them for attendees ahead of time.
 
-To ensure accessibility, consider the following:
+If you will use a slide deck keep the following in mind:
 
-- Make them as much screen-reader-accessible as possible.
-- For charts and diagrams, repeat information verbally.
-- Use a large font size (14 and above reccommended).
+- When presenting, speak the information on your screen out loud. Not everyone can see your screen.
+- In the slide deck itself add alt text descriptions to images, charts, and graphs.
+- When possible, provide links to the underlying data you reference in your materials.
+- Use as large a font size as you can. Say less on each screen and make it big.
 
+## Ask questions
+Please reach out anytime to [Shamsi](mailto:shamsi@arxiv.org) or [Miranda](mailto:miranda@arxiv.org) with questions!
