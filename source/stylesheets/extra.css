@@ -276,18 +276,23 @@ h1 {
   display: flex !important;
   flex-wrap: wrap;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   padding: 1em;
   margin: 0 !important;
   list-style: none;
 }
 .logo-background li {
-  margin: .25em 1em !important;
+  margin: .5em 1em !important;
   padding:0 !important;
   max-width: 150px;
+  text-align: center;
+  font-size: .75em;
+  line-height: 1em;
+  color: var(--color-library-grey);
  }
  .logo-background img {
   width: 100%;
+  border: 1px solid #dbd3c5;
  }
 .logo-background h2 {
   margin-top:0 !important;

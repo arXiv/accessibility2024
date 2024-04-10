@@ -31,23 +31,23 @@ This year, we are pleased to work with presenters from these universities and ot
 
 <div class="logo-background">
   <ul>
-    <li><img src="../assets/logo/cambridge.png" alt="Logo for cambridge university"></li>
-    <li><img src="../assets/logo/cornell-tech.png" alt="Logo for cornell tech"></li>
-    <li><img src="../assets/logo/ego.png" alt="Logo for the european gravitational wave observatory"></li>
-    <li><img src="../assets/logo/iota.svg" alt="Logo for iota school"></li>
-    <li><img src="../assets/logo/massey.png" alt="Logo for massey university"></li>
-    <li><img src="../assets/logo/rit.svg" alt="Logo for Rochester Institute of Technology, national technical institute for the deaf"></li>
-    <li><img src="../assets/logo/stsi.png" alt="Logo for the space telescope science institute"></li>
-    <li><img src="../assets/logo/uwash.png" alt="Logo for the University of Washington"></li>
-   <li> <img src="../assets/logo/virginia-tech.png" alt="Logo for Virginia Tech University"></li>
-   <li><img src="../assets/logo/amazon.png" alt="Logo for amazon"></li>
-   <li><img src="../assets/logo/arxiv.jpeg" alt="Logo for arxiv"></li>
-   <li><img src="../assets/logo/latexml.png" alt="Logo for latech M L"></li>
-   <li><img src="../assets/logo/mozilla.png" alt="Logo for mozilla"></li>
-   <li><img src="../assets/logo/nvaccess.png" alt="Logo for nvaccess"></li>
-   <li><img src="../assets/logo/pac.png" alt="Logo for prime access consulting"></li>
-   <li><img src="../assets/logo/saudi-aramco.png" alt="Logo for saudi aramco"></li>
-   <li><img src="../assets/logo/scielo.jpeg" alt="Logo for scielo"></li>
+    <li><img src="../assets/logo/cambridge.png" alt="Logo for cambridge university">University Of Cambridge</li>
+    <li><img src="../assets/logo/cornell-tech.png" alt="Logo for cornell tech"> Cornell Tech</li>
+    <li><img src="../assets/logo/ego.png" alt="Logo for the european gravitational wave observatory">EGO: European Gravitational Wave Observatory</li>
+    <li><img src="../assets/logo/iota.png" alt="Logo for iota school">Iota School</li>
+    <li><img src="../assets/logo/massey.png" alt="Logo for massey university">Massey University</li>
+    <li><img src="../assets/logo/rit.png" alt="Logo for Rochester Institute of Technology, national technical institute for the deaf">RIT National Technical Institute for the Deaf</li>
+    <li><img src="../assets/logo/stsi.png" alt="Logo for the space telescope science institute">Space Telescope Science Institute</li>
+    <li><img src="../assets/logo/uwash.png" alt="Logo for the University of Washington">University of Washington</li>
+   <li> <img src="../assets/logo/virginia-tech.png" alt="Logo for Virginia Tech University">Virginia Tech University</li>
+   <li><img src="../assets/logo/amazon.png" alt="Logo for amazon">Amazon</li>
+   <li><img src="../assets/logo/arxiv.png" alt="Logo for arxiv">arXiv</li>
+   <li><img src="../assets/logo/latexml.png" alt="Logo for latech M L">LaTeXML</li>
+   <li><img src="../assets/logo/mozilla.png" alt="Logo for mozilla">Mozilla</li>
+   <li><img src="../assets/logo/nvaccess.png" alt="Logo for nvaccess">NV Access</li>
+   <li><img src="../assets/logo/pac.png" alt="Logo for prime access consulting">Prime Access Consulting</li>
+   <li><img src="../assets/logo/saudi-aramco.png" alt="Logo for saudi aramco">Saudi Aramco</li>
+   <li><img src="../assets/logo/scielo.png" alt="Logo for scielo">SciELO</li>
   </ul>
 </div>
 
