@@ -270,29 +270,27 @@ h1 {
 
 }
 .logo-background ul {
-  background-color: white;
-  border-radius: 6px;
-  border: 1px solid var(--color-access-lime);
   display: flex !important;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: flex-start;
-  padding: 1em;
+  padding: 0 !important;
   margin: 0 !important;
   list-style: none;
 }
 .logo-background li {
-  margin: .5em 1em !important;
+  margin: .75em 1em !important;
   padding:0 !important;
   max-width: 150px;
   text-align: center;
   font-size: .75em;
   line-height: 1em;
-  color: var(--color-library-grey);
  }
  .logo-background img {
   width: 100%;
   border: 1px solid #dbd3c5;
+  background-color: white;
+  margin-bottom:.3em;
  }
 .logo-background h2 {
   margin-top:0 !important;
