@@ -30,27 +30,23 @@ This year, we have the pleasure to have presenters coming from these organizatio
 
 <div class="logo-background">
   <ul>
-    <img src="../assets/logo/amazon.png" class="mkd-img-20 mkd-img-margin" alt="Logo-amazon">
-    <img src="../assets/logo/arxiv.jpeg" class="mkd-img-20 mkd-img-margin" alt="Logo-arxiv">
-    <img src="../assets/logo/cambridge.png" class="mkd-img-20 mkd-img-margin" alt="Logo-cambridge">
-    <img src="../assets/logo/cornell-tech.png" class="mkd-img-20 mkd-img-margin" alt="Logo-cornell-tech">
-    <div style="clear:both;"></div>
-    <img src="../assets/logo/ego.png" class="mkd-img-20 mkd-img-margin" alt="Logo-european-gravitational-wave-observatory">
-    <img src="../assets/logo/iota.svg" class="mkd-img-20 mkd-img-margin" alt="Logo-iota">
-    <img src="../assets/logo/latexml.png" class="mkd-img-20 mkd-img-margin" alt="Logo-latexml">
-    <img src="../assets/logo/massey.png" class="mkd-img-20 mkd-img-margin" alt="Logo-massey">
-    <div style="clear:both;"></div>
-    <img src="../assets/logo/mozilla.png" class="mkd-img-20 mkd-img-margin" alt="Logo-mozilla">
-    <img src="../assets/logo/nvaccess.png" class="mkd-img-20 mkd-img-margin" alt="Logo-nvaccess">
-    <img src="../assets/logo/pac.png" class="mkd-img-20 mkd-img-margin" alt="Logo-prime-access-consulting">
-    <img src="../assets/logo/rit.svg" class="mkd-img-20 mkd-img-margin" alt="Logo-rit">
-    <div style="clear:both;"></div>
-    <img src="../assets/logo/saudi-aramco.png" class="mkd-img-20 mkd-img-margin" alt="Logo-saudi-aramco">
-    <img src="../assets/logo/scielo.jpeg" class="mkd-img-20 mkd-img-margin" alt="Logo-scielo">
-    <img src="../assets/logo/stsi.png" class="mkd-img-20 mkd-img-margin" alt="Logo-space-telescope-science-institute">
-    <img src="../assets/logo/uwash.png" class="mkd-img-20 mkd-img-margin" alt="Logo-uwash">
-    <div style="clear:both;"></div>
-    <img src="../assets/logo/virginia-tech.png" class="mkd-img-20 mkd-img-margin" alt="Logo-virginia-tech">
+    <li><img src="../assets/logo/amazon.png" alt="Logo-amazon"></li>
+    <li><img src="../assets/logo/arxiv.jpeg" alt="Logo-arxiv"></li>
+    <li><img src="../assets/logo/cambridge.png" alt="Logo-cambridge"></li>
+    <li><img src="../assets/logo/cornell-tech.png" alt="Logo-cornell-tech"></li>
+    <li><img src="../assets/logo/ego.png" alt="Logo-european-gravitational-wave-observatory"></li>
+    <li><img src="../assets/logo/iota.svg" alt="Logo-iota"></li>
+    <li><img src="../assets/logo/latexml.png" alt="Logo-latexml"></li>
+    <li><img src="../assets/logo/massey.png" alt="Logo-massey"></li>
+    <li><img src="../assets/logo/mozilla.png" alt="Logo-mozilla"></li>
+    <li><img src="../assets/logo/nvaccess.png" alt="Logo-nvaccess"></li>
+    <li><img src="../assets/logo/pac.png" alt="Logo-prime-access-consulting"></li>
+    <li><img src="../assets/logo/rit.svg" alt="Logo-rit"></li>
+    <li><img src="../assets/logo/saudi-aramco.png" alt="Logo-saudi-aramco"></li>
+    <li><img src="../assets/logo/scielo.jpeg" alt="Logo-scielo"></li>
+    <li><img src="../assets/logo/stsi.png" alt="Logo-space-telescope-science-institute"></li>
+    <li><img src="../assets/logo/uwash.png" alt="Logo-uwash"></li>
+   <li> <img src="../assets/logo/virginia-tech.png" alt="Logo-virginia-tech"></li>
   </ul>
 </div>
 
