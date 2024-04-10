@@ -31,7 +31,7 @@
   --code-border-color:    #c3bfba;
   --footer-fg-color:  black;
   --footer-bg-color:  var(--md-primary-fg-color--lightest);
-  --shadow:           var(--color-open-blue);
+  --shadow:           var(--color-library-grey);
 }
 /* slate theme (dark mode) */
 [data-md-color-scheme="slate"] {
@@ -244,32 +244,50 @@ h1 {
 .highlight h2 {
   margin-top:0 !important;
 }
+.highlight .button-large {
+  background-color:#fbfced;
+  color:;
+}
+.highlight .button-large:hover {
+  background-color:white;
+  color:;
+}
+.highlight img {
+  max-width: 200px;
+  margin-top: 50px;
+}
 @media all and (max-width: 719px) {
   .highlight {
     margin:0 !important;
   }
+  .highlight img {
+    margin: 0 auto;
+  }
 }
 
 /*block for logo background for dark mode*/
+.logo-background {
+
+}
 .logo-background ul {
   background-color: white;
   border-radius: 6px;
+  border: 1px solid var(--color-access-lime);
   display: flex !important;
-  flex-direction: row;
   flex-wrap: wrap;
-  justify-content: flex-start;
+  justify-content: space-between;
   align-items: center;
-  padding: 1em 2em;
+  padding: 1em;
+  margin: 0 !important;
   list-style: none;
 }
 .logo-background li {
-  flex: 0 0 20%;
-  max-width: 20%;
-  margin: 10px;
+  margin: .25em 1em !important;
+  padding:0 !important;
+  max-width: 150px;
  }
  .logo-background img {
-  width: 100;
-  height: auto;
+  width: 100%;
  }
 .logo-background h2 {
   margin-top:0 !important;

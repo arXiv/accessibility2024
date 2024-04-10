@@ -1,65 +1,66 @@
 ![Logo for the arXiv forum](../assets/forum-logotype-only.svg){.forum-logotype alt='logo for the arXiv forum' role="presentation"}
 
 # Welcome to the arXiv Accessibility Forum 2024!
-## Exploring the many lines of action that are converging on accessible research
+**Exploring the many lines of action, people, and groups that are converging on more accessible science**
 
-You are warmly invited to our second accessibility forum, an annual event for the scientific community focused on making research more accessible. This year, we spotlight demonstrations and discussions from many different researchers and experts that are all converging on a more accessible future for science. The event is free and open to all. It will be over Zoom.
+You are warmly invited to our second accessibility forum, an annual event for the scientific community focused on making research more accessible. The Forum is fully remote, free, and open to all. This year, we spotlight demonstrations and discussions from many different researchers and experts who are all converging on a more accessible future for science.
 
 Learn, share, and be inspired for change. Accessibility means *access regardless of disability*, and only when research is fully accessible can we truly call it open science!
 <div style="clear:both;"></div>
 
 <div class="highlight">
-  <h2>Registration is now open</h2>
-  <p> Secure your spot by <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">filling out this form</a>. This will help us better estimate the amount of traffic for event operations. </p>
+  <h2>Pre-Registration is open</h2>
+  <p>It is time! <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Secure your spot</a> for this September and get ready to learn, share, and be inspired for change. The Forum is fully remote and free and open to all.</p>
 
-  <img src="../assets/forum-logotype-with-logo.svg" role="presentation" alt="arxiv forum logotype saying accessibility 2024" class="mkd-img-right mkd-img-50">
+  <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-large">Register</a>
 
+  <img src="../assets/forum-logotype-with-logo.svg" role="presentation" alt="arxiv forum logotype saying accessibility 2024" class="mkd-img-right">
   <div style="clear:both;"></div>
 </div>
 
-## Stay tuned for these sessions and more
+## Events preview
+- The Social Model of disability: What are the barriers to full participation in the sciences?
 - Listening to Stars: Using the technique of sonification in astronomy.
 - Tactile surfaces: Using sense of touch to engage with visualizations.
-- Millennium Prize: Like the "Hilbert's List" in mathematics, but for accessibility.
-- HTML papers: How arXiv and LaTeXML made it happen.
+- Funding accessibility: A lively discussion on the past, present, and future of funding this critical work.
+- HTML papers: How arXiv and LaTeXML made it happen, and what comes next.
 - [See all sessions](../schedule)
 
-## Stay tuned for a diverse lineup of presenters 
-This year, we have the pleasure to have presenters coming from these organizations and bringing perspectives that converge on accessible research.
-
+## Presenter affiliations
+This year, we are pleased to work with presenters from these universities and other organizations, bringing diverse perspectives that converge on accessible science.
 
 <div class="logo-background">
   <ul>
-    <li><img src="../assets/logo/amazon.png" alt="Logo-amazon"></li>
-    <li><img src="../assets/logo/arxiv.jpeg" alt="Logo-arxiv"></li>
-    <li><img src="../assets/logo/cambridge.png" alt="Logo-cambridge"></li>
-    <li><img src="../assets/logo/cornell-tech.png" alt="Logo-cornell-tech"></li>
-    <li><img src="../assets/logo/ego.png" alt="Logo-european-gravitational-wave-observatory"></li>
-    <li><img src="../assets/logo/iota.svg" alt="Logo-iota"></li>
-    <li><img src="../assets/logo/latexml.png" alt="Logo-latexml"></li>
-    <li><img src="../assets/logo/massey.png" alt="Logo-massey"></li>
-    <li><img src="../assets/logo/mozilla.png" alt="Logo-mozilla"></li>
-    <li><img src="../assets/logo/nvaccess.png" alt="Logo-nvaccess"></li>
-    <li><img src="../assets/logo/pac.png" alt="Logo-prime-access-consulting"></li>
-    <li><img src="../assets/logo/rit.svg" alt="Logo-rit"></li>
-    <li><img src="../assets/logo/saudi-aramco.png" alt="Logo-saudi-aramco"></li>
-    <li><img src="../assets/logo/scielo.jpeg" alt="Logo-scielo"></li>
-    <li><img src="../assets/logo/stsi.png" alt="Logo-space-telescope-science-institute"></li>
-    <li><img src="../assets/logo/uwash.png" alt="Logo-uwash"></li>
-   <li> <img src="../assets/logo/virginia-tech.png" alt="Logo-virginia-tech"></li>
+    <li><img src="../assets/logo/cambridge.png" alt="Logo for cambridge university"></li>
+    <li><img src="../assets/logo/cornell-tech.png" alt="Logo for cornell tech"></li>
+    <li><img src="../assets/logo/ego.png" alt="Logo for the european gravitational wave observatory"></li>
+    <li><img src="../assets/logo/iota.svg" alt="Logo for iota school"></li>
+    <li><img src="../assets/logo/massey.png" alt="Logo for massey university"></li>
+    <li><img src="../assets/logo/rit.svg" alt="Logo for Rochester Institute of Technology, national technical institute for the deaf"></li>
+    <li><img src="../assets/logo/stsi.png" alt="Logo for the space telescope science institute"></li>
+    <li><img src="../assets/logo/uwash.png" alt="Logo for the University of Washington"></li>
+   <li> <img src="../assets/logo/virginia-tech.png" alt="Logo for Virginia Tech University"></li>
+   <li><img src="../assets/logo/amazon.png" alt="Logo for amazon"></li>
+   <li><img src="../assets/logo/arxiv.jpeg" alt="Logo for arxiv"></li>
+   <li><img src="../assets/logo/latexml.png" alt="Logo for latech M L"></li>
+   <li><img src="../assets/logo/mozilla.png" alt="Logo for mozilla"></li>
+   <li><img src="../assets/logo/nvaccess.png" alt="Logo for nvaccess"></li>
+   <li><img src="../assets/logo/pac.png" alt="Logo for prime access consulting"></li>
+   <li><img src="../assets/logo/saudi-aramco.png" alt="Logo for saudi aramco"></li>
+   <li><img src="../assets/logo/scielo.jpeg" alt="Logo for scielo"></li>
   </ul>
 </div>
 
 
 
-## Get caught up on arXiv's accessibility practice
+## Catching up
 - Read arXiv's [accessibility research report](
 https://info.arxiv.org/about/accessibility_research_report.html){target="_blank"} that inspired this forum.
 - Access [recordings from last year's forum](https://accessibility2023.arxiv.org/index.html){target="_blank"} in case you missed the event.
 - Learn about the [new HTML format on arXiv](https://arxiv.org/html/2402.08954v1){target="_blank"}.
 
 
-## Policy
+## Event Policy
 - All participants must follow arXiv's [code of conduct](https://info.arxiv.org/help/policies/code_of_conduct.html#inclusiveness-and-respect){target="_blank"}.
 
 

@@ -1,48 +1,30 @@
-# Event format
+# Schedule of Events
 
-The Accessibility Forum is an online event hosted over Zoom. It is free and open to anyone.
+The Accessibility Forum is an online event hosted over Zoom. It is free and open to all.
 
-This year we are testing a more flexible format that we hope will be friendly for both presenters and attendees. Instead of one large event, we will host multiple smaller events spread out over the first two weeks in September.
+This year we are testing a more flexible format that we hope will be friendly for both presenters and attendees. Instead of one large event, we will host multiple smaller events spread out over the first two weeks in September. All events will include a demonstration followed by a discussion and audience Q&A.
 
-It gives us more flexibility in the timing. We will not need to cut off any sessions to stick to a strict schedule. We can also schedule events at times that make more sense for everyone's time zone.
-
-Each session will consist of a pre-recorded 10-20 minute introductory video, followed by a 40-minute live discussion and Q&A session. Intro videos, along with presentation materials if any, will be posted below starting from July. 
-
-Last but not least, the forum provides Github Discussion Boards for general comments and discussions. We look forward to hearing from you.
+More details will appear here as we hone in on exact dates and times, check back often! Below, find a preview of some of the exciting topics that are taking shape.
 
 
-# Preliminary schedule
-
-Please check this page soon for more topical developments and schedule specifics (date, time, video recording, etc) as the program takes shape.
-
-
+# Schedule Preview
 <!-- | Date | Time (EDT) | Session | Description | Presenters | Introductory Video | -->
 | Session | Description | Presenters |
 | --- | --- | --- |
-| **Rethinking Accessibility** | Dissecting accessibility as a social and cultural issue, rather than technical | Kim Bryant, Ashley Shew |
-| **Listening to Stars** | A demo and discussion on the sonification technique in astronomy | Wanda Diaz-Merced, Sarah Kane, Scott Fleming |
-| **Navigating Research Journey** | A walkthrough on a STEM research pipeline and ways to make it accessible | Venkatesh Potluri, Jonathan Godfrey |
-| **HTML on arXiv** | Development and next-steps of HTML papers on arXiv | Deyan Ginev, Norbert Preining, Tony Malykh, Michael Curran |
-| **Millennium Prize**  |  Like the Hilbert's List in Mathematics, but for accessibility; creating a new Millennium Award for progress in accessible science | Josh Miele, Sina Bahram, Patrick Smyth |
-| **AI's Role in Accessibility** | TBD | Arwa Alnajashi |
-| **Tactile Prototype** | A demo on a tactile technology for BVI Users | Ricardo Gonzalez, Thijs Roumen |
-| **Together with Deaf Hub** | Resources, stories, and support at the Deaf Hub. | Camille Ouellette, Hannah DeFelice, and Deaf Hub colleagues |
-| **Accessibility in South America and Beyond with SciELO** | Development and next-steps of accessible research output sharing in the South American context | Solange Maria dos Santos, Alex Mendonça |
+| **The social model of accessibility** | What are the barriers to full participation in the sciences? | Dr. Ashley Shew, Kim Bryant |
+| **Listening to stars** | A demonstration and discussion on sonification of data in astronomy | Dr. Wanda Diaz-Merced, Dr. Scott Fleming, Sarah Kane |
+| **Together with DeafHub** | Discover the resources, stories, and support at the DeafHub. | Camille Ouellette, Hannah DeFelice, Dyl Levenson, and DeafHub colleagues |
+| **Accessibility in South America and beyond with SciELO** | *Event hosted in Spanish.* Development and next steps for accessibility in the SciELO community | Dr. Licia Verde, Dr. Solange Maria dos Santos, Alex Mendonça |
+| **Navigating the research ecosystem** | Accessibility at all stages of the STEM researcher's journey | Venkatesh Potluri, Dr. Jonathan Godfrey |
+| **HTML papers on arXiv** | What is working, what is not, what comes next | Michael Curran, Tony Malykh, Deyan Ginev, Dr. Norbert Preining |
+| **Let's talk money**  |  A lively discussion around accessibility funding and sustainable change | Dr. Josh Miele, Dr. Sina Bahram, Dr. Patrick Smyth |
+| **Accessibility and the crowd** | Applications for crowdsourcing to improve accessibility | Arwa Alnajashi |
+| **Tactile Prototype** | A demonstration and discussion of a tactile technology for charts and graphs | Ricardo Gonzalez, Dr. Thijs Jan Roumen |
 
 <div style="clear:both;"></div>
 <div class="button-reg">
   Excited about the diverse lineup? <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Register here</a> to be part of these conversations!
   <div style="clear:both;"></div>
 </div>
-
-<!--
-For now, some of our confirmed participants include:
-
-- Dr. Wanda Diaz-Merced, Office of Astronomy for Development, Harvard-Smithsonian Center for Astrophysics
-- Sarah Kane, Astronomy PhD student, University of Cambridge
-- Dr. Scott Fleming, Branch manager, MAST at the Space Telescope Science Institute
-- Neil Soiffer, MathML
-- Dr. Patrick Smyth, Chief Learner at Iota School, hackcessibility advocate
--->
 
 ![No Giscus](){#no-giscus}
