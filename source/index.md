@@ -24,7 +24,7 @@ Learn, share, and be inspired for change. Accessibility means *access regardless
 - Tactile surfaces: Using sense of touch to engage with visualizations.
 - Funding accessibility: A lively discussion on the past, present, and future of funding this critical work.
 - HTML papers: How arXiv and LaTeXML made it happen, and what comes next.
-- [See all sessions](../schedule)
+- [See all sessions](../event)
 
 ## Presenter affiliations
 This year, we are pleased to work with presenters from these universities and other organizations, bringing diverse perspectives that converge on accessible science.

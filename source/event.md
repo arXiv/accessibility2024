@@ -7,7 +7,7 @@ This year we are testing a more flexible format that we hope will be friendly fo
 More details will appear here as we hone in on exact dates and times, check back often! Below, find a preview of some of the exciting topics that are taking shape.
 
 
-# Schedule Preview
+## Schedule Preview
 <!-- | Date | Time (EDT) | Session | Description | Presenters | Introductory Video | -->
 | Session | Description | Presenters |
 | --- | --- | --- |
