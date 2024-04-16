@@ -8,16 +8,16 @@ We are very pleased to be working with the following key participants to bring t
 <!-- ![Arwa Alnajashi](../assets/profile/arwa.jpeg){.mkd-img-left .mkd-img-profile alt='Arwa Alnajashi Photo'} -->
 
 Data Scientist, Saudi Aramco.
-Arwa applies leading data science techniques to automate critical operations within the oil and gas industry. Her passion lies in creating an empowered and inclusive digital future, ensuring that advancements in technology pave the way for greater accessibility and efficiency across industries. [Arwa's LinkedIn Page](https://sa.linkedin.com/in/arwa-alnajashi-84b1541a2?trk=people-guest_people_search-card){target="_blank"}
+Arw's' passion lies in creating an empowered and inclusive digital future, ensuring that advancements in technology pave the way for greater accessibility and efficiency across industries. Currently, she applies data science to automate critical operations in the oil and gas industry. [Arwa's LinkedIn Page](https://sa.linkedin.com/in/arwa-alnajashi-84b1541a2?trk=people-guest_people_search-card){target="_blank"}
 
 ---
 
 ### Sina Bahram
 
 ![Sina Bahram](../assets/profile/sina.jpeg){.mkd-img-left .mkd-img-profile alt='Sina Bahram Photo'}
-Founder of Prime Access Computing
+Founder, Prime Access Computing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Sina is a blind computer scientist, consultant, entrepreneur, and researcher. He brings expertise in inclusive design  in an operationally scalable and sustainable manner, be it a website, a mix-reality experience, or an entire museum.
 
 ---
 
@@ -44,7 +44,7 @@ Kim brings expertise in interprating accessibility through the lens of social sc
 ![Michael Curran](../assets/profile/michael.jpeg){.mkd-img-left .mkd-img-profile alt='Michael Curran Photo'}
 Co-Founder and Lead Developer, NV Access Limited (NVDA).
 
-Mick is the creator of the free and open source NVDA screen reading software, enabling more than 200,000 blind and vision impaired people worldwide to independently use computers. His expertise lies in software accessibility standards, software APIs, and best practice approaches to functional usability. [Mick's LinkedIn Profile](https://au.linkedin.com/in/mdcurran){target="_blank"}
+Mick is the creator of the free and open source NVDA screen reading software, that has enabled more than 200,000 blind and vision impaired people worldwide to independently use computers. He brings expertise in software accessibility standards, software APIs, and best practice approaches to functional usability. [Mick's LinkedIn Profile](https://au.linkedin.com/in/mdcurran){target="_blank"}
 
 ---
 
@@ -62,7 +62,7 @@ Wanda is an astronomer and the developer of the technique, sonification, that co
 <!-- ![Hannah DeFelice](../assets/profile/hannah.jpeg){.mkd-img-left .mkd-img-profile alt='Hannah DeFelice Photo'} -->
 Master's Student in Environmental Science, Rochester Institute of Technology.
 
-TBD: Hannah is a blinddeaf environmental science researcher. She is currently working on the NSF-funded Multiscale RECIPES Project for Sustainable Food System.
+Hannah is a blinddeaf environmental science researcher. She is currently working on the NSF-funded Multiscale RECIPES Project for Sustainable Food System.
 
 ---
 
@@ -71,7 +71,7 @@ TBD: Hannah is a blinddeaf environmental science researcher. She is currently wo
 ![Solange dos Santos](../assets/profile/solange.jpeg){.mkd-img-left .mkd-img-profile alt='Solange dos Santos Photo'}
 Online Submission & Preprints Coordinator, SciELO.
 
-Solange brings in scientific communication expertise in diverse geographical contexts, such as Argentina, Bolivia, Colombia, Mexico, Paraguay, and South Africa Solange advocates for accessibility in both the open archive and various academic journals. [Solange's LinkedIn Profile](https://www.linkedin.com/in/solangemariasantos/?originalSubdomain=br){target="_blank"}
+Solange brings in scientific communication expertise in diverse geographical contexts, such as Argentina, Bolivia, Colombia, Mexico, Paraguay, and South Africa. Solange advocates for accessibility in open archive space as well as academic journals. [Solange's LinkedIn Profile](https://www.linkedin.com/in/solangemariasantos/?originalSubdomain=br){target="_blank"}
 
 ---
 
@@ -80,7 +80,7 @@ Solange brings in scientific communication expertise in diverse geographical con
 ![Scott Fleming](../assets/profile/scott.jpeg){.mkd-img-left .mkd-img-profile alt='Scott Fleming Photo'}
 Archive Scientist at the Mikulski Archive for Space Telescopes (MAST), Space Telescope Science Institute (STSI). 
 
-Scott supports missions like GALEX, Kepler, K2, and TESS, spectroscopic data sets across the entire MAST archive. Research-wise, he is interested in open source software development, and new science that is enabled with archival or cross-mission data. [Scott's STSI Profile](https://www.stsci.edu/stsci-research/research-directory/scott-fleming){target="_blank"}
+Scott is interested in open source software development, and new science that is enabled with archival or cross-mission data. [Scott's STSI Profile](https://www.stsci.edu/stsci-research/research-directory/scott-fleming){target="_blank"}
 
 ---
 
@@ -125,7 +125,7 @@ For Sarah, her career as a researcher is intertwined with her work as a disabili
 <!-- ![Tony Malykh](../assets/profile/tony.jpeg){.mkd-img-left .mkd-img-profile alt='Tony Malykh Photo'} -->
 Software Engineer, Meta.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Tony is a machine learning scientist, a long-time supporter of arXiv, and a contributor to NVDA's open source codebase.
 
 ---
 
@@ -134,7 +134,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![Alex Mendonça](../assets/profile/alex.jpeg){.mkd-img-left .mkd-img-profile alt='Alex Mendonça Photo'}
 Production and Publishing Coordinator, SciELO.
 
-During Alex's 17-year tenure at SciELO, he has co-led several significant strategies, including the transition from indexed journals to Open Science, as well as the implementation of Diversity, Equity, Inclusion and Accessibility (DEIA) policies. [Alex's LinkedIn Profile](https://www.linkedin.com/in/alex-mendon%C3%A7a/?originalSubdomain=br){target="_blank"}
+Alex brings expertise in organizational strategies in transitioning from indexed journals to open science, as well as the implementation of Diversity, Equity, Inclusion and Accessibility (DEIA) policies at SciELO. [Alex's LinkedIn Profile](https://www.linkedin.com/in/alex-mendon%C3%A7a/?originalSubdomain=br){target="_blank"}
 
 ---
 
@@ -143,7 +143,7 @@ During Alex's 17-year tenure at SciELO, he has co-led several significant strate
 ![Joshua Miele ](../assets/profile/josh.jpeg){.mkd-img-left .mkd-img-profile alt='Joshua Miele Photo'}
 Principal Accessibility Researcher, Amazon Lab126; 2021 MacArthur Foundation Fellow.
 
-Josh specializes in accessible technology design with previous research projects on tactile graphics and auditory displays. Additionally, he brings expertise in effective giving and philanthropy in the accessible science space. 
+Josh specializes in accessible technology design with previous research projects on tactile graphics and auditory displays. Additionally, he is an expert in effective giving and philanthropy in the accessible science space. 
 
 ---
 
