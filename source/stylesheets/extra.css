@@ -80,7 +80,7 @@ a { transition: all 1s ease-in-out; }
 .md-content a { text-decoration: underline; }
 .md-content a:hover, .md-content a:focus { text-decoration: none; }
 a:hover { transition: all 0.5s;}
-.md-typeset hr { margin: 1em 0 !important; }
+.md-typeset hr { margin: 1em 0 !important; clear: both;}
 h1, h2, h3, h4, h5 {
   font-family: freight-sans-pro, sans-serif;
 }
@@ -235,7 +235,7 @@ h1 {
 }
 /*block for highlighting content or CTA*/
 .highlight {
-  background-color: hsla(67, 69%, 51%, 0.25);
+  background-color: hsla(67, 69%, 51%, 0.05);
   /* background-color: var(--md-accent-fg-color); */
   border: 2px solid var(--md-accent-fg-color);
   border-radius: 6px;
@@ -420,6 +420,8 @@ h1 {
   max-width: 150px !important;
   margin-right: 1em;
   margin-bottom: 1em;
+  border: 5px solid #c3bfba;
+  border-radius: 10px; 
   clear: both;
 }
 
