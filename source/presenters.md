@@ -1,6 +1,6 @@
 # Presenter bios
 
-We are very pleased to be working with the following key participants to bring this forum to life. The bios are listed in the alphabetical order of last names.
+We are very pleased to be working with the following key participants to bring this forum to life. The bios are listed in the alphabetical order of last name.
 
 
 ### Arwa Alnajashi
@@ -111,6 +111,15 @@ Ricardo designs interactive systems that empower people of disabilities, particu
 
 ---
 
+### Dr. Bonnie Jacob
+![Bonnie Jacob](../assets/profile/bonnie.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Bonnie Jacob against a clear dark grey background'}
+
+Associate Professor, Department of Science and Mathematics and National Technical Institute for the Deaf, Rochester Institute of Technology.
+
+Bonnie is passionate about promoting undergraduate research in mathematics as well as STEM in general, particularly among deaf and hard-of-hearing students. She is a mathematician by training, specializing in graph theory and combinatorial matrix theory.
+
+---
+
 ### Sarah Kane
 
 ![Sarah Kane](../assets/profile/sarah.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Sarah Kane smiling in a forest'}
@@ -121,12 +130,20 @@ For Sarah, her career as a researcher is intertwined with her work as a disabili
 
 ---
 
+### Luisa de Souza Leão  
+
+---
+
 ### Tony Malykh
 
 <!-- ![Tony Malykh](../assets/profile/tony.jpeg){.mkd-img-left .mkd-img-profile alt='Tony Malykh Photo'} -->
 Software Engineer, Meta.
 
 Tony is a machine learning scientist, a long-time supporter of arXiv, and a contributor to NVDA's open source codebase.
+
+---
+
+### Jairo Maurano Machado 
 
 ---
 
@@ -202,13 +219,23 @@ Ashley specializes in disability studies and technology ethics. She is the autho
 
 ### Dr. Patrick Smyth
 
-![Patrick Smyth](../assets/profile/patrick.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Patrick Smyth against a clear background'}
+![Patrick Smyth](../assets/profile/patrick.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Patrick Smyth against a clear grey background'}
 
 Chief Learner, Iota School; Staff Developer Relations Engineer, Chainguard.
 
 Patrick is a blind hacker and programmer whose work focuses on citizen technology, critical infrastructure, accessibility, and technical pedagogy. [Patrick's Homepage](https://smythp.com/index.html){target="_blank"}
 
+---
+
+### Dr. Licia Verde
+![Licia Verde](../assets/profile/licia.png){.mkd-img-left .mkd-img-profile alt='Headshot of Licia Verde against a dark background'}
+
+Scientific Director at Journal of Cosmology and Astroparticle Physics; ICREA Professor at the Institute of Cosmo Sciences, University of Barcelona.
+
+Licia brings in intersectional expertise in accessible science as an author, researcher, and editor. Licia is also a long-time friend of arXiv as she serves as the chair of the science advisory board since 2019.
+
 <br>
+
 # Facilitator bio
 ### Shamsi Brinn
 ![Shamsi Brinn](../assets/profile/shamsi.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Shamsi Brinn against a greenery'}
