@@ -1,6 +1,6 @@
 # Presenter bios
 
-We are very pleased to be working with the following key participants to bring this forum to life. The bios are listed in the alphabetical order of last names.
+We are very pleased to be working with the following key participants to bring this forum to life. The bios are listed in the alphabetical order of last name.
 
 
 ### Arwa Alnajashi
@@ -35,11 +35,21 @@ Kim brings expertise in interprating accessibility through the lens of social sc
 
 ### Michael Curran
 
-![Michael Curran](../assets/profile/michael.jpeg){.mkd-img-left .mkd-img-profile alt='Head of Michael Curran against a dark neutral background'}
+![Michael Curran](../assets/profile/michael.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Michael Curran against a dark neutral background'}
 
 Co-Founder and Lead Developer, NV Access Limited (NVDA).
 
 Mick is the creator of the free and open source NVDA screen reading software, that has enabled more than 200,000 blind and vision impaired people worldwide to independently use computers. He brings expertise in software accessibility standards, software APIs, and best practice approaches to functional usability. [Mick's LinkedIn Profile](https://au.linkedin.com/in/mdcurran){target="_blank"}
+
+---
+
+### Phia Damsma 
+
+![Phia Damsma](../assets/profile/phia.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Phia Damsma in black glasses against a white background'}
+
+Co-President, Sonokids Australia
+
+Phia has more than 20 years of experience building innovative educational software programs and mobile apps for children with special needs, especially blind and low-vision. Her not-for-profit social enterprise Sonokids is impacting children globally, supporting playful learning of fundamental technology and other Expanded Core Curriculum skills, through the technique of sonification. [Phia's LinkedIn Profile](https://au.linkedin.com/in/phia-damsma-18b3a29)
 
 ---
 
@@ -111,6 +121,23 @@ Ricardo designs interactive systems that empower people of disabilities, particu
 
 ---
 
+### Mar Gonzalez-Franco
+![Mar Gonzalez-Franco](../assets/profile/mar.jpeg){.mkd-img-left .mkd-img-profile alt='Black and white headshot of Mar Gonzalez smiling and looking into the top right corner while holding her chin'}
+
+Research Scientist, Google; Editor and Ethics and Diversity Chair, IEEE VGTC  
+
+
+---
+
+### Dr. Bonnie Jacob
+![Bonnie Jacob](../assets/profile/bonnie.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Bonnie Jacob against a clear dark grey background'}
+
+Associate Professor, Department of Science and Mathematics and National Technical Institute for the Deaf, Rochester Institute of Technology.
+
+Bonnie is passionate about promoting undergraduate research in mathematics as well as STEM in general, particularly among deaf and hard-of-hearing students. She is a mathematician by training, specializing in graph theory and combinatorial matrix theory.
+
+---
+
 ### Sarah Kane
 
 ![Sarah Kane](../assets/profile/sarah.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Sarah Kane smiling in a forest'}
@@ -118,6 +145,28 @@ Ricardo designs interactive systems that empower people of disabilities, particu
 Ph.D. Candidate in Astrophysics, Institute of Astronomy, Univeristy of Cambridge.
 
 For Sarah, her career as a researcher is intertwined with her work as a disability advocate. She was born legally blind and has a strong interest in the accessibility of science to people with disabilities. Her work includes usability testing for Astronify, a project of the Space Telescope Institute turning datasets into audio. [Sarah's LinkedIn Profile](https://uk.linkedin.com/in/sarah-kane-4a9414220){target="_blank"}
+
+---
+
+### Devva Kasnitz
+![Devva Kasnitz](../assets/profile/devva.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Devva Kasnitz in a red sweater and a red scarf against a white background'}
+
+Executive Director of the Society for Disability Studies and Adjunct Professor, CUNY.
+
+
+---
+
+### Anne Kearney Logan
+
+![Anne Logan](../assets/profile/anne.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Anne Logan smiling against a white background'}
+
+Adjunct Professor, Gallaudet University
+
+A rejoiner from last year's forum, Anne currently teaches as a professor at Gallaudet and creates STEM videos for deaf/HOH children for educational game app company ASL Aspire. She soon will launch her own wine education program in ASL. She will share with us on her recent transition from graduating Cornell's PhD in in horticulture with a speciality in viticulture to being a professor in the accessible research ecosystem event.
+
+---
+
+### Luisa de Souza Leão  
 
 ---
 
@@ -137,6 +186,16 @@ Tony is a machine learning scientist, a long-time supporter of arXiv, and a cont
 Production and Publishing Coordinator, SciELO.
 
 Alex brings expertise in organizational strategies in transitioning from indexed journals to open science, as well as the implementation of Diversity, Equity, Inclusion and Accessibility (DEIA) policies at SciELO. [Alex's LinkedIn Profile](https://www.linkedin.com/in/alex-mendon%C3%A7a/?originalSubdomain=br){target="_blank"}
+
+---
+
+### Kate Meredith
+
+![Kate Meredith](../assets/profile/kate.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Kate Meredith in a red sweater smiling against a grey background'}
+
+Founder and President, Geneva Lake Astrophysics and STEAM (GLAS) Education.
+
+[Kate's LinkedIn Profile](https://www.linkedin.com/in/kmeredith)
 
 ---
 
@@ -202,13 +261,34 @@ Ashley specializes in disability studies and technology ethics. She is the autho
 
 ### Dr. Patrick Smyth
 
-![Patrick Smyth](../assets/profile/patrick.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Patrick Smyth against a clear background'}
+![Patrick Smyth](../assets/profile/patrick.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Patrick Smyth against a clear grey background'}
 
 Chief Learner, Iota School; Staff Developer Relations Engineer, Chainguard.
 
 Patrick is a blind hacker and programmer whose work focuses on citizen technology, critical infrastructure, accessibility, and technical pedagogy. [Patrick's Homepage](https://smythp.com/index.html){target="_blank"}
 
+---
+### Robin Williams
+
+---
+
+### Dr. Licia Verde
+![Licia Verde](../assets/profile/licia.png){.mkd-img-left .mkd-img-profile alt='Headshot of Licia Verde against a dark background'}
+
+Scientific Director at Journal of Cosmology and Astroparticle Physics; ICREA Professor at the Institute of Cosmo Sciences, University of Barcelona.
+
+Licia brings in intersectional expertise in accessible science as an author, researcher, and editor. Licia is also a long-time friend of arXiv as she serves as the chair of the science advisory board since 2019.
+
+---
+###  Allie Zombron
+
+---
+
+### Raafat Zaini
+
+
 <br>
+
 # Facilitator bio
 ### Shamsi Brinn
 ![Shamsi Brinn](../assets/profile/shamsi.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Shamsi Brinn against a greenery'}

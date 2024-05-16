@@ -9,17 +9,16 @@ More details will appear here as we hone in on exact dates and times, check back
 
 ## Schedule Preview
 <!-- | Date | Time (EDT) | Session | Description | Presenters | Introductory Video | -->
-| Session | Description | Presenters |
-| --- | --- | --- |
-| **The social model of accessibility** | What are the barriers to full participation in the sciences? | Dr. Ashley Shew, Kim Bryant |
-| **Listening to stars** | A demonstration and discussion on sonification of data in astronomy | Dr. Wanda Diaz-Merced, Dr. Scott Fleming, Sarah Kane |
-| **Together with DeafHub** | Discover the resources, stories, and support at the DeafHub. | Camille Ouellette, Hannah DeFelice, Dyl Levenson, and DeafHub colleagues |
-| **Accessibility in South America and beyond with SciELO** | *Event hosted in Spanish.* Development and next steps for accessibility in the SciELO community | Dr. Licia Verde, Dr. Solange Maria dos Santos, Alex Mendonça |
-| **Navigating the research ecosystem** | Accessibility at all stages of the STEM researcher's journey | Venkatesh Potluri, Dr. Jonathan Godfrey |
+| Session | Description | Presenters | Moderator |
+| --- | --- | --- | --- |
+| **The social model of accessibility** | What are the barriers to full participation in the sciences? | Dr. Devva Kasnitz, Dr. Ashley Shew, Kim Bryant | |
+| **Listening to data** | A demonstration and discussion on sonification of data in astronomy | Dr. Wanda Diaz-Merced, Dr. Scott Fleming, Sarah Kane, Robin Williams, Phia Damsma | Kate Meredith |
+| **Together with DeafHub** | Discover the resources, stories, and support at the DeafHub. | Hannah DeFelice, Camille Ouellette, Dyl Levenson, Elizabeth Ayers, Jenna Stewardson | Dr. Bonnie Jacob |
+| **Accessibility in South America and beyond with SciELO** | *Event hosted in Spanish and Portuguese with an interpretation service between the 2 languages over Zoom.* Development and next steps for accessibility in the SciELO community | Dr. Licia Verde, Dr. Mar Gonzalez-Franco, Luisa de Souza Leão, Dr. Solange Maria dos Santos, Alex Mendonça | |
+| **Navigating the research ecosystem** | Accessibility at all stages of the STEM researcher's journey | Venkatesh Potluri, Dr. Jonathan Godfrey, Anne Kearney Logan | |
 | **HTML papers on arXiv** | What is working, what is not, what comes next | Michael Curran, Tony Malykh, Deyan Ginev, Dr. Norbert Preining |
 | **Let's talk money**  |  A lively discussion around accessibility funding and sustainable change | Dr. Josh Miele, Dr. Sina Bahram, Dr. Patrick Smyth |
-| **Accessibility and the crowd** | Applications for crowdsourcing to improve accessibility | Arwa Alnajashi |
-| **Tactile Prototype** | A demonstration and discussion of a tactile technology for charts and graphs | Ricardo Gonzalez, Dr. Thijs Jan Roumen |
+| **AI and research accessibility** |  A demonstration and discussion of 2 AI-driven applications for improving research accessibility | Arwa Alnajashi, Ricardo Gonzalez, Allie Zombron | Dr. Thijs Jan Roumen, Dr.  Raafat Zaini |
 
 <div style="clear:both;"></div>
 <div class="button-reg">
