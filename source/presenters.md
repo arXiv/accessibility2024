@@ -13,16 +13,6 @@ Arwa's passion lies in creating an empowered and inclusive digital future, ensur
 
 ---
 
-### Sina Bahram
-
-![Sina Bahram](../assets/profile/sina.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Sina Bahram sitting  on a sofa holding an iPad'}
-
-Founder, Prime Access Computing.
-
-Sina is a blind computer scientist, consultant, entrepreneur, and researcher. He brings expertise in inclusive design  in an operationally scalable and sustainable manner, be it a website, a mix-reality experience, or an entire museum.
-
----
-
 ### Kim Bryant
 
 ![Kim Bryant](../assets/profile/kim.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Kim Bryant against a wooden wall'}
@@ -127,7 +117,6 @@ Ricardo designs interactive systems that empower people of disabilities, particu
 
 Research Scientist, Google; Editor and Ethics and Diversity Chair, IEEE VGTC  
 
-
 ---
 
 ### Dr. Bonnie Jacob
@@ -143,7 +132,7 @@ Bonnie is passionate about promoting undergraduate research in mathematics as we
 
 ![Sarah Kane](../assets/profile/sarah.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Sarah Kane smiling in a forest'}
 
-Ph.D. Candidate in Astrophysics, Institute of Astronomy, Univeristy of Cambridge.
+Ph.D. Candidate in Astrophysics, Institute of Astronomy, University of Cambridge.
 
 For Sarah, her career as a researcher is intertwined with her work as a disability advocate. She was born legally blind and has a strong interest in the accessibility of science to people with disabilities. Her work includes usability testing for Astronify, a project of the Space Telescope Institute turning datasets into audio. [Sarah's LinkedIn Profile](https://uk.linkedin.com/in/sarah-kane-4a9414220){target="_blank"}
 
@@ -200,16 +189,6 @@ Kate is committed to ensuring that all who want the opportunity to pursue career
 
 ---
 
-### Joshua Miele 
-
-![Joshua Miele ](../assets/profile/josh.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Joshua Miele smiling against a greenery'}
-
-Principal Accessibility Researcher, Amazon Lab126; 2021 MacArthur Foundation Fellow.
-
-Josh specializes in accessible technology design with previous research projects on tactile graphics and auditory displays. Additionally, he is an expert in effective giving and philanthropy in the accessible science space. 
-
----
-
 ### Camille Ouellette 
 
 ![Camille Ouellette ](../assets/profile/camille.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Camille Ouellette in a suit against a clear grey background'}
@@ -260,15 +239,6 @@ Ashley specializes in disability studies and technology ethics. She is the autho
 
 ---
 
-### Dr. Patrick Smyth
-
-![Patrick Smyth](../assets/profile/patrick.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Patrick Smyth against a clear grey background'}
-
-Chief Learner, Iota School; Staff Developer Relations Engineer, Chainguard.
-
-Patrick is a blind hacker and programmer whose work focuses on citizen technology, critical infrastructure, accessibility, and technical pedagogy. [Patrick's Homepage](https://smythp.com/index.html){target="_blank"}
-
----
 ### Robin Williams
 Data analyst, Atass Sports.
 
@@ -301,5 +271,34 @@ UX Manager, arXiv.
 
 To advance accessibility at arXiv, Shamsi brings the experiences of researchers with disabilities to the forefront of organizational planning, and championed the research, analysis, and production of arXiv's [Dec. 2022 report on accessibility](https://info.arxiv.org/about/accessibility_research_report.html). She has also had the pleasure of organizing this forum and working with each of the wonderful participants above to bring it to life. Thank you for joining us! [Shamsi's LinkedIn Profile](https://www.linkedin.com/in/shamsi-brinn/){target="_blank"}
 
-
 ![No Giscus](){#no-giscus}
+
+<!-- ---
+
+### Joshua Miele 
+
+![Joshua Miele ](../assets/profile/josh.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Joshua Miele smiling against a greenery'}
+
+Principal Accessibility Researcher, Amazon Lab126; 2021 MacArthur Foundation Fellow.
+
+Josh specializes in accessible technology design with previous research projects on tactile graphics and auditory displays. Additionally, he is an expert in effective giving and philanthropy in the accessible science space. 
+
+---
+
+### Sina Bahram
+
+![Sina Bahram](../assets/profile/sina.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Sina Bahram sitting  on a sofa holding an iPad'}
+
+Founder, Prime Access Computing.
+
+Sina is a blind computer scientist, consultant, entrepreneur, and researcher. He brings expertise in inclusive design  in an operationally scalable and sustainable manner, be it a website, a mix-reality experience, or an entire museum.
+
+---
+
+### Dr. Patrick Smyth
+
+![Patrick Smyth](../assets/profile/patrick.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Patrick Smyth against a clear grey background'}
+
+Chief Learner, Iota School; Staff Developer Relations Engineer, Chainguard.
+
+Patrick is a blind hacker and programmer whose work focuses on citizen technology, critical infrastructure, accessibility, and technical pedagogy. [Patrick's Homepage](https://smythp.com/index.html){target="_blank"} -->

@@ -9,7 +9,7 @@ Learn, share, and be inspired for change. Accessibility means *access regardless
 <div style="clear:both;"></div>
 
 <div class="highlight">
-  <h2>Pre-Registration is open</h2>
+  <h2>Registration is open</h2>
   <p>It is time! <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Secure your spot</a> for this September and get ready to learn, share, and be inspired for change. The Forum is fully remote and free and open to all.</p>
 
   <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-large">Register</a>
@@ -33,21 +33,30 @@ This year, we are pleased to work with presenters from these universities and ot
   <ul>
     <li><img src="../assets/logo/cambridge.png" alt="Logo for cambridge university">University Of Cambridge</li>
     <li><img src="../assets/logo/cornell-tech.png" alt="Logo for cornell tech"> Cornell Tech</li>
-    <li><img src="../assets/logo/ego.png" alt="Logo for the european gravitational wave observatory">EGO: European Gravitational Wave Observatory</li>
-    <li><img src="../assets/logo/iota.png" alt="Logo for iota school">Iota School</li>
+    <li><img src="../assets/logo/cuny.jpeg" alt="Logo for cuny"> City University of New York</li>
+    <li><img src="../assets/logo/UFSCAR.png" alt="Logo for Federal University of São Carlos">Federal University of São Carlos</li>
+    <li><img src="../assets/logo/gallaudet.svg" alt="Logo for gallaudet university">Gallaudet University</li>
+    <li><img src="../assets/logo/jmu.png" alt="Logo for James Madison University">James Madison University</li>
     <li><img src="../assets/logo/massey.png" alt="Logo for massey university">Massey University</li>
     <li><img src="../assets/logo/rit.png" alt="Logo for Rochester Institute of Technology, national technical institute for the deaf">RIT National Technical Institute for the Deaf</li>
-    <li><img src="../assets/logo/stsi.png" alt="Logo for the space telescope science institute">Space Telescope Science Institute</li>
+    <li><img src="../assets/logo/ubarcelona.png" alt="Logo for the University of Barcelona">University of Barcelona</li>
     <li><img src="../assets/logo/uwash.png" alt="Logo for the University of Washington">University of Washington</li>
-   <li> <img src="../assets/logo/virginia-tech.png" alt="Logo for Virginia Tech University">Virginia Tech University</li>
-   <li><img src="../assets/logo/amazon.png" alt="Logo for amazon">Amazon</li>
+   <li> <img src="../assets/logo/virginia-tech.png" alt="Logo for Virginia Tech University">Virginia Tech</li>
    <li><img src="../assets/logo/arxiv.png" alt="Logo for arxiv">arXiv</li>
+   <li><img src="../assets/logo/atass.png" alt="Logo for atass sports">Atass Sports</li>
+   <!-- <li><img src="../assets/logo/glas.webp" alt="Logo for Geneva Lake Astrophysics and STEAM Education">Geneva Lake Astrophysics and STEAM (GLAS) Education</li> -->
+   <li><img src="../assets/logo/ego.png" alt="Logo for the european gravitational wave observatory">European Gravitational Wave Observatory</li>
+   <li><img src="../assets/logo/google.png" alt="Logo for google">Google</li>
+   <li><img src="../assets/logo/ieee.jpeg" alt="Logo for i triple e">IEEE</li>
+   <!-- <li><img src="../assets/logo/jcap.gif" alt="Logo for Journal of Cosmology and Astroparticle Physics">Journal of Cosmology and Astroparticle Physics</li> -->
    <li><img src="../assets/logo/latexml.png" alt="Logo for latech M L">LaTeXML</li>
+   <li><img src="../assets/logo/meta.png" alt="Logo for meta">Meta</li>
    <li><img src="../assets/logo/mozilla.png" alt="Logo for mozilla">Mozilla</li>
    <li><img src="../assets/logo/nvaccess.png" alt="Logo for nvaccess">NV Access</li>
-   <li><img src="../assets/logo/pac.png" alt="Logo for prime access consulting">Prime Access Consulting</li>
    <li><img src="../assets/logo/saudi-aramco.png" alt="Logo for saudi aramco">Saudi Aramco</li>
    <li><img src="../assets/logo/scielo.png" alt="Logo for scielo">SciELO</li>
+   <li><img src="../assets/logo/sonokids.jpeg" alt="Logo for sonokids">Sonokids</li>
+   <li><img src="../assets/logo/stsi.png" alt="Logo for the space telescope science institute">Space Telescope Science Institute</li>
   </ul>
 </div>
 
