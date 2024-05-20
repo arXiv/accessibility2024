@@ -34,7 +34,7 @@ This year, we are pleased to work with presenters from these universities and ot
     <li><img src="../assets/logo/cambridge.png" alt="Logo for cambridge university">University Of Cambridge</li>
     <li><img src="../assets/logo/cornell-tech.png" alt="Logo for cornell tech"> Cornell Tech</li>
     <li><img src="../assets/logo/cuny.jpeg" alt="Logo for cuny"> City University of New York</li>
-    <li><img src="../assets/logo/UFSCAR.png" alt="Logo for Federal University of São Carlos">Federal University of São Carlos</li>
+    <li><img src="../assets/logo/ufscar.png" alt="Logo for Federal University of São Carlos">Federal University of São Carlos</li>
     <li><img src="../assets/logo/gallaudet.svg" alt="Logo for gallaudet university">Gallaudet University</li>
     <li><img src="../assets/logo/jmu.png" alt="Logo for James Madison University">James Madison University</li>
     <li><img src="../assets/logo/massey.png" alt="Logo for massey university">Massey University</li>
