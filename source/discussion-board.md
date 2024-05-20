@@ -3,7 +3,8 @@
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 We have set up discussion boards for each forum topic so that the conversation can continue beyond each session.
 
-The forum discussion boards use Github Discussions and [giscus](https://github.com/giscus/giscus). This open source discussion platform has many benefits, including transparency and being free.
+The forum discussion boards use Github Discussions and [giscus](https://github.com/giscus/giscus). This open source discussion platform has many benefits, including transparency and being free. Please use giscus to post your comments on the event, network, and share relevant resources. We will be using this platform in lieu of live Zoom chat during the live forum as Zoom chat is disruptive to screen reader users.
+
 
 To take part in forum-related discussions you will just need to be logged in to your github account. If you do not have one yet, follow the instructions below to create a free account for the first time.
 
