@@ -89,7 +89,8 @@ Solange brings in scientific communication expertise in diverse geographical con
 
 Archive Scientist at the Mikulski Archive for Space Telescopes (MAST), Space Telescope Science Institute (STSI). 
 
-Scott is interested in open source software development, and new science that is enabled with archival or cross-mission data. [Scott's STSI Profile](https://www.stsci.edu/stsci-research/research-directory/scott-fleming){target="_blank"}
+Scott studies stars and exoplanets in the ultraviolet, optical, and infrared. He is one of the movers and shakers behind Astronify, an open source sonification tool written in Python and used for analyzing data from NASA’s space telescopes. [Scott's STSI Profile](https://www.stsci.edu/stsci-research/research-directory/scott-fleming){target="_blank"}
+
 
 ---
 
@@ -195,7 +196,7 @@ Alex brings expertise in organizational strategies in transitioning from indexed
 
 Founder and President, Geneva Lake Astrophysics and STEAM (GLAS) Education.
 
-[Kate's LinkedIn Profile](https://www.linkedin.com/in/kmeredith)
+Kate is committed to ensuring that all who want the opportunity to pursue careers in STEAM have the chance to do so, with a clear focus on accessibility and multigenerational engagement. Some of her projects at GLAS include creating accessible curricula and data analysis softwares, and hosting summer intern programs and public star parties. [Kate's LinkedIn Profile](https://www.linkedin.com/in/kmeredith)
 
 ---
 
@@ -269,6 +270,9 @@ Patrick is a blind hacker and programmer whose work focuses on citizen technolog
 
 ---
 ### Robin Williams
+Data analyst, Atass Sports.
+
+Robin is the creator of the sonification tool “Sonify”, an R package used to transform 2D data into continuous sounds. He is a statistician working on modeling and forecasting in the sports industry. [Robin’s Profile]
 
 ---
 
