@@ -1,6 +1,6 @@
 # Presenter bios
 
-We are very pleased to be working with the following key participants to bring this forum to life. The bios are listed in the alphabetical order of last name.
+We are very pleased to be working with the following participants to bring this forum to life. The bios are listed in the alphabetical order of last name.
 
 
 ### Arwa Alnajashi
@@ -139,7 +139,7 @@ For Sarah, her career as a researcher is intertwined with her work as a disabili
 ---
 
 ### Devva Kasnitz
-![Devva Kasnitz](../assets/profile/devva.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Devva Kasnitz in a red sweater and a red scarf against a white background'}
+![Devva Kasnitz](../assets/profile/devva.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Devva Kasnitz in a red sweater and a red scarf against a white background'}
 
 Executive Director of the Society for Disability Studies and Adjunct Professor, CUNY.
 
@@ -254,11 +254,11 @@ Scientific Director at Journal of Cosmology and Astroparticle Physics; ICREA Pro
 Licia brings in intersectional expertise in accessible science as an author, researcher, and editor. Licia is also a long-time friend of arXiv as she serves as the chair of the science advisory board since 2019.
 
 ---
-###  Allie Zombron
+### Raafat Zaini
 
 ---
 
-### Raafat Zaini
+### Allie Zombron
 
 
 <br>
