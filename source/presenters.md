@@ -13,6 +13,16 @@ Arwa's passion lies in creating an empowered and inclusive digital future, ensur
 
 ---
 
+### Elizabeth Ayers 
+
+![Elizabeth Ayers](../assets/profile/liz.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Liz Ayers in a black shirt against a dark grey background'}
+
+Senior Lecturer, Department of Science and Mathematics and National Technical Institute for the Deaf, Rochester Institute of Technology.
+
+Liz is a current doctoral student in science education. She runs the healthcare shadowing program and is part of the Deaf Health Lab. Outside of her research career at RIT, she works at a hospital as a sonographer. [Liz's RIT Profile](https://www.rit.edu/directory/ewants-elizabeth-ayers){target="_blank"}
+
+---
+
 ### Kim Bryant
 
 ![Kim Bryant](../assets/profile/kim.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Kim Bryant against a wooden wall'}
@@ -37,9 +47,9 @@ Mick is the creator of the free and open source NVDA screen reading software, th
 
 ![Phia Damsma](../assets/profile/phia.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Phia Damsma in black glasses against a white background'}
 
-Co-President, Sonokids Australia
+Creative Director, Sonokids Australia
 
-Phia has more than 20 years of experience building innovative educational software programs and mobile apps for children with special needs, especially blind and low-vision. Her not-for-profit social enterprise Sonokids is impacting children globally, supporting playful learning of fundamental technology and other Expanded Core Curriculum skills, through the technique of sonification. [Phia's LinkedIn Profile](https://au.linkedin.com/in/phia-damsma-18b3a29)
+Phia has more than 25 years of experience building innovative educational software programs and mobile apps for children with special needs, especially blind and low-vision. Her not-for-profit social enterprise Sonokids is impacting children globally, supporting playful learning of fundamental technology and other Expanded Core Curriculum skills, through the technique of sonification. [Phia's LinkedIn Profile](https://au.linkedin.com/in/phia-damsma-18b3a29){target="_blank"}
 
 ---
 
@@ -59,7 +69,7 @@ Wanda is an astronomer and the developer of the technique, sonification, that co
 
 Master's Student in Environmental Science, Rochester Institute of Technology.
 
-Hannah is a blinddeaf environmental science researcher. She is currently working on the NSF-funded Multiscale RECIPES Project for Sustainable Food System.
+Hannah’s research focuses on permaculture, especially carbon cycles and their impact. [Hannah's Profile](){target="_blank"}
 
 ---
 
@@ -75,7 +85,7 @@ Solange brings in scientific communication expertise in diverse geographical con
 
 ### Dr. Scott Fleming
 
-![Scott Fleming](../assets/profile/scott.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Scott Fleming in a Boston Red Sox cap smiling against a grey background'}
+![Scott Fleming](../assets/profile/scott.png){.mkd-img-left .mkd-img-profile alt='Headshot of Scott Fleming in a Boston Red Sox cap smiling against a grey background'}
 
 Archive Scientist at the Mikulski Archive for Space Telescopes (MAST), Space Telescope Science Institute (STSI). 
 
@@ -117,6 +127,8 @@ Ricardo designs interactive systems that empower people of disabilities, particu
 
 Research Scientist, Google; Editor and Ethics and Diversity Chair, IEEE VGTC  
 
+TBD. [Mar's Homepage](https://margonzalezfranco.github.io/){target="_blank"}
+
 ---
 
 ### Dr. Bonnie Jacob
@@ -124,7 +136,7 @@ Research Scientist, Google; Editor and Ethics and Diversity Chair, IEEE VGTC
 
 Associate Professor, Department of Science and Mathematics and National Technical Institute for the Deaf, Rochester Institute of Technology.
 
-Bonnie is passionate about promoting undergraduate research in mathematics as well as STEM in general, particularly among deaf and hard-of-hearing students. She is a mathematician by training, specializing in graph theory and combinatorial matrix theory.
+Bonnie is passionate about promoting undergraduate research in mathematics as well as STEM in general, particularly among deaf and hard-of-hearing students. She is a mathematician by training, specializing in graph theory and combinatorial matrix theory. [Bonnie's RIT Profile](https://www.rit.edu/directory/bcjntm-bonnie-jacob){target="_blank"}
 
 ---
 
@@ -143,6 +155,17 @@ For Sarah, her career as a researcher is intertwined with her work as a disabili
 
 Executive Director of the Society for Disability Studies and Adjunct Professor, CUNY.
 
+TBD. [Devva's Profile](){target="_blank"}
+
+---
+
+### Dyl Levenson
+
+![Dyl Levenson](../assets/profile/dyl.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Dyl Levenson in a dark grey RIT polo against a dark grey background'}
+
+Biomedical Science Training Grants Admin, National Technical Institute for the Deaf, Rochester Institute of Technology.
+
+Dyl is the coordinator for undergraduate and graduate research training programs in the biomedical field at Deaf Hub. He is also a grad student in health administration. [Dyl’s RIT Profile](https://www.rit.edu/directory/djldhb-dyl-levenson){target="_blank"}
 
 ---
 
@@ -152,7 +175,7 @@ Executive Director of the Society for Disability Studies and Adjunct Professor, 
 
 Adjunct Professor, Gallaudet University
 
-A rejoiner from last year's forum, Anne currently teaches as a professor at Gallaudet and creates STEM videos for deaf/HOH children for educational game app company ASL Aspire. She soon will launch her own wine education program in ASL. She will share with us on her recent transition from graduating Cornell's PhD in in horticulture with a speciality in viticulture to being a professor in the accessible research ecosystem event.
+A rejoiner from last year's forum, Anne currently teaches as an adjunct professor at Gallaudet and creates STEM videos for deaf/HOH children for educational game app company ASL Aspire. She soon will launch her own wine education program in ASL. She will share with us on her recent transition from graduating from a PhD in horticulture with a speciality in viticulture from Cornell to being a professor in the accessible research ecosystem event. [Anne's LinkedIn Profile](https://www.linkedin.com/in/anne-k-logan-9a75b989?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABLGyU8B6fMg89OiVzRHqYwox-tM9nmyMOA&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BOYiGkKY3QdChWt3SKi%2FFEw%3D%3D){target="_blank"}
 
 ---
 
@@ -185,7 +208,7 @@ Alex brings expertise in organizational strategies in transitioning from indexed
 
 Founder and President, Geneva Lake Astrophysics and STEAM (GLAS) Education.
 
-Kate is committed to ensuring that all who want the opportunity to pursue careers in STEAM have the chance to do so, with a clear focus on accessibility and multigenerational engagement. Some of her projects at GLAS include creating accessible curricula and data analysis softwares, and hosting summer intern programs and public star parties. [Kate's LinkedIn Profile](https://www.linkedin.com/in/kmeredith)
+Kate is committed to ensuring that all who want the opportunity to pursue careers in STEAM have the chance to do so, with a clear focus on accessibility and multigenerational engagement. Some of her projects at GLAS include creating accessible curricula and data analysis softwares, and hosting summer intern programs and public star parties. [Kate's LinkedIn Profile](https://www.linkedin.com/in/kmeredith){target="_blank"}
 
 ---
 
@@ -195,7 +218,7 @@ Kate is committed to ensuring that all who want the opportunity to pursue career
 
 Senior Lecturer in Biology and Deaf Hub Affliate, Rochester Institute of Technology.
 
-Camille brings expertise in supporting deaf and hard of hearing (DHH) researchers throughout their academic career, and empowers their development by providing and connecting them to the right resources they need. [Camille's Faculty Profile](https://www.rit.edu/directory/ceonts-camille-ouellette){target="_blank"}
+Camille brings expertise in supporting deaf and hard of hearing (DHH) researchers throughout their academic career, and empowers their development by providing and connecting them to the right resources they need. [Camille's RIT Profile](https://www.rit.edu/directory/ceonts-camille-ouellette){target="_blank"}
 
 ---
 
@@ -225,10 +248,9 @@ As the author of TeXLive, Norbert brings leading expertise in TeX and LaTeX. [No
 
 Assistant Professor of Information Science and Matter of Tech Lab, Cornell Tech.
 
-Thijs' research focus is digital fabrication, a nascent subfield of human-computer interaction (HCI). He aims to create a technological basis that allows designers and engineers to build on each other's work and enable personal fabrication relevant to everyone as opposed to the industrialists and hobbyists. [Thijs's Homepage](http://thijsroumen.eu/)
+Thijs' research focus is digital fabrication, a nascent subfield of human-computer interaction (HCI). He aims to create a technological basis that allows designers and engineers to build on each other's work and enable personal fabrication relevant to everyone as opposed to the industrialists and hobbyists. [Thijs's Homepage](http://thijsroumen.eu/){target="_blank"}
 
 ---
-
 ### Dr. Ashley Shew
 
 ![Ashley Shew](../assets/profile/ashley.png){.mkd-img-left .mkd-img-profile alt='Headshot of Ashley Shew smiling outdoors on a lawn'}
@@ -236,6 +258,16 @@ Thijs' research focus is digital fabrication, a nascent subfield of human-comput
 Associate Professor of Science, Technology, and Society, Virginia Tech.
 
 Ashley specializes in disability studies and technology ethics. She is the author of several critically acclaimed books, including Against Technoableism, Animal Constructions, and Technological Knowledge and Spaces for the Future (coedited). [Ashley's Faculty Page](https://liberalarts.vt.edu/departments-and-schools/department-of-science-technology-and-society/faculty/ashley-shew.html){target="_blank"}
+
+---
+
+### Jenna Stewardson 	
+
+![Jenna Stewardson](../assets/profile/jenna.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Jenna Stewardson smiling in a blue and white checkered shirt and a navy blazer against a dark grey background'}
+
+Research Program Coordinator, National Technical Institute for the Deaf, Rochester Institute of Technology.
+
+Jenna is the research coordinator extraordinaire at Deaf Hub. [Jenna’s RIT Profile](https://www.rit.edu/directory/jasccl-jenna-stewardson){target="_blank"}
 
 ---
 
@@ -251,7 +283,7 @@ Robin is the creator of the sonification tool “Sonify”, an R package used to
 
 Scientific Director at Journal of Cosmology and Astroparticle Physics; ICREA Professor at the Institute of Cosmo Sciences, University of Barcelona.
 
-Licia brings in intersectional expertise in accessible science as an author, researcher, and editor. Licia is also a long-time friend of arXiv as she serves as the chair of the science advisory board since 2019.
+Licia brings in intersectional expertise in accessible science as an author, researcher, and editor. Licia is also a long-time friend of arXiv as she serves as the chair of the science advisory board since 2019. [Licia's Faculty Page](https://liciaverde.icc.ub.edu/){target="_blank"}
 
 ---
 ### Raafat Zaini
