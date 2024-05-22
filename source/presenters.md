@@ -127,7 +127,7 @@ Ricardo designs interactive systems that empower people of disabilities, particu
 
 Research Scientist, Google; Editor and Ethics and Diversity Chair, IEEE VGTC  
 
-TBD. [Mar's Homepage](https://margonzalezfranco.github.io/){target="_blank"}
+Mar is a Computer Scientist and Neuroscientist working on a new generation of Immersive technologies and generative AI. To the forum, she brings in 4 years of expertise as the Ethics and Diversity Chair of IEEE VGTC, where she has forwarded accessibility standards and regional diversity significantly. [Mar's Homepage](https://margonzalezfranco.github.io/){target="_blank"}
 
 ---
 
@@ -181,14 +181,18 @@ A rejoiner from last year's forum, Anne currently teaches as an adjunct professo
 
 ### Luisa de Souza Leão  
 
+Master's Student in Special Education, Federal University of São Carlos (UFSCar). 
+
+A psychologist by training, Luisa brings in expertise at the intersection of psychology, education and accessibility. Outside of her research career, she is a member of the Permanent Accessibility and Inclusion Committee of the Regional Labor Court of the 8th Region in Brazil. [Luisa's Profile](){target="_blank"}
+
 ---
 
 ### Tony Malykh
 
-<!-- ![Tony Malykh](../assets/profile/tony.jpeg){.mkd-img-left .mkd-img-profile alt='Tony Malykh Photo'} -->
+<!-- ![Tony Malykh](../assets/profile/tony.jpeg){.mkd-img-left .mkd-img-profile alt='Head of Tony Malykh'} -->
 Software Engineer, Meta.
 
-Tony is a machine learning scientist, a long-time supporter of arXiv, and a contributor to NVDA's open source codebase.
+Tony is a machine learning scientist, a long-time supporter of arXiv, and a contributor to NVDA's open source codebase.[Tony's Profile](){target="_blank"}
 
 ---
 
