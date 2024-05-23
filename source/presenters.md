@@ -77,9 +77,9 @@ Hannah’s research focuses on permaculture, especially carbon cycles and their 
 
 ![Solange dos Santos](../assets/profile/solange.jpeg){.mkd-img-left .mkd-img-profile alt='Candid photo of Solange dos Santos smiling in a crowd'}
 
-Online Submission & Preprints Coordinator, SciELO.
+Production and Publishing Coordinator, SciELO. 
 
-Solange brings in scientific communication expertise in diverse geographical contexts, such as Argentina, Bolivia, Colombia, Mexico, Paraguay, and South Africa. Solange advocates for accessibility in open archive space as well as academic journals. [Solange's LinkedIn Profile](https://www.linkedin.com/in/solangemariasantos/?originalSubdomain=br){target="_blank"}
+Solange brings in scientific communication expertise in diverse geographical contexts, such as Argentina, Bolivia, Colombia, Mexico, Paraguay, and South Africa. Solange is a strong advocate for accessibility in open archive space as well as academic journals. [Solange's LinkedIn Profile](https://www.linkedin.com/in/solangemariasantos/?originalSubdomain=br){target="_blank"}
 
 ---
 
@@ -200,7 +200,7 @@ Tony is a machine learning scientist, a long-time supporter of arXiv, and a cont
 
 ![Alex Mendonça](../assets/profile/alex.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Alex Mendonça smiling in an indoor environment'}
 
-Production and Publishing Coordinator, SciELO.
+Online Submission & Preprints Coordinator, SciELO.
 
 Alex brings expertise in organizational strategies in transitioning from indexed journals to open science, as well as the implementation of Diversity, Equity, Inclusion and Accessibility (DEIA) policies at SciELO. [Alex's LinkedIn Profile](https://www.linkedin.com/in/alex-mendon%C3%A7a/?originalSubdomain=br){target="_blank"}
 
@@ -291,10 +291,20 @@ Licia brings in intersectional expertise in accessible science as an author, res
 
 ---
 ### Raafat Zaini
+![Raafat Zaini](../assets/profile/raafat.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Raafat Zaini in a blue shirt, khaki blazor, and glasses, against a background of greenery'}
+
+Assistant Professor, College of Integrated Science and Engineering, James Madison University.
+
+Raafat's research focuses on modeling dynamic systems spans organizational design, dissent, change, strategy, and cognitive learning. Most recently, he worked on modeling the human system. He brings in 25 years of work experience in the industry as various engineering and management positions. [Raafat's Faculty Page](https://www.jmu.edu/cise/people/faculty/zaini-raafat.shtml){target="_blank"}
 
 ---
 
 ### Allie Zombron
+![Allie Zombron](../assets/profile/allie.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Allie Zombron smiling in a green sweater in a classroom setting'}
+
+Third-year undergraduate student, James Madison Univeristy
+
+Allie's research focuses on using AI in system thinking to drive inclusivity in STEM Education for the Visually Impaired. She brings in her project that uses AI to explain, interpret and verbalize content in images for visually impaired users in the form of a flow chart, a typical presentation choice in system thinking. [Allie's LinkedIn Page](https://www.linkedin.com/in/allie-zombron-87394a290/){target="_blank"}
 
 
 <br>
