@@ -33,17 +33,17 @@ This year, we are pleased to work with presenters from these universities and ot
 
 <div class="logo-background">
   <ul>
-    <li><img src="../assets/logo/cambridge.png" alt="Logo for cambridge university">University Of Cambridge</li>
+    <li><img src="../assets/logo/ubarcelona.png" alt="Logo for the University of Barcelona">University of Barcelona</li>
+    <li><img src="../assets/logo/cambridge.png" alt="Logo forthe University of  Cambridge">University of Cambridge</li>
+    <li><img src="../assets/logo/cuny.png" alt="Logo for City University of New York"> City University of New York</li>
     <li><img src="../assets/logo/cornell-tech.png" alt="Logo for cornell tech"> Cornell Tech</li>
-    <li><img src="../assets/logo/cuny.png" alt="Logo for cuny"> City University of New York</li>
     <li><img src="../assets/logo/ufscar.png" alt="Logo for Federal University of São Carlos">Federal University of São Carlos</li>
     <li><img src="../assets/logo/gallaudet.png" alt="Logo for gallaudet university">Gallaudet University</li>
     <li><img src="../assets/logo/jmu.png" alt="Logo for James Madison University">James Madison University</li>
     <li><img src="../assets/logo/massey.png" alt="Logo for massey university">Massey University</li>
     <li><img src="../assets/logo/rit.png" alt="Logo for Rochester Institute of Technology, national technical institute for the deaf">RIT National Technical Institute for the Deaf</li>
-    <li><img src="../assets/logo/ubarcelona.png" alt="Logo for the University of Barcelona">University of Barcelona</li>
+    <li> <img src="../assets/logo/virginia-tech.png" alt="Logo for Virginia Tech University">Virginia Tech</li>
     <li><img src="../assets/logo/uwash.png" alt="Logo for the University of Washington">University of Washington</li>
-   <li> <img src="../assets/logo/virginia-tech.png" alt="Logo for Virginia Tech University">Virginia Tech</li>
    <li><img src="../assets/logo/arxiv.png" alt="Logo for archive dot org">arXiv</li>
    <li><img src="../assets/logo/atass.png" alt="Logo for atass sports">Atass Sports</li>
    <!-- <li><img src="../assets/logo/glas.png" alt="Logo for Geneva Lake Astrophysics and STEAM Education">Geneva Lake Astrophysics and STEAM (GLAS) Education</li> -->

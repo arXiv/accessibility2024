@@ -13,7 +13,7 @@ More details will appear here as we hone in on exact dates and times, check back
 | --- | --- | --- |
 | **The Social Model** | What if disabilities are not the problem? Refocus on barriers to full participation. | Dr. Devva Kasnitz, Dr. Ashley Shew, Kim Bryant |
 | **Sonify this!** | Sonification across fields and modalities | Phia Damsma, Dr. Wanda Diaz-Merced, Dr. Scott Fleming, Sarah Kane, Kate Meredith, Robin Williams |
-| **Together with DeafHub** | Stories, resources, and support from DeafHub colleagues and friends. | Elizabeth Ayers, Hannah DeFelice, Dr. Bonnie Jacob, Dyl Levenson, Camille Ouellette, Jenna Stewardson |
+| **Together with Deaf Hub** | Stories, resources, and support from Deaf Hub colleagues and friends. | Elizabeth Ayers, Hannah DeFelice, Dr. Bonnie Jacob, Dyl Levenson, Camille Ouellette, Jenna Stewardson |
 | **Accessibility in South America and beyond with SciELO** | *Event hosted in Spanish and Portuguese* on accessibility in the SciELO community |  Dr. Solange Maria dos Santos, Dr. Mar Gonzalez-Franco, Luisa de Souza Leão, Alex Mendonça, Dr. Licia Verde |
 | **Ask Me Anything** | A lively Q&A on navigating academia when you have a disability | Dr. Jonathan Godfrey, Dr. Anne Kearney Logan, Venkatesh Potluri |
 | **HTML papers on arXiv** | Take a peek under the hood and find out what is coming next | Michael Curran, Deyan Ginev, Tony Malykh, Dr. Norbert Preining |
