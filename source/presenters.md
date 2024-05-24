@@ -122,7 +122,7 @@ Ricardo designs interactive systems that empower people of disabilities, particu
 
 ---
 
-### Mar Gonzalez-Franco
+### Dr. Mar Gonzalez-Franco
 ![Mar Gonzalez-Franco](../assets/profile/mar.jpeg){.mkd-img-left .mkd-img-profile alt='Black and white headshot of Mar Gonzalez smiling and looking into the top right corner while holding her chin'}
 
 Editor and Ethics and Diversity Chair, IEEE VGTC; Research Scientist, Google
@@ -290,12 +290,12 @@ Scientific Director at Journal of Cosmology and Astroparticle Physics; ICREA Pro
 Licia brings in intersectional expertise in accessible science as an author, researcher, and editor. Licia is also a long-time friend of arXiv as she serves as the chair of the science advisory board since 2019. [Licia's Faculty Page](https://liciaverde.icc.ub.edu/){target="_blank"}
 
 ---
-### Raafat Zaini
-![Raafat Zaini](../assets/profile/raafat.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Raafat Zaini in a blue shirt, khaki blazor, and glasses, against a background of greenery'}
+### Dr. Raafat Mahmoud Zaini
+![Raafat Zaini](../assets/profile/raafat.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Raafat Zaini in a purple shirt against a background of greenery'}
 
 Assistant Professor, College of Integrated Science and Engineering, James Madison University.
 
-Raafat's research focuses on modeling dynamic systems spans organizational design, dissent, change, strategy, and cognitive learning. Most recently, he worked on modeling the human system. He brings in 25 years of work experience in the industry as various engineering and management positions. [Raafat's Faculty Page](https://www.jmu.edu/cise/people/faculty/zaini-raafat.shtml){target="_blank"}
+Raafat specializes in modeling dynamic systems, with a research focus that encompasses organizational design, dissent, change, strategy, cognitive learning, higher education, and human systems. Bringing a wealth of practical experience to his academic pursuits, Raafat teaches systems thinking, creative problem solving, and designing future-forward organizations. Most recently, he has been passionate about harnessing generative AI to improve accessibility for the visually impaired and neurodiverse learners.[Raafat's Faculty Page](https://www.jmu.edu/cise/people/faculty/zaini-raafat.shtml){target="_blank"}
 
 ---
 

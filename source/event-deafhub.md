@@ -5,7 +5,7 @@ This session will introduce you to the resources, stories, and support at the De
 
 
 ## Goal
-Raise awareness of DeafHub as a resource for the deaf researcher community.
+Raise awareness of Deaf Hub as a resource for the deaf researcher community.
 
 ## Intended Audience
 Any professionals interested in supporting deaf researchers.
