@@ -125,7 +125,7 @@ Ricardo designs interactive systems that empower people of disabilities, particu
 ### Mar Gonzalez-Franco
 ![Mar Gonzalez-Franco](../assets/profile/mar.jpeg){.mkd-img-left .mkd-img-profile alt='Black and white headshot of Mar Gonzalez smiling and looking into the top right corner while holding her chin'}
 
-Research Scientist, Google; Editor and Ethics and Diversity Chair, IEEE VGTC  
+Editor and Ethics and Diversity Chair, IEEE VGTC; Research Scientist, Google
 
 Mar is a Computer Scientist and Neuroscientist working on a new generation of Immersive technologies and generative AI. To the forum, she brings in 4 years of expertise as the Ethics and Diversity Chair of IEEE VGTC, where she has forwarded accessibility standards and regional diversity significantly. [Mar's Homepage](https://margonzalezfranco.github.io/){target="_blank"}
 
@@ -192,7 +192,7 @@ A psychologist by training, Luisa brings in expertise at the intersection of psy
 <!-- ![Tony Malykh](../assets/profile/tony.jpeg){.mkd-img-left .mkd-img-profile alt='Head of Tony Malykh'} -->
 Software Engineer, Meta.
 
-Tony is a machine learning scientist, a long-time supporter of arXiv, and a contributor to NVDA's open source codebase.[Tony's Profile](){target="_blank"}
+Tony is a machine learning scientist, a long-time supporter of arXiv, and a contributor to NVDA's open source codebase. [Tony's Profile](){target="_blank"}
 
 ---
 
