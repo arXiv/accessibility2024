@@ -3,14 +3,14 @@
 # Welcome to the arXiv Accessibility Forum 2024!
 **Exploring the many lines of action, people, and groups that are converging on more accessible science**
 
-You are warmly invited to our second accessibility forum, an annual event for the scientific community focused on making research more accessible. The Forum is fully remote, free, and open to all. This year, we spotlight demonstrations and discussions from many different researchers and experts who are all converging on a more accessible future for science.
+You are warmly invited to our second accessibility forum, an event for the entire scientific community focused on making research more accessible. The Forum is fully remote, free, and open to all. This year, we are spotlighting diverse efforts that are converging on a more accessible future for science.
 
 Learn, share, and be inspired for change. Accessibility means *access regardless of disability*, and only when research is fully accessible can we truly call it open science!
 <div style="clear:both;"></div>
 
 <div class="highlight">
   <h2>Registration is open</h2>
-  <p>It is time! <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Secure your spot</a> for this September and get ready to learn, share, and be inspired for change. The Forum is fully remote and free and open to all.</p>
+  <p>It is time! <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Register</a> for this September and get ready to learn, share, and be inspired for change. The Forum is fully remote and free and open to all.</p>
 
   <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-large">Register</a>
 
@@ -20,10 +20,12 @@ Learn, share, and be inspired for change. Accessibility means *access regardless
 
 ## Events preview
 - The Social Model of disability: What are the barriers to full participation in the sciences?
-- Listening to Stars: Using the technique of sonification in astronomy.
-- Tactile surfaces: Using sense of touch to engage with visualizations.
-- Funding accessibility: A lively discussion on the past, present, and future of funding this critical work.
-- HTML papers: How arXiv and LaTeXML made it happen, and what comes next.
+- Sonification across fields and modalities
+- HTML papers on arXiv: A peek under the hood with LaTeXML and NVDA.
+- AI solutions: tools that are helping in  the now and the near future.
+- SciELO and accessibility (held in Spanish and Portuguese)
+- DeafHub: a resource for all of us
+- Ask me anything: a lively Q&A on navigating academic ecosystems with a disability
 - [See all sessions](../event)
 
 ## Presenter affiliations
