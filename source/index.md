@@ -57,7 +57,7 @@ This year, we are pleased to work with presenters from these universities and ot
    <li><img src="../assets/logo/nvaccess.png" alt="Logo for nvaccess">NV Access</li>
    <li><img src="../assets/logo/saudi-aramco.png" alt="Logo for saudi aramco">Saudi Aramco</li>
    <li><img src="../assets/logo/scielo.png" alt="Logo for scielo">SciELO</li>
-   <li><img src="../assets/logo/sonokids.jpeg" alt="Logo for sonokids">Sonokids</li>
+   <li><img src="../assets/logo/sonokids.png" alt="Logo for sonokids">Sonokids</li>
    <li><img src="../assets/logo/stsi.png" alt="Logo for the space telescope science institute">Space Telescope Science Institute</li>
   </ul>
 </div>
