@@ -295,7 +295,7 @@ Licia brings in intersectional expertise in accessible science as an author, res
 
 Assistant Professor, College of Integrated Science and Engineering, James Madison University.
 
-Raafat specializes in modeling dynamic systems, with a research focus that encompasses organizational design, dissent, change, strategy, cognitive learning, higher education, and human systems. Bringing a wealth of practical experience to his academic pursuits, Raafat teaches systems thinking, creative problem solving, and designing future-forward organizations. Most recently, he has been passionate about harnessing generative AI to improve accessibility for the visually impaired and neurodiverse learners.[Raafat's Faculty Page](https://www.jmu.edu/cise/people/faculty/zaini-raafat.shtml){target="_blank"}
+Raafat specializes in modeling dynamic systems, with a research focus that encompasses organizational design, dissent, change, strategy, cognitive learning, higher education, and human systems. Bringing a wealth of practical experience to his academic pursuits, Raafat teaches systems thinking, creative problem solving, and designing future-forward organizations. Most recently, he has been passionate about harnessing generative AI to improve accessibility for the visually impaired and neurodiverse learners. [Raafat's Faculty Page](https://www.jmu.edu/cise/people/faculty/zaini-raafat.shtml){target="_blank"}
 
 ---
 
