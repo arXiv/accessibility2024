@@ -11,8 +11,8 @@ More details will appear here as we hone in on exact dates and times, check back
 <!-- | Date | Time (EDT) | Session | Description | Presenters | Introductory Video | -->
 | Session | Description | Presenters |
 | --- | --- | --- |
-| **The social model of accessibility** | What are the barriers to full participation in the sciences? | Dr. Devva Kasnitz, Dr. Ashley Shew, Kim Bryant |
-| **Sonification for all** | Sonification across fields and modalities | Phia Damsma, Dr. Wanda Diaz-Merced, Dr. Scott Fleming, Sarah Kane, Kate Meredith, Robin Williams |
+| **The Social Model** | What if disabilities are not the problem? Refocus on barriers to full participation. | Dr. Devva Kasnitz, Dr. Ashley Shew, Kim Bryant |
+| **Sonify this!** | Sonification across fields and modalities | Phia Damsma, Dr. Wanda Diaz-Merced, Dr. Scott Fleming, Sarah Kane, Kate Meredith, Robin Williams |
 | **Together with DeafHub** | Stories, resources, and support from DeafHub colleagues and friends. | Elizabeth Ayers, Hannah DeFelice, Dr. Bonnie Jacob, Dyl Levenson, Camille Ouellette, Jenna Stewardson |
 | **Accessibility in South America and beyond with SciELO** | *Event hosted in Spanish and Portuguese* on accessibility in the SciELO community |  Dr. Solange Maria dos Santos, Dr. Mar Gonzalez-Franco, Luisa de Souza Leão, Alex Mendonça, Dr. Licia Verde |
 | **Ask Me Anything** | A lively Q&A on navigating academia when you have a disability | Dr. Jonathan Godfrey, Dr. Anne Kearney Logan, Venkatesh Potluri |
@@ -21,7 +21,7 @@ More details will appear here as we hone in on exact dates and times, check back
 
 <div style="clear:both;"></div>
 <div class="button-reg">
-  Excited about the diverse lineup? <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Register here</a> to be part of these conversations!
+  Excited about the diverse lineup? <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Register here</a> and see you in September!
   <div style="clear:both;"></div>
 </div>
 
