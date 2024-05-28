@@ -24,7 +24,7 @@ Learn, share, and be inspired for change. Accessibility means *access regardless
 - HTML papers on arXiv: A peek under the hood with LaTeXML and NVDA.
 - AI solutions: tools that are helping in  the now and the near future.
 - SciELO and accessibility (held in Spanish and Portuguese)
-- DeafHub: a resource for all of us
+- Deaf Hub: a resource for all of us
 - Ask me anything: a lively Q&A on navigating academic ecosystems with a disability
 - [See all sessions](../event)
 
@@ -71,7 +71,7 @@ https://info.arxiv.org/about/accessibility_research_report.html){target="_blank"
 - Learn about the [new HTML format on arXiv](https://arxiv.org/html/2402.08954v1){target="_blank"}.
 
 
-## Event Policy
+## Event policy
 - All participants must follow arXiv's [code of conduct](https://info.arxiv.org/help/policies/code_of_conduct.html#inclusiveness-and-respect){target="_blank"}.
 
 
