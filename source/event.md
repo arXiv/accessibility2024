@@ -1,13 +1,13 @@
-# Schedule of Events
+# Event overview
 
-The Accessibility Forum is hosted by arXiv and features researchers and educational institutions working towards making the sciences more accessible. Because if science is not accessible then it is not truly open.
+The Accessibility Forum is hosted by arXiv and features researchers and educational institutions working towards making the sciences more accessible. Because if science is not accessible, then it is not truly open.
 
-The Forum is an online event hosted over Zoom, free and open to all. Numerous individual events will be held over the first two weeks in September. [Register now](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) if you want to be reminded later as we ramp up towards September and hone in on the exact dates and times of events.
+The Forum is an online event hosted over Zoom, free and open to all. Numerous individual events will be held over the first two weeks in September, with exact dates and times to be determined. [Register now](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) if you want to be reminded later, as we ramp up towards September and hone in on the exact details.
 
 Below, find a preview of some of the exciting topics that are taking shape.
 
 
-## Schedule Preview
+## Schedule
 <!-- | Date | Time (EDT) | Session | Description | Presenters | Introductory Video | -->
 | Session | Description | Presenters |
 | --- | --- | --- |
