@@ -278,7 +278,7 @@ Jenna is the research coordinator extraordinaire at Deaf Hub. [Jenna’s RIT Pro
 ### Robin Williams
 Data analyst, Atass Sports.
 
-Robin is the creator of the sonification tool “Sonify”, an R package used to transform 2D data into continuous sounds. He is a statistician working on modeling and forecasting in the sports industry. [Robin’s Profile]
+Robin completed his PhD in statistical methods for weather forecasting, before moving to industry where he works as a research statistician in sports prediction. During his PhD he helped to develop the sonify R package, which he uses regularly to convert 2D data in to sound. He also has an interest in anything that helps to make STEM subjects more accessible to visually impaired people. [Robin’s R Package Page](https://cran.r-project.org/web/packages/sonify/index.html){target="_blank"}
 
 ---
 
