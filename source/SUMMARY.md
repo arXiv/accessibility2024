@@ -2,3 +2,4 @@
 * [Event information](event.md)
 * [Accessibility accommodations](accessibility.md)
 * [Discussion boards guide](discussion-board.md)
+* [Register for free](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y)
