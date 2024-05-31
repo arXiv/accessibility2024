@@ -1,35 +1,36 @@
 ![Logo for the arXiv forum](../assets/forum-logotype-only.svg){.forum-logotype alt='logo for the arXiv forum' role="presentation"}
 
 # Welcome to the arXiv Accessibility Forum 2024!
-**Exploring the many lines of action, people, and groups that are converging on more accessible science**
+## Converging on accessible science together
 
-You are warmly invited to our second accessibility forum, an event for the entire scientific community focused on making research more accessible. The Forum is fully remote, free, and open to all. This year, we are spotlighting diverse efforts that are converging on a more accessible future for science.
+You are warmly invited to our second accessibility forum, a free conference for the entire scientific community focused on the many people and organizations making research more accessible. Accessibility means *access regardless of disability*, and only when research is fully accessible can we truly call it open science.
 
-Learn, share, and be inspired for change. Accessibility means *access regardless of disability*, and only when research is fully accessible can we truly call it open science!
+The Forum is fully **remote, free, and open to all.** Learn, share, and be inspired for change.
 <div style="clear:both;"></div>
 
 <div class="highlight">
   <h2>Registration is open</h2>
-  <p>It is time! <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Register</a> for this September and get ready to learn, share, and be inspired for change. The Forum is fully remote and free and open to all.</p>
+  <p>It is time! <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Register</a> for the Forum this September 2nd - 13th, help us gauge attendance this year, and be kept up to date as event details are finalized.</p>
 
-  <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-large">Register</a>
+  <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-large">Register for the Forum</a>
 
   <img src="../assets/forum-logotype-with-logo.svg" role="presentation" alt="arxiv forum logotype saying accessibility 2024" class="mkd-img-right">
   <div style="clear:both;"></div>
 </div>
 
 ## Events preview
-- The Social Model of disability: What are the barriers to full participation in the sciences?
+- The Social model of disability: What are the environmental barriers to full participation in the sciences?
 - Sonification across fields and modalities
 - HTML papers on arXiv: A peek under the hood with LaTeXML and NVDA.
-- AI solutions: tools that are helping in  the now and the near future.
-- SciELO and accessibility (held in Spanish and Portuguese)
-- Deaf Hub: a resource for all of us
+- AI and accessibility: A demonstration of two research-based tools.
+- SciELO and accessibility in South America, Spain, and beyond (held in Spanish and Portuguese)
+- Deaf Hub at RIT: a resource for all of us
 - Ask me anything: a lively Q&A on navigating academic ecosystems with a disability
-- [See all sessions](../event)
+
+[Learn more about the events](../event){class="button-reg"}
 
 ## Presenter affiliations
-This year, we are pleased to work with presenters from these universities and other organizations, bringing diverse perspectives that converge on accessible science.
+We are so pleased to work with presenters this year from these universities and other organizations, bringing diverse perspectives that all converge on accessible science.
 
 <div class="logo-background">
   <ul>
@@ -37,11 +38,11 @@ This year, we are pleased to work with presenters from these universities and ot
     <li><img src="../assets/logo/cambridge.png" alt="Logo forthe University of  Cambridge">University of Cambridge</li>
     <li><img src="../assets/logo/cuny.png" alt="Logo for City University of New York"> City University of New York</li>
     <li><img src="../assets/logo/cornell-tech.png" alt="Logo for cornell tech"> Cornell Tech</li>
-    <li><img src="../assets/logo/ufscar.png" alt="Logo for Federal University of São Carlos">Federal University of São Carlos</li>
     <li><img src="../assets/logo/gallaudet.png" alt="Logo for gallaudet university">Gallaudet University</li>
     <li><img src="../assets/logo/jmu.png" alt="Logo for James Madison University">James Madison University</li>
     <li><img src="../assets/logo/massey.png" alt="Logo for massey university">Massey University</li>
     <li><img src="../assets/logo/rit.png" alt="Logo for Rochester Institute of Technology, national technical institute for the deaf">RIT National Technical Institute for the Deaf</li>
+    <li><img src="../assets/logo/ufscar.png" alt="Logo for Federal University of São Carlos">Federal University of São Carlos</li>
     <li> <img src="../assets/logo/virginia-tech.png" alt="Logo for Virginia Tech University">Virginia Tech</li>
     <li><img src="../assets/logo/uwash.png" alt="Logo for the University of Washington">University of Washington</li>
    <li><img src="../assets/logo/arxiv.png" alt="Logo for archive dot org">arXiv</li>

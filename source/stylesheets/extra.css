@@ -10,7 +10,7 @@
   --color-open-blue-darker: #787CDD;
   --color-cool-wash:    #f7fafc;
   --color-access-lime:  #c4d82e;
-  --color-access-lime-darker:  #c4d82e;
+  --color-access-lime-darker:  #65720b;
   --color-links:        #1b7cac;
   /*fonts*/
   --md-text-font: "freight-sans-pro";
@@ -23,7 +23,7 @@
   --md-typeset-color:     black;
   --md-typeset-a-color:   var(--color-links);
   --md-accent-fg-color:   var(--color-access-lime);
-  --md-accent-bg-color:   var(--color-library-grey);
+  --md-accent-bg-color:   var(--color-warm-wash);
   --blockquote-fg-color:  black;
   --blockquote-bg-color:  var(--md-primary-fg-color--lightest);
   --md-code-fg-color:     black;
@@ -32,6 +32,7 @@
   --footer-fg-color:  black;
   --footer-bg-color:  var(--md-primary-fg-color--lightest);
   --shadow:           var(--color-library-grey);
+  --color-links-hover:  var(--color-library-grey);
 }
 /* slate theme (dark mode) */
 [data-md-color-scheme="slate"] {
@@ -46,8 +47,8 @@
   --blockquote-bg-color:  hsla(var(--md-hue),10%,7%,1);
   --footer-fg-color:  var(--md-primary-fg-color--lightest);
   --footer-bg-color:  hsla(var(--md-hue),10%,7%,1);
-  --shadow:           black;
-  --color-links:        #1e8bc3;
+  --shadow:           var(--color-access-lime-darker);
+  --color-links-hover:  var(--color-access-lime);
 }
 
 body {
@@ -72,14 +73,19 @@ p {
   font-family: freight-sans-pro, sans-serif;
   font-style: normal;
 }
-a { transition: all 1s ease-in-out; }
 .md-typeset a:hover, .md-typeset a:focus {
   outline-offset: 2px;
   color: var(--md-accent-bg-color);
 }
-.md-content a { text-decoration: underline; }
-.md-content a:hover, .md-content a:focus { text-decoration: none; }
-a:hover { transition: all 0.5s;}
+.md-content a {
+  text-decoration: underline;
+  color: var(--color-links);
+  transition: all .5s ease-in-out;
+}
+.md-content a:hover, .md-content a:focus {
+  text-decoration: none;
+  color: var(--color-links-hover);
+}
 .md-typeset hr { margin: 1em 0 !important; clear: both;}
 h1, h2, h3, h4, h5 {
   font-family: freight-sans-pro, sans-serif;
@@ -98,27 +104,27 @@ a.md-content__button.md-icon {display: none;}
 
 /*BUTTONS*/
 a.button-large, a.button-reg {
-  -webkit-box-shadow: 0px 3px 6px 0px var(--shadow);
-  -moz-box-shadow: 0px 3px 6px 0px var(--shadow);
-  box-shadow: 0px 3px 6px 0px var(--shadow);
+  -webkit-box-shadow: 0px 2px 3px 0px var(--shadow);
+  -moz-box-shadow: 0px 2px 3px 0px var(--shadow);
+  box-shadow: 0px 2px 3px 0px var(--shadow);
   display: inline-block;
   padding: .25em 1em;
   border-radius: .3em;
   margin-right: 2em;
   margin-bottom: 1em;
   font-size: 1.5em;
-  background-color: var(--md-accent-bg-color);
   border: 2px solid var(--md-accent-fg-color);
   text-decoration: none;
+  transition: all .5s ease-in-out;
 }
 a.button-reg {
   font-size: 1em;
 }
 a.button-large:hover, a.button-reg:hover {
   border-color: var(--md-accent-fg-color);
-  -webkit-box-shadow: 0px 3px 6px 2px var(--shadow);
-  -moz-box-shadow: 0px 3px 6px 2px var(--shadow);
-  box-shadow: 0px 3px 6px 2px var(--shadow);
+  -webkit-box-shadow: 0px 2px 3px 1px var(--shadow);
+  -moz-box-shadow: 0px 2px 3px 1px var(--shadow);
+  box-shadow: 0px 2px 3px 1px var(--shadow);
 }
 .mkd-border {
   border: solid .15em #ededed;
@@ -130,7 +136,7 @@ a.button-large:hover, a.button-reg:hover {
 
 /*Tables*/
 .md-typeset table:not([class]) {
-  font-size: 1em;
+  font-size: .9em;
 }
 
 /*HEADER AREA*/
@@ -236,7 +242,6 @@ h1 {
 /*block for highlighting content or CTA*/
 .highlight {
   background-color: hsla(67, 69%, 51%, 0.05);
-  /* background-color: var(--md-accent-fg-color); */
   border: 2px solid var(--md-accent-fg-color);
   border-radius: 6px;
   padding: 1em 2em;
@@ -244,13 +249,10 @@ h1 {
 .highlight h2 {
   margin-top:0 !important;
 }
-.highlight .button-large {
-  background-color:#fbfced;
-  color:;
+.highlight .button-large
+  transition: all .75s ease-in-out;
 }
 .highlight .button-large:hover {
-  background-color:white;
-  color:;
 }
 .highlight img {
   max-width: 200px;
@@ -266,9 +268,7 @@ h1 {
 }
 
 /*block for logo background for dark mode*/
-.logo-background {
 
-}
 .logo-background ul {
   display: flex !important;
   flex-wrap: wrap;
@@ -279,25 +279,37 @@ h1 {
   list-style: none;
 }
 .logo-background li {
-  margin: .75em 1em !important;
-  padding:0 !important;
-  max-width: 150px;
+  margin: 0 !important;
+  padding:1em !important;
   text-align: center;
   font-size: .75em;
   line-height: 1em;
+  width: calc(100%/3);
  }
  .logo-background img {
   width: 100%;
-  border: 1px solid #dbd3c5;
   background-color: white;
   margin-bottom:.3em;
+  border: 1px solid var(--md-primary-fg-color--dark);
+  border-radius: 6px;
+  -webkit-box-shadow: 0px 2px 3px 0px var(--shadow);
+  -moz-box-shadow: 0px 2px 3px 0px var(--shadow);
+  box-shadow: 0px 2px 3px 0px var(--shadow);
  }
 .logo-background h2 {
   margin-top:0 !important;
 }
-@media all and (max-width: 719px) {
+@media all and (max-width: 719px) { /* mobile */
   .logo-background {
     margin:0 !important;
+  }
+  .logo-background li {
+    width:calc(100%/2);
+  }
+}
+@media all and (max-width: 420px) { /* mobile */
+  .logo-background li {
+    width:100%;
   }
 }
 
@@ -421,7 +433,7 @@ h1 {
   margin-right: 1em;
   margin-bottom: 1em;
   border: 5px solid #c3bfba;
-  border-radius: 10px; 
+  border-radius: 10px;
   clear: both;
 }
 
