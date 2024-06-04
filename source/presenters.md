@@ -202,6 +202,7 @@ Tony is a machine learning scientist, a long-time supporter of arXiv, and a cont
 Associate Professor in Life Sciences and Director of Environmental Science MS Program, Rochester Institute of Technology.
 
 Carmody brings expertise in working with students with accessibility needs in and oustide of the classroom setting and supporting their research career as a professor. [Carmody's Faculty Profile](https://www.rit.edu/directory/ckmsbi-carmody-mccalley){target="_blank"}
+
 ---
 
 ### Alex Mendonça
