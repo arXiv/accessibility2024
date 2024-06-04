@@ -165,7 +165,7 @@ TBD. [Devva's Profile](){target="_blank"}
 
 Biomedical Science Training Grants Admin, National Technical Institute for the Deaf, Rochester Institute of Technology.
 
-Dyl is the coordinator for undergraduate and graduate research training programs in the biomedical field at Deaf Hub. He is also a grad student in health administration. [Dyl’s RIT Profile](https://www.rit.edu/directory/djldhb-dyl-levenson){target="_blank"}
+Dyl is the coordinator for undergraduate and graduate research training programs in the biomedical, biobehavioral, and clinical fields at Deaf Hub. He is also a grad student in health health systems management. [Dyl’s RIT Profile](https://www.rit.edu/directory/djldhb-dyl-levenson){target="_blank"}
 
 ---
 
@@ -194,6 +194,14 @@ Software Engineer, Meta.
 
 Tony is a machine learning scientist, a long-time supporter of arXiv, and a contributor to NVDA's open source codebase. [Tony's Profile](){target="_blank"}
 
+---
+### Carmody McCalley
+
+![Carmody McCalley](../assets/profile/carmody.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Carmody McCalley in a blue blazor smiling against a grey background'}
+
+Associate Professor in Life Sciences and Director of Environmental Science MS Program, Rochester Institute of Technology.
+
+Carmody brings expertise in working with students with accessibility needs in and oustide of the classroom setting and supporting their research career as a professor. [Carmody's Faculty Profile](https://www.rit.edu/directory/ckmsbi-carmody-mccalley){target="_blank"}
 ---
 
 ### Alex Mendonça
