@@ -429,11 +429,14 @@ h1 {
 }
 .mkd-img-profile {
   width: 50%;
-  max-width: 150px !important;
+  max-width: 120px !important;
   margin-right: 1em;
-  margin-bottom: 1em;
-  border: 5px solid #c3bfba;
-  border-radius: 10px;
+  margin-bottom: .25em;
+  border: 1px solid var(--md-primary-fg-color--dark);
+  border-radius: 6px;
+  -webkit-box-shadow: 0px 2px 3px 0px var(--shadow);
+  -moz-box-shadow: 0px 2px 3px 0px var(--shadow);
+  box-shadow: 0px 2px 3px 0px var(--shadow);
   clear: both;
 }
 
