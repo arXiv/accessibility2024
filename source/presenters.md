@@ -17,9 +17,9 @@ Arwa's passion lies in creating an empowered and inclusive digital future, ensur
 
 ![Elizabeth Ayers](../assets/profile/liz.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Liz Ayers in a black shirt against a dark grey background'}
 
-Senior Lecturer, Department of Science and Mathematics and National Technical Institute for the Deaf, Rochester Institute of Technology.
+Senior Lecturer, Department of Science and Mathematics and Director of Healthcare Mentoring, Deaf Healthcare and Biomedical Sciences Hub (Deaf Hub), National Technical Institute for the Deaf at Rochester Institute of Technology.
 
-Liz is a current doctoral student in science education. She runs the healthcare shadowing program and is part of the Deaf Health Lab. Outside of her research career at RIT, she works at a hospital as a sonographer. [Liz's RIT Profile](https://www.rit.edu/directory/ewants-elizabeth-ayers){target="_blank"}
+Liz is a sonographer at Highland Hospital and science instructor at NTID/RIT teaching science to deaf and hard of hearing undergraduate students. She runs the Mentor Supported Shadowing Program at Deaf Hub. In addition, Liz is a current University at Buffalo doctoral student almost at dissertation. [Liz's RIT Profile](https://www.rit.edu/directory/ewants-elizabeth-ayers){target="_blank"}
 
 ---
 
@@ -150,12 +150,12 @@ For Sarah, her career as a researcher is intertwined with her work as a disabili
 
 ---
 
-### Devva Kasnitz
+### Dr. Devva Kasnitz
 ![Devva Kasnitz](../assets/profile/devva.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Devva Kasnitz in a red sweater and a red scarf against a white background'}
 
 Executive Director of the Society for Disability Studies and Adjunct Professor, CUNY.
 
-TBD. [Devva's Profile](){target="_blank"}
+Devva is an expert on disability studies with over 30 years of experience. Taking on the intersectional lens of urban and medical anthropology and health policy, her current work focuses on speech impairment, social participation politics, and disability services in higher education. Additionally, she also sits on the founding board of several organizations and mentors a generation of scholars in the US, Australia, and Guatemala. [Devva's Faculty Profile](https://sps.cuny.edu/about/directory/devva.kasnitz){target="_blank"}
 
 ---
 
@@ -284,7 +284,7 @@ Jenna is the research coordinator extraordinaire at Deaf Hub. [Jenna’s RIT Pro
 
 ---
 
-### Robin Williams
+### Dr. Robin Williams
 Data analyst, Atass Sports.
 
 Robin completed his PhD in statistical methods for weather forecasting, before moving to industry where he works as a research statistician in sports prediction. During his PhD he helped to develop the sonify R package, which he uses regularly to convert 2D data in to sound. He also has an interest in anything that helps to make STEM subjects more accessible to visually impaired people. [Robin’s R Package Page](https://cran.r-project.org/web/packages/sonify/index.html){target="_blank"}
