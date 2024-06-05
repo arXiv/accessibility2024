@@ -1,30 +1,22 @@
 #Ask Me Anything: Navigating academia with a disability
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
-This session will feature sharings by our presenters on their personal journeys, challenges, and triumphs in the academic career in the format of "Ask Me Anything". Come prepared with your questions by watching the pre-recorded below for background knowledge.
+
+One of the largest barriers to accessibility is the discomfort we often feel that gets in the way of connection, friendship, and truly understanding the needs of those around us. Three brilliant researchers at different stages of their careers, and with diverse disabilities will clear the mist and answer your questions. Come engage and learn!
+
+There are no silly questions. Only ignorance is silly.
+
+## Presenter bios
+
+### 1
+
+### 2
+
+### 3
 
 
-## Goal
-- Illuminate on unique experiences and nuanced realities 
-- Address questions that often remain unasked or unanswered. 
-- Walk away with actionable insights!
-
-## Intended Audience
-Academics in any stage of their academic career, looking to contribute to accessibility.
-
-## Session Materials
-- [Live note-taking document]()
-
-
-## Watch the recorded video
-
-
-## Bios
-
-
-## Resources
-The following resources have been shared by our presenters and other scholars for additional learnings.
+## Session materials shared in advance
 
 
 ## Discussion
-Use this discussion board to continue conversations on navigating academia with a disability and creating an inclusive research work environment. See [instructions](discussion-board.md) for logging in with github.
+Use this discussion board to continue the conversation, ask questions, and share more resources around the social model of disability. See these [instructions](discussion-board.md) for setting up a free Github account.

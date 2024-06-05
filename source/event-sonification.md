@@ -4,26 +4,21 @@
 This session will demonstrate and discuss sonification as a data technique in the fields of astronomy, statistics, oceanography and education. You will also hear from the creators behind some of the most prominent sonification tools.
 
 
-## Goal
-Call to action of using sonification as a technique for data access and communication.
+## Description
+Join some of the world's leading experts on sonification to go beyond the visual and learn how all our senses can be engaged in exploring and understanding data.
 
-## Intended Audience
-- Any professionals in the STEM fields interested in learning about another way of accessing data
-- Educator
+This sessions is for professionals in STEM fields interested in learning about another way of understanding data, and educators who want to explore a new teaching method.
 
-## Session Materials
-- [Live note-taking document]()
+## Presenter bios
 
+### 1
 
-## Watch the recorded video
+### 2
 
+### 3
 
-## Bios
-
-
-## Resources
-The following resources have been shared by our presenters and other scholars for additional learnings.
+## Session materials shared in advance
 
 
 ## Discussion
-Use this discussion board to continue conversations on sonification as a tool for data access and communication. See [instructions](discussion-board.md) for logging in with github.
+Use this discussion board to continue the conversation, ask questions, and share more resources around the social model of disability. See these [instructions](discussion-board.md) for setting up a free Github account.

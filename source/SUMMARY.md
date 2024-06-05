@@ -1,5 +1,5 @@
 * [Home](index.md)
-* [Event information](event.md)
+* [Schedule](schedule.md)
 * [Accessibility accommodations](accessibility.md)
 * [Discussion boards guide](discussion-board.md)
-* [Register for free](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y)
+* [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y)
