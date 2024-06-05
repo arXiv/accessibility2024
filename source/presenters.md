@@ -17,9 +17,9 @@ Arwa's passion lies in creating an empowered and inclusive digital future, ensur
 
 ![Elizabeth Ayers](../assets/profile/liz.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Liz Ayers in a black shirt against a dark grey background'}
 
-Senior Lecturer, Department of Science and Mathematics and National Technical Institute for the Deaf, Rochester Institute of Technology.
+Senior Lecturer, Department of Science and Mathematics and Director of Healthcare Mentoring, Deaf Healthcare and Biomedical Sciences Hub (Deaf Hub), National Technical Institute for the Deaf at Rochester Institute of Technology.
 
-Liz is a current doctoral student in science education. She runs the healthcare shadowing program and is part of the Deaf Health Lab. Outside of her research career at RIT, she works at a hospital as a sonographer. [Liz's RIT Profile](https://www.rit.edu/directory/ewants-elizabeth-ayers){target="_blank"}
+Liz is a sonographer at Highland Hospital and science instructor at NTID/RIT teaching science to deaf and hard of hearing undergraduate students. She runs the Mentor Supported Shadowing Program at Deaf Hub. In addition, Liz is a current University at Buffalo doctoral student almost at dissertation. [Liz's RIT Profile](https://www.rit.edu/directory/ewants-elizabeth-ayers){target="_blank"}
 
 ---
 
