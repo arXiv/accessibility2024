@@ -153,9 +153,9 @@ For Sarah, her career as a researcher is intertwined with her work as a disabili
 ## Dr. Devva Kasnitz
 ![Devva Kasnitz](../assets/profile/devva.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Devva Kasnitz in a red sweater and a red scarf against a white background'}
 
-**Co-Founder and Executive Director of the Society for Disability Studies; Adjunct Professor in Disability Studies, CUNY.**
+**Research Director, Disability History and Culture Collective and Adjunct Professor, CUNY.**
 
-Devva's research work in disability studies spans more than 40 years at four distinguished Universities. Her current work focuses on speech impairment and the politics of social participation as well as on disability services in higher education. Devva's book, "Occupying Disability," explores concepts that consider disability not in terms of impairment but as a range of unique social identities and experiences. [Devva's Faculty profile](https://sps.cuny.edu/about/directory/devva.kasnitz){target="_blank"}
+Devva's research work in disability studies spans more than 40 years at four distinguished universities. Her current work focuses on speech impairment, social participation politics, and disability services in higher education. Devva's book, "Occupying Disability," explores concepts that consider disability not in terms of impairment but as a range of unique social identities and experiences. [Devva's Faculty Profile](https://sps.cuny.edu/about/directory/devva.kasnitz){target="_blank"}
 
 ---
 
