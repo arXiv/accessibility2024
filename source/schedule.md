@@ -22,6 +22,7 @@ Below is a preview of the exciting topics and speakers we can look forward to in
 
 <div style="clear:both;"></div>
 
+
 ##Register for free
 Excited about the Forum lineup? <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Register here</a> and see you in September!
 

@@ -2,20 +2,29 @@
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 
-Join four Open-Source software luminaries to take a peek under the hood of how HTML papers on arXiv are made, what is working, and what comes next. 
+Join four open-source software luminaries to take a peek under the hood of how HTML papers on arXiv are made, what is working, and what comes next. Adding HTML to arXiv was only possible due to the efforts of so many people and organizations whose long-standing commitments to accessibility infrastructure and open-source software go back decades: screen readers, LaTeX converters, and TeX itself. They laid the foundations for this impactful and popular feature, and experts from each field are here to share their knowledge. Bring your questions and come ready to engage, be inspired, and gain a deeper understanding of what really makes a more accessible research paper.
 
+<<<<<<< Updated upstream:source/HTML-Event.md
 This popular and impactful project on arXiv is the result of the dedicated efforts of multiple individuals and organizations committed to accessibility and open-source software. Get inspired, bring your questions and come ready to engage and gain a deeper understanding of what really makes a more accessible research paper.
 
 ## Presenter bios
 This event is in fact a double celebration of open-source software and concrete gains in making scientific research more accessible! The presenters at this event bring a mind-blowing level of combined knowledge on accessible HTML, TeX, and screen reader technology, and all are deeply involved in important open-source software.
+=======
+Join us for this double celebration of accessibility gains and open-source software!
 
-### 1
+| Date | Time | Links |
+|---|---|---|
+| September 13th | TBD |  [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+>>>>>>> Stashed changes:source/event-html.md
 
-### 2
+## Presenters
 
-### 3
+- Michael Curran
+- Deyan Ginev
+- Tony Malykh
+- Dr. Norbert Preining
 
-### 3
+[See all presenter biographies](presenters)
 
 ## Date
 Friday, September 13th
