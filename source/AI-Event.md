@@ -2,9 +2,9 @@
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 
-This session features a demo of two cutting edge AI tools for accessibility directly from their creators, and a vision-impaired scientist who will provide the perspective of lived experience. Enjoy the demonstrations and stay for a rich discussion of AI tools and how they are benefitting scientists with disabilities today.
+This session features a demo of two AI-driven tools for accessibility directly from their creators, and a vision-impaired scientist who will provide the perspective of lived experience. Enjoy the demonstrations and stay for a rich discussion of AI tools and how they are benefitting scientists with disabilities today.
 
-This session is for those looking for practical insights into AI's role in accessibility, and hands-on experience with two cutting edge tools from academic researchers.
+This session is for those looking for practical insights into AI's role in accessibility, and hands-on experience with these two tools from academic researchers.
 
 ## Presenter bios
 

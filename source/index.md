@@ -10,7 +10,7 @@ The Forum is fully **remote, free, and open to all.** Learn, share, and be inspi
 
 <div class="highlight">
   <h2>Registration is open</h2>
-  <p>It is time! <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Register</a> for the Forum this September 2nd - 13th, help us gauge attendance this year, and be kept up to date as event details are finalized.</p>
+  <p>It is time! <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Register</a> for the Forum that will take place between September 2nd and 13th, help us gauge attendance this year, and be kept up to date as event details are finalized.</p>
 
   <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-large">Register for the Forum</a>
 
@@ -19,13 +19,13 @@ The Forum is fully **remote, free, and open to all.** Learn, share, and be inspi
 </div>
 
 ## Events preview
-- The Social model of disability: What are the environmental barriers to full participation in the sciences?
-- Sonification across fields and modalities
-- HTML papers on arXiv: A peek under the hood with LaTeXML and NVDA.
-- AI and accessibility: A demonstration of two research-based tools.
+- The social model of disability: What are the environmental barriers to full participation in the sciences?
+- Sonify this! Why multi-modal scientific outputs are the future
+- HTML papers on arXiv: A peek under the hood with LaTeXML and NVDA
+- AI and accessibility: A demonstration of two research-based tools
 - SciELO and accessibility in South America, Spain, and beyond (held in Spanish and Portuguese)
-- Deaf Hub at RIT: a resource for all of us
-- Ask me anything: a lively Q&A on navigating academic ecosystems with a disability
+- Deaf Hub at RIT: A resource for all of us
+- Ask me anything: A lively Q&A on navigating academic ecosystems with a disability
 
 [Learn more about the events](../event){class="button-reg"}
 
