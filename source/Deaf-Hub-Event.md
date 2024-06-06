@@ -1,16 +1,8 @@
-<<<<<<< Updated upstream:source/Deaf-Hub-Event.md
-#Deaf Hub At RIT: A Resource For All Of Us
-
-![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
-
-An event for teachers, students, and all academics who want to learn to give or get support navigating academic settings with deafness. Join Deaf Hub colleagues and friends to learn how this incredible treasure trove of resources has helped students and professors, and how it can help you too.
-=======
 # Deaf Hub: a resource for all of us
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 
 An event for teachers, students, and all academics who want to give or get support navigating academic settings with a disability. Join Deaf Hub colleagues and friends to learn how this incredible treasure trove of resources has helped students and professors, and can help you too. |
->>>>>>> Stashed changes:source/event-deafhub.md
 
 This session is for professionals interested in the lived experience of deaf and deaf-blind researchers, and how to create supportive environments for all academics.
 

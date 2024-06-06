@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream:source/SciELO-Event.md
-#SciELO And Accessibility In South America, Spain, And Beyond
-=======
 # SciELO y accessibilidad / e acessibilidade
->>>>>>> Stashed changes:source/event-scielo.md
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 
@@ -13,11 +9,7 @@ Una invitación a la comunidad SciELO: Estas invitado a un animado diálogo sobr
 Um convite à comunidade SciELO: Você está convidado para um diálogo animado sobre o avanço da acessibilidade nas ciências.
 
 ## English
-<<<<<<< Updated upstream:source/SciELO-Event.md
-This groundbreaking session on accessibility in the SciELO community will be held only in Spanish and Portuguese with simultaneous translation between those two languages (not English). This session will dig into the development and next steps for accessibility in the SciELO community across South America, Spain, and beyond. Help spread the word to your Spanish- and Portuguese-speaking colleagues!
-=======
 This groundbreaking session on accessibility in the SciELO community is also a first for arXiv: our first non-english event. It will be held only in Spanish and Portuguese with simultaneous translation between those two languages (not English). This session will dig into progress and next steps towards making scientific outputs more accessibile in the SciELO community. SciELO is critical open-access publishing infrastructure that serves South America, Spain, Portugal, and more. If you are reading this english-language version you can still help by spreading the word to your Spanish- and Portuguese-speaking colleagues and let them know this event is taking place!
->>>>>>> Stashed changes:source/event-scielo.md
 
 | Fecha/data | Hora | Liga/vínculo |
 |---|---|---|
@@ -33,21 +25,8 @@ This groundbreaking session on accessibility in the SciELO community is also a f
 
 [See all presenter biographies](presenters)
 
-<<<<<<< Updated upstream:source/SciELO-Event.md
-### 3
-
-### 4
-
-### 5
-
-
-
-## Session materials shared in advance
-- The SciELO ebook, [We so loved Open Access](https://25.scielo.org/en/we-so-loved-open-access/){target="_blank"}, sheds lights on the ways that SciELO and other individuals from regions underrepresented in the sciences pushed forward open access in global academic communication. The ebook is published as part of the SciELO's 25th anniversary celeberation and it is free to download.
-=======
 ## Session materials and resources
 - The [SciELO ebook](https://25.scielo.org/en/we-so-loved-open-access/){target="_blank"} sheds lights on the ways that SciELO and other individuals from regions underrepresented in the sciences pushed forward open access in global academic communication.
->>>>>>> Stashed changes:source/event-scielo.md
 
 ## Discussion board
 Use this discussion board to continue the conversation, ask questions, and share more resources around the social model of disability. See these [instructions](discussion-board.md) for setting up a free Github account.
