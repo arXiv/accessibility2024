@@ -271,7 +271,7 @@ Thijs' research focus is digital fabrication, a nascent subfield of human-comput
 
 **Associate Professor of Science, Technology, and Society, Virginia Tech; Co-editor-in-chief of Techné, the journal of the Society for Philosophy and Technology.**
 
-Ashley's research interests are in philosophy of technology, emerging tech, disability studies, and animal studies. Ashley believes in cross-disciplinary, cross-disability, and public-facing scholarship. She is the author of several critically acclaimed books, including "Against Technoableism,"—the harmful belief that the disabled simply await being 'fixed' by technological wizardry instead of making society more accessible and equitable. [Ashley's Faculty page](https://liberalarts.vt.edu/departments-and-schools/department-of-science-technology-and-society/faculty/ashley-shew.html){target="_blank"}
+Ashley specializes in disability studies and technology ethics and believes in cross-disciplinary, cross-disability, and public-facing scholarship. She is the author of Against Technoableism (2023) and Animal Constructions and Technological Knowledge (2017). To the forum, she will bring in insights from her latest book and explore the harmful belief that the disabled simply await being 'fixed' by technological wizardry instead of making society more accessible and equitable. [Ashley's Faculty page](https://liberalarts.vt.edu/departments-and-schools/department-of-science-technology-and-society/faculty/ashley-shew.html){target="_blank"}
 
 ---
 

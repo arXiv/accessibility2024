@@ -47,7 +47,7 @@ We are so pleased to work with presenters this year from these universities and 
     <li><img src="../assets/logo/uwash.png" alt="Logo for the University of Washington">University of Washington</li>
    <li><img src="../assets/logo/arxiv.png" alt="Logo for archive dot org">arXiv</li>
    <li><img src="../assets/logo/atass.png" alt="Logo for atass sports">Atass Sports</li>
-   <!-- <li><img src="../assets/logo/glas.png" alt="Logo for Geneva Lake Astrophysics and STEAM Education">Geneva Lake Astrophysics and STEAM (GLAS) Education</li> -->
+   <li><img src="../assets/logo/glas.jpeg" alt="Logo for Geneva Lake Astrophysics and STEAM Education">Geneva Lake Astrophysics and STEAM (GLAS) Education</li>
    <li><img src="../assets/logo/ego.png" alt="Logo for the european gravitational wave observatory">European Gravitational Wave Observatory</li>
    <li><img src="../assets/logo/google.png" alt="Logo for google">Google</li>
    <li><img src="../assets/logo/ieee.png" alt="Logo for i triple e">IEEE</li>

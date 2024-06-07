@@ -26,7 +26,7 @@ This groundbreaking session on accessibility in the SciELO community is also a f
 [See all presenter biographies](presenters)
 
 ## Session materials and resources
-- The [SciELO ebook](https://25.scielo.org/en/we-so-loved-open-access/){target="_blank"} sheds lights on the ways that SciELO and other individuals from regions underrepresented in the sciences pushed forward open access in global academic communication.
+- The [SciELO ebook](https://25.scielo.org/en/we-so-loved-open-access/){target="_blank"} sheds lights on the ways that SciELO and other individuals from regions underrepresented in the sciences pushed forward open access in global academic communication. This ebook is published as part of SciELO's 25th anniversary celebration and it is free to download for all.
 
 ## Discussion board
 Use this discussion board to continue the conversation, ask questions, and share more resources around the social model of disability. See these [instructions](discussion-board.md) for setting up a free Github account.
