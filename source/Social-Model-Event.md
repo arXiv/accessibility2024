@@ -10,7 +10,7 @@ This session is for anyone looking to contribute to and understand their role in
 |---|---|---|
 | September 6th | TBD | [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
 
-## Presenter bios
+## Presenters
 
 - Kim Bryant
 - Dr. Devva Kasnitz
@@ -18,8 +18,7 @@ This session is for anyone looking to contribute to and understand their role in
 
 [See all presenter biographies](presenters)
 
-## Session materials shared in advance
-- [Live note-taking document]()
+<!-- ## Session materials shared in advance -->
 
 ## Discussion board
 Use this discussion board to continue the conversation, ask questions, and share more resources around the social model of disability. See these [instructions](discussion-board.md) for setting up a free Github account.

@@ -19,12 +19,7 @@ Join us for this double celebration of accessibility gains and open-source softw
 
 [See all presenter biographies](presenters)
 
-## Date
-Friday, September 13th
-(There is a strange superstition in the USA that says Friday the 13th is unlucky. Don't be frightened away! Come absorb the good energy from these incredible open-source and accessibility champions)
-
-
-## Session materials shared in advance
+<!-- ## Session materials shared in advance -->
 
 
 ## Discussion
