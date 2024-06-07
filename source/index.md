@@ -5,32 +5,32 @@
 
 You are warmly invited to our second accessibility forum, a free conference for the entire scientific community focused on the many people and organizations making research more accessible. Accessibility means *access regardless of disability*, and only when research is fully accessible can we truly call it open science.
 
-The Forum is fully **remote, free, and open to all.** Learn, share, and be inspired for change.
+The Forum is fully **remote, free, and open to all.** Learn, share, and be inspired for change. Seven individual events will take place on multiple days between September 2nd and 13th, covering diverse topics and in different time zones. Check back often or signup below to keep up to date with the latest details as the Forum takes shape.
 <div style="clear:both;"></div>
 
 <div class="highlight">
-  <h2>Registration is open</h2>
-  <p>It is time! <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Register</a> for the Forum this September 2nd - 13th, help us gauge attendance this year, and be kept up to date as event details are finalized.</p>
+  <h2>Signup is open</h2>
+  <p>It is time! <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Singup</a> to stay up to date with the latest Forum event details. Individual Forum events will be held across multiple days between September 2nd and 13th. Though all events are open and do not require registration, by signing up you can help us gauge attendance this year and stay up to date as all event details are finalized.</p>
 
-  <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-large">Register for the Forum</a>
+  <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-large">Signup for the Forum</a>
 
   <img src="../assets/forum-logotype-with-logo.svg" role="presentation" alt="arxiv forum logotype saying accessibility 2024" class="mkd-img-right">
   <div style="clear:both;"></div>
 </div>
 
 ## Events preview
-- The Social model of disability: What are the environmental barriers to full participation in the sciences?
-- Sonification across fields and modalities
-- HTML papers on arXiv: A peek under the hood with LaTeXML and NVDA.
-- AI and accessibility: A demonstration of two research-based tools.
-- SciELO and accessibility in South America, Spain, and beyond (held in Spanish and Portuguese)
-- Deaf Hub at RIT: a resource for all of us
-- Ask me anything: a lively Q&A on navigating academic ecosystems with a disability
+- The social model of disability: What are the environmental barriers to full participation in the sciences?
+- Sonify this! Why multi-modal scientific outputs are the future
+- HTML papers on arXiv: A peek under the hood with LaTeXML and NVDA
+- AI and accessibility: A demonstration of two research-based tools
+- SciELO y accessibilidad / e acessibilidade *(en Español y Portugués / em espanhol e português)*
+- Deaf Hub at RIT: A resource for all of us
+- Ask me anything: A lively Q&A on navigating academic ecosystems with a disability
 
-[Learn more about the events](../event){class="button-reg"}
+<!-- [Learn more about the events](/schedule){class="button-reg"} -->
 
 ## Presenter affiliations
-We are so pleased to work with presenters this year from these universities and other organizations, bringing diverse perspectives that all converge on accessible science.
+We are so pleased to be collaborating this year with presenters from these universities and other organizations, bringing diverse perspectives that all converge on more accessible science.
 
 <div class="logo-background">
   <ul>
@@ -47,7 +47,7 @@ We are so pleased to work with presenters this year from these universities and 
     <li><img src="../assets/logo/uwash.png" alt="Logo for the University of Washington">University of Washington</li>
    <li><img src="../assets/logo/arxiv.png" alt="Logo for archive dot org">arXiv</li>
    <li><img src="../assets/logo/atass.png" alt="Logo for atass sports">Atass Sports</li>
-   <!-- <li><img src="../assets/logo/glas.png" alt="Logo for Geneva Lake Astrophysics and STEAM Education">Geneva Lake Astrophysics and STEAM (GLAS) Education</li> -->
+   <li><img src="../assets/logo/glas.png" alt="Logo for Geneva Lake Astrophysics and STEAM Education">Geneva Lake Astrophysics and STEAM (GLAS) Education</li>
    <li><img src="../assets/logo/ego.png" alt="Logo for the european gravitational wave observatory">European Gravitational Wave Observatory</li>
    <li><img src="../assets/logo/google.png" alt="Logo for google">Google</li>
    <li><img src="../assets/logo/ieee.png" alt="Logo for i triple e">IEEE</li>
@@ -66,9 +66,9 @@ We are so pleased to work with presenters this year from these universities and 
 
 
 ## Catching up
+- Access [recordings from last year's forum](https://accessibility2023.arxiv.org/index.html){target="_blank"}.
 - Read arXiv's [accessibility research report](
 https://info.arxiv.org/about/accessibility_research_report.html){target="_blank"} that inspired this forum.
-- Access [recordings from last year's forum](https://accessibility2023.arxiv.org/index.html){target="_blank"} in case you missed the event.
 - Learn about the [new HTML format on arXiv](https://arxiv.org/html/2402.08954v1){target="_blank"}.
 
 
