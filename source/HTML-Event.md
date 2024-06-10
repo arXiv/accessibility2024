@@ -8,7 +8,7 @@ Join us for this double celebration of accessibility gains and open-source softw
 
 | Date | Time | Links |
 |---|---|---|
-| September 13th | TBD |  [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| 9/12/24 | 8:00 p.m. ET |  [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
 
 ## Presenters
 

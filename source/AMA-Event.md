@@ -8,7 +8,7 @@ There are no silly questions. Only ignorance is silly. Come engage and learn!
 
 | Date | Time | Links |
 |---|---|---|
-| September 4th | TBD |  [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| 9/3/24 | 4:00 PM ET |  [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
 
 ## Presenters
 
