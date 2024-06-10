@@ -1,4 +1,4 @@
-#Sonify this! Why multi-modal scientific outputs are the future
+#Sonify this! Why multi-modal science is the future
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 
@@ -8,7 +8,7 @@ This session is for scientists and educators interested in more ways of explorin
 
 | Date | Time | Links |
 |---|---|---|
-| September 5th   | TBD |  [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| September 5th   | 3:00 p.m. ET |  [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
 
 ## Presenters
 

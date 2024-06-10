@@ -8,7 +8,7 @@ This session is for those looking for practical insights into AI's role in acces
 
 | Date | Time | Links |
 |---|---|---|
-| September 11th   | TBD |  [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| 9/4/24  | 10:00 a.m. ET |  [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
 
 ## Presenters
 
@@ -24,7 +24,7 @@ This session is for those looking for practical insights into AI's role in acces
 Want to learn more about system design? Check out these 2 resources shared by our presenters.
 
 - [System Dynamics Learning Guide](https://pressbooks.lib.jmu.edu/sdlearningguide/)
-- [Thinking in Systems by Dana Meadows](https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/psychology-amp-behavior/Meadows-2008.-Thinking-in-Systems.pdf) 
+- [Thinking in Systems by Dana Meadows](https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/psychology-amp-behavior/Meadows-2008.-Thinking-in-Systems.pdf)
 
 
 ## Discussion board
