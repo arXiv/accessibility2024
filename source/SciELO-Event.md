@@ -13,7 +13,7 @@ This groundbreaking session on accessibility in the SciELO community is also a f
 
 | Fecha/data | Hora | Liga/vínculo |
 |---|---|---|
-| El 11 de Septiembre / 11 de Setembro | 16:00 CEST/11:00 BRT| [Registro](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| El 11 de Septiembre / 11 de Setembro | 17:00 CEST/12:00 BRT| [Registro](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
 
 ## Presenters
 
