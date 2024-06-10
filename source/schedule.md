@@ -1,13 +1,10 @@
 # Event schedule
-## Introduction
 
-The Accessibility Forum, hosted by arXiv, is a remote event free and open to all.
+The Accessibility Forum, hosted by arXiv, is a remote event that is free and open to all.
 
-Not one, not two, not three, but *seven* individual events will be held over the first two weeks in September addressing accessibility in the sciences. Learn from and celebrate the many people and organizations who are moving accessibility forward in academia.
+Seven individual events will be held on different days over the first two weeks in September addressing accessibility in research. Learn from and celebrate the many people and organizations who are moving accessibility forward in academia.
 
-Join a diverse lineup of scientists from around the world for presentations, Q&A, and dialogues on fascinating topics and new research. Exact dates and times are coming soon. <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Register now</a> to stay up to date with Forum news as events are finalized (we promise our emails will be infrequent, short, and to the point).
-
-Below is a preview of the exciting topics and speakers we can look forward to in September.
+Join a diverse lineup of scientists from around the world for presentations, Q&A, and dialogues on fascinating topics and new research. <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Signup now</a> to stay up to date with Forum news (we promise our emails will be infrequent, short, and to the point).
 
 ## Schedule
 | Session | Date | Presenters | Link |
@@ -22,7 +19,7 @@ Below is a preview of the exciting topics and speakers we can look forward to in
 
 <div style="clear:both;"></div>
 
-## Register for free
-Excited about the Forum lineup? <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Register here</a> and see you in September!
+## Signup for free
+Excited about the Forum lineup? <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Signup here</a> and see you in September!
 
 ![No Giscus](){#no-giscus}
