@@ -16,7 +16,7 @@ This session is for scientists and educators interested in more ways of explorin
 - Dr. Wanda Diaz-Merced
 - Dr. Scott Fleming
 - Sarah Kane
-- Kat Meredith
+- Kate Meredith
 - Dr. Robin Williams
 
 [See all presenter biographies](presenters)
