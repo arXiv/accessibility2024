@@ -47,7 +47,7 @@ Mick is the creator of the free and open-source NVDA screen reading software, th
 
 ![Phia Damsma](../assets/profile/phia.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Phia Damsma in black-rimmed glasses against a white background'}
 
-**Co-Founder and Creative Director, Sonokids Australia**
+**Co-Founder and Creative Director, Sonokids Australia.**
 
 Phia has more than 25 years of experience building innovative educational software and mobile apps for children with special needs, especially kids who are blind and low-vision. Her not-for-profit social enterprise, Sonokids, is impacting children globally, supporting playful learning with fundamental technology and other Expanded Core Curriculum skills through the technique of sonification. [Phia's LinkedIn profile](https://au.linkedin.com/in/phia-damsma-18b3a29){target="_blank"}
 
@@ -125,7 +125,7 @@ Ricardo designs interactive systems that empower people of disabilities, particu
 ## Dr. Mar Gonzalez-Franco
 ![Mar Gonzalez-Franco](../assets/profile/mar.jpeg){.mkd-img-left .mkd-img-profile alt='Black and white headshot of Mar smiling and looking thoughtfully upwards to the left while holding her chin'}
 
-**Editor and Ethics and Diversity Chair, IEEE VGTC; Research Scientist, Google**
+**Editor and Ethics and Diversity Chair, IEEE VGTC; Research Scientist, Google.**
 
 Mar is a Computer Scientist and Neuroscientist working on a new generation of Immersive technologies and generative AI. To the forum, she brings in 4 years of expertise as the Ethics and Diversity Chair of IEEE VGTC, where she has significantly forwarded accessibility standards and regional diversity. [Mar's Github homepage](https://margonzalezfranco.github.io/){target="_blank"}
 
@@ -155,7 +155,7 @@ For Sarah, her career as a researcher is intertwined with her work as a disabili
 
 **Research Director, Disability History and Culture Collective and Adjunct Professor, CUNY.**
 
-Devva's research work in disability studies spans more than 40 years at four distinguished universities. Her current work focuses on speech impairment, social participation politics, and disability services in higher education. Devva's book, "Occupying Disability," explores concepts that consider disability not in terms of impairment but as a range of unique social identities and experiences. [Devva's Faculty Profile](https://sps.cuny.edu/about/directory/devva.kasnitz){target="_blank"}
+Devva's research work in disability studies spans more than 40 years at four distinguished universities. Her current work focuses on speech impairment, social participation politics, and disability services in higher education. With friends she edited the book, "Occupying Disability," which explores concepts that consider disability not in terms of impairment but as a range of unique social identities and experiences. [Devva's Faculty Profile](https://sps.cuny.edu/about/directory/devva.kasnitz){target="_blank"}
 
 ---
 
@@ -173,7 +173,7 @@ Dyl is the coordinator for undergraduate and graduate research training programs
 
 ![Anne Logan](../assets/profile/anne.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Anne Logan smiling against a white background'}
 
-**Adjunct Professor, Gallaudet University**
+**Adjunct Professor, Gallaudet University.**
 
 A Horticulturalist with a focus in Viticulture and Enology, Anne currently teaches as an adjunct professor at Gallaudet University and creates STEM videos for deaf/HOH children for educational game app company ASL Aspire. She soon will launch her own wine education program in ASL. [Anne's LinkedIn profile](https://www.linkedin.com/in/anne-k-logan-9a75b989/){target="_blank"}
 
@@ -269,9 +269,9 @@ Thijs' research focus is digital fabrication, a nascent subfield of human-comput
 
 ![Ashley Shew](../assets/profile/ashley.png){.mkd-img-left .mkd-img-profile alt='Headshot of Ashley outdoors with the sun shining brightly on the lawn in the background'}
 
-**Associate Professor of Science, Technology, and Society, Virginia Tech; Co-editor-in-chief of Techné, the journal of the Society for Philosophy and Technology.**
+**Associate Professor of Science, Technology, and Society, Virginia Tech.**
 
-Ashley specializes in disability studies and technology ethics and believes in cross-disciplinary, cross-disability, and public-facing scholarship. She is the author of Against Technoableism (2023) and Animal Constructions and Technological Knowledge (2017). To the forum, she will bring in insights from her latest book and explore the harmful belief that the disabled simply await being 'fixed' by technological wizardry instead of making society more accessible and equitable. [Ashley's Faculty page](https://liberalarts.vt.edu/departments-and-schools/department-of-science-technology-and-society/faculty/ashley-shew.html){target="_blank"}
+Ashley specializes in disability studies and technology ethics and believes in cross-disciplinary, cross-disability, and public-facing scholarship. She is the author of Against Technoableism (2023) and Animal Constructions and Technological Knowledge (2017) and the co-editor-in-chief of *Techné: Research in Philosophy and Technology*. To the forum, she will bring in insights from her latest book and explore the harmful belief that the disabled simply await being 'fixed' by technological wizardry instead of making society more accessible and equitable. [Ashley's Faculty page](https://liberalarts.vt.edu/departments-and-schools/department-of-science-technology-and-society/faculty/ashley-shew.html){target="_blank"}
 
 ---
 
@@ -313,7 +313,7 @@ Raafat specializes in modeling dynamic systems, with a research focus that encom
 ## Allie Zombron
 ![Allie Zombron](../assets/profile/allie.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Allie  smiling in a green sweater in a classroom setting'}
 
-**Third-year undergraduate student, James Madison University**
+**Third-year undergraduate student, James Madison University.**
 
 Allie's research focuses on pairing AI with systems thinking to drive inclusivity in STEM Education. She will share her project that uses AI to explain, interpret and verbalize flow chart visualizations, a common presentation choice in academic research outputs. Analyzing such figures and turning them into words greatly enhances their accessibility for visually impaired academics. [Allie's LinkedIn Page](https://www.linkedin.com/in/allie-zombron-87394a290/){target="_blank"}
 
