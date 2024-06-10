@@ -16,6 +16,7 @@ This session is for professionals interested in the lived experience of deaf and
 - Hannah DeFelice
 - Dr. Bonnie Jacob
 - Dyl Levenson
+- Dr. Carmody McCalley
 - Camille Ouellette
 - Jenna Stewardson
 
