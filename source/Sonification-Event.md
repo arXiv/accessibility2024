@@ -26,4 +26,4 @@ This session is for scientists and educators interested in more ways of explorin
 
 
 ## Discussion board
-Use this discussion board to continue the conversation, ask questions, and share more resources around the social model of disability. See these [instructions](discussion-board.md) for setting up a free Github account.
+Use this discussion board to continue the conversation, ask questions, and share more resources around the social model of disability. See these [instructions](discussion-board.md) for setting up a free GitHub account.

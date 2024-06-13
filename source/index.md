@@ -10,7 +10,7 @@ The Forum is fully **remote, free, and open to all.** Learn, share, and be inspi
 
 <div class="highlight">
   <h2>Signup is open</h2>
-  <p>It is time! <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Singup</a> to stay up to date with the latest Forum event details. Individual Forum events will be held across multiple days between September 2nd and 13th. Though all events are open and do not require registration, by signing up you can help us gauge attendance this year and stay up to date as all event details are finalized.</p>
+  <p>It is time! <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Sign up</a> to stay up to date with the latest Forum event details. Individual Forum events will be held across multiple days between September 2nd and 13th. Though all events are open and do not require registration, by signing up you can help us gauge attendance this year and stay up to date as all event details are finalized.</p>
 
   <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-large">Signup for the Forum</a>
 

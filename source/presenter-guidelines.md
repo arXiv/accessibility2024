@@ -36,9 +36,9 @@ Please keep in mind of these top requests that we have heard from attendees.
 **Hint from a pro:** To preserve continuity between the pre-recorded intro video and the live event, wear the same shirt for both!
 
 ## Presentation materials
-If you reference additional materials such as slides, please share the files with us over email and we will post them for attendees ahead of time.
+If you reference additional materials such as slides, please share the files with us over email, and we will post them for attendees ahead of time.
 
-If you will use a slide deck keep the following in mind:
+If you use a slide deck keep the following in mind:
 
 - When presenting, speak the information on your screen out loud. Not everyone can see your screen.
 - In the slide deck itself add alt text descriptions to images, charts, and graphs.
