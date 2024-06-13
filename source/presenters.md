@@ -39,7 +39,7 @@ Kim brings her expertise in interpreting accessibility through the lens of socia
 
 **Co-Founder and Lead Developer, NV Access Limited (NVDA).**
 
-Mick is the creator of the free and open-source NVDA screen reading software, the world's only open-source screen reader. NVVDA has enabled more than 200,000 blind and vision impaired people worldwide to independently use computers. He brings expertise in accessibility for the web, international standards, software APIs, and best practice approaches to functional usability. [Mick's LinkedIn profile](https://au.linkedin.com/in/mdcurran){target="_blank"}
+Mick is the creator of the free and open-source NVDA screen reading software, the world's only open-source screen reader. NVDA has enabled more than 200,000 blind and vision impaired people worldwide to independently use computers. He brings expertise in accessibility for the web, international standards, software APIs, and best practice approaches to functional usability. [Mick's LinkedIn profile](https://au.linkedin.com/in/mdcurran){target="_blank"}
 
 ---
 
@@ -118,7 +118,7 @@ Jonathan's research is focused on the needs of the thousands of blind people aro
 
 **Ph.D. Candidate in Information Science, Cornell Tech.**
 
-Ricardo designs interactive systems that empower people of disabilities, particularly Blind and Low Vision users, in 3D virtual environments, data analysis, AI powered systems, and mobile cameras. [Ricardo's Github homepage](https://rgonzalezp.github.io/){target="_blank"}
+Ricardo designs interactive systems that empower people of disabilities, particularly Blind and Low Vision users, in 3D virtual environments, data analysis, AI powered systems, and mobile cameras. [Ricardo's GitHub homepage](https://rgonzalezp.github.io/){target="_blank"}
 
 ---
 
@@ -127,7 +127,7 @@ Ricardo designs interactive systems that empower people of disabilities, particu
 
 **Editor and Ethics and Diversity Chair, IEEE VGTC; Research Scientist, Google.**
 
-Mar is a Computer Scientist and Neuroscientist working on a new generation of Immersive technologies and generative AI. To the forum, she brings in 4 years of expertise as the Ethics and Diversity Chair of IEEE VGTC, where she has significantly forwarded accessibility standards and regional diversity. [Mar's Github homepage](https://margonzalezfranco.github.io/){target="_blank"}
+Mar is a Computer Scientist and Neuroscientist working on a new generation of Immersive technologies and generative AI. To the forum, she brings in 4 years of expertise as the Ethics and Diversity Chair of IEEE VGTC, where she has significantly forwarded accessibility standards and regional diversity. [Mar's GitHub homepage](https://margonzalezfranco.github.io/){target="_blank"}
 
 ---
 
@@ -155,7 +155,7 @@ For Sarah, her career as a researcher is intertwined with her work as a disabili
 
 **Research Director, Disability History and Culture Collective and Adjunct Professor, CUNY.**
 
-Devva's research work in disability studies spans more than 40 years at four distinguished universities. Her current work focuses on speech impairment, social participation politics, and disability services in higher education. With friends she edited the book, "Occupying Disability," which explores concepts that consider disability not in terms of impairment but as a range of unique social identities and experiences. [Devva's Faculty Profile](https://sps.cuny.edu/about/directory/devva.kasnitz){target="_blank"}
+Devva's research work in disability studies spans more than 40 years at four distinguished universities. Her current work focuses on speech impairment, social participation politics, and disability services in higher education. With friends, she edited the book, "Occupying Disability," which explores concepts that consider disability not in terms of impairment but as a range of unique social identities and experiences. [Devva's Faculty Profile](https://sps.cuny.edu/about/directory/devva.kasnitz){target="_blank"}
 
 ---
 
@@ -175,7 +175,7 @@ Dyl is the coordinator for undergraduate and graduate research training programs
 
 **Adjunct Professor, Gallaudet University.**
 
-A Horticulturalist with a focus in Viticulture and Enology, Anne currently teaches as an adjunct professor at Gallaudet University and creates STEM videos for deaf/HOH children for educational game app company ASL Aspire. She soon will launch her own wine education program in ASL. [Anne's LinkedIn profile](https://www.linkedin.com/in/anne-k-logan-9a75b989/){target="_blank"}
+A horticulturalist with a focus in Viticulture and Enology, Anne currently teaches as an adjunct professor at Gallaudet University and creates STEM videos for deaf / HoH children for educational game app company ASL Aspire. She soon will launch her own wine education program in ASL. [Anne's LinkedIn profile](https://www.linkedin.com/in/anne-k-logan-9a75b989/){target="_blank"}
 
 ---
 
@@ -183,7 +183,7 @@ A Horticulturalist with a focus in Viticulture and Enology, Anne currently teach
 
 **Master's Student in Special Education, Federal University of São Carlos (UFSCar).**
 
-A psychologist by training, Luisa brings her expertise at the intersection of psychology, education and accessibility as well as her lived experience as an academic with a visual impairment. Outside of her research career, she is a member of the Permanent Accessibility and Inclusion Committee of the Regional Labor Court of the 8th Region in Brazil. [Luisa's profile](){target="_blank"}
+A psychologist by training, Luisa brings her expertise at the intersection of psychology, education and accessibility as well as her lived experience as an academic with a visual impairment. Outside her research career, she is a member of the Permanent Accessibility and Inclusion Committee of the Regional Labor Court of the 8th Region in Brazil. [Luisa's profile](){target="_blank"}
 
 ---
 
@@ -193,7 +193,7 @@ A psychologist by training, Luisa brings her expertise at the intersection of ps
 
 **Software Engineer, Meta.**
 
-Tony is a researcher in Machine Learning at Meta, an active contributor to the NVDA open-source screen reader codebase, as well as a consultant to arXiv's accessibility research project. [Tony's Github profile](https://github.com/mltony){target="_blank"}
+Tony is a researcher in Machine Learning at Meta, an active contributor to the NVDA open-source screen reader codebase, as well as a consultant to arXiv's accessibility research project. [Tony's GitHub profile](https://github.com/mltony){target="_blank"}
 
 ---
 ## Dr. Carmody McCalley
@@ -222,7 +222,7 @@ Alex brings expertise in organizational strategies in transitioning from indexed
 
 **Founder and President, Geneva Lake Astrophysics and STEAM (GLAS) Education.**
 
-Kate is committed to ensuring that all who want the opportunity to pursue careers in STEAM have the chance to do so, with a clear focus on accessibility and multigenerational engagement. Some of her projects at GLAS include creating accessible curricula and data analysis softwares, and hosting summer intern programs and public star parties. [Kate's LinkedIn profile](https://www.linkedin.com/in/kmeredith){target="_blank"}
+Kate is committed to ensuring that all who want the opportunity to pursue careers in STEAM have the chance to do so, with a clear focus on accessibility and multigenerational engagement. Some of her projects at GLAS include creating accessible curricula and data analysis software, and hosting summer intern programs and public star parties. [Kate's LinkedIn profile](https://www.linkedin.com/in/kmeredith){target="_blank"}
 
 ---
 
@@ -306,7 +306,7 @@ Licia's research is primarily on large-scale structure, analysis of the WMAP dat
 
 **Assistant Professor, College of Integrated Science and Engineering, James Madison University.**
 
-Raafat specializes in modeling dynamic systems, with a research focus that encompasses organizational design, dissent, change, strategy, cognitive learning, higher education, and human systems. Bringing a wealth of practical experience to his academic pursuits, Raafat teaches systems thinking, creative problem solving, and designing future-forward organizations. Most recently, he has been passionate about harnessing generative AI to improve accessibility for visually impaired and neurodiverse learners. [Raafat's Faculty page](https://www.jmu.edu/cise/people/faculty/zaini-raafat.shtml){target="_blank"}
+Raafat specializes in modeling dynamic systems, with a research focus that encompasses organizational design, dissent, change, strategy, cognitive learning, higher education, and human systems. Bringing a wealth of practical experience to his academic pursuits, Raafat teaches systems thinking, creative problem-solving, and designing future-forward organizations. Most recently, he has been passionate about harnessing generative AI to improve accessibility for visually impaired and neurodiverse learners. [Raafat's Faculty page](https://www.jmu.edu/cise/people/faculty/zaini-raafat.shtml){target="_blank"}
 
 ---
 
