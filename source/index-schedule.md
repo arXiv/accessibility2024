@@ -27,14 +27,32 @@ The Forum is fully **remote, free, and open to all.** Learn, share, and be inspi
 - Deaf Hub at RIT: A resource for all of us
 - Ask me anything: A lively Q&A on navigating academic ecosystems with a disability
 
+<style>
+.md-typeset__table { font-size: smaller; }
+.md-typeset__table table { max-width: 100%; }
+.md-typeset__table td { border: 1px solid grey }
+.md-typeset__table thead th { border: 1px solid grey; }
+@media all and (max-width: 740px) {
+  .md-typeset__table { display: none; }
+}
+</style>
+## September Events Calendar
+
+[View the full event schedule](/schedule){class="button-reg"}
+
+| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1. | 2.  |  3.<br>[Ask Me Anything](AMA-event) | 4. <br>[AI and Accessibility](AI-Event) | 5.<br> [Sonify This!](Sonification-Event) | 6. <br>Keynote: [The social model of disability](Social-Model-Event) | 7. |
+| 8. | 9.  | 10.  | 11.<br>[SciELO y accessibilidad / e acessibilidade](SciELO-Event)  | 12. <br>[HTML papers on arXiv](HTML-Event)  |  13.<br>[Deaf Hub at RIT](Deaf-Hub-Event) | 14. |
+
 ## Presenter affiliations
 We are so pleased to be collaborating this year with presenters from these universities and other organizations, bringing diverse perspectives that all converge on more accessible science.
 
 <div class="logo-background">
   <ul>
     <li><img src="../assets/logo/ubarcelona.png" alt="Logo for the University of Barcelona">University of Barcelona</li>
-    <li><img src="../assets/logo/cambridge.png" alt="Logo forthe University of Cambridge">University of Cambridge</li>
-    <li><img src="../assets/logo/cuny.png" alt="Logo for City University of New York">City University of New York</li>
+    <li><img src="../assets/logo/cambridge.png" alt="Logo forthe University of  Cambridge">University of Cambridge</li>
+    <li><img src="../assets/logo/cuny.png" alt="Logo for City University of New York"> City University of New York</li>
     <li><img src="../assets/logo/cornell-tech.png" alt="Logo for cornell tech"> Cornell Tech</li>
     <li><img src="../assets/logo/gallaudet.png" alt="Logo for gallaudet university">Gallaudet University</li>
     <li><img src="../assets/logo/jmu.png" alt="Logo for James Madison University">James Madison University</li>
