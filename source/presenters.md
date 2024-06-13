@@ -91,7 +91,6 @@ Solange brings in scientific communication expertise in diverse geographical con
 
 Scott studies stars and exoplanets in the ultraviolet, optical, and infrared. He is one of the movers and shakers behind Astronify, an open-source sonification tool written in Python and used for analyzing data from NASA’s space telescopes. [Scott's STSI profile](https://www.stsci.edu/stsci-research/research-directory/scott-fleming){target="_blank"}
 
-
 ---
 
 ## Deyan Ginev
@@ -196,6 +195,7 @@ A psychologist by training, Luisa brings her expertise at the intersection of ps
 Tony is a researcher in Machine Learning at Meta, an active contributor to the NVDA open-source screen reader codebase, as well as a consultant to arXiv's accessibility research project. [Tony's GitHub profile](https://github.com/mltony){target="_blank"}
 
 ---
+
 ## Dr. Carmody McCalley
 
 ![Carmody McCalley](../assets/profile/carmody.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Carmody in a blue blazer smiling against a grey background'}
@@ -260,7 +260,7 @@ As the author of TeXLive (and though he objects to this characterization) Norber
 
 ![Thijs Roumen](../assets/profile/thijs.png){.mkd-img-left .mkd-img-profile alt='Headshot of Thijs Roumen against a grey background'}
 
-**Assistant Professor of Information Science and Matter of Tech Lab, Cornell Tech.**
+**Assistant Professor of Information Science and Director of the Matter of Tech Lab, Cornell Tech.**
 
 Thijs' research focus is digital fabrication, a nascent subfield of human-computer interaction (HCI). He aims to create a technological basis that allows designers and engineers to build on each other's work and enable personal, custom fabrication relevant to everyone, not only to industrialists and hobbyists. [Thijs's Homepage](http://thijsroumen.eu/){target="_blank"}
 
@@ -285,14 +285,6 @@ Jenna is the research coordinator extraordinaire at Deaf Hub and will be sharing
 
 ---
 
-## Dr. Robin Williams
-
-**Data analyst, Atass Sports.**
-
-Robin completed his PhD in statistical methods for weather forecasting, before moving to industry where he works as a research statistician in sports prediction. During his PhD he helped to develop the Sonify R package, which he uses regularly to convert 2D data to sound. He also has an interest in anything that helps to make STEM subjects more accessible to visually impaired people. [Robin’s R Package Page](https://cran.r-project.org/web/packages/sonify/index.html){target="_blank"}
-
----
-
 ## Dr. Licia Verde
 ![Licia Verde](../assets/profile/licia.png){.mkd-img-left .mkd-img-profile alt='Headshot of Licia with dramatic lighting against a dark background'}
 
@@ -301,6 +293,15 @@ Robin completed his PhD in statistical methods for weather forecasting, before m
 Licia's research is primarily on large-scale structure, analysis of the WMAP data, and development of rigorous statistical tools to analyze surveys of the universe. Licia brings multiple perspectives to her efforts in accessibility as an editor, researcher, author, and teacher. She is also a champion of open science and has served as Chair of the Science Advisory Committee at arXiv since 2019. [Licia's Faculty page](https://liciaverde.icc.ub.edu/){target="_blank"}
 
 ---
+
+## Dr. Robin Williams
+
+**Data analyst, Atass Sports.**
+
+Robin completed his PhD in statistical methods for weather forecasting, before moving to industry where he works as a research statistician in sports prediction. During his PhD he helped to develop the Sonify R package, which he uses regularly to convert 2D data to sound. He also has an interest in anything that helps to make STEM subjects more accessible to visually impaired people. [Robin’s R Package Page](https://cran.r-project.org/web/packages/sonify/index.html){target="_blank"}
+
+---
+
 ## Dr. Raafat Mahmoud Zaini
 ![Raafat Zaini](../assets/profile/raafat.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Raafat Zaini in a purple shirt against a background of greenery'}
 

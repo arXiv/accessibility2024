@@ -17,11 +17,49 @@ This groundbreaking session on accessibility in the SciELO community is also a f
 
 ## Presenters
 
-- Luisa de Souza Leão
-- Dr. Mar Gonzalez-Franco
-- Dr. Solange Maria dos Santos
-- Alex Mendonça
-- Dr. Licia Verde
+### Luisa de Souza Leão  
+
+**Master's Student in Special Education, Federal University of São Carlos (UFSCar).**
+
+A psychologist by training, Luisa brings her expertise at the intersection of psychology, education and accessibility as well as her lived experience as an academic with a visual impairment. Outside her research career, she is a member of the Permanent Accessibility and Inclusion Committee of the Regional Labor Court of the 8th Region in Brazil. [Luisa's profile](){target="_blank"}
+
+---
+
+### Dr. Mar Gonzalez-Franco
+![Mar Gonzalez-Franco](../assets/profile/mar.jpeg){.mkd-img-left .mkd-img-profile alt='Black and white headshot of Mar smiling and looking thoughtfully upwards to the left while holding her chin'}
+
+**Editor and Ethics and Diversity Chair, IEEE VGTC; Research Scientist, Google.**
+
+Mar is a Computer Scientist and Neuroscientist working on a new generation of Immersive technologies and generative AI. To the forum, she brings in 4 years of expertise as the Ethics and Diversity Chair of IEEE VGTC, where she has significantly forwarded accessibility standards and regional diversity. [Mar's GitHub homepage](https://margonzalezfranco.github.io/){target="_blank"}
+
+---
+
+### Dr. Solange Maria dos Santos
+
+![Solange dos Santos](../assets/profile/solange.jpeg){.mkd-img-left .mkd-img-profile alt='Candid photo of Solange smiling with a crowd of people in the background'}
+
+**Production and Publishing Coordinator, SciELO.**
+
+Solange brings in scientific communication expertise in diverse geographical contexts, such as Argentina, Bolivia, Colombia, Mexico, Paraguay, and South Africa. Solange is a strong advocate for accessibility in open archive space as well as academic journals. [Solange's LinkedIn profile](https://www.linkedin.com/in/solangemariasantos/?originalSubdomain=br){target="_blank"}
+
+---
+
+### Alex Mendonça
+
+![Alex Mendonça](../assets/profile/alex.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Alex Mendonça smiling in an indoor environment'}
+
+**Online Submission & Preprints Coordinator, SciELO.**
+
+Alex brings expertise in organizational strategies in transitioning from indexed journals to open science, as well as the implementation of Diversity, Equity, Inclusion and Accessibility (DEIA) policies at SciELO. [Alex's LinkedIn profile](https://www.linkedin.com/in/alex-mendon%C3%A7a/?originalSubdomain=br){target="_blank"}
+
+---
+
+### Dr. Licia Verde
+![Licia Verde](../assets/profile/licia.png){.mkd-img-left .mkd-img-profile alt='Headshot of Licia with dramatic lighting against a dark background'}
+
+**Editor and Scientific Director of the Journal of Cosmology and Astroparticle Physics (JCAP); ICREA Professor, Institute of Cosmological Sciences, University of Barcelona.**
+
+Licia's research is primarily on large-scale structure, analysis of the WMAP data, and development of rigorous statistical tools to analyze surveys of the universe. Licia brings multiple perspectives to her efforts in accessibility as an editor, researcher, author, and teacher. She is also a champion of open science and has served as Chair of the Science Advisory Committee at arXiv since 2019. [Licia's Faculty page](https://liciaverde.icc.ub.edu/){target="_blank"}
 
 [See all presenter biographies](presenters)
 

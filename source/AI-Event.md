@@ -1,22 +1,61 @@
-# AI and accessibility: Has the bleeding edge caught up with user needs?
+# AI and accessibility: A demonstration of two research-based tools
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 
-This session features a demo of two AI-driven tools for accessibility directly from their creators, and a vision-impaired scientist who will provide the perspective of lived experience. Enjoy the demonstrations and stay for a rich discussion of AI tools and how they are benefitting scientists with disabilities today.
+Has the bleeding edge caught up with user needs? This session features demonstrations from two research teams of their AI-driven tools build for accessibility. We are also joined by a vision-impaired scientist who uses AI tools daily to improve the accessibility of her work. Attendees can join in with the hands-on technical demonstrations, then engage with our presenters during the Q&A.
 
-This session is for those looking for practical insights into AI's role in accessibility, and hands-on experience with these two tools from academic researchers.
+This session is for those looking for practical insights into AI's role in accessibility, and hands-on experience with these two new AI tools from academic researchers.
 
 | Date | Time | Links |
 |---|---|---|
-| 9/4/24  | 10:00 a.m. ET |  [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| September 4th 2024  | 10:00 a.m. ET |  [Signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
 
 ## Presenters
 
-- Arwa Alnajashi
-- Ricardo Gonzalez
-- Dr. Thijs Jan Roumen
-- Dr. Raafat Mahmoud Zaini
-- Allie Zombron
+### Arwa Alnajashi
+
+<!-- ![Arwa Alnajashi](../assets/profile/arwa.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Arwa Alnajashi'} -->
+
+**Data Scientist, Saudi Aramco.**
+
+Arwa's passion lies in creating an empowered and inclusive digital future, ensuring that advancements in technology pave the way for greater accessibility and efficiency across industries. Currently, she applies data science to automate critical operations in the oil and gas industry. [Arwa's LinkedIn Page](https://sa.linkedin.com/in/arwa-alnajashi-84b1541a2?trk=people-guest_people_search-card){target="_blank"}
+
+---
+
+### Ricardo Enrique Gonzalez
+![Ricardo Gonzalez](../assets/profile/ricardo.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Ricardo in a dark shirt against a light grey background'}
+
+**Ph.D. Candidate in Information Science, Cornell Tech.**
+
+Ricardo designs interactive systems that empower people of disabilities, particularly Blind and Low Vision users, in 3D virtual environments, data analysis, AI powered systems, and mobile cameras. [Ricardo's GitHub homepage](https://rgonzalezp.github.io/){target="_blank"}
+
+---
+
+### Dr. Thijs Jan Roumen
+
+![Thijs Roumen](../assets/profile/thijs.png){.mkd-img-left .mkd-img-profile alt='Headshot of Thijs Roumen against a grey background'}
+
+**Assistant Professor of Information Science and Director of the Matter of Tech Lab, Cornell Tech.**
+
+Thijs' research focus is digital fabrication, a nascent subfield of human-computer interaction (HCI). He aims to create a technological basis that allows designers and engineers to build on each other's work and enable personal, custom fabrication relevant to everyone, not only to industrialists and hobbyists. [Thijs's Homepage](http://thijsroumen.eu/){target="_blank"}
+
+---
+
+### Dr. Raafat Mahmoud Zaini
+![Raafat Zaini](../assets/profile/raafat.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Raafat Zaini in a purple shirt against a background of greenery'}
+
+**Assistant Professor, College of Integrated Science and Engineering, James Madison University.**
+
+Raafat specializes in modeling dynamic systems, with a research focus that encompasses organizational design, dissent, change, strategy, cognitive learning, higher education, and human systems. Bringing a wealth of practical experience to his academic pursuits, Raafat teaches systems thinking, creative problem-solving, and designing future-forward organizations. Most recently, he has been passionate about harnessing generative AI to improve accessibility for visually impaired and neurodiverse learners. [Raafat's Faculty page](https://www.jmu.edu/cise/people/faculty/zaini-raafat.shtml){target="_blank"}
+
+---
+
+### Allie Zombron
+![Allie Zombron](../assets/profile/allie.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Allie  smiling in a green sweater in a classroom setting'}
+
+**Third-year undergraduate student, James Madison University.**
+
+Allie's research focuses on pairing AI with systems thinking to drive inclusivity in STEM Education. She will share her project that uses AI to explain, interpret and verbalize flow chart visualizations, a common presentation choice in academic research outputs. Analyzing such figures and turning them into words greatly enhances their accessibility for visually impaired academics. [Allie's LinkedIn Page](https://www.linkedin.com/in/allie-zombron-87394a290/){target="_blank"}
 
 [See all presenter biographies](presenters)
 
