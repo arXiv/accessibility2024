@@ -34,7 +34,7 @@ Wanda is an astronomer and leading proponent of sonification, converting astroph
 
 ### Dr. Scott Fleming
 
-![Scott Fleming](../assets/profile/scott.png){.mkd-img-left .mkd-img-profile alt='Headshot of Scott wearing glasses and smiling against a background image of a galaxy'}
+![Scott Fleming](../assets/profile/scott.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Scott wearing glasses and smiling against a background image of a galaxy'}
 
 **Archive Scientist at the Mikulski Archive for Space Telescopes (MAST), Space Telescope Science Institute (STScI).**
 
