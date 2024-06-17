@@ -13,7 +13,7 @@ There are no silly questions. Come engage and learn!
 ## Presenters
 
 ### Dr. Jonathan Godfrey
-![Jonathan Godfrey](../assets/profile/jonathan.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Jonathan Godfrey smiling in a suit'}
+![Jonathan Godfrey](../assets/profile/jonathan.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Jonathan Godfrey smiling in a suit'}
 
 **Senior Lecturer in Statistics, School of Mathematical and Computational Sciences, Massey University.**
 
@@ -23,7 +23,7 @@ Jonathan's research is focused on the needs of the thousands of blind people aro
 
 ### Dr. Anne Kearney Logan
 
-![Anne Logan](../assets/profile/anne.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Anne Logan smiling against a white background'}
+![Anne Logan](../assets/profile/anne.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Anne Logan smiling against a white background'}
 
 **Adjunct Professor, Gallaudet University.**
 
@@ -33,14 +33,14 @@ A horticulturalist with a focus in Viticulture and Enology, Anne currently teach
 
 ### Venkatesh Potluri
 
-![Venkatesh Potluri](../assets/profile/venkatesh.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Venkatesh in an orange plaid shirt against a white background'}
+![Venkatesh Potluri](../assets/profile/venkatesh.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Venkatesh in an orange plaid shirt against a white background'}
 
 **Ph.D. Candidate in Computer Science and Engineering, University of Washington.**
 
 Venkatesh examines accessibility barriers experienced by blind or visually impaired (BVI) developers participating in professional programming domains such as user interface design, data science, and physical computing. His work contributes real-world systems to improve developer tools and new interaction techniques. [Venkatesh's Homepage](https://venkateshpotluri.me/){target="_blank"}
 
 
-[See all presenter biographies](presenters)
+[See all Forum presenters](presenters){class="button-reg"}
 
 <!-- ## Session materials and resources -->
 

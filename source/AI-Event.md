@@ -14,7 +14,7 @@ This session is for those looking for practical insights into AI's role in acces
 
 ### Arwa Alnajashi
 
-<!-- ![Arwa Alnajashi](../assets/profile/arwa.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Arwa Alnajashi'} -->
+![Arwa Alnajashi](../assets/profile/arwa.jpg){.mkd-img-left .mkd-img-profile alt='An image of an iconic building in Saudi Arabia, the Al Faisaliah Tower in Riyadh'}
 
 **Data Scientist, Saudi Aramco.**
 
@@ -23,7 +23,7 @@ Arwa's passion lies in creating an empowered and inclusive digital future, ensur
 ---
 
 ### Ricardo Enrique Gonzalez
-![Ricardo Gonzalez](../assets/profile/ricardo.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Ricardo in a dark shirt against a light grey background'}
+![Ricardo Gonzalez](../assets/profile/ricardo.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Ricardo in a dark shirt against a light grey background'}
 
 **Ph.D. Candidate in Information Science, Cornell Tech.**
 
@@ -33,7 +33,7 @@ Ricardo designs interactive systems that empower people of disabilities, particu
 
 ### Dr. Thijs Jan Roumen
 
-![Thijs Roumen](../assets/profile/thijs.png){.mkd-img-left .mkd-img-profile alt='Headshot of Thijs Roumen against a grey background'}
+![Thijs Roumen](../assets/profile/thijs.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Thijs Roumen against a grey background'}
 
 **Assistant Professor of Information Science and Director of the Matter of Tech Lab, Cornell Tech.**
 
@@ -42,7 +42,7 @@ Thijs' research focus is digital fabrication, a nascent subfield of human-comput
 ---
 
 ### Dr. Raafat Mahmoud Zaini
-![Raafat Zaini](../assets/profile/raafat.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Raafat Zaini in a purple shirt against a background of greenery'}
+![Raafat Zaini](../assets/profile/raafat.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Raafat Zaini in a purple shirt against a background of greenery'}
 
 **Assistant Professor, College of Integrated Science and Engineering, James Madison University.**
 
@@ -51,13 +51,13 @@ Raafat specializes in modeling dynamic systems, with a research focus that encom
 ---
 
 ### Allie Zombron
-![Allie Zombron](../assets/profile/allie.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Allie  smiling in a green sweater in a classroom setting'}
+![Allie Zombron](../assets/profile/allie.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Allie  smiling in a green sweater in a classroom setting'}
 
 **Third-year undergraduate student, James Madison University.**
 
 Allie's research focuses on pairing AI with systems thinking to drive inclusivity in STEM Education. She will share her project that uses AI to explain, interpret and verbalize flow chart visualizations, a common presentation choice in academic research outputs. Analyzing such figures and turning them into words greatly enhances their accessibility for visually impaired academics. [Allie's LinkedIn Page](https://www.linkedin.com/in/allie-zombron-87394a290/){target="_blank"}
 
-[See all presenter biographies](presenters)
+[See all Forum presenters](presenters){class="button-reg"}
 
 ## Session materials and resources
 Want to learn more about system design? Check out these 2 resources shared by our presenters.

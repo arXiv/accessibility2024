@@ -27,14 +27,24 @@ The Forum is fully **remote, free, and open to all.** Learn, share, and be inspi
 - Deaf Hub at RIT: A resource for all of us
 - Ask me anything: A lively Q&A on navigating academic ecosystems with a disability
 
+[View the full event schedule](/schedule){class="button-reg"}
+
+<div class="calendar" markdown="1">
+## September Events Calendar
+| Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1. | 2.  |  3.<br>[Ask Me Anything](AMA-Event) | 4. <br>[AI and Accessibility](AI-Event) | 5. | 6.<br>[Deaf Hub at RIT](Deaf-Hub-Event)  | 7. |
+| 8. | 9.  | 10.<br> [Sonify This!](Sonification-Event) | 11.<br>[SciELO y accessibilidad / e acessibilidade](SciELO-Event)  | 12. <br>[HTML papers on arXiv](HTML-Event)  |  13.<br>Keynote: [The social model of disability](Social-Model-Event) | 14. |
+</div>
+
 ## Presenter affiliations
 We are so pleased to be collaborating this year with presenters from these universities and other organizations, bringing diverse perspectives that all converge on more accessible science.
 
 <div class="logo-background">
   <ul>
     <li><img src="../assets/logo/ubarcelona.png" alt="Logo for the University of Barcelona">University of Barcelona</li>
-    <li><img src="../assets/logo/cambridge.png" alt="Logo forthe University of Cambridge">University of Cambridge</li>
-    <li><img src="../assets/logo/cuny.png" alt="Logo for City University of New York">City University of New York</li>
+    <li><img src="../assets/logo/cambridge.png" alt="Logo forthe University of  Cambridge">University of Cambridge</li>
+    <li><img src="../assets/logo/cuny.png" alt="Logo for City University of New York"> City University of New York</li>
     <li><img src="../assets/logo/cornell-tech.png" alt="Logo for cornell tech"> Cornell Tech</li>
     <li><img src="../assets/logo/gallaudet.png" alt="Logo for gallaudet university">Gallaudet University</li>
     <li><img src="../assets/logo/jmu.png" alt="Logo for James Madison University">James Madison University</li>

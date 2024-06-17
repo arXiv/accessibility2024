@@ -330,7 +330,7 @@ Allie's research focuses on pairing AI with systems thinking to drive inclusivit
 
 **UX Manager, arXiv.**
 
-To advance accessibility at arXiv, Shamsi brings the experiences of researchers with disabilities to the forefront of organizational planning. For the last few years she has championed the research and implementation of more accessible practices at arXiv, including the addition of HTML-formatted papers. She has also had the pleasure of organizing this forum and working with each of the wonderful participants above to bring it to life. Thank you! [Shamsi's LinkedIn profile](https://www.linkedin.com/in/shamsi-brinn/){target="_blank"}
+For the last few years Shamsi has championed the research and implementation of more accessible practices at arXiv, including the addition of HTML-formatted papers. She has also had the pleasure of organizing this forum and working with each of the wonderful participants above to bring it to life. Thank you! [Shamsi's LinkedIn profile](https://www.linkedin.com/in/shamsi-brinn/){target="_blank"}
 
 ## Miranda Yang
 (Full bio coming soon)

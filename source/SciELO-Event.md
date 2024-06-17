@@ -17,16 +17,8 @@ This groundbreaking session on accessibility in the SciELO community is also a f
 
 ## Presenters
 
-### Luisa de Souza Leão  
-
-**Master's Student in Special Education, Federal University of São Carlos (UFSCar).**
-
-A psychologist by training, Luisa brings her expertise at the intersection of psychology, education and accessibility as well as her lived experience as an academic with a visual impairment. Outside her research career, she is a member of the Permanent Accessibility and Inclusion Committee of the Regional Labor Court of the 8th Region in Brazil. [Luisa's profile](){target="_blank"}
-
----
-
 ### Dr. Mar Gonzalez-Franco
-![Mar Gonzalez-Franco](../assets/profile/mar.jpeg){.mkd-img-left .mkd-img-profile alt='Black and white headshot of Mar smiling and looking thoughtfully upwards to the left while holding her chin'}
+![Mar Gonzalez-Franco](../assets/profile/mar.jpg){.mkd-img-left .mkd-img-profile alt='Black and white headshot of Mar smiling and looking thoughtfully upwards to the left while holding her chin'}
 
 **Editor and Ethics and Diversity Chair, IEEE VGTC; Research Scientist, Google.**
 
@@ -36,7 +28,7 @@ Mar is a Computer Scientist and Neuroscientist working on a new generation of Im
 
 ### Dr. Solange Maria dos Santos
 
-![Solange dos Santos](../assets/profile/solange.jpeg){.mkd-img-left .mkd-img-profile alt='Candid photo of Solange smiling with a crowd of people in the background'}
+![Solange dos Santos](../assets/profile/solange.jpg){.mkd-img-left .mkd-img-profile alt='Candid photo of Solange smiling with a crowd of people in the background'}
 
 **Production and Publishing Coordinator, SciELO.**
 
@@ -46,7 +38,7 @@ Solange brings in scientific communication expertise in diverse geographical con
 
 ### Alex Mendonça
 
-![Alex Mendonça](../assets/profile/alex.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Alex Mendonça smiling in an indoor environment'}
+![Alex Mendonça](../assets/profile/alex.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Alex Mendonça smiling in an indoor environment'}
 
 **Online Submission & Preprints Coordinator, SciELO.**
 
@@ -54,14 +46,23 @@ Alex brings expertise in organizational strategies in transitioning from indexed
 
 ---
 
+### Luisa de Souza Leão  
+![Louisa de Souza Leão](../assets/profile/luisa.jpg){.mkd-img-left .mkd-img-profile alt='an image of a beautiful natural scenic area in Brazil featuring a rocky coastline and island outcroppings near the shore'}
+
+**Master's Student in Special Education, Federal University of São Carlos (UFSCar).**
+
+A psychologist by training, Luisa brings her expertise at the intersection of psychology, education and accessibility as well as her lived experience as an academic with a visual impairment. Outside her research career, she is a member of the Permanent Accessibility and Inclusion Committee of the Regional Labor Court of the 8th Region in Brazil. [Luisa's profile](){target="_blank"}
+
+---
+
 ### Dr. Licia Verde
-![Licia Verde](../assets/profile/licia.png){.mkd-img-left .mkd-img-profile alt='Headshot of Licia with dramatic lighting against a dark background'}
+![Licia Verde](../assets/profile/licia.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Licia with dramatic lighting against a dark background'}
 
 **Editor and Scientific Director of the Journal of Cosmology and Astroparticle Physics (JCAP); ICREA Professor, Institute of Cosmological Sciences, University of Barcelona.**
 
 Licia's research is primarily on large-scale structure, analysis of the WMAP data, and development of rigorous statistical tools to analyze surveys of the universe. Licia brings multiple perspectives to her efforts in accessibility as an editor, researcher, author, and teacher. She is also a champion of open science and has served as Chair of the Science Advisory Committee at arXiv since 2019. [Licia's Faculty page](https://liciaverde.icc.ub.edu/){target="_blank"}
 
-[See all presenter biographies](presenters)
+[See all Forum presenters](presenters){class="button-reg"}
 
 ## Session materials and resources
 - The [SciELO e-book](https://25.scielo.org/en/we-so-loved-open-access/){target="_blank"} sheds lights on the ways that SciELO and other individuals from underrepresented regions in the sciences pushed forward open access in global academic communication. This e-book is published as part of SciELO's 25th anniversary celebration, and it is free to download for all.

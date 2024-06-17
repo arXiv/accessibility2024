@@ -14,7 +14,7 @@ This session is for all academics who want to give or get support navigating aca
 
 ### Elizabeth Ayers
 
-![Elizabeth Ayers](../assets/profile/liz.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Liz wearing a black shirt against a dark grey background'}
+![Elizabeth Ayers](../assets/profile/liz.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Liz wearing a black shirt against a dark grey background'}
 
 **Senior Lecturer, Department of Science and Mathematics and Director of Healthcare Mentoring, Deaf Healthcare and Biomedical Sciences Hub (Deaf Hub), National Technical Institute for the Deaf at Rochester Institute of Technology.**
 
@@ -24,7 +24,7 @@ Liz is a sonographer at Highland Hospital and science instructor at NTID/RIT tea
 
 ### Hannah DeFelice
 
-<!-- ![Hannah DeFelice](../assets/profile/hannah.jpeg){.mkd-img-left .mkd-img-profile alt='Hannah DeFelice Photo'} -->
+![Hannah DeFelice](../assets/profile/hannah.jpg){.mkd-img-left .mkd-img-profile alt='A night photograph of Rochester's iconic city skyline with the famous Frederich Douglas and Susan B Anthony bridge in the foreground'}
 
 **Master's Student in Environmental Science, Rochester Institute of Technology.**
 
@@ -33,7 +33,7 @@ Hannah’s research focuses on permaculture, especially carbon cycles and their 
 ---
 
 ### Dr. Bonnie Jacob (Moderator)
-![Bonnie Jacob](../assets/profile/bonnie.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Bonnie against a clear dark grey background'}
+![Bonnie Jacob](../assets/profile/bonnie.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Bonnie against a clear dark grey background'}
 
 **Associate Professor, Department of Science and Mathematics and National Technical Institute for the Deaf, Rochester Institute of Technology.**
 
@@ -43,7 +43,7 @@ Bonnie is passionate about promoting undergraduate research in mathematics as we
 
 ### Dyl Levenson
 
-![Dyl Levenson](../assets/profile/dyl.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Dyl in a dark grey polo with the RIT logo on the lapel standing against a dark grey background'}
+![Dyl Levenson](../assets/profile/dyl.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Dyl in a dark grey polo with the RIT logo on the lapel standing against a dark grey background'}
 
 **Biomedical Science Training Grants Admin, National Technical Institute for the Deaf, Rochester Institute of Technology.**
 
@@ -53,7 +53,7 @@ Dyl is the coordinator for undergraduate and graduate research training programs
 
 ### Dr. Carmody McCalley
 
-![Carmody McCalley](../assets/profile/carmody.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Carmody in a blue blazer smiling against a grey background'}
+![Carmody McCalley](../assets/profile/carmody.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Carmody in a blue blazer smiling against a grey background'}
 
 **Associate Professor in Life Sciences and Director of Environmental Science MS Program, Rochester Institute of Technology.**
 
@@ -63,7 +63,7 @@ Carmody's research focuses on better understanding ecosystem and climate interac
 
 ### Camille Ouellette
 
-![Camille Ouellette](../assets/profile/camille.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Camille in a suit and wearing black-rimmed glasses standing against a grey background'}
+![Camille Ouellette](../assets/profile/camille.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Camille in a suit and wearing black-rimmed glasses standing against a grey background'}
 
 **Senior Lecturer of Biology and Health Sciences at Rochester Institute of Technology; Deaf Hub Affiliate.**
 
@@ -73,14 +73,14 @@ Camille teaches in the Biology and Health department on Human Health and Disease
 
 ### Jenna Stewardson 	
 
-![Jenna Stewardson](../assets/profile/jenna.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Jenna Stewardson smiling in a blue and white checkered shirt and a navy blazer against a dark grey background'}
+![Jenna Stewardson](../assets/profile/jenna.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Jenna Stewardson smiling in a blue and white checkered shirt and a navy blazer against a dark grey background'}
 
 **Research Program Coordinator, National Technical Institute for the Deaf, Rochester Institute of Technology.**
 
 Jenna is the research coordinator extraordinaire at Deaf Hub and will be sharing her experiences supporting students who are deaf/hard-of-hearing on their academic journeys. [Jenna’s RIT profile](https://www.rit.edu/directory/jasccl-jenna-stewardson){target="_blank"}
 
 
-[See all presenter biographies](presenters)
+[See all Forum presenters](presenters){class="button-reg"}
 
 <!-- ## Session materials and resources -->
 

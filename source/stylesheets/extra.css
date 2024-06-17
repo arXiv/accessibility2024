@@ -290,7 +290,7 @@ h1 {
   width: 100%;
   background-color: white;
   margin-bottom:.3em;
-  border: 1px solid var(--md-primary-fg-color--dark);
+  border: 1px solid var(--md-primary-fg-color--light);
   border-radius: 6px;
   -webkit-box-shadow: 0px 2px 3px 0px var(--shadow);
   -moz-box-shadow: 0px 2px 3px 0px var(--shadow);
@@ -650,4 +650,13 @@ ol.color-blocks li img {
 #no-giscus {
   visibility: hidden;
   display: none;
+}
+
+/* events calendar styles*/
+.calendar .md-typeset__table { font-size: smaller; }
+.calendar .md-typeset__table table { max-width: 100%; }
+.calendar .md-typeset__table td { border: 1px solid grey }
+.calendar .md-typeset__table thead th { border: 1px solid grey; }
+@media all and (max-width: 740px) {
+  .calendar { display: none; }
 }
