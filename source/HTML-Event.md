@@ -15,7 +15,7 @@ Adding HTML to arXiv was possible because of organizations whose long-standing c
 
 ### Michael Curran
 
-![Michael Curran](../assets/profile/michael.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Michael wearing a blue striped shirt standing against a dark background'}
+![Michael Curran](../assets/profile/michael.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Michael wearing a blue striped shirt standing against a dark background'}
 
 **Co-Founder and Lead Developer, NV Access Limited.**
 
@@ -25,7 +25,7 @@ Mick is the creator of NVDA, the world's only free and open-source screen readin
 
 ### Deyan Ginev
 
-![Deyan Ginev](../assets/profile/deyan.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Deyan outdoors with a river in the background'}
+![Deyan Ginev](../assets/profile/deyan.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Deyan outdoors with a river in the background'}
 
 **Creator of ar5iv.org and lead developer at LaTeXML; W3C Math Working Group Member; Ph.D. candidate in hiding (do not disturb).**
 
@@ -35,7 +35,7 @@ Deyan's main focus is to enhance the representation of mathematical expressions 
 
 ### Tony Malykh
 
-![Tony Malykh](../assets/profile/tony.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Tony Malykh wearing dark sunglasses against a tan background'}
+![Tony Malykh](../assets/profile/tony.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Tony Malykh wearing dark sunglasses against a tan background'}
 
 **Software Engineer, Meta.**
 
@@ -45,13 +45,13 @@ Tony is a researcher in Machine Learning at Meta, an active contributor to the N
 
 ### Dr. Norbert Preining
 
-![Norbert Preining](../assets/profile/norbert.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Norbert in a blue shirt and blazer smiling against a grey background'}
+![Norbert Preining](../assets/profile/norbert.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Norbert in a blue shirt and blazer smiling against a grey background'}
 
 **Principal Software Engineer, arXiv.**
 
 As the author of TeXLive (and though he objects to this characterization) Norbert is one of the world's leading experts on TeX. He joined arXiv in 2023 and is actively engaged in ongoing efforts to improve arXiv submission and HTML formatted papers. [Norbert's Homepage](https://www.preining.info/){target="_blank"}
 
-[See all presenter biographies](presenters)
+[See all Forum presenters](presenters){class="button-reg"}
 
 <!-- ## Session materials shared in advance -->
 

@@ -14,7 +14,7 @@ This session is for anyone looking to contribute to and understand their role in
 
 ### Kim Bryant
 
-![Kim Bryant](../assets/profile/kim.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Kim wearing a flowered shirt against a wooden wall'}
+![Kim Bryant](../assets/profile/kim.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Kim wearing a flowered shirt against a wooden wall'}
 
 **Senior Staff Product Manager in Accessibility, Mozilla; Co-Founder of Disability@Mozilla, an internal employee resource group.**
 
@@ -23,7 +23,7 @@ Kim brings her expertise in interpreting accessibility through the lens of socia
 ---
 
 ### Dr. Devva Kasnitz
-![Devva Kasnitz](../assets/profile/devva.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Devva Kasnitz in a red sweater and a red scarf against a white background'}
+![Devva Kasnitz](../assets/profile/devva.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Devva Kasnitz in a red sweater and a red scarf against a white background'}
 
 **Research Director, Disability History and Culture Collective and Adjunct Professor, CUNY.**
 
@@ -33,13 +33,13 @@ Devva's research work in disability studies spans more than 40 years at four dis
 
 ### Dr. Ashley Shew
 
-![Ashley Shew](../assets/profile/ashley.png){.mkd-img-left .mkd-img-profile alt='Headshot of Ashley outdoors with the sun shining brightly on the lawn in the background'}
+![Ashley Shew](../assets/profile/ashley.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Ashley outdoors with the sun shining brightly on the lawn in the background'}
 
 **Associate Professor of Science, Technology, and Society, Virginia Tech.**
 
 Ashley specializes in disability studies and technology ethics and believes in cross-disciplinary, cross-disability, and public-facing scholarship. She is the author of Against Technoableism (2023) and Animal Constructions and Technological Knowledge (2017) and the co-editor-in-chief of *Techné: Research in Philosophy and Technology*. To the forum, she will bring in insights from her latest book and explore the harmful belief that the disabled simply await being 'fixed' by technological wizardry instead of making society more accessible and equitable. [Ashley's Faculty page](https://liberalarts.vt.edu/departments-and-schools/department-of-science-technology-and-society/faculty/ashley-shew.html){target="_blank"}
 
-[See all presenter biographies](presenters)
+[See all Forum presenters](presenters){class="button-reg"}
 
 <!-- ## Session materials and resources -->
 

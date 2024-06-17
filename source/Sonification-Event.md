@@ -8,7 +8,8 @@ This session is for scientists and educators interested in more ways of explorin
 
 | Date | Time | Links |
 |---|---|---|
-| September 5th 2024 | 3:00 p.m. ET |  [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| Tuesday September 10th 2024 | 3:00 p.m. ET | If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
+
 
 ## Presenters
 
@@ -70,8 +71,8 @@ Kate is committed to ensuring that all who want the opportunity to pursue career
 
 Robin completed his PhD in statistical methods for weather forecasting, before moving to industry where he works as a research statistician in sports prediction. During his PhD he helped to develop the Sonify R package, which he uses regularly to convert 2D data to sound. He also has an interest in anything that helps to make STEM subjects more accessible to visually impaired people. [Robin’s R Package Page](https://cran.r-project.org/web/packages/sonify/index.html){target="_blank"}
 
+[See all Forum presenters](presenters){class="button-reg"}
 
-[See all presenter biographies](presenters)
 
 ## Session materials and resources
 - Damsma, P. (2024). Hearing a circle: An exploratory study of accessible sonification for young children with blindness and low vision. *British Journal of Visual Impairment*, 0(0). [https://doi.org/10.1177/02646196241253534](https://doi.org/10.1177/02646196241253534)
