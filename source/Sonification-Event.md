@@ -14,7 +14,7 @@ This session is for scientists and educators interested in more ways of explorin
 
 ### Phia Damsma
 
-![Phia Damsma](../assets/profile/phia.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Phia Damsma in black-rimmed glasses against a white background'}
+![Phia Damsma](../assets/profile/phia.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Phia Damsma in black-rimmed glasses against a white background'}
 
 **Co-Founder and Creative Director, Sonokids Australia.**
 
@@ -24,7 +24,7 @@ Phia has more than 25 years of experience building innovative educational softwa
 
 ### Dr. Wanda Diaz-Merced
 
-![Wanda Diaz-Merced](../assets/profile/wanda.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Wanda smiling, wearing a dark navy shirt against a dark background'}
+![Wanda Diaz-Merced](../assets/profile/wanda.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Wanda smiling, wearing a dark navy shirt against a dark background'}
 
 **Program Lead, European Gravitational Wave Observatory; Director, Arecibo Observatory.**
 
@@ -44,7 +44,7 @@ Scott studies stars and exoplanets in the ultraviolet, optical, and infrared. He
 
 ### Sarah Kane
 
-![Sarah Kane](../assets/profile/sarah.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Sarah Kane smiling in a forest'}
+![Sarah Kane](../assets/profile/sarah.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Sarah Kane smiling in a forest'}
 
 **Ph.D. Candidate in Astrophysics, Institute of Astronomy, University of Cambridge.**
 
@@ -54,7 +54,7 @@ For Sarah, her career as a researcher is intertwined with her work as a disabili
 
 ### Kate Meredith (Moderator)
 
-![Kate Meredith](../assets/profile/kate.jpeg){.mkd-img-left .mkd-img-profile alt='Headshot of Kate in a red sweater against a grey background'}
+![Kate Meredith](../assets/profile/kate.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Kate in a red sweater against a grey background'}
 
 **Founder and President, Geneva Lake Astrophysics and STEAM (GLAS) Education.**
 
