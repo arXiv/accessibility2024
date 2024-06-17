@@ -64,6 +64,8 @@ Kate is committed to ensuring that all who want the opportunity to pursue career
 
 ### Dr. Robin Williams
 
+![Robin Williams](../assets/profile/robin.jpg){.mkd-img-left .mkd-img-profile alt='An image of the famous Big Ben clocktower and the houses of parliament in London, England'}
+
 **Data analyst, Atass Sports.**
 
 Robin completed his PhD in statistical methods for weather forecasting, before moving to industry where he works as a research statistician in sports prediction. During his PhD he helped to develop the Sonify R package, which he uses regularly to convert 2D data to sound. He also has an interest in anything that helps to make STEM subjects more accessible to visually impaired people. [Robin’s R Package Page](https://cran.r-project.org/web/packages/sonify/index.html){target="_blank"}
