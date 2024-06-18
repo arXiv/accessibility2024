@@ -653,8 +653,8 @@ ol.color-blocks li img {
 }
 
 /* events calendar styles*/
-.calendar .md-typeset__table { font-size: smaller; }
-.calendar .md-typeset__table table { max-width: 100%; }
+.calendar .md-typeset__table { font-size: smaller; margin-bottom:0;}
+.calendar .md-typeset__table table { max-width: 100%; margin-bottom:0;}
 .calendar .md-typeset__table td { border: 1px solid grey }
 .calendar .md-typeset__table thead th { border: 1px solid grey; }
 @media all and (max-width: 740px) {
