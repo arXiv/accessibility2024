@@ -20,7 +20,7 @@ The Forum is fully **remote, free, and open to all.** Learn, share, and be inspi
 
 ## Events preview
 - The social model of disability: What are the environmental barriers to full participation in the sciences?
-- Sonify this! Why multi-modal scientific outputs are the future
+- Sonification: Why multi-modal science is the future
 - HTML papers on arXiv: A peek under the hood with LaTeXML and NVDA
 - AI and accessibility: A demonstration of two research-based tools
 - SciELO y accessibilidad / e acessibilidade *(en Español y Portugués / em espanhol e português)*
@@ -34,7 +34,7 @@ The Forum is fully **remote, free, and open to all.** Learn, share, and be inspi
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1. | 2.  |  3.<br>[Ask Me Anything](AMA-Event) | 4. <br>[AI and Accessibility](AI-Event) | 5. | 6.<br>[Deaf Hub at RIT](Deaf-Hub-Event)  | 7. |
-| 8. | 9.  | 10.<br> [Sonify This!](Sonification-Event) | 11.<br>[SciELO y accessibilidad / e acessibilidade](SciELO-Event)  | 12. <br>[HTML papers on arXiv](HTML-Event)  |  13.<br>Keynote: [The social model of disability](Social-Model-Event) | 14. |
+| 8. | 9.  | 10.<br> [Sonification: multi-modal science](Sonification-Event) | 11.<br>[SciELO y accessibilidad / e acessibilidade](SciELO-Event)  | 12. <br>[HTML papers on arXiv](HTML-Event)  |  13.<br>Keynote: [The social model of disability](Social-Model-Event) | 14. |
 
 *Dates may change, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} for the Forum to hear of any updates.*
 </div>

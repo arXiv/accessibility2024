@@ -1,4 +1,4 @@
-#Sonify this! Why multi-modal science is the future
+#Sonification: Why multi-modal science is the future
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 
@@ -53,6 +53,16 @@ For Sarah, her career as a researcher is intertwined with her work as a disabili
 
 ---
 
+### Dr. Leif Karlstrom
+
+![Leif Karlstrom](../assets/profile/leif.jpg){.mkd-img-left .mkd-img-profile alt='Upper-body shot of Leif Karlstrom standing in front of a snowy mountain with rough surfaces'}
+
+**Associate Professor, Department of Earth Sciences, University of Oregon.**
+
+Leif is an Earth scientist with main research areas in fluid motions in and on volcanoes and glaciers, landscape evolution, and geodynamics. He is also the creator and owner of the Volcano Listening Project. [Leif's faculty profile](https://uonews.uoregon.edu/leif-karlstrom-department-earth-sciences){target="_blank"}
+
+---
+
 ### Kate Meredith (Moderator)
 
 ![Kate Meredith](../assets/profile/kate.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Kate in a red sweater against a grey background'}
@@ -69,13 +79,32 @@ Kate is committed to ensuring that all who want the opportunity to pursue career
 
 **Data analyst, Atass Sports.**
 
-Robin completed his PhD in statistical methods for weather forecasting, before moving to industry where he works as a research statistician in sports prediction. During his PhD he helped to develop the Sonify R package, which he uses regularly to convert 2D data to sound. He also has an interest in anything that helps to make STEM subjects more accessible to visually impaired people. [Robin’s R Package Page](https://cran.r-project.org/web/packages/sonify/index.html){target="_blank"}
+Robin completed his PhD in statistical methods for weather forecasting, before moving to industry where he works as a research statistician in sports prediction. During his PhD he helped to develop the Sonify R package, which he uses regularly to convert 2D data to sound. He also has an interest in anything that helps to make STEM subjects more accessible to visually impaired people. [Robin’s R Package page](https://cran.r-project.org/web/packages/sonify/index.html){target="_blank"}
 
 [See all Forum presenters](presenters){class="button-reg"}
 
+## Special Contributor
+### Dr. Amy Bower
+
+![Dr. Amy Bower](../assets/profile/amy.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Amy'}
+
+**Senior Scientist, Physical Oceanography, Woods Hole Oceanographic Institution.**
+
+Amy's research focuses on ocean circulation. As one of the few blind oceanographers in the world, Amy brings her insights to this forum by demonstrating the use of sonification in her day-to-day work, as well as 2 of the museum exhibitions she has worked on. Join the event to listen to 30 years of surface ocean currents in North Atlantic, carbon dioxide leaving and entering the ocean, and the sound of solar radiation. [Amy's institution profile](https://www.whoi.edu/profile/abower/){target="_blank"}
+
 
 ## Session materials and resources
+Check out the projects developed by our presenters:
+
+- Scott Fleming and Kate Meredith, [Astronify Python Package](https://astronify.readthedocs.io/en/stable/astronify/tutorials.html)
+- Leif Karlstrom, [The Volcano Listening Project](https://www.volcanolisteningproject.org/)
+- Robin Williams, [Sonify R Package](https://cran.r-project.org/web/packages/sonify/index.html)
+
+Learn more about cutting-edge research on the application of sonification in BVI children's education by Phia:
+
 - Damsma, P. (2024). Hearing a circle: An exploratory study of accessible sonification for young children with blindness and low vision. *British Journal of Visual Impairment*, 0(0). [https://doi.org/10.1177/02646196241253534](https://doi.org/10.1177/02646196241253534)
+- Damsma, P., Norgaard, J. T., & Cashmore, C. (2023, June 26–30). Accessible sonification design for young learners [Conference session]. In: Sonification for the Masses: Proceedings of the 28th International Conference on Auditory Display (ICAD2023), Norrköping, Sweden (pp. 280–282). [https://hdl.handle.net/1853/72890](https://hdl.handle.net/1853/72890)
+- Gower, L. & Damsma, P. (2023). How to use Sonification in the classroom. JSPEVI Journal of the South Pacific Educators in Vision Impairment, 16 (1), 44-53. [https://www.spevi.net/jspevi/#2023](https://www.spevi.net/jspevi/#2023)
 
 
 ## Discussion board
