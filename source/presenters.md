@@ -148,6 +148,15 @@ Bonnie is passionate about promoting undergraduate research in mathematics as we
 For Sarah, her career as a researcher is intertwined with her work as a disability advocate. She was born legally blind and has a strong interest in the accessibility of science to people with disabilities. Her work includes usability testing for Astronify, a project of the Space Telescope Science Institute turning datasets into audio. [Sarah's LinkedIn profile](https://uk.linkedin.com/in/sarah-kane-4a9414220){target="_blank"}
 
 ---
+## Dr. Leif Karlstrom
+
+![Leif Karlstrom](../assets/profile/leif.jpg){.mkd-img-left .mkd-img-profile alt='Upper-body shot of Leif Karlstrom standing in front of a snowy mountain with rough surfaces'}
+
+**Associate Professor, Department of Earth Sciences, University of Oregon.**
+
+Leif is an Earth scientist with main research areas in fluid motions in and on volcanoes and glaciers, landscape evolution, and geodynamics. He is also the creator and owner of the Volcano Listening Project. [Leif's faculty profile](https://uonews.uoregon.edu/leif-karlstrom-department-earth-sciences){target="_blank"}
+
+---
 
 ## Dr. Devva Kasnitz
 ![Devva Kasnitz](../assets/profile/devva.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Devva Kasnitz in a red sweater and a red scarf against a white background'}
@@ -333,7 +342,12 @@ Allie's research focuses on pairing AI with systems thinking to drive inclusivit
 For the last few years Shamsi has championed the research and implementation of more accessible practices at arXiv, including the addition of HTML-formatted papers. She has also had the pleasure of organizing this forum and working with each of the wonderful participants above to bring it to life. Thank you! [Shamsi's LinkedIn profile](https://www.linkedin.com/in/shamsi-brinn/){target="_blank"}
 
 ## Miranda Yang
-(Full bio coming soon)
+![Miranda Yang](../assets/profile/miranda.JPG){.mkd-img-left .mkd-img-profile alt='Headshot of Miranda smiling against a clear white background'}
+
+**UX Specialist, arXiv.**
+
+Miranda is a researcher that puts users front and center in her work and has a bias for impact. Her contribution in accessibility at arXiv has spanned across generative interviews with researchers of visual impairment, the roll-out of the HTML paper feature, and the shaping of this forum. [Miranda's LinkedIn profile](https://www.linkedin.com/in/miranda-jingqiong-yang/){target="_blank"}
+
 
 ![No Giscus](){#no-giscus}
 
