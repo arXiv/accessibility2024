@@ -4,11 +4,11 @@
 
 After these three brilliant thought leaders, authors, and powerful advocates present on the social model of disability, the world around you will never feel the same. We are so excited about this transformative talk and hope you can join us.
 
-This session is for anyone looking to contribute to and understand their role in creating environments where we can each achieve our potential.
+This session is for everyone who wants to contribute to environments where we can each achieve our potential.
 
-| Date | Time | Links |
+| Session Date | Time | Links |
 |---|---|---|
-| September 6th 2024 | Noon Eastern Time | [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| September 6th 2024 | Noon Eastern Time | If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
 
 ## Presenters
 

@@ -194,6 +194,9 @@ nav.md-nav.md-nav--primary .md-nav__list .md-nav__item nav.md-nav .md-nav__list 
     color: var(--md-typeset-a-color);
     font-weight: 700;
   }
+  nav.md-nav nav.md-nav ul {
+    margin-left:1em;
+  }
 }
 
 /*MAIN CONTENT AREA*/
