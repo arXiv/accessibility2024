@@ -1,14 +1,14 @@
-# Deaf Hub at RIT: a resource for all of us
+# Deaf Hub at RIT: A Resource For All Of Us
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 
-Have you ever wondered how deaf or hard of hearing researchers navigate academia? Have you wondered how you can help make academic spaces (including presentations) accessible to all? Join Deaf Hub colleagues and friends to learn more about the deaf and deaf-blind experience and how this incredible treasure trove of resources has helped students and professors... and can help you too. Deaf Hub is based at Rochester Institute of Technology's National Technical Institute for the Deaf, but is a resource for the entire scientific community.
+Have you ever wondered how deaf or hard of hearing researchers navigate academia? Have you wondered how you can help make academic spaces (including your own presentations) accessible to all? Join Deaf Hub colleagues and friends to learn more about the deaf and deaf-blind experience and how this incredible treasure trove of resources has helped students and professors... and can help you too. Deaf Hub is based at Rochester Institute of Technology's National Technical Institute for the Deaf and is a resource open to the entire scientific community.
 
 This session is for all academics who want to give or get support navigating academic settings.
 
 | Date | Time | Links |
 |---|---|---|
-| September 13th 2024 | Noon Eastern Time | [Signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| September 13th 2024 | Noon Eastern Time | If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
 
 ## Presenters
 

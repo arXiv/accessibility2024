@@ -6,10 +6,10 @@ Adding HTML to arXiv was possible because of organizations whose long-standing c
 
 **Join us for this double celebration of accessibility gains and open-source software!** Bring your questions and gain a deeper understanding of what really makes a more accessible research paper.
 
-| Date | Time | Links |
+| Session Date | Time | Links |
 |---|---|---|
-| September 12th 2024 | 8:00 p.m. ET |  [Register](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
-*(This event is optimized for Asia-Pacific and PST time zones)*
+| September 12th 2024 | 8:00 p.m. ET |  If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
+*(This event is optimal for Asia-Pacific and PST time zones. All are welcome!)*
 
 ## Presenters
 
@@ -19,7 +19,7 @@ Adding HTML to arXiv was possible because of organizations whose long-standing c
 
 **Co-Founder and Lead Developer, NV Access Limited.**
 
-Mick is the creator of NVDA, the world's only free and open-source screen reading software. NVDA has enabled more than 200,000 blind and vision impaired people worldwide to independently use computers. He brings expertise in accessibility for the web, international standards, software APIs, and best practice approaches to functional usability. [Mick's LinkedIn profile](https://au.linkedin.com/in/mdcurran){target="_blank"}
+Mick is the creator of NVDA, the world's only open-source screen reading software. NVDA has enabled more than 200,000 blind and vision impaired people worldwide to independently use computers. He brings expertise in accessibility for the web, international standards, software APIs, and best practice approaches to functional usability. [Mick's LinkedIn profile](https://au.linkedin.com/in/mdcurran){target="_blank"}
 
 ---
 
@@ -29,7 +29,7 @@ Mick is the creator of NVDA, the world's only free and open-source screen readin
 
 **Creator of ar5iv.org and lead developer at LaTeXML; W3C Math Working Group Member; Ph.D. candidate in hiding (do not disturb).**
 
-Deyan's main focus is to enhance the representation of mathematical expressions in rendered research papers, improving their accessibility, computational semantics, and enabling further reuse in a broader class of applications. [Deyan's Kwarc profile](https://kwarc.info/people/dginev/){target="_blank"}
+Deyan's main focus is to enhance the representation of mathematical expressions in rendered research papers, improving their accessibility, computational semantics, and enabling further reuse in a broader class of applications. [Deyan's KWARC profile](https://kwarc.info/people/dginev/){target="_blank"}
 
 ---
 

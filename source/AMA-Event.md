@@ -1,14 +1,14 @@
-#Ask Me Anything: A lively Q&A on navigating academic ecosystems with a disability
+#Ask Me Anything: A Lively Q&A on Navigating Academic Ecosystems With a Disability
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 
-One of the biggest accessibility barriers is social: the discomfort that gets in the way of connection, friendship, and truly understanding the needs of those around us. We are often not sure what we can or should ask which can lead to silence and ignorance. Three brilliant researchers with diverse disabilities and at different academic career stages are here to cut through the fog and answer your questions.
+One of the biggest accessibility barriers is social: the discomfort that gets in the way of connection, friendship, and truly understanding the needs of those around us. We are often not sure what we can or should ask. Three brilliant researchers with diverse disabilities and at different academic career stages are here to cut through the fog and answer your questions.
 
 There are no silly questions. Come engage and learn!
 
 | Date | Time | Links |
 |---|---|---|
-| September 3rd 2024 | 4:00 PM ET |  [Signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| September 3rd 2024 | 4:00 PM ET |  If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
 
 ## Presenters
 
@@ -31,7 +31,7 @@ A horticulturalist with a focus in Viticulture and Enology, Anne currently teach
 
 ---
 
-### Venkatesh Potluri
+### Dr. Venkatesh Potluri
 
 ![Venkatesh Potluri](../assets/profile/venkatesh.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Venkatesh in an orange plaid shirt against a white background'}
 

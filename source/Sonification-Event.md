@@ -1,12 +1,12 @@
-#Sonification: Why multi-modal science is the future
+#Sonification: Why Multi-Modal Science is the Future
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 
 Join some of the world's leading experts on sonification to go beyond the visual and learn how all our senses can be engaged in exploring and understanding data. This session will demonstrate and discuss how sonification is used across multiple fields including astronomy, statistics, biology and education. Hear from the researchers behind prominent sonification tools how (and why) they use it in their daily work, and why multi-modal scientific outputs are a win for accessibility and the future of science.
 
-This session is for scientists and educators interested in more ways of exploring and understanding data.
+This session is for anyone interested in more ways of exploring and understanding data.
 
-| Date | Time | Links |
+| Session Date | Time | Links |
 |---|---|---|
 | Tuesday September 10th 2024 | 3:00 p.m. ET | If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
 
@@ -59,7 +59,7 @@ For Sarah, her career as a researcher is intertwined with her work as a disabili
 
 **Associate Professor, Department of Earth Sciences, University of Oregon.**
 
-Leif is an Earth scientist with main research areas in fluid motions in and on volcanoes and glaciers, landscape evolution, and geodynamics. He is also the creator and owner of the Volcano Listening Project. [Leif's faculty profile](https://uonews.uoregon.edu/leif-karlstrom-department-earth-sciences){target="_blank"}
+Leif is an Earth scientist studying fluid motions in and on volcanoes and glaciers, landscape evolution, and geodynamics. He is also the creator of the Volcano Listening Project which takes data from erupting volcanoes and turns it into sound, and then constructs it into music. Did we mention he also plays violin and mandolin? [Leif's faculty profile](https://pages.uoregon.edu/leif/){target="_blank"}
 
 ---
 
@@ -90,22 +90,18 @@ Robin completed his PhD in statistical methods for weather forecasting, before m
 
 **Senior Scientist, Physical Oceanography, Woods Hole Oceanographic Institution.**
 
-Amy's research focuses on ocean circulation. As one of the few blind oceanographers in the world, Amy brings her insights to this forum by demonstrating the use of sonification in her day-to-day work, as well as 2 of the museum exhibitions she has worked on. Join the event to listen to 30 years of surface ocean currents in North Atlantic, carbon dioxide leaving and entering the ocean, and the sound of solar radiation. [Amy's institution profile](https://www.whoi.edu/profile/abower/){target="_blank"}
+Amy's research focuses on ocean circulation. As one of the few blind oceanographers in the world, Amy brings her unique insights to illustrate the use of sonification in her day-to-day work and through museum exhibits. [Amy's WHOI profile](https://www.whoi.edu/profile/abower/){target="_blank"}
 
 
-## Session materials and resources
-Check out the projects developed by our presenters:
+## Research and resources
 
-- Scott Fleming and Kate Meredith, [Astronify Python Package](https://astronify.readthedocs.io/en/stable/astronify/tutorials.html)
-- Leif Karlstrom, [The Volcano Listening Project](https://www.volcanolisteningproject.org/)
-- Robin Williams, [Sonify R Package](https://cran.r-project.org/web/packages/sonify/index.html)
-
-Learn more about cutting-edge research on the application of sonification in BVI children's education by Phia:
-
+- The [Astronify Python Package](https://astronify.readthedocs.io/en/stable/astronify/tutorials.html) from Scott Fleming and Kate Meredith
+- The [Sonify R Package](https://cran.r-project.org/web/packages/sonify/index.html) from Robin Williams
+- The [The Volcano Listening Project](https://www.volcanolisteningproject.org/) from Leif Karlstrom
+- Video: [Hearing the Light - Astronomy Data Sonification](https://www.youtube.com/watch?v=-MBpGKoULyc). A presentation by Scott Fleming about Astronify. Test your listening skills with an interactive sonification game show.
 - Damsma, P. (2024). Hearing a circle: An exploratory study of accessible sonification for young children with blindness and low vision. *British Journal of Visual Impairment*, 0(0). [https://doi.org/10.1177/02646196241253534](https://doi.org/10.1177/02646196241253534)
 - Damsma, P., Norgaard, J. T., & Cashmore, C. (2023, June 26–30). Accessible sonification design for young learners [Conference session]. In: Sonification for the Masses: Proceedings of the 28th International Conference on Auditory Display (ICAD2023), Norrköping, Sweden (pp. 280–282). [https://hdl.handle.net/1853/72890](https://hdl.handle.net/1853/72890)
 - Gower, L. & Damsma, P. (2023). How to use Sonification in the classroom. JSPEVI Journal of the South Pacific Educators in Vision Impairment, 16 (1), 44-53. [https://www.spevi.net/jspevi/#2023](https://www.spevi.net/jspevi/#2023)
-
 
 ## Discussion board
 Use this discussion board to continue the conversation, ask questions, and share more resources around the social model of disability. See these [instructions](discussion-board.md) for setting up a free GitHub account.

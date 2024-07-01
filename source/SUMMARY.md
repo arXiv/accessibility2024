@@ -1,5 +1,13 @@
-* [Home](index.md)
-<!-- * [Schedule](schedule.md) -->
-* [Accessibility accommodations](accessibility.md)
-* [Discussion boards guide](discussion-board.md)
-* [Signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y)
+- [Home](index.md)
+- [Schedule](schedule)
+- Sessions
+    - [Keynote: The Social Model of Disability](Social-Model-Event)
+    - [Ask Me Anything](AMA-Event)
+    - [AI and Accessibility](AI-Event)
+    - [Sonification](Sonification-Event)
+    - [SciELO (Español/Português)](SciELO-Event.md)
+    - [HTML Papers on arXiv](HTML-Event)
+    - [Deaf Hub at RIT](Deaf-Hub-Event)
+- [Accessibility accommodations](accessibility)
+- [Discussion boards guide](discussion-board)
+- [Signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y)
