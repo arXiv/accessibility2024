@@ -35,7 +35,7 @@ A horticulturalist with a focus in Viticulture and Enology, Anne currently teach
 
 ![Venkatesh Potluri](../assets/profile/venkatesh.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Venkatesh in an orange plaid shirt against a white background'}
 
-**Ph.D. Candidate in Computer Science and Engineering, University of Washington.**
+**Assistant Professor, School of Information, University of Washington.**
 
 Venkatesh examines accessibility barriers experienced by blind or visually impaired (BVI) developers participating in professional programming domains such as user interface design, data science, and physical computing. His work contributes real-world systems to improve developer tools and new interaction techniques. [Venkatesh's Homepage](https://venkateshpotluri.me/){target="_blank"}
 
