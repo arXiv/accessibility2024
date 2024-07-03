@@ -51,9 +51,11 @@ We are so pleased to be collaborating this year with presenters from these unive
     <li><img src="../assets/logo/gallaudet.png" alt="Logo for gallaudet university">Gallaudet University</li>
     <li><img src="../assets/logo/jmu.png" alt="Logo for James Madison University">James Madison University</li>
     <li><img src="../assets/logo/massey.png" alt="Logo for massey university">Massey University</li>
+    <li><img src="../assets/logo/u-of-michigan.png" alt="Logo for the University of Michigan">University of Michigan</li>
+    <li><img src="../assets/logo/u-of-oregon.png" alt="Logo for the University of Oregon">University of Oregon</li>
     <li><img src="../assets/logo/rit.png" alt="Logo for Rochester Institute of Technology, national technical institute for the deaf">RIT National Technical Institute for the Deaf</li>
     <li><img src="../assets/logo/ufscar.png" alt="Logo for Federal University of São Carlos">Federal University of São Carlos</li>
-    <li> <img src="../assets/logo/virginia-tech.png" alt="Logo for Virginia Tech University">Virginia Tech</li>
+    <li><img src="../assets/logo/virginia-tech.png" alt="Logo for Virginia Tech University">Virginia Tech</li>
     <li><img src="../assets/logo/uwash.png" alt="Logo for the University of Washington">University of Washington</li>
    <li><img src="../assets/logo/arxiv.png" alt="Logo for archive dot org">arXiv</li>
    <li><img src="../assets/logo/atass.png" alt="Logo for atass sports">Atass Sports</li>
@@ -70,6 +72,7 @@ We are so pleased to be collaborating this year with presenters from these unive
    <li><img src="../assets/logo/scielo.png" alt="Logo for scielo">SciELO</li>
    <li><img src="../assets/logo/sonokids.png" alt="Logo for sonokids">Sonokids</li>
    <li><img src="../assets/logo/stsi.png" alt="Logo for the space telescope science institute">Space Telescope Science Institute</li>
+   <li><img src="../assets/logo/woods-hole.png" alt="Logo for the woods hold oceanographic institute">Woods Hole Oceanographic Institute</li>
   </ul>
 </div>
 
