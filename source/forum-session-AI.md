@@ -1,14 +1,14 @@
-# AI and Accessibility: A Demonstration of Two Emerging AI Tools From their Creators
+# AI and Accessibility: Emerging Tools Demonstration
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 
-Has the bleeding edge caught up with user needs? This session features demonstrations from two research teams discussing their AI-driven tools that improve the accessibility of science. The discussions are led by a vision-impaired scientist who uses AI tools daily to improve accessibility in her work.
+Has the bleeding edge finally caught up with user needs? This session features demonstrations from two research teams discussing their AI-driven tools for accessibility. The discussions are led by a vision-impaired scientist who uses AI tools daily to improve accessibility in her work.
 
-This session is for everyone seeking practical insights into AI's role in accessibility, and hands-on experience with  two emerging AI tools from academic researchers.
+This session is for everyone seeking practical insights into AI's role in accessibility and the opportunity for hands-on experience with two emerging AI tools.
 
 | Date | Time | Links |
 |---|---|---|
-| September 4th 2024  | 10:00 a.m. ET |  If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
+| Wednesday, September 4, 2024  | 10:00 am ET |  If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
 
 ## Presenters
 

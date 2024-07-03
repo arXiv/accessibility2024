@@ -8,7 +8,7 @@ This session is for everyone who wants to contribute to environments where we ca
 
 | Session Date | Time | Links |
 |---|---|---|
-| September 6th 2024 | Noon Eastern Time | If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
+| Friday, September 13, 2024 | 12:00 pm ET | If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
 
 ## Presenters
 

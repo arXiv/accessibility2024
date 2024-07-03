@@ -8,7 +8,7 @@ This session is for all academics who want to give or get support navigating aca
 
 | Date | Time | Links |
 |---|---|---|
-| September 13th 2024 | Noon Eastern Time | If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
+| Friday, September 6, 2024 | 12:00 pm ET | If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
 
 ## Presenters
 

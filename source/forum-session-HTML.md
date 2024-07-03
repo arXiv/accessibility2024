@@ -8,7 +8,7 @@ Adding HTML to arXiv was possible because of organizations whose long-standing c
 
 | Session Date | Time | Links |
 |---|---|---|
-| September 12th 2024 | 8:00 p.m. ET |  If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
+| Thursday, September 12, 2024 | 8:00 pm ET |  If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
 *(This event is optimal for Asia-Pacific and PST time zones. All are welcome!)*
 
 ## Presenters
