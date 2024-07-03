@@ -73,6 +73,9 @@ p {
   font-family: freight-sans-pro, sans-serif;
   font-style: normal;
 }
+sup {
+  font-size: .6em;
+}
 .md-typeset a:hover, .md-typeset a:focus {
   outline-offset: 2px;
   color: var(--md-accent-bg-color);
@@ -287,7 +290,7 @@ h1 {
   text-align: center;
   font-size: .75em;
   line-height: 1em;
-  width: calc(100%/3);
+  width: calc(100%/4);
  }
  .logo-background img {
   width: 100%;
@@ -307,12 +310,12 @@ h1 {
     margin:0 !important;
   }
   .logo-background li {
-    width:calc(100%/2);
+    width:calc(100%/3);
   }
 }
 @media all and (max-width: 420px) { /* mobile */
   .logo-background li {
-    width:100%;
+    width:calc(100%/2);
   }
 }
 
@@ -656,10 +659,10 @@ ol.color-blocks li img {
 }
 
 /* events calendar styles*/
-.calendar .md-typeset__table { font-size: smaller; margin-bottom:0;}
-.calendar .md-typeset__table table { max-width: 100%; margin-bottom:0;}
-.calendar .md-typeset__table td { border: 1px solid grey }
-.calendar .md-typeset__table thead th { border: 1px solid grey; }
+.calendar .md-typeset__table { font-size: ; margin-bottom:0; }
+.calendar .md-typeset__table table { max-width: 100%; margin-bottom:0; background-color: hsla(67, 69%, 51%, 0.05); }
+.calendar .md-typeset__table td { border: .5px solid grey }
+.calendar .md-typeset__table thead th { border: 1px solid grey; width: 19%;}
 @media all and (max-width: 740px) {
   .calendar { display: none; }
 }

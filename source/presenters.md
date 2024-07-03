@@ -1,6 +1,6 @@
 # Presenter bios
 
-We are very pleased to be working with the following distinguished participants to bring this forum to life.
+We are very pleased to be working with the following distinguished participants from across a wide variety of fields to bring this forum to life.
 
 
 ## Arwa Alnajashi

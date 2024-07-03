@@ -8,7 +8,7 @@ There are no silly questions. Come engage and learn!
 
 | Date | Time | Links |
 |---|---|---|
-| September 3rd 2024 | 4:00 PM ET |  If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
+| Tuesday, September 3, 2024 | 4:00 pm ET |  If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
 
 ## Presenters
 
