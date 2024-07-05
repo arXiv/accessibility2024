@@ -6,7 +6,7 @@ The Accessibility Forum is free and open to all. Help spread the word and raise 
 
 ### Signup link
 ```
-Signup here: https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y
+Sign up here: https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y
 ```
 
 ### Forum website link

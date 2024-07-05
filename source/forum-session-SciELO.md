@@ -11,9 +11,9 @@ Um convite à comunidade SciELO: Você está convidado para um diálogo animado 
 ## English
 This groundbreaking session on accessibility in the SciELO community is also a first for arXiv: our first non-English event. It will be held only in Spanish and Portuguese with simultaneous translation between those two languages (not English). This session will dig into progress and next steps towards making scientific outputs more accessible in the SciELO community. SciELO is critical open-access publishing infrastructure that serves South America, Spain, Portugal, and more. If you are reading this English-language version you can still help by spreading the word to your Spanish- and Portuguese-speaking colleagues and let them know this event is taking place!
 
-| Fecha/data | Hora | Liga/vínculo |
-|---|---|---|
-| El 11 de Septiembre / 11 de Setembro | 17:00 CEST/12:00 BRT| [Registro](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| Fecha/data | Hora |
+|---|---|
+| El 11 de Septiembre / 11 de Setembro | 17:00 CEST/12:00 BRT|
 
 ## Presenters
 

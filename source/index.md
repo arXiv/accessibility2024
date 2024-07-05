@@ -5,14 +5,14 @@
 
 You are warmly invited to our second accessibility forum, a free conference for the scientific community focused on making research more accessible. Accessibility means *access regardless of disability*, and only when research is fully accessible can we truly call it open science.
 
-The Forum is **fully remote, free, and open to all.** Learn, share, and be inspired for change. Seven individual sessions will take place on multiple days between September 3<sup>rd</sup> and 13<sup>th</sup>, featuring diverse panelists and scientific fields. Signup below.
+The Forum is **fully remote, free, and open to all.** Learn, share, and be inspired for change. Seven individual sessions will take place on multiple days between September 3<sup>rd</sup> and 13<sup>th</sup>, featuring diverse panelists and scientific fields. Sign up below.
 <div style="clear:both;"></div>
 
 <div class="highlight">
   <h2>Signup is open</h2>
   <p>It is time! Though all sessions are open to everyone and do not require registration, by <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">signing up</a> you can help us gauge interest this year, receive advance invitations, and be emailed when recordings are available.</p>
 
-  <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-reg">Signup for the Forum</a>
+  <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-reg">Sign up for the Forum</a>
 
   <img src="../assets/forum-logotype-with-logo.svg" role="presentation" alt="arxiv forum logotype saying accessibility 2024" class="mkd-img-right">
   <div style="clear:both;"></div>

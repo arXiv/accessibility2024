@@ -6,9 +6,9 @@ Join some of the world's leading experts on sonification to go beyond the visual
 
 This session is for anyone interested in more ways of exploring and understanding data.
 
-| Session Date | Time | Links |
-|---|---|---|
-| Tuesday September 10th 2024 | 3:00 p.m. ET | If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
+| Session Date | Time |
+|---|---|
+| Tuesday September 10th 2024 | 3:00 p.m. ET |
 
 
 ## Presenters
