@@ -326,7 +326,7 @@ Raafat specializes in modeling dynamic systems, with a research focus that encom
 ## Allie Zombron
 ![Allie Zombron](../assets/profile/allie.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Allie  smiling in a green sweater in a classroom setting'}
 
-**Third-year undergraduate student, James Madison University.**
+**Fourth-year undergraduate student, James Madison University.**
 
 Allie's research focuses on pairing AI with systems thinking to drive inclusivity in STEM Education. She will share her project that uses AI to explain, interpret and verbalize flow chart visualizations, a common presentation choice in academic research outputs. Analyzing such figures and turning them into words greatly enhances their accessibility for visually impaired academics. [Allie's LinkedIn Page](https://www.linkedin.com/in/allie-zombron-87394a290/){target="_blank"}
 
