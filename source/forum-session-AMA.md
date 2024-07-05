@@ -6,9 +6,9 @@ One of the biggest accessibility barriers is social: the discomfort that gets in
 
 There are no silly questions. Come engage and learn!
 
-| Date | Time | Links |
-|---|---|---|
-| Tuesday, September 3, 2024 | 4:00 pm ET |  If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
+| Date | Time |
+|---|---|
+| Tuesday, September 3, 2024 | 4:00 pm ET |
 
 ## Presenters
 
@@ -35,7 +35,7 @@ A horticulturalist with a focus in Viticulture and Enology, Anne currently teach
 
 ![Venkatesh Potluri](../assets/profile/venkatesh.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Venkatesh in an orange plaid shirt against a white background'}
 
-**Assistant Professor, School of Information, University of Washington.**
+**Assistant Professor, School of Information, University of Michigan.**
 
 Venkatesh examines accessibility barriers experienced by blind or visually impaired (BVI) developers participating in professional programming domains such as user interface design, data science, and physical computing. His work contributes real-world systems to improve developer tools and new interaction techniques. [Venkatesh's Homepage](https://venkateshpotluri.me/){target="_blank"}
 

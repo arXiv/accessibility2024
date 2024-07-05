@@ -83,7 +83,7 @@ Jenna is the research coordinator extraordinaire at Deaf Hub and will be sharing
 [See all Forum presenters](presenters){class="button-reg"}
 
 ## Session materials and resources
-- [Google slide deck on presenter introductions](https://docs.google.com/presentation/d/1DqvdU9F0na_WjIiJO1uUH8fjLovSZwJbUr-MdzSC_Ck/edit?usp=sharing)
+- [Slide deck on presenter introductions in welcome video](https://docs.google.com/presentation/d/1DqvdU9F0na_WjIiJO1uUH8fjLovSZwJbUr-MdzSC_Ck/edit?usp=sharing)
 
 
 ## Discussion board
