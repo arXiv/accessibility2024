@@ -6,9 +6,9 @@ After these three brilliant thought leaders, authors, and powerful advocates pre
 
 This session is for everyone who wants to contribute to environments where we can each achieve our potential.
 
-| Session Date | Time | Links |
-|---|---|---|
-| Friday, September 13, 2024 | 12:00 pm ET | If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
+| Session Date | Time |
+|---|---|
+| Friday, September 13, 2024 | 12:00 pm ET |
 
 ## Presenters
 

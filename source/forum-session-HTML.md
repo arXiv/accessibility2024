@@ -6,9 +6,9 @@ Adding HTML to arXiv was possible because of organizations whose long-standing c
 
 **Join us for this double celebration of accessibility gains and open-source software!** Bring your questions and gain a deeper understanding of what really makes a more accessible research paper.
 
-| Session Date | Time | Links |
-|---|---|---|
-| Thursday, September 12, 2024 | 8:00 pm ET |  If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
+| Session Date | Time |
+|---|---|
+| Thursday, September 12, 2024 | 8:00 pm ET |
 *(This event is optimal for Asia-Pacific and PST time zones. All are welcome!)*
 
 ## Presenters

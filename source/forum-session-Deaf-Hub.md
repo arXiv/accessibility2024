@@ -6,9 +6,9 @@ Have you ever wondered how deaf or hard of hearing researchers navigate academia
 
 This session is for all academics who want to give or get support navigating academic settings.
 
-| Date | Time | Links |
-|---|---|---|
-| Friday, September 6, 2024 | 12:00 pm ET | If you haven't already, [signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) for the Forum |
+| Date | Time |
+|---|---|
+| Friday, September 6, 2024 | 12:00 pm ET |
 
 ## Presenters
 
@@ -82,7 +82,8 @@ Jenna is the research coordinator extraordinaire at Deaf Hub and will be sharing
 
 [See all Forum presenters](presenters){class="button-reg"}
 
-<!-- ## Session materials and resources -->
+## Session materials and resources
+- [Google slide deck on presenter introductions](https://docs.google.com/presentation/d/1DqvdU9F0na_WjIiJO1uUH8fjLovSZwJbUr-MdzSC_Ck/edit?usp=sharing)
 
 
 ## Discussion board
