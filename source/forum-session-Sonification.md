@@ -8,7 +8,7 @@ This session is for anyone interested in more ways of exploring and understandin
 
 | Session Date | Time |
 |---|---|
-| Tuesday September 10th 2024 | 3:00 p.m. ET |
+| Tuesday, September 10, 2024 | 3:00 pm ET |
 
 
 ## Presenters
@@ -20,16 +20,6 @@ This session is for anyone interested in more ways of exploring and understandin
 **Co-Founder and Creative Director, Sonokids Australia.**
 
 Phia has more than 25 years of experience building innovative educational software and mobile apps for children with special needs, especially kids who are blind and low-vision. Her not-for-profit social enterprise, Sonokids, is impacting children globally, supporting playful learning with fundamental technology and other Expanded Core Curriculum skills through the technique of sonification. [Phia's LinkedIn profile](https://au.linkedin.com/in/phia-damsma-18b3a29){target="_blank"}
-
----
-
-### Dr. Wanda Diaz-Merced
-
-![Wanda Diaz-Merced](../assets/profile/wanda.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Wanda smiling, wearing a dark navy shirt against a dark background'}
-
-**Program Lead, European Gravitational Wave Observatory; Director, Arecibo Observatory.**
-
-Wanda is an astronomer and leading proponent of sonification, converting astrophysical data into audible sound. Named one of the Seven most Trailblazing Women in Science by the BBC, Wanda is a leader in increasing equality of access within astronomy and raising awareness of the broad benefits of sonification in scientific research. [Wanda's Wikipedia page](https://en.wikipedia.org/wiki/Wanda_D%C3%ADaz-Merced){target="_blank"}
 
 ---
 

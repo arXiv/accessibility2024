@@ -5,7 +5,7 @@
 
 You are warmly invited to our second accessibility forum, a free conference for the scientific community focused on making research more accessible. Accessibility means *access regardless of disability*, and only when research is fully accessible can we truly call it open science.
 
-The Forum is **fully remote, free, and open to all.** Learn, share, and be inspired for change. Seven individual sessions will take place on multiple days between September 3<sup>rd</sup> and 13<sup>th</sup> in 2024, featuring diverse panelists and scientific fields. 
+The Forum is **fully remote, free, and open to all.** Learn, share, and be inspired for change. Seven individual sessions will take place on multiple days between September 3<sup>rd</sup> and 13<sup>th</sup> in 2024, featuring diverse panelists and scientific fields.
 <div style="clear:both;"></div>
 
 <div class="highlight">
@@ -48,7 +48,6 @@ We are so pleased to be collaborating this year with presenters from these unive
    <li><img src="../assets/logo/arxiv.png" alt="Logo for archive dot org">arXiv</li>
    <li><img src="../assets/logo/atass.png" alt="Logo for atass sports">Atass Sports</li>
    <li><img src="../assets/logo/glas.png" alt="Logo for Geneva Lake Astrophysics and STEAM Education">Geneva Lake Astrophysics and STEAM (GLAS) Education</li>
-   <li><img src="../assets/logo/ego.png" alt="Logo for the european gravitational wave observatory">European Gravitational Wave Observatory</li>
    <li><img src="../assets/logo/google.png" alt="Logo for google">Google</li>
    <li><img src="../assets/logo/ieee.png" alt="Logo for i triple e">IEEE</li>
    <!-- <li><img src="../assets/logo/jcap.png" alt="Logo for Journal of Cosmology and Astroparticle Physics">Journal of Cosmology and Astroparticle Physics</li> -->
