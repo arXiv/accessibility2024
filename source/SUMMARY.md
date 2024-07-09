@@ -10,5 +10,6 @@
     - [Keynote: The Social Model of Disability](forum-session-Social-Model)
 - [Presenters](presenters)
 - [Accessibility accommodations](accessibility)
+- [Volunteer](volunteer)
 - [Discussion boards guide](discussion-board)
 - [Signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y)
