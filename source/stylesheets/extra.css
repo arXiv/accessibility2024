@@ -278,7 +278,7 @@ h1 {
 .logo-background ul {
   display: flex !important;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: flex-start;
   padding: 0 !important;
   margin: 0 !important;

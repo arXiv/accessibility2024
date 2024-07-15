@@ -1,6 +1,7 @@
 # Sharing the Forum with others
 
 Help spread the word! The Accessibility Forum is free and open to all. Below are links and posters available to use on social media or other channels. We appreciate your sharing the forum with your networks and raising awareness around the need for greater accessibility in research.
+[hi](hello)
 
 ## Forum sign up link
 ```
@@ -15,14 +16,15 @@ https://accessibility2024.arxiv.org
 ## Logos
 | Asset name | Thumbnail | Download link |
 |---|:---:|---|
-| Full logo | ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.png){ alt='logo for the arXiv forum' role="presentation" style="height: 65px;"} | [Download full logo](https://cornell.box.com/v/2024-logo-full) |
-| Mini logo | ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-2024.png){ alt='logo for the arXiv forum' role="presentation" style="height: 25px;"} | [Download mini logo](https://cornell.box.com/v/2024-logo-mini) |
-| Forum title | ![Logo for the arXiv forum](../../assets/forum-logotype-only.svg){ alt='logo for the arXiv forum' role="presentation" style="height: 55px;"} | [Download forum title graphic](https://cornell.box.com/v/2024-forum-title) |
+| Full logo | ![Main Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.png){ alt='logo for the arXiv forum' role="presentation" style="height: 65px;" target="_blank"} | [Download logo](https://cornell.box.com/v/2024-logo-full) |
+| Minimal logo | ![Minimal logo for the arXiv forum](../../assets/arxiv-forum-logo-2024.png){ alt='logo for the arXiv forum' role="presentation" style="height: 25px;" target="_blank"} | [Download minimal](https://cornell.box.com/v/2024-logo-mini) |
+| Forum title graphic | ![Title logo for the arXiv forum](../../assets/forum-logotype-only.svg){ alt='logo for the arXiv forum' role="presentation" style="height: 55px;" target="_blank"} | [Download title graphic](https://cornell.box.com/v/2024-forum-title) |
 
 ## Event poster
 Click to open full size in a new tab. This poster is sized for Twitter/X and LinkedIn.
 
-<a target="_blank" href="../assets/share/forum-poster-general.jpg"><img src="../assets/share/forum-poster-general.jpg" alt="Poster for the arXiv Accessibility Forum"></a>
+[![Poster](../assets/share/forum-poster-general.jpg)](../assets/share/forum-poster-general.jpg){target="_blank" alt="Event poster for the arXiv Accessibility Forum with the forum title and the slogan Converging on accessible science together"}
+
 
 ## Session Posters
 Click on a poster thumbnail to open full size in a new tab. They are sized for use on Twitter/X or LinkedIn.
@@ -40,4 +42,5 @@ Click on a poster thumbnail to open full size in a new tab. They are sized for u
 </ul>
 
 ***
+
 If you want to suggest groups we should reach out to please let us know in the discussion board below. Learn more about participating in discussions with our [getting started](getting-started.md) guide.
