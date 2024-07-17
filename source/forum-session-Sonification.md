@@ -85,7 +85,7 @@ Amy's research focuses on ocean circulation. As one of the few blind oceanograph
 
 ## Research and resources
 
-- The [Astronify Python Package](https://astronify.readthedocs.io/en/stable/astronify/tutorials.html) from Scott Fleming and Kate Meredith
+- The [Astronify Python Package](https://astronify.readthedocs.io/) from Scott Fleming and Kate Meredith
 - The [Sonify R Package](https://cran.r-project.org/web/packages/sonify/index.html) from Robin Williams
 - The [The Volcano Listening Project](https://www.volcanolisteningproject.org/) from Leif Karlstrom
 - Video: [Hearing the Light - Astronomy Data Sonification](https://www.youtube.com/watch?v=-MBpGKoULyc). A presentation by Scott Fleming about Astronify. Test your listening skills with an interactive sonification game show.
