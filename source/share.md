@@ -31,16 +31,15 @@ Click on a poster thumbnail to open full size in a new tab. They are sized for u
 
 <div class="logo-background">
   <ul style="justify-content: flex-start;">
-    <li><a target="_blank" href="../assets/share/forum-poster-AMA.jpg"><img src="../assets/share/forum-poster-AMA.jpg" alt="Ask Me Anything">AI and Accessibility</a></li>
+    <li><a target="_blank" href="../assets/share/forum-poster-AMA.jpg"><img src="../assets/share/forum-poster-AMA.jpg" alt="Ask Me Anything">Ask Me Anything</a></li>
     <li><a target="_blank" href="../assets/share/forum-poster-AI.jpg"><img src="../assets/share/forum-poster-AI.jpg" alt="AI and Accessibility session">AI and Accessibility</a></li>
     <li><a target="_blank" href="../assets/share/forum-poster-deafhub.jpg"><img src="../assets/share/forum-poster-deafhub.jpg" alt="Deaf Hub at RIT session">Deaf Hub at RIT</a></li>
     <li><a target="_blank" href="../assets/share/forum-poster-sonification.jpg"><img src="../assets/share/forum-poster-sonification.jpg" alt="Sonification session">Sonification</a></li>
     <li><a target="_blank" href="../assets/share/forum-poster-SciELO.jpg"><img src="../assets/share/forum-poster-SciELO.jpg" alt="SciELO session">SciELO</a></li>
     <li><a target="_blank" href="../assets/share/forum-poster-html.jpg"><img src="../assets/share/forum-poster-html.jpg" alt="HTML papers on arXiv">HTML papers on arXiv</a></li>
-    <li><a target="_blank" href="../assets/share/forum-poster-disability-model.jpg"><img src="../assets/share/forum-poster-disability-model.jpg" alt="Disability model session">Disability Model session</a></li>
+    <li><a target="_blank" href="../assets/share/forum-poster-disability-model.jpg"><img src="../assets/share/forum-poster-disability-model.jpg" alt="Disability model session">Disability Models</a></li>
   </ul>
-</ul>
-
+</div>
 ***
 
-If you want to suggest groups we should reach out to please let us know in the discussion board below. Learn more about participating in discussions with our [getting started](getting-started.md) guide.
+If you want to suggest groups we should reach out to please [email](mailto:accessibility@arxiv.org) or let us know in the discussion board below. Learn more about participating in discussions with our [getting started](getting-started.md) guide.
