@@ -65,6 +65,8 @@ We are so pleased to be collaborating this year with presenters from these unive
 
 [Meet the presenters](/presenters){class="button-reg"}
 
+## Help spread the word
+You can help get the word out about this free event by sharing it with your colleagues and other academic networks. Logos, links, and session posters are available on [the share page](/share) if you want to add a little color to a social media post.
 
 ## Event policy
 - All participants must follow arXiv's [code of conduct](https://info.arxiv.org/help/policies/code_of_conduct.html#inclusiveness-and-respect){target="_blank"}.
