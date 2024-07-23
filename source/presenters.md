@@ -53,23 +53,13 @@ Phia has more than 25 years of experience building innovative educational softwa
 
 ---
 
-## Dr. Wanda Diaz-Merced
-
-![Wanda Diaz-Merced](../assets/profile/wanda.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Wanda smiling, wearing a dark navy shirt against a dark background'}
-
-**Program Lead, European Gravitational Wave Observatory; Director, Arecibo Observatory.**
-
-Wanda is an astronomer and leading proponent of sonification, converting astrophysical data into audible sound. Named one of the Seven most Trailblazing Women in Science by the BBC, Wanda is a leader in increasing equality of access within astronomy and raising awareness of the broad benefits of sonification in scientific research. [Wanda's Wikipedia page](https://en.wikipedia.org/wiki/Wanda_D%C3%ADaz-Merced){target="_blank"}
-
----
-
 ## Hannah DeFelice
 
 ![Hannah DeFelice](../assets/profile/hannah.jpg){.mkd-img-left .mkd-img-profile alt='A night photograph of Rochester's iconic city skyline with the famous Frederich Douglas and Susan B Anthony bridge in the foreground'}
 
 **Master's Student in Environmental Science, Rochester Institute of Technology.**
 
-Hannah’s research focuses on permaculture, especially carbon cycles and their impact. [Hannah's profile](){target="_blank"}
+Hannah’s research focuses on permaculture, especially carbon cycles and their impact.
 
 ---
 
