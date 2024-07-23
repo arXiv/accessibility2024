@@ -1,8 +1,18 @@
 # Schedule
 
-The Accessibility Forum, hosted by arXiv, is a remote event that is free and open to all.
+The Accessibility Forum, hosted by arXiv, is **a remote event that is free and open to all.**
 
-Seven individual sessions will be held on different days over the first two weeks in September addressing accessibility in research. Come learn, discuss, and explore with people and organizations who are moving accessibility forward in academia.
+Seven individual sessions will be held on different days over the first two weeks in September addressing accessibility in research. Come learn, discuss, and explore with people and organizations from around the globe who are moving accessibility forward in academia.
+
+<div class="highlight">
+  <h2>Signup is open</h2>
+  <p>It is time! All Forum sessions are open to all. By signing up you will receive advance access to the webinar link and be emailed when recordings are available.</p>
+
+  <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-reg">Sign up for the Forum</a>
+
+  <img src="../assets/forum-logotype-with-logo.svg" role="presentation" alt="arxiv forum logotype saying accessibility 2024" class="mkd-img-right">
+  <div style="clear:both;"></div>
+</div>
 
 Join scientists from around the world for presentations, Q&A discussions, and new research all focused on making academia more accessible. <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Sign up now</a> to stay up to date with Forum news (our emails will be infrequent, short, and to the point).
 
