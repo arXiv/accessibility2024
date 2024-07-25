@@ -282,7 +282,7 @@ Ashley specializes in disability studies and technology ethics and believes in c
 
 **Research Program Coordinator, National Technical Institute for the Deaf, Rochester Institute of Technology.**
 
-Jenna is the research coordinator extraordinaire at Deaf Hub and will be sharing her experiences supporting students who are deaf/hard-of-hearing on their academic journeys. [Jenna’s RIT profile](https://www.rit.edu/directory/jasccl-jenna-stewardson){target="_blank"}
+Jenna is the research coordinator extraordinaire at Deaf Hub and will be sharing their experiences supporting students who are deaf/hard-of-hearing on their academic journeys. [Jenna’s RIT profile](https://www.rit.edu/directory/jasccl-jenna-stewardson){target="_blank"}
 
 ---
 
@@ -332,7 +332,7 @@ Allie's research focuses on pairing AI with systems thinking to drive inclusivit
 For the last few years Shamsi has championed the research and implementation of more accessible practices at arXiv, including the addition of HTML-formatted papers. She has also had the pleasure of organizing this forum and working with each of the wonderful participants above to bring it to life. Thank you! [Shamsi's LinkedIn profile](https://www.linkedin.com/in/shamsi-brinn/){target="_blank"}
 
 ## Miranda Yang
-![Miranda Yang](../assets/profile/miranda.JPG){.mkd-img-left .mkd-img-profile alt='Headshot of Miranda smiling against a clear white background'}
+![Miranda Yang](../assets/profile/miranda.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Miranda smiling against a clear white background'}
 
 **UX Specialist, arXiv.**
 
