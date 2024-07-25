@@ -1,4 +1,4 @@
-# Keynote: The Social Model of Disability
+# Keynote: Disability Models and the Human Factor
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 
