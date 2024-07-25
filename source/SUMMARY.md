@@ -7,7 +7,7 @@
     - [Sonification](forum-session-Sonification)
     - [SciELO (Español/Português)](forum-session-SciELO)
     - [HTML Papers on arXiv](forum-session-HTML)
-    - [Keynote: The Social Model of Disability](forum-session-Social-Model)
+    - [Keynote: Disability Models](forum-session-Disability-Models)
 - [Presenters](presenters)
 - [Accessibility accommodations](accessibility)
 - [Volunteer](volunteer)
