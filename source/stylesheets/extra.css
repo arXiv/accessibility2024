@@ -686,9 +686,9 @@ ol.color-blocks li img {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 1.1em;
-  padding: .5em .1em .5em .5em;
-  height: 23px;
+  font-size: .7rem;
+  padding: 0em .5em 0em 1em;
+  height: 24px;
 }
 .signup-universal a img {
   float: right;
