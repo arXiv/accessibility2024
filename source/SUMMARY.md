@@ -11,4 +11,5 @@
 - [Presenters](presenters)
 - [Accessibility accommodations](accessibility)
 - [Volunteer](volunteer)
-- [Signup](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y)
+- [Share](share)
+- [Sign Up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y)
