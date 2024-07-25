@@ -2,7 +2,7 @@
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 
-After these three brilliant thought leaders, authors, and powerful advocates present on the social model of disability, the world around you will never feel the same. We are so excited about this transformative talk and hope you can join us.
+After these three brilliant thought leaders, authors, and powerful advocates present on disability models the world around you will never feel the same. We are so excited about this transformative talk and hope you can join us.
 
 This session is for everyone who wants to contribute to environments where we can each achieve our potential.
 
