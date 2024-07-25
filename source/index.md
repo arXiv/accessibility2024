@@ -1,16 +1,16 @@
 ![Logo for the arXiv forum](../assets/forum-logotype-only.svg){.forum-logotype alt='logo for the arXiv forum' role="presentation"}
 
-# Welcome to the arXiv Accessibility Forum 2024!
+# Sign up for the arXiv Accessibility Forum 2024!
 ## Converging on accessible science together
 
 You are warmly invited to our second accessibility forum, a free conference for the scientific community focused on making research more accessible. Accessibility means *access regardless of disability*, and only when research is fully accessible can we truly call it open science.
 
-The Forum is **fully remote, free, and open to all.** Learn, share, and be inspired for change. Seven individual sessions will take place on multiple days between September 3<sup>rd</sup> and 13<sup>th</sup> in 2024, featuring diverse panelists and scientific fields.
+The Forum is **fully remote, free, and open to all.** Learn, share, and be inspired for change. Seven individual sessions will take place on multiple days between September 3<sup>rd</sup> and 13<sup>th</sup> in 2024, featuring diverse panelists from many scientific fields.
 <div style="clear:both;"></div>
 
 <div class="highlight">
   <h2>Signup is open</h2>
-  <p>It is time! Though all sessions are open to everyone and do not require registration, by signing up, you can help us gauge interest this year, receive advance invitations, and be emailed when recordings are available.</p>
+  <p>It is time! Forum sessions are free and open to all. By signing up you will receive advance access to webinar links and be emailed when recordings are available.</p>
 
   <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-reg">Sign up for the Forum</a>
 
@@ -23,7 +23,7 @@ The Forum is **fully remote, free, and open to all.** Learn, share, and be inspi
 | Mon | Tues | Wed | Thurs | Fri |
 | --- | --- | --- | --- | --- |
 | 2.  |  3.<br>[Ask Me Anything](forum-session-AMA) | 4. <br>[AI and Accessibility](forum-session-AI) | 5. | 6.<br>[Deaf Hub at RIT](forum-session-Deaf-Hub)  |
-| 9.  | 10.<br> [Sonification: multi-modal science](forum-session-Sonification) | 11.<br>[SciELO y accessibilidad / e acessibilidade](forum-session-SciELO)  | 12. <br>[HTML papers on arXiv](forum-session-HTML)  |  13.<br>Keynote: [The social model of disability](forum-session-Social-Model) |
+| 9.  | 10.<br> [Sonification: multi-modal science](forum-session-Sonification) | 11.<br>[SciELO y accessibilidad / e acessibilidade](forum-session-SciELO)  | 12. <br>[HTML papers on arXiv](forum-session-HTML)  |  13.<br>Keynote: [Disability Models and the Human Factor](forum-session-Disability-Models) |
 </div>
 
 [View the schedule](/schedule){class="button-reg"}

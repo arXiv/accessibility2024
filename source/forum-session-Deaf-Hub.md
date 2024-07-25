@@ -77,7 +77,7 @@ Camille teaches in the Biology and Health department on Human Health and Disease
 
 **Research Program Coordinator, National Technical Institute for the Deaf, Rochester Institute of Technology.**
 
-Jenna is the research coordinator extraordinaire at Deaf Hub and will be sharing her experiences supporting students who are deaf/hard-of-hearing on their academic journeys. [Jenna’s RIT profile](https://www.rit.edu/directory/jasccl-jenna-stewardson){target="_blank"}
+Jenna is the research coordinator extraordinaire at Deaf Hub and will be sharing their experience supporting students who are deaf/hard-of-hearing on their academic journeys. [Jenna’s RIT profile](https://www.rit.edu/directory/jasccl-jenna-stewardson){target="_blank"}
 
 
 [See all Forum presenters](presenters){class="button-reg"}
