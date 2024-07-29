@@ -8,7 +8,7 @@ This session is for everyone seeking practical insights into AI's role in access
 
 | Date | Time |
 |---|---|
-| Wednesday, September 4, 2024  | Exact time coming soon |
+| Wednesday, September 4, 2024  | 12:00 pm ET |
 
 ## Presenters
 
