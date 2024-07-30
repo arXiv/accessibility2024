@@ -1,24 +1,28 @@
 #Sonification: Why Multi-Modal Science is the Future
 
-![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
-
-Join some of the world's leading experts on sonification to go beyond the visual and learn how all our senses can be engaged in exploring and understanding data. This session will demonstrate and discuss how sonification is used across multiple fields including astronomy, statistics, biology and education. Hear from the researchers behind prominent sonification tools how (and why) they use it in their daily work, and why multi-modal scientific outputs are a win for accessibility and the future of science.
+<div class="lead">
+  <div class="content">
+    <p>Join some of the world's leading experts on sonification to go beyond the visual and learn how all our senses can be engaged in exploring and understanding data. This session will demonstrate and discuss how sonification is used across multiple fields including astronomy, statistics, biology and education. Hear from the researchers behind prominent sonification tools how (and why) they use it in their daily work, and why multi-modal scientific outputs are a win for accessibility and the future of science.</p>
+  </div>
+  <div class="videos">
+    <h2>Welcome video from the Sonification panelists!</h2>
+    <iframe src="https://www.youtube.com/embed/-XmHEbp0DCk?si=C7fAuEavRS50CJ_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
 
 This session is for anyone interested in more ways of exploring and understanding data.
 
-| Session Date | Time |
-|---|---|
-| Tuesday, September 10, 2024 | 3:00 pm ET |
+| Session Date | Time | Link |
+|---|---|---|
+| Tuesday, September 10, 2024 | 3:00 pm ET | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
 
-## Watch Welcome Video
-<div class="mkd-ordered-list-third" markdown="1">
-
-1. [![Thumbnail image of sonification group](/assets/video/sonification-group.png)](https://youtu.be/-XmHEbp0DCk?si=WiFcHaPI6gTrir2j){target="_blank"}
-    **[Sonification: Why Multi-Modal Science is the Future](https://youtu.be/-XmHEbp0DCk?si=WiFcHaPI6gTrir2j){target="_blank"}**
-</div>
+## Participate
+- [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} for the accessibility forum
+- Enjoyed the teaser video and have more questions? [Submit your questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq) ahead of time. The presenters are eager to hear from you in advance so they can answer as many of them as possible during the session.
+- Help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
 
 
-## Watch Technical Demo Videos
+## Watch technical demos of sonification projects in five scientific fields
 <div class="mkd-ordered-list-third" markdown="1">
 
 1. [![Thumbnail image of sonification demo with Amy](/assets/video/sonification-amy.png)](https://youtu.be/f6r5BVZ93pk?si=Yzszw5RkUuiu-7SS){target="_blank"}
@@ -127,4 +131,4 @@ Amy's research focuses on ocean circulation. As one of the few blind oceanograph
 - Paper: Gower, L. & Damsma, P. (2023). How to use Sonification in the classroom. JSPEVI Journal of the South Pacific Educators in Vision Impairment, 16 (1), 44-53. [https://www.spevi.net/jspevi/#2023](https://www.spevi.net/jspevi/#2023)
 
 ## Discussion board
-Use this discussion board to continue the conversation, ask questions, and share more resources around the social model of disability. See these [instructions](discussion-board.md) for setting up a free GitHub account.
+Use this discussion board to continue the conversation, ask questions, and share more resources around sonification. See these [instructions](discussion-board.md) for setting up a free GitHub account.

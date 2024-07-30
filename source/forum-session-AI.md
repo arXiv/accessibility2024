@@ -4,13 +4,15 @@
   <div class="content">
     <p>Has the bleeding edge finally caught up with user needs? This session features demonstrations from two research teams discussing their AI-driven tools for accessibility. The discussions are led by a vision-impaired scientist who uses AI tools daily to improve accessibility in her work.</p>
 
-    <p>This session is for everyone seeking practical insights into AI's role in accessibility and the opportunity to learn more about and get involved with two emerging AI tools.</p>
+    <p>This session is for everyone seeking practical insights into AI's role in accessibility and offers the opportunity to learn more about and get involved with two emerging AI tools.</p>
   </div>
   <div class="videos">
     <iframe src="https://www.youtube.com/embed/nNnXwqScxw4?si=UJP20pP_G0ED2hG7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <iframe src="https://www.youtube.com/embed/kUsk7wVVQAo?si=8fYSZRGja0D7TKVf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 </div>
+
+Watch the demo videos posted here then [share your questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq) ahead of time for the Q&A!
 
 ## Session Date
 
@@ -21,7 +23,7 @@
 ## Participate
 
 - [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} for the accessibility forum
-- Enjoying the demo videos and have more questions? [Submit your questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq) ahead of time. The presenters are eager to know your questions in advance so they can answer as many of them as possible during the session.
+- Enjoyed the teaser video and have more questions? [Submit your questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq) ahead of time. The presenters are eager to hear from you in advance so they can answer as many of them as possible during the session.
 - Help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
 
 

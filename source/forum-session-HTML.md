@@ -1,28 +1,26 @@
 #HTML Papers On arXiv: A peek under the hood with LaTeXML and NVDA
 
-![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
-
-Adding HTML to arXiv was possible because of organizations whose long-standing commitments to accessibility and open-source software go back decades. Join four open-source software luminaries from the NVDA screenreader, the LaTeXML converter, and arXiv to take a peek under the hood of how HTML papers on arXiv are made, what is working well, and where there is room for improvement. Learn more about this impactful and popular feature with true experts from the realms of TeX, screen readers, HTML, and web standards.
+<div class="lead">
+  <div class="content">
+    <p>Adding HTML to arXiv was possible because of organizations whose long-standing commitments to accessibility and open-source software go back decades. Join four open-source software luminaries from the NVDA screenreader, the LaTeXML converter, and arXiv to take a peek under the hood of how HTML papers on arXiv are made, what is working well, and where there is room for improvement. Learn more about this impactful and popular feature with experts from the realms of TeX, screen readers, HTML, and web standards.</p>
+  </div>
+  <div class="videos">
+    <H2>Welcome message from Mick, Deyan, Tony, and Norbert!</h2>
+    <iframe src="https://www.youtube.com/embed/PYBgeITZhL4?si=21tyiuFr3JeMqn4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
 
 **Join us for this double celebration of accessibility gains and open-source software!** Bring your questions and gain a deeper understanding of what really makes a more accessible research paper.
 
-| Session Date | Time |
-|---|---|
-| Thursday, September 12, 2024 | 8:00 pm ET |
+| Session Date | Time | Link |
+|---|---|---|
+| Thursday, September 12, 2024 | 8:00 pm ET | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
 *(This event is optimal for Asia-Pacific and PST time zones. All are welcome!)*
 
-
-## Watch Welcome Video
-<div class="mkd-ordered-list-third" markdown="1">
-
-1. [![Thumbnail image of HTML group](/assets/video/html.png)](https://youtu.be/PYBgeITZhL4?si=VyiL85PYehpeUYpH){target="_blank"}
-    **[HTML papers on arXiv: a peek under the hood with LaTeXML and NVDA](https://youtu.be/PYBgeITZhL4?si=VyiL85PYehpeUYpH){target="_blank"}**
-</div>
-
-## Submit Questions for Q&A
-Finding the content fascinating and eager to participate? Let the presenters know your questions by submitting them ahead of the live session in September.
-
-[Submit Questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq){class="button-reg"}
+## Participate
+- [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} for the accessibility forum
+- Enjoyed the teaser video and have more questions? [Submit your questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq) ahead of time. The presenters are eager to hear from you in advance so they can answer as many of them as possible during the session.
+- Help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
 
 ## Presenters
 
@@ -70,4 +68,4 @@ As the author of TeXLive (and though he objects to this characterization) Norber
 
 
 ## Discussion
-Use this discussion board to continue the conversation, ask questions, and share more resources around the social model of disability. See these [instructions](discussion-board.md) for setting up a free GitHub account.
+Use this discussion board to continue the conversation, ask questions, and share more resources around HTML conversions and making research accessible. See these [instructions](discussion-board.md) for setting up a free GitHub account.

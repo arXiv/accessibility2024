@@ -1,14 +1,19 @@
-# Keynote: Disability Models and the Human Factor
+# Keynote: Universal Designs for Research
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 
-After these three brilliant thought leaders, authors, and powerful advocates present on disability models the world around you will never feel the same. We are so excited about this transformative talk and hope you can join us.
+There is no one right way to approach accessibility, but understanding different approaches can help us be much more accessible. After these three brilliant thought leaders, authors, and powerful advocates share their vision of accessibility you wont experience the world in quite the same way again. We are so excited about this transformative talk and hope you can join us.
 
-This session is for everyone who wants to contribute to environments where we can each achieve our potential.
+This session is for everyone who wants to contribute to environments where we can all achieve our potential.
 
-| Session Date | Time |
-|---|---|
-| Friday, September 13, 2024 | 12:00 pm ET |
+| Session Date | Time | Link |
+|---|---|---|
+| Friday, September 13, 2024 | 12:00 pm ET | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+
+## Participate
+- [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} for the accessibility forum
+- Have a burning question? [Submit your questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq) ahead of time. The presenters are eager to hear from you in advance so they can answer as many of them as possible during the session.
+- Help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
 
 ## Presenters
 
@@ -41,7 +46,8 @@ Ashley specializes in disability studies and technology ethics and believes in c
 
 [See all Forum presenters](presenters){class="button-reg"}
 
-<!-- ## Session materials and resources -->
+## Session resources
+- [Progress Over Perfection](https://meryl.net/accessibility-progress-over-perfection/){target="_blank"} (blog post by Meryl K. Evans, CPACC)
 
 ## Discussion board
-Use this discussion board to continue the conversation, ask questions, and share more resources around the social model of disability. See these [instructions](discussion-board.md) for setting up a free GitHub account.
+Use this discussion board to continue the conversation, ask questions, and share more resources around approaches to accessibility. See these [instructions](discussion-board.md) for setting up a free GitHub account.
