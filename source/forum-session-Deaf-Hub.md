@@ -10,6 +10,18 @@ This session is for all academics who want to give or get support navigating aca
 |---|---|
 | Friday, September 6, 2024 | 12:00 pm ET |
 
+## Watch Welcome Video
+<div class="mkd-ordered-list-third" markdown="1">
+
+1. [![Thumbnail image of deaf hub group](/assets/video/deafhub.png)](https://youtu.be/rjFvfz34G1g?si=EpjK774Eo9au4lvF){target="_blank"}
+    **[Deaf Hub: a resource for all of us](https://youtu.be/rjFvfz34G1g?si=EpjK774Eo9au4lvF){target="_blank"}**
+</div>
+
+## Submit Questions for Q&A
+Finding the content fascinating and eager to participate? Let the presenters know your questions by submitting them ahead of the live session in September.
+
+[Submit Questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq){class="button-reg"}
+
 ## Presenters
 
 ### Elizabeth Ayers

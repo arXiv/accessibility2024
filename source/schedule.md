@@ -18,10 +18,10 @@ Join scientists from around the world for presentations, Q&A discussions, and ne
 
 | Session | Date | Presenters | Link |
 | --- | --- | --- | --- |
-| **Ask me anything: a lively Q&A on navigating academic ecosystems with a disability** | Tuesday, September 3, 4:00 pm ET | Dr. Jonathan Godfrey, Dr. Anne Kearney Logan, Venkatesh Potluri | <a href="forum-session-AMA">View details</a> |
+| **Ask me anything: a lively Q&A on navigating academic ecosystems with a disability** | Tuesday, September 3, 4:00 pm ET | Dr. Jonathan Godfrey, Dr. Anne Kearney Logan, Dr. Venkatesh Potluri | <a href="forum-session-AMA">View details</a> |
 | **AI and accessibility: A demonstration of two research-based tools** | Wednesday, September 4, 12:00 pm ET | Arwa Alnajashi, Ricardo Gonzalez, Dr. Thijs Jan Roumen, Dr. Raafat Mahmoud Zaini, Allie Zombron | <a href="forum-session-AI">View details</a> |
 | **Deaf Hub at RIT: A resource for all of us** | Friday, September 6, 12:00 pm ET | Elizabeth Ayers, Hannah DeFelice, Dr. Bonnie Jacob, Dyl Levenson, Dr. Carmody McCalley,  Camille Ouellette, Jenna Stewardson | <a href="forum-session-Deaf-Hub">View details</a> |
-| **Sonification: Why multi-modal science is the future** | Tuesday, September 10, 3:00 pm ET | Phia Damsma, Dr. Wanda Diaz-Merced, Dr. Scott Fleming, Sarah Kane, Kate Meredith, Dr. Robin Williams | <a href="forum-session-Sonification">View details</a> |
+| **Sonification: Why multi-modal science is the future** | Tuesday, September 10, 3:00 pm ET | Phia Damsma, Dr. Scott Fleming, Sarah Kane, Dr. Leif Karlstrom, Kate Meredith, Dr. Robin Williams | <a href="forum-session-Sonification">View details</a> |
 | **SciELO y accessibilidad / e acessibilidade** *(en Español y Portugués / em espanhol e português)* | El 11 de Septiembre / 11 de Setembro, 17:00 CEST/12:00 BRT| Dr. Solange Maria dos Santos, Dr. Mar Gonzalez-Franco, Luisa de Souza Leão, Alex Mendonça, Dr. Licia Verde | <a href="forum-session-SciELO">Detalles / Detalhes</a> |
 | **HTML papers on arXiv: A peek under the hood with LaTeXML and NVDA** | Thursday, September 12, 8:00 pm ET/ September 13 10:00 am AET | Michael Curran, Deyan Ginev, Tony Malykh, Dr. Norbert Preining | <a href="forum-session-HTML">View details</a> |
 | **Keynote: Disability Models and the Human Factor**  | Friday, September 13, 12:00 pm ET | Kim Bryant, Dr. Devva Kasnitz, Dr. Ashley Shew | <a href="forum-session-Social-Model">View details</a> |

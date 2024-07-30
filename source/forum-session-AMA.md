@@ -10,6 +10,19 @@ There are no silly questions. Come engage and learn!
 |---|---|
 | Tuesday, September 3, 2024 | 4:00 pm ET |
 
+
+## Watch Welcome Video
+<div class="mkd-ordered-list-third" markdown="1">
+
+1. [![Thumbnail image of AMA group](/assets/video/ama.png)](https://youtu.be/ceh6l0dhvqo?si=WATxBtFiKy1BiYQE){target="_blank"}
+    **[Ask Me Anything: A Lively Q&A on Navigating Academic Ecosystems With a Disability](https://youtu.be/ceh6l0dhvqo?si=WATxBtFiKy1BiYQE){target="_blank"}**
+</div>
+
+## Submit Questions for Q&A
+Finding the content fascinating and eager to participate? Let the presenters know your questions by submitting them ahead of the live session in September.
+
+[Submit Questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq){class="button-reg"}
+
 ## Presenters
 
 ### Dr. Jonathan Godfrey
