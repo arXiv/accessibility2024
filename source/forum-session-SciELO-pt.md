@@ -2,6 +2,8 @@
 
 # SciELO e Acessibilidade
 
+![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
+
 [Español](forum-session-SciELO-es.md){.button-reg}
 [English](forum-session-SciELO.md){.button-reg}
 
@@ -56,6 +58,8 @@ Solange traz experiência em comunicação científica em diversos contextos geo
 **Coordenador de Submissão Online e Preprints, SciELO.**
 
 Alex traz experiência em estratégias organizacionais na transição de periódicos indexados para ciência aberta, bem como na implementação de políticas de Diversidade, Equidade, Inclusão e Acessibilidade (DEIA) no SciELO. [Perfil de Alex no LinkedIn](https://www.linkedin.com/in/alex-mendon%C3%A7a/?originalSubdomain=br){target="_blank"}
+
+---
 
 ### Luisa de Souza Leão  
 ![Louisa de Souza Leão](../assets/profile/luisa.jpg){.mkd-img-left .mkd-img-profile alt='uma imagem de uma bela área cênica natural no Brasil com um litoral rochoso e afloramentos de ilhas perto da costa'}
