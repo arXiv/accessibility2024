@@ -1,29 +1,29 @@
 # AI and Accessibility: Emerging Tools Demonstration
 
-![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
+<div class="lead">
+  <div class="content">
+    <p>Has the bleeding edge finally caught up with user needs? This session features demonstrations from two research teams discussing their AI-driven tools for accessibility. The discussions are led by a vision-impaired scientist who uses AI tools daily to improve accessibility in her work.</p>
 
-Has the bleeding edge finally caught up with user needs? This session features demonstrations from two research teams discussing their AI-driven tools for accessibility. The discussions are led by a vision-impaired scientist who uses AI tools daily to improve accessibility in her work.
-
-This session is for everyone seeking practical insights into AI's role in accessibility and the opportunity for hands-on experience with two emerging AI tools.
-
-| Date | Time |
-|---|---|
-| Wednesday, September 4, 2024  | 12:00 pm ET |
-
-## Watch Technical Demo Videos
-<div class="mkd-ordered-list-third" markdown="1">
-
-1. [![Thumbnail image of AI and Accessibility Demo 1](/assets/video/AI-CREATE.png)](https://youtu.be/kUsk7wVVQAo?si=vCo1DU3yj0W0tJYv){target="_blank"}
-    **[Using AI to improve systems thinking accessibility to the visually impaired](https://youtu.be/kUsk7wVVQAo?si=vCo1DU3yj0W0tJYv){target="_blank"}**
-
-2. [![Thumbnail image of AI and Accessibility Demo 2](/assets/video/AI-Visuals.png)](https://youtu.be/nNnXwqScxw4?si=_xZNBJWn5nAtGc3V){target="_blank"}
-    **[What role can AI play in blind and low-vision people's day-to-day experience?](https://youtu.be/nNnXwqScxw4?si=_xZNBJWn5nAtGc3V){target="_blank"}**
+    <p>This session is for everyone seeking practical insights into AI's role in accessibility and the opportunity to learn more about and get involved with two emerging AI tools.</p>
+  </div>
+  <div class="videos">
+    <iframe src="https://www.youtube.com/embed/nNnXwqScxw4?si=UJP20pP_G0ED2hG7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/kUsk7wVVQAo?si=8fYSZRGja0D7TKVf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
 </div>
 
-## Submit Questions for Q&A
-Finding the content fascinating and eager to participate? Let the presenters know your questions by submitting them ahead of the live session in September.
+## Session Date
 
-[Submit Questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq){class="button-reg"}
+| Date | Time | Link |
+|---|---|---|
+| Wednesday, September 4, 2024  | 12:00 pm ET | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+
+## Participate
+
+- [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} for the accessibility forum
+- Enjoying the demo videos and have more questions? [Submit your questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq) ahead of time. The presenters are eager to know your questions in advance so they can answer as many of them as possible during the session.
+- Help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
+
 
 ## Presenters
 
@@ -75,7 +75,7 @@ Allie's research focuses on pairing AI with systems thinking to drive inclusivit
 [See all Forum presenters](presenters){class="button-reg"}
 
 ## Session materials and resources
-Want to learn more about system design? Check out these 2 resources shared by our presenters.
+Want to learn more about system design? Check out these two resources shared by our presenters.
 
 - [System Dynamics Learning Guide](https://pressbooks.lib.jmu.edu/sdlearningguide/)
 - [Thinking in Systems by Dana Meadows](https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/psychology-amp-behavior/Meadows-2008.-Thinking-in-Systems.pdf)
