@@ -11,6 +11,19 @@ Adding HTML to arXiv was possible because of organizations whose long-standing c
 | Thursday, September 12, 2024 | 8:00 pm ET |
 *(This event is optimal for Asia-Pacific and PST time zones. All are welcome!)*
 
+
+## Watch Welcome Video
+<div class="mkd-ordered-list-third" markdown="1">
+
+1. [![Thumbnail image of HTML group](/assets/video/html.png)](https://youtu.be/PYBgeITZhL4?si=VyiL85PYehpeUYpH){target="_blank"}
+    **[HTML papers on arXiv: a peek under the hood with LaTeXML and NVDA](https://youtu.be/PYBgeITZhL4?si=VyiL85PYehpeUYpH){target="_blank"}**
+</div>
+
+## Submit Questions for Q&A
+Finding the content fascinating and eager to participate? Let the presenters know your questions by submitting them ahead of the live session in September.
+
+[Submit Questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq){class="button-reg"}
+
 ## Presenters
 
 ### Michael Curran

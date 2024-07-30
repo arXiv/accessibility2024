@@ -10,6 +10,21 @@ This session is for everyone seeking practical insights into AI's role in access
 |---|---|
 | Wednesday, September 4, 2024  | 12:00 pm ET |
 
+## Watch Technical Demo Videos
+<div class="mkd-ordered-list-third" markdown="1">
+
+1. [![Thumbnail image of AI and Accessibility Demo 1](/assets/video/AI-CREATE.png)](https://youtu.be/kUsk7wVVQAo?si=vCo1DU3yj0W0tJYv){target="_blank"}
+    **[Using AI to improve systems thinking accessibility to the visually impaired](https://youtu.be/kUsk7wVVQAo?si=vCo1DU3yj0W0tJYv){target="_blank"}**
+
+2. [![Thumbnail image of AI and Accessibility Demo 2](/assets/video/AI-Visuals.png)](https://youtu.be/nNnXwqScxw4?si=_xZNBJWn5nAtGc3V){target="_blank"}
+    **[What role can AI play in blind and low-vision people's day-to-day experience?](https://youtu.be/nNnXwqScxw4?si=_xZNBJWn5nAtGc3V){target="_blank"}**
+</div>
+
+## Submit Questions for Q&A
+Finding the content fascinating and eager to participate? Let the presenters know your questions by submitting them ahead of the live session in September.
+
+[Submit Questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq){class="button-reg"}
+
 ## Presenters
 
 ### Arwa Alnajashi

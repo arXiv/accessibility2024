@@ -10,6 +10,38 @@ This session is for anyone interested in more ways of exploring and understandin
 |---|---|
 | Tuesday, September 10, 2024 | 3:00 pm ET |
 
+## Watch Welcome Video
+<div class="mkd-ordered-list-third" markdown="1">
+
+1. [![Thumbnail image of sonification group](/assets/video/sonification-group.png)](https://youtu.be/-XmHEbp0DCk?si=WiFcHaPI6gTrir2j){target="_blank"}
+    **[Sonification: Why Multi-Modal Science is the Future](https://youtu.be/-XmHEbp0DCk?si=WiFcHaPI6gTrir2j){target="_blank"}**
+</div>
+
+
+## Watch Technical Demo Videos
+<div class="mkd-ordered-list-third" markdown="1">
+
+1. [![Thumbnail image of sonification demo with Amy](/assets/video/sonification-amy.png)](https://youtu.be/f6r5BVZ93pk?si=Yzszw5RkUuiu-7SS){target="_blank"}
+    **[Listening to ocean currents with Amy](https://youtu.be/f6r5BVZ93pk?si=Yzszw5RkUuiu-7SS){target="_blank"}**
+
+2. [![Thumbnail image of sonification demo with Robin](/assets/video/sonification-robin.png)](https://youtu.be/Qs6pr2UPYZ4?si=8_PFmGbWeDJgH651){target="_blank"}
+    **[Statistical sensemaking through sound with Robin](https://youtu.be/Qs6pr2UPYZ4?si=8_PFmGbWeDJgH651){target="_blank"}**
+
+3. [![Thumbnail image of sonification demo with Phia](/assets/video/sonification-phia.png)](https://youtu.be/HEalOA_IqMs?si=zxpr6fq1mF9793y7){target="_blank"}
+    **[Introducing young learners to sonification with Phia](https://youtu.be/HEalOA_IqMs?si=zxpr6fq1mF9793y7){target="_blank"}**
+
+4. [![Thumbnail image of sonification demo with Leif](/assets/video/sonification-leif.png)](https://youtu.be/XE3MmvPFQWE?si=uAYXJzwySDHhrHzr){target="_blank"}
+    **[Composing the music of volcanos with Leif](https://youtu.be/XE3MmvPFQWE?si=uAYXJzwySDHhrHzr){target="_blank"}**
+
+5. [![Thumbnail image of sonification demo with Scott](/assets/video/sonification-scott.png)](https://youtu.be/CQgHPd1S0uI?si=nhLghyHt7H2ioYNJ){target="_blank"}
+    **[Hearing a star's brightness with Scott](https://youtu.be/CQgHPd1S0uI?si=nhLghyHt7H2ioYNJ){target="_blank"}**
+
+</div>
+
+## Submit Questions for Q&A
+Finding the content fascinating and eager to participate? Let the presenters know your questions by submitting them ahead of the live session in September.
+
+[Submit Questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq){class="button-reg"}
 
 ## Presenters
 

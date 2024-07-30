@@ -21,6 +21,21 @@ This groundbreaking session on accessibility in the SciELO community is also a f
 |---|---|
 | El 11 de Septiembre / 11 de Setembro | 17:00 CEST/12:00 BRT|
 
+
+## Watch Welcome Video
+<div class="mkd-ordered-list-third" markdown="1">
+
+1. [![Thumbnail image of scielo group](/assets/video/scielo.png)](https://youtu.be/wjzYB1DTbe0?si=9MRmZ6vWvI5j-LNS){target="_blank"}
+    **[SciELO y accessibilidad / e acessibilidade](https://youtu.be/wjzYB1DTbe0?si=9MRmZ6vWvI5j-LNS){target="_blank"}**
+</div>
+
+## Submit Questions for Q&A
+El contenido le resulta fascinante y tiene muchas ganas de participar? Informe a los presentadores sus preguntas enviándolas antes de la sesión en vivo en septiembre.
+
+Acha o conteúdo fascinante e está ansioso para participar? Deixe suas perguntas aos apresentadores enviando-as antes da sessão ao vivo em setembro.
+
+[Enviar Perguntas](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq){class="button-reg"}
+
 ## Presenters
 
 ### Dr. Mar Gonzalez-Franco
