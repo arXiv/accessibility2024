@@ -2,33 +2,35 @@
 
 # SciELO e Acessibilidade
 
-![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
+<nav class="tabs" aria-description="Choose which language to view this content in">
+  <a href="forum-session-SciELO">Español</a>
+  <a href="forum-session-SciELO-pt" class="active">Português</a>
+  <a href="forum-session-SciELO-en">English</a>
+</nav>
 
-[Español](forum-session-SciELO-es.md){.button-reg}
-[English](forum-session-SciELO.md){.button-reg}
-
-Você está calorosamente convidado para esta sessão sobre publicação de artigos acessíveis na comunidade SciELO.
-
-Esta sessão inovadora sobre acessibilidade na comunidade SciELO irá se aprofundar no avanço  e  próximos passos para tornar a produção científica mais acessível.  O SciELO é uma parte crítica da infraestrutura de publicação de acesso aberto que atende a América do Sul, Espanha, Portugal e outros países. Junte-se ao SciELO e aos editores de revistas de Física e Engenharia para saber mais sobre os desafios e oportunidades na publicação de pesquisas acessíveis.
-
-Esta sessão também é a primeira do arXiv: nosso primeiro evento em idioma diferente do inglês. A sessão será realizada em espanhol e português com tradução simultânea entre os dois idiomas (não inglês).
-
-## Data e Hora
-| Data | Hora |
-|---|---|
-| 11 de Setembro | 5:00 pm CEST / 12:00 pm BRT |
-
-## Ver Video de Boas-vindas
-<div class="mkd-ordered-list-third" markdown="1">
-
-1. [![Thumbnail image of scielo group](/assets/video/scielo.png)](https://youtu.be/wjzYB1DTbe0?si=9MRmZ6vWvI5j-LNS){target="_blank"}
-    **[SciELO e acessibilidade](https://youtu.be/wjzYB1DTbe0?si=9MRmZ6vWvI5j-LNS){target="_blank"}**
+<div class="lead">
+  <div class="content">
+  <p>Você está calorosamente convidado para esta sessão sobre publicação de artigos acessíveis na comunidade SciELO. Esta sessão inovadora sobre acessibilidade na comunidade SciELO irá se aprofundar no avanço  e  próximos passos para tornar a produção científica mais acessível.  O SciELO é uma parte crítica da infraestrutura de publicação de acesso aberto que atende a América do Sul, Espanha, Portugal e outros países.</p>
+  </div>
+  <div class="videos">
+    <h2>Ver Video de Boas-vindas</h2>
+    <iframe src="https://www.youtube.com/embed/wjzYB1DTbe0?si=RUrkHpTHORp9sF_6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
 </div>
 
-## Enviar Perguntas para Q&A
-Acha o conteúdo fascinante e está ansioso para participar? Deixe suas perguntas aos apresentadores enviando-as antes da sessão ao vivo em setembro.
+Junte-se ao SciELO e aos editores de revistas de Física e Engenharia para saber mais sobre os desafios e oportunidades na publicação de pesquisas acessíveis. Esta sessão também é a primeira do arXiv: nosso primeiro evento em idioma diferente do inglês. A sessão será realizada em espanhol e português com tradução simultânea entre os dois idiomas (não inglês).
 
-[Enviar Perguntas](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq){class="button-reg"}
+## Data e Hora
+| Data | Hora | Link da web |
+|---|---|---|
+| 11 de Setembro | 5:00 pm CEST / 12:00 pm BRT | [Inscreva-se](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y)
+
+## Participar
+
+- [Inscribirse](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} para el evento.
+- Acha o conteúdo fascinante e está ansioso para participar? [Enviar Perguntas para Q&A](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq). Deixe suas perguntas aos apresentadores enviando-as antes da sessão ao vivo em setembro.
+- Espalhar a notícia a este evento. Encontre pôsteres e links [
+aqui](/share).
 
 ## Apresentadores
 

@@ -730,3 +730,29 @@ ol.color-blocks li img {
     float: right;
   }
 }
+
+/*button tabs for multi-language choices*/
+.tabs {
+  border-bottom: 2px solid black;
+  padding:0;
+  display:block;
+}
+.tabs a {
+  display:inline-block;
+  float:left;
+  border: 1px solid black;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding: .3em .75em;
+  background-color: #f8fae9;
+  margin-right: .25em;
+}
+.tabs a.active {
+  padding: .5em 1em .35em 1em;
+  margin-top: 0;
+  border-width: 2px;
+  border-bottom:0;
+  margin-bottom:-2px;
+  background-color: white;
+}
+.tabs:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
