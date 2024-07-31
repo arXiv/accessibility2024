@@ -11,12 +11,12 @@
   <p>This groundbreaking session on accessibility in the SciELO community is also a first for arXiv: our first non-English event. It will be held only in Spanish and Portuguese with simultaneous translation between those two languages (not English). This session will dig into progress and next steps towards making scientific outputs more accessible in the SciELO community. SciELO is critical open-access publishing infrastructure that serves South America, Spain, Portugal, and more.</p>
   </div>
   <div class="videos">
-    <h2>Ver Video de Boas-vindas</h2>
+    <h2>Welcome video</h2>
     <iframe src="https://www.youtube.com/embed/wjzYB1DTbe0?si=RUrkHpTHORp9sF_6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 </div>
 
-If you do not speak Portuguese or Spanish you can still help by [spreading the word](share) to your colleagues and let them know this event is taking place!
+If you do not speak Portuguese or Spanish you can still help by [spreading the word](share) to your colleagues and letting them know this event is taking place!
 
 | Session Date | Time | Link |
 |---|---|---|
