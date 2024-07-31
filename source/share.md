@@ -14,7 +14,7 @@ https://accessibility2024.arxiv.org
 ```
 
 ## Attendee and Presenter "badges"
-Images to use in social media posts as an attendee or as a presenter. Attendee Badge 1 and Presenter Badge 1 are prompts for a post to follow. Attendee Badge 1 says "Accessible research is important to me because..." while Presenter Badge 1 says "I'm presenting at the Accessibility Forum because..."
+Images to use in social media posts as an attendee or as a presenter. Attendee Badge 1 and Presenter Badge 1 are prompts for your own message. Attendee Badge 1 says "Accessible research is important to me because..." while Presenter Badge 1 says "I'm presenting at the Accessibility Forum because..."
 
 <div class="logo-background">
   <ul style="justify-content: flex-start;">
