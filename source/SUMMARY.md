@@ -7,7 +7,7 @@
     - [Sonification](forum-session-Sonification)
     - [SciELO (Español/Português)](forum-session-SciELO)
     - [HTML Papers on arXiv](forum-session-HTML)
-    - [Keynote: Disability Models](forum-session-Disability-Models)
+    - [Keynote: Universal Designs](forum-session-Universal-Designs)
 - [Presenters](presenters)
 - [Accessibility accommodations](accessibility)
 - [Volunteer](volunteer)
