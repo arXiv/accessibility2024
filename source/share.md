@@ -1,6 +1,6 @@
 # Sharing the Forum with others
 
-Help spread the word! The Accessibility Forum is free and open to all. Below are links and posters available to use on social media or other channels. We appreciate your sharing the forum with your networks and raising awareness around the need for greater accessibility in research.
+Help spread the word! We are all part of an important discussion around ensuring access regardless of disability, and the arXiv forum is free and open to all. Below are links and posters available to use on social media or other channels. We appreciate your sharing the forum with your networks and raising awareness around the need for greater accessibility in research.
 [hi](hello)
 
 ## Forum sign up link
