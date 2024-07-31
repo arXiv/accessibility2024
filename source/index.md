@@ -1,11 +1,18 @@
 ![Logo for the arXiv forum](../assets/forum-logotype-only.svg){.forum-logotype alt='logo for the arXiv forum' role="presentation"}
 
 # Sign up for the arXiv Accessibility Forum 2024!
-## Converging on accessible science together
 
-You are warmly invited to our second accessibility forum, a free conference for the scientific community focused on making research more accessible. Accessibility means *access regardless of disability*, and only when research is fully accessible can we truly call it open science.
+<div class="lead">
+  <div class="content">
+    <p>You are warmly invited to arXiv's second accessibility forum, a free conference for entire the scientific community focused on making research more accessible. Accessibility means *access regardless of disability*, and only when research is fully accessible can we truly call it open science.</p>
+    <p>The Forum is <strong>fully remote, free, and open to all.</strong> Learn, share, and engage with a diversity researchers and experts from many fields whose work is all converging on accessible science</p>
+  </div>
+  <div class="videos">
+    <h2>The 2024 Accessibility Forum playlist is growing!</h2>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=f32YwVHsF_Y5gGsj&amp;list=PLYgeAMJvRZ6ZRuNQGoekx0FdjXqEG0bzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
 
-The Forum is **fully remote, free, and open to all.** Learn, share, and be inspired for change. Seven individual sessions will take place on multiple days between September 3<sup>rd</sup> and 13<sup>th</sup> in 2024, featuring diverse panelists from many scientific fields.
 <div style="clear:both;"></div>
 
 <div class="highlight">
@@ -20,6 +27,9 @@ The Forum is **fully remote, free, and open to all.** Learn, share, and be inspi
 
 <div class="calendar" markdown="1">
 ## September Calendar
+
+Seven individual sessions will take place on multiple days between September 3<sup>rd</sup> and 13<sup>th</sup> in 2024, featuring diverse panelists from many scientific fields.
+
 | Mon | Tues | Wed | Thurs | Fri |
 | --- | --- | --- | --- | --- |
 | 2.  |  3.<br>[Ask Me Anything](forum-session-AMA) | 4. <br>[AI and Accessibility](forum-session-AI) | 5. | 6.<br>[Deaf Hub at RIT](forum-session-Deaf-Hub)  |
@@ -66,7 +76,7 @@ We are so pleased to be collaborating this year with presenters from these unive
 [Meet the presenters](/presenters){class="button-reg"}
 
 ## Help spread the word
-You can help get the word out about this free event by sharing it with your colleagues and other academic networks. Logos, links, and session posters are available on [the share page](/share) if you want to add a little color to a social media post.
+You can help get the word out about this free event by sharing it with your colleagues and other academic networks. Logos, links, and session posters are available on [the share page](/share) to add a little color to your posts.
 
 ## Event policy
 - All participants must follow arXiv's [code of conduct](https://info.arxiv.org/help/policies/code_of_conduct.html#inclusiveness-and-respect){target="_blank"}.
