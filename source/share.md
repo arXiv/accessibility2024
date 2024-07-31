@@ -13,6 +13,19 @@ https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y
 https://accessibility2024.arxiv.org
 ```
 
+## Attendee and Presenter "badges"
+Images to use in social media posts as an attendee or as a presenter. Attendee Badge 1 and Presenter Badge 1 are prompts for a post to follow. Attendee Badge 1 says "Accessible research is important to me because..." while Presenter Badge 1 says "I'm presenting at the Accessibility Forum because..."
+
+<div class="logo-background">
+  <ul style="justify-content: flex-start;">
+    <li><a target="_blank" href="../assets/share/attendee-badge-1.jpg"><img src="../assets/share/attendee-badge-1.jpg" alt="An image for social media with a dark background and the text Accessible Research is important to me because...">Attendee Badge #1</a></li>
+    <li><a target="_blank" href="../assets/share/attendee-badge-2.jpg"><img src="../assets/share/attendee-badge-2.jpg" alt="An image for social media with a bright lime green background and the text Im attending as well as the logo for the arXiv Accessibility Forum">Attendee Badge #2</a></li>
+    <li><a target="_blank" href="../assets/share/presenter-badge-1.jpg"><img src="../assets/share/presenter-badge-1.jpg" alt="An image for social media with a dark background and the text I'm presenting at the Accessibility Forum because...">Presenter Badge #1</a></li>
+    <li><a target="_blank" href="../assets/share/presenter-badge-2.jpg"><img src="../assets/share/presenter-badge-2.jpg" alt="An image for social media with a bright lime green background and the text Im attending as well as the logo for the arXiv Accessibility Forum">Presenter Badge #2</a></li>
+  </ul>
+</div>
+
+
 ## Logos
 | Asset name | Thumbnail | Download link |
 |---|:---:|---|
