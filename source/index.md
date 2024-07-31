@@ -33,7 +33,7 @@ Seven individual sessions will take place on multiple days between September 3<s
 | Mon | Tues | Wed | Thurs | Fri |
 | --- | --- | --- | --- | --- |
 | 2.  |  3.<br>[Ask Me Anything](forum-session-AMA) | 4. <br>[AI and Accessibility](forum-session-AI) | 5. | 6.<br>[Deaf Hub at RIT](forum-session-Deaf-Hub)  |
-| 9.  | 10.<br> [Sonification: multi-modal science](forum-session-Sonification) | 11.<br>[SciELO y accessibilidad / e acessibilidade](forum-session-SciELO)  | 12. <br>[HTML papers on arXiv](forum-session-HTML)  |  13.<br>Keynote: [Disability Models and the Human Factor](forum-session-Disability-Models) |
+| 9.  | 10.<br> [Sonification: multi-modal science](forum-session-Sonification) | 11.<br>[SciELO y accessibilidad / e acessibilidade](forum-session-SciELO)  | 12. <br>[HTML papers on arXiv](forum-session-HTML)  |  13.<br>Keynote: [Universal Designs](forum-session-Universal-Designs) |
 </div>
 
 [View the schedule](/schedule){class="button-reg"}
