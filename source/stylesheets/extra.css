@@ -485,7 +485,7 @@ h1 {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
-  gap: 1em;
+  gap: 0.5em;
 }
 .mkd-ordered-list-third ol li {
   width: 100%;

@@ -1,26 +1,28 @@
 # Deaf Hub at RIT: A Resource For All Of Us
 
-![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
+<div class="lead">
+  <div class="content">
+    <p>Have you ever wondered how deaf or hard of hearing researchers navigate academia? Have you wondered how you can help make academic spaces (including your own presentations) accessible to all? Join Deaf Hub colleagues and friends to learn more about the deaf and deaf-blind experience and how this incredible treasure trove of resources has helped students and professors... and can help you too.</p>
+  </div>
+  <div class="videos">
+    <h2>Welcome video from the Deaf Hub team!</h2>
+    <iframe src="https://www.youtube.com/embed/rjFvfz34G1g?si=BYo3UGwyV39OZ-XL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
 
-Have you ever wondered how deaf or hard of hearing researchers navigate academia? Have you wondered how you can help make academic spaces (including your own presentations) accessible to all? Join Deaf Hub colleagues and friends to learn more about the deaf and deaf-blind experience and how this incredible treasure trove of resources has helped students and professors... and can help you too. Deaf Hub is based at Rochester Institute of Technology's National Technical Institute for the Deaf and is a resource open to the entire scientific community.
+Deaf Hub is based at Rochester Institute of Technology's National Technical Institute for the Deaf and is a resource open to the entire scientific community.
 
 This session is for all academics who want to give or get support navigating academic settings.
 
-| Date | Time |
-|---|---|
-| Friday, September 6, 2024 | 12:00 pm ET |
+| Date | Time | Link |
+|---|---|---|
+| Friday, September 6, 2024 | 12:00 pm ET | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
 
-## Watch Welcome Video
-<div class="mkd-ordered-list-third" markdown="1">
+## Participate
 
-1. [![Thumbnail image of deaf hub group](/assets/video/deafhub.png)](https://youtu.be/rjFvfz34G1g?si=EpjK774Eo9au4lvF){target="_blank"}
-    **[Deaf Hub: a resource for all of us](https://youtu.be/rjFvfz34G1g?si=EpjK774Eo9au4lvF){target="_blank"}**
-</div>
-
-## Submit Questions for Q&A
-Finding the content fascinating and eager to participate? Let the presenters know your questions by submitting them ahead of the live session in September.
-
-[Submit Questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq){class="button-reg"}
+- [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} for the accessibility forum
+- Enjoyed the teaser video and have more questions? [Submit your questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq) ahead of time. The presenters are eager to hear from you in advance so they can answer as many of them as possible during the session.
+- Help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
 
 ## Presenters
 

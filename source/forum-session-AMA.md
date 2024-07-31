@@ -1,27 +1,25 @@
 #Ask Me Anything: A Lively Q&A on Navigating Academic Ecosystems With a Disability
 
-![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
+<div class="lead">
+  <div class="content">
+    <p>One of the biggest accessibility barriers is social: the discomfort that gets in the way of connection, friendship, and truly understanding the needs of those around us. We are often not sure what we can or should ask. Three brilliant researchers with diverse disabilities and at different academic career stages are here to cut through the fog and answer your questions.</p>
 
-One of the biggest accessibility barriers is social: the discomfort that gets in the way of connection, friendship, and truly understanding the needs of those around us. We are often not sure what we can or should ask. Three brilliant researchers with diverse disabilities and at different academic career stages are here to cut through the fog and answer your questions.
-
-There are no silly questions. Come engage and learn!
-
-| Date | Time |
-|---|---|
-| Tuesday, September 3, 2024 | 4:00 pm ET |
-
-
-## Watch Welcome Video
-<div class="mkd-ordered-list-third" markdown="1">
-
-1. [![Thumbnail image of AMA group](/assets/video/ama.png)](https://youtu.be/ceh6l0dhvqo?si=WATxBtFiKy1BiYQE){target="_blank"}
-    **[Ask Me Anything: A Lively Q&A on Navigating Academic Ecosystems With a Disability](https://youtu.be/ceh6l0dhvqo?si=WATxBtFiKy1BiYQE){target="_blank"}**
+    <p>There are no silly questions. Come engage and learn!</p>
+  </div>
+  <div class="videos">
+    <H2>Welcome message from Anne, Venkatesh, and Jonathan</h2>
+    <iframe src="https://www.youtube.com/embed/ceh6l0dhvqo?si=7kVS6EwPGb7JBldc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
 </div>
 
-## Submit Questions for Q&A
-Finding the content fascinating and eager to participate? Let the presenters know your questions by submitting them ahead of the live session in September.
+| Date | Time | Link |
+|---|---|---|
+| Tuesday, September 3, 2024 | 4:00 pm ET | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
 
-[Submit Questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq){class="button-reg"}
+## Participate
+- [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} for the accessibility forum
+- Enjoyed the teaser video and have more questions? [Submit your questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq) ahead of time. The presenters are eager to hear from you in advance so they can answer as many of them as possible during the session.
+- Help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
 
 ## Presenters
 
@@ -59,4 +57,4 @@ Venkatesh examines accessibility barriers experienced by blind or visually impai
 
 
 ## Discussion board
-Use this discussion board to continue the conversation, ask questions, and share more resources around the social model of disability. See these [instructions](discussion-board.md) for setting up a free GitHub account.
+Use this discussion board to continue the conversation, ask even more questions, and share more resources. See these [instructions](discussion-board.md) for setting up a free GitHub account.
