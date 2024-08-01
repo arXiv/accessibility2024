@@ -59,6 +59,7 @@ We are so pleased to be collaborating this year with presenters from these unive
    <li><img src="../assets/logo/atass.png" alt="Logo for atass sports">Atass Sports</li>
    <li><img src="../assets/logo/glas.png" alt="Logo for Geneva Lake Astrophysics and STEAM Education">Geneva Lake Astrophysics and STEAM (GLAS) Education</li>
    <li><img src="../assets/logo/google.png" alt="Logo for google">Google</li>
+   <li><img src="../assets/logo/icrea.png" alt="Logo for ICREA">ICREA</li>
    <li><img src="../assets/logo/ieee.png" alt="Logo for i triple e">IEEE</li>
    <!-- <li><img src="../assets/logo/jcap.png" alt="Logo for Journal of Cosmology and Astroparticle Physics">Journal of Cosmology and Astroparticle Physics</li> -->
    <li><img src="../assets/logo/latexml.png" alt="Logo for la-tech M L">LaTeXML</li>
@@ -76,10 +77,10 @@ We are so pleased to be collaborating this year with presenters from these unive
 [Meet the presenters](/presenters){class="button-reg"}
 
 ## Help spread the word
-You can help get the word out about this free event by sharing it with your colleagues and other academic networks. Logos, links, and session posters are available on [the share page](/share) to add a little color to your posts.
+[Help spread the word](share) about this event! We are all part of the effort to ensure access regardless of disability and the arXiv Forum is free and open to everyone.
 
 ## Event policy
-- All participants must follow arXiv's [code of conduct](https://info.arxiv.org/help/policies/code_of_conduct.html#inclusiveness-and-respect){target="_blank"}.
+All participants must follow arXiv's [code of conduct](https://info.arxiv.org/help/policies/code_of_conduct.html#inclusiveness-and-respect){target="_blank"}.
 
 
 ![No Giscus](){#no-giscus}
