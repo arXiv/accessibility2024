@@ -82,4 +82,4 @@ A pesquisa de Licia concentra-se principalmente em estrutura em grande escala, a
 [Veja todos os apresentadores do Fórum](presenters){class="button-reg"}
 
 ## Fórum de discussão
-Use este fórum de discussão para continuar a conversa, fazer perguntas e compartilhar mais recursos sobre o modelo social da deficiência. Consulte estas [instruções](discussion-board.md) para configurar uma conta GitHub gratuita.
+Use este fórum de discussão para continuar a conversa, fazer perguntas e compartilhar mais recursos. Consulte estas [instruções](discussion-board.md) para configurar uma conta GitHub gratuita.

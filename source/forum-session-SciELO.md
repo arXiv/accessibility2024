@@ -83,6 +83,4 @@ La investigación de Licia se centra principalmente en la estructura a gran esca
 
 
 ## Panel de discusión
-Utilice este foro de discusión para continuar la conversación, hacer preguntas y compartir más recursos sobre el modelo social de discapacidad. Consulte [estas instrucciones](discussion-board.md) para configurar una cuenta de GitHub gratuita.
-
-</details>
+Utilice este foro de discusión para continuar la conversación, hacer preguntas y compartir más recursos. Consulte [estas instrucciones](discussion-board.md) para configurar una cuenta de GitHub gratuita.

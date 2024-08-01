@@ -313,6 +313,10 @@ h1 {
 .logo-background h2 {
   margin-top:0 !important;
 }
+.logo-background.plain img {
+  border-width: 0px;
+  border-radius: 0;
+}
 @media all and (max-width: 719px) { /* mobile */
   .logo-background {
     margin:0 !important;
