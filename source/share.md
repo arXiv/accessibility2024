@@ -50,7 +50,7 @@ Click on a poster thumbnail to open full size in a new tab. They are sized for u
     <li><a target="_blank" href="../assets/share/forum-poster-sonification.jpg"><img src="../assets/share/forum-poster-sonification.jpg" alt="Sonification session">Sonification</a></li>
     <li><a target="_blank" href="../assets/share/forum-poster-SciELO.jpg"><img src="../assets/share/forum-poster-SciELO.jpg" alt="SciELO session">SciELO</a></li>
     <li><a target="_blank" href="../assets/share/forum-poster-html.jpg"><img src="../assets/share/forum-poster-html.jpg" alt="HTML papers on arXiv">HTML papers on arXiv</a></li>
-    <li><a target="_blank" href="../assets/share/forum-poster-disability-model.jpg"><img src="../assets/share/forum-poster-disability-model.jpg" alt="Disability model session">Disability Models</a></li>
+    <li><a target="_blank" href="../assets/share/forum-poster-disability-model.jpg"><img src="../assets/share/forum-poster-universal-designs.jpg" alt="Session on universal designs for research accessibility">Universal Designs</a></li>
   </ul>
 </div>
 ***
