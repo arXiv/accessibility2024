@@ -1,6 +1,6 @@
 # Sharing the Forum with others
 
-Help spread the word! We are all part of this important discussion on ensuring access regardless of disability. The arXiv forum is free and open to all and a good venue for spreading the message.
+Help spread the word! We are all part of the effort to ensure access regardless of disability. Bring your voice, your questions, and your curiosity to the arXiv Accessibility forum and encourage others to come, too. It is free and open to all.
 
 Below are links and posters available to use on social media or other channels. We appreciate your sharing the forum with your networks and helping to raising awareness around the need for greater accessibility in research.
 
