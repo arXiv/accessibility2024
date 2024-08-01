@@ -84,4 +84,4 @@ Want to learn more about system design? Check out these two resources shared by 
 
 
 ## Discussion board
-Use this discussion board to continue the conversation, ask questions, and share more resources around the social model of disability. See these [instructions](discussion-board.md) for setting up a free GitHub account.
+Use this discussion board to continue the conversation, ask questions, and share more resources around the use of AI in accessibility. See these [instructions](discussion-board.md) for setting up a free GitHub account.
