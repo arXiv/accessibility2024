@@ -59,15 +59,15 @@ We are pleased to be collaborating this year with presenters from these universi
    <li><img src="../assets/logo/atass.png" alt="Logo for atass sports">Atass Sports</li>
    <li><img src="../assets/logo/glas.png" alt="Logo for Geneva Lake Astrophysics and STEAM Education">Geneva Lake Astrophysics and STEAM Education</li>
    <li><img src="../assets/logo/google.png" alt="Logo for google">Google</li>
-   <li><img src="../assets/logo/icrea.png" alt="Logo for ICREA">ICREA</li>
-   <li><img src="../assets/logo/ieee.png" alt="Logo for i triple e">IEEE</li>
+   <li><img src="../assets/logo/icrea.png" alt="Logo for ICREA">Catalan Institution for Research and Advanced Studies</li>
+   <li><img src="../assets/logo/ieee.png" alt="Logo for i triple e">Institute of Electrical and Electronics Engineers</li>
    <li><img src="../assets/logo/jcap.png" alt="Logo for Journal of Cosmology and Astroparticle Physics">Journal of Cosmology and Astroparticle Physics</li>
    <li><img src="../assets/logo/latexml.png" alt="Logo for la-tech M L">LaTeXML</li>
    <li><img src="../assets/logo/meta.png" alt="Logo for meta">Meta</li>
    <li><img src="../assets/logo/mozilla.png" alt="Logo for mozilla">Mozilla</li>
    <li><img src="../assets/logo/nvaccess.png" alt="Logo for nvaccess">NV Access</li>
    <li><img src="../assets/logo/saudi-aramco.png" alt="Logo for saudi aramco">Saudi Aramco</li>
-   <li><img src="../assets/logo/scielo.png" alt="Logo for scielo">SciELO</li>
+   <li><img src="../assets/logo/scielo.png" alt="Logo for scielo">Scientific Electronic Library Online</li>
    <li><img src="../assets/logo/sonokids.png" alt="Logo for sonokids">Sonokids</li>
    <li><img src="../assets/logo/stsi.png" alt="Logo for the space telescope science institute">Space Telescope Science Institute</li>
    <li><img src="../assets/logo/woods-hole.png" alt="Logo for the woods hold oceanographic institute">Woods Hole Oceanographic Institute</li>
