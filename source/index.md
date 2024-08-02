@@ -39,7 +39,7 @@ Seven individual sessions will take place on multiple days between September 3<s
 [View the schedule](/schedule){class="button-reg"}
 
 ## Presenter affiliations
-We are so pleased to be collaborating this year with presenters from these universities and other organizations, bringing diverse perspectives that all converge on more accessible science.
+We are pleased to be collaborating this year with presenters from these universities and other organizations, bringing diverse perspectives that all converge on more accessible science.
 
 <div class="logo-background">
   <ul>
