@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Organization//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+
+BEGIN:VEVENT
+UID:1@example.com
+DTSTAMP:20240805T000000Z
+DTSTART:20240903T200000Z
+DTEND:20240903T210000Z
+SUMMARY:Ask me anything: a lively Q&A on navigating academic ecosystems with a disability
+LOCATION:https://cornell.zoom.us/j/98545128980?pwd=nTqDO00SOxW6ThtbYPFRSbbA57aWYM.1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240804T000000Z-1234567890@yourdomain.com
+DTSTAMP:20240804T000000Z
+DTSTART:20240904T160000Z
+DTEND:20240904T170000Z
+SUMMARY:AI and accessibility: A demonstration of two research-based tools
+LOCATION:https://cornell.zoom.us/j/93724730382?pwd=qealqZFZRu1qdVzEFFYbUl94fPiamw.1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3@example.com
+DTSTAMP:20240805T000000Z
+DTSTART:20240906T160000Z
+DTEND:20240906T170000Z
+SUMMARY:Deaf Hub at RIT: A resource for all of us
+LOCATION:https://cornell.zoom.us/j/98545128980?pwd=nTqDO00SOxW6ThtbYPFRSbbA57aWYM.1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4@example.com
+DTSTAMP:20240805T000000Z
+DTSTART:20240910T190000Z
+DTEND:20240910T200000Z
+SUMMARY:Sonification: Why multi-modal science is the future
+LOCATION:https://cornell.zoom.us/j/95303704836?pwd=bnIanuPLl7mJvdHGIq5VDsdiEhhuYT.1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5@example.com
+DTSTAMP:20240805T000000Z
+DTSTART:20240911T150000Z
+DTEND:20240911T160000Z
+SUMMARY:SciELO y accessibilidad / e acessibilidade (en Español y Portugués / em espanhol e português)
+LOCATION:https://cornell.zoom.us/j/95978099995?pwd=TLFRHtobdTSpwJLDInZ8GNgVEFWUPB.1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6@example.com
+DTSTAMP:20240805T000000Z
+DTSTART:20240913T000000Z
+DTEND:20240913T010000Z
+SUMMARY:HTML papers on arXiv: A peek under the hood with LaTeXML and NVDA
+LOCATION:https://cornell.zoom.us/j/92772646280?pwd=nN9qJXOPnDZ9kdFUsVYDciuL5M4oXA.1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7@example.com
+DTSTAMP:20240805T000000Z
+DTSTART:20240913T160000Z
+DTEND:20240913T170000Z
+SUMMARY:Keynote: Universal Designs for Research
+DESCRIPTION:There is no one right way to approach accessibility, but understanding different approaches can help us be much more accessible. After these three brilliant thought leaders, authors, and powerful advocates share their vision of accessibility you wont experience the world in quite the same way again. We are so excited about this transformative talk and hope you can join us.
+LOCATION:https://cornell.zoom.us/j/94263795591?pwd=2cni3kKjJiYHykTfAooNCIyYxTPB2p.1
+END:VEVENT
+
+END:VCALENDAR
