@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Organization//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+
+BEGIN:VEVENT
+UID:1@example.com
+DTSTAMP:20240805T000000Z
+DTSTART:20240903T200000Z
+DTEND:20240903T210000Z
+SUMMARY:arXiv Forum: Ask me anything
+DESCRIPTION:One of the biggest accessibility barriers is social: the discomfort that gets in the way of connection, friendship, and truly understanding the needs of those around us. We are often not sure what we can or should ask. Three brilliant researchers with diverse disabilities and at different academic career stages are here to cut through the fog and answer your questions. There are no silly questions. Come engage and learn!
+LOCATION:https://cornell.zoom.us/j/98545128980?pwd=nTqDO00SOxW6ThtbYPFRSbbA57aWYM.1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2@example.com
+DTSTAMP:20240804T000000Z
+DTSTART:20240904T160000Z
+DTEND:20240904T170000Z
+SUMMARY:arXiv Forum: AI and accessibility
+DESCRIPTION:Has the bleeding edge finally caught up with user needs? This session features demonstrations from two research teams discussing their AI-driven tools for accessibility. The discussions are led by a vision-impaired scientist who uses AI tools daily to improve accessibility in her work. This session is for everyone seeking practical insights into AI's role in accessibility and offers the opportunity to learn more about and get involved with two emerging AI tools.
+LOCATION:https://cornell.zoom.us/j/93724730382?pwd=qealqZFZRu1qdVzEFFYbUl94fPiamw.1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3@example.com
+DTSTAMP:20240805T000000Z
+DTSTART:20240906T160000Z
+DTEND:20240906T170000Z
+SUMMARY:arXiv Forum: Deaf Hub at RIT
+DESCRIPTION: Have you ever wondered how deaf or hard of hearing researchers navigate academia? Have you wondered how you can help make academic spaces (including your own presentations) accessible to all? Join Deaf Hub colleagues and friends to learn more about the deaf and deaf-blind experience and how this incredible treasure trove of resources has helped students and professors... and can help you too.
+LOCATION:https://cornell.zoom.us/j/98545128980?pwd=nTqDO00SOxW6ThtbYPFRSbbA57aWYM.1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4@example.com
+DTSTAMP:20240805T000000Z
+DTSTART:20240910T190000Z
+DTEND:20240910T200000Z
+SUMMARY:arXiv Forum: Sonification
+DESCRIPTION:Join some of the world's leading experts on sonification to go beyond the visual and learn how all our senses can be engaged in exploring and understanding data. This session will demonstrate and discuss how sonification is used across multiple fields including astronomy, statistics, biology and education. Hear from the researchers behind prominent sonification tools how (and why) they use it in their daily work, and why multi-modal scientific outputs are a win for accessibility and the future of science.
+LOCATION:https://cornell.zoom.us/j/95303704836?pwd=bnIanuPLl7mJvdHGIq5VDsdiEhhuYT.1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5@example.com
+DTSTAMP:20240805T000000Z
+DTSTART:20240911T150000Z
+DTEND:20240911T160000Z
+SUMMARY:arXiv Forum: SciELO y accessibilidad / e acessibilidade
+DESCRIPTION:Está cordialmente invitado a esta sesión sobre la publicación de artículos accesibles en la comunidad SciELO. Esta sesión innovadora sobre accesibilidad en la comunidad SciELO profundizará en el progreso y los próximos pasos para hacer que los productos científicos sean más accesibles. SciELO es una parte fundamental de la infraestructura editorial de acceso abierto que presta servicios en América del Sur, España, Portugal y más allá. 
+LOCATION:https://cornell.zoom.us/j/95978099995?pwd=TLFRHtobdTSpwJLDInZ8GNgVEFWUPB.1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6@example.com
+DTSTAMP:20240805T000000Z
+DTSTART:20240913T000000Z
+DTEND:20240913T010000Z
+SUMMARY:arXiv Forum: HTML papers on arXiv
+DESCRIPTION:Adding HTML to arXiv was possible because of organizations whose long-standing commitments to accessibility and open-source software go back decades. Join four open-source software luminaries from the NVDA screenreader, the LaTeXML converter, and arXiv to take a peek under the hood of how HTML papers on arXiv are made, what is working well, and where there is room for improvement. Learn more about this impactful and popular feature with experts from the realms of TeX, screen readers, HTML, and web standards.
+LOCATION:https://cornell.zoom.us/j/92772646280?pwd=nN9qJXOPnDZ9kdFUsVYDciuL5M4oXA.1
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7@example.com
+DTSTAMP:20240805T000000Z
+DTSTART:20240913T160000Z
+DTEND:20240913T170000Z
+SUMMARY:arXiv Forum: Keynote on Universal Designs for Research
+DESCRIPTION:There is no one right way to approach accessibility, but understanding different approaches can help us be much more accessible. After these three brilliant thought leaders, authors, and powerful advocates share their vision of accessibility you wont experience the world in quite the same way again. We are so excited about this transformative talk and hope you can join us.
+LOCATION:https://cornell.zoom.us/j/94263795591?pwd=2cni3kKjJiYHykTfAooNCIyYxTPB2p.1
+END:VEVENT
+
+END:VCALENDAR

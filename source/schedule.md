@@ -16,6 +16,10 @@ Seven individual sessions will be held on different days over the first two week
 
 Join scientists from around the world for presentations, Q&A discussions, and new research all focused on making academia more accessible. <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Sign up now</a> to stay up to date with Forum news (our emails will be infrequent, short, and to the point).
 
+
+[Add to Calendar](calendar.ics){:download="arXivforum.ics" .button-reg}
+
+
 | Session | Date | Presenters | Link |
 | --- | --- | --- | --- |
 | **Ask me anything: a lively Q&A on navigating academic ecosystems with a disability** | Tuesday, September 3, 4:00 pm ET | Dr. Jonathan Godfrey, Dr. Anne Kearney Logan, Dr. Venkatesh Potluri | <a href="forum-session-AMA">View details</a> |
