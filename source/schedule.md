@@ -17,7 +17,7 @@ Seven individual sessions will be held on different days over the first two week
 Join scientists from around the world for presentations, Q&A discussions, and new research all focused on making academia more accessible. <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Sign up now</a> to stay up to date with Forum news (our emails will be infrequent, short, and to the point).
 
 
-[Add to Calendar](arXiv-Forum.ics){:download="arXiv-Forum.ics" .button-reg}
+[Add to Calendar](arXiv-forum.ics){:download="arXiv-forum.ics" .button-reg}
 
 
 | Session | Date | Presenters | Link |
