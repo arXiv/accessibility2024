@@ -1,3 +1,9 @@
+---
+title: arXiv Accessibility Forum 2024
+description: Join us this September; the forum is free and open for all.
+og_image: /assets/share/forum-poster-AMA.jpg
+og_image_alt: The logo for the arXiv Accessibility Forum 2024
+---
 #Ask Me Anything: A Lively Q&A on Navigating Academic Ecosystems With a Disability
 
 <div class="lead">
