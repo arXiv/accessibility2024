@@ -1,3 +1,9 @@
+---
+title: SciELO and Accessibility session at the arXiv Accessibility Forum 2024
+description: "This groundbreaking session on accessibility in the SciELO community is also a first for arXiv: our first non-English event. It will be held only in Spanish and Portuguese with simultaneous translation between those two languages (not English). If you do not speak Portuguese or Spanish you can help by spreading the word to your colleagues!"
+og_image: /assets/share/forum-poster-SciELO-landscape.png
+og_image_alt: "Session: SciELO and Accessibility. September 11 5:00 pm CEST / 12:00 pm BRT"
+---
 # SciELO and Accessibility
 
 <nav class="tabs" aria-description="Choose which language to view this content in">

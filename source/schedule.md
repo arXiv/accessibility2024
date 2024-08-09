@@ -1,3 +1,9 @@
+---
+title: Schedule for the arXiv Accessibility Forum 2024
+description: "Seven individual sessions will be held on different days over the first two weeks in September addressing accessibility in research."
+og_image: /assets/share/forum-poster-general.jpg
+og_image_alt: "arXiv accessibility forum 2024: converging on accessible science together. Free, fully remote, and open to all. Starts September 13th. See all sessions and signup at accessibility2024.arxiv.org"
+---
 # Schedule
 
 The Accessibility Forum, hosted by arXiv, is **a remote event that is free and open to all.**

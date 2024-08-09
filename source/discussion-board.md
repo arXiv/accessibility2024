@@ -1,9 +1,15 @@
+---
+title: Using discussion boards during the arXiv Accessibility Forum 2024
+description: "We have set up discussion boards for each forum topic as a place to share resources, ideas, and questions. These discussion boards are less ephemeral than Zoom chat and can support a continuing conversation beyond the live events."
+og_image: /assets/share/forum-poster-general.jpg
+og_image_alt: "arXiv accessibility forum 2024: converging on accessible science together. Free, fully remote, and open to all. Starts September 13th. See all sessions and signup at accessibility2024.arxiv.org"
+---
 # Getting started with Discussion Boards
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 We have set up discussion boards for each forum topic as a place to share resources, ideas, and questions. These discussion boards are less ephemeral than Zoom chat and can support a continuing conversation beyond the live events.
 
-The forum discussion boards use GitHub Discussions and [giscus](https://github.com/giscus/giscus). This open source discussion platform has many benefits, including code transparency and being free. 
+The forum discussion boards use GitHub Discussions and [giscus](https://github.com/giscus/giscus). This open source discussion platform has many benefits, including code transparency and being free.
 
 
 To take part in forum-related discussions you will just need to be logged in to your GitHub account. If you do not have one yet, follow the instructions below to create a free account for the first time.

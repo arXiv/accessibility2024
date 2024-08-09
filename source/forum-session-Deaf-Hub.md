@@ -1,3 +1,9 @@
+---
+title: Deaf Hub session at the arXiv Accessibility Forum 2024
+description: "Join Deaf Hub colleagues and friends to learn more about the deaf and deaf-blind experience and how to give and get support navigating academic settings."
+og_image: /assets/share/forum-poster-deafhub-landscape.png
+og_image_alt: "Session: Deaf Hub at RIT. Friday September 6 at 12:00 PM Eastern."
+---
 # Deaf Hub at RIT: A Resource For All Of Us
 
 <div class="lead">

@@ -1,3 +1,9 @@
+---
+title: Sonification session at the arXiv Accessibility Forum 2024
+description: "Join some of the world's leading experts on sonification to go beyond the visual and learn how all our senses can be engaged in exploring and understanding data."
+og_image: /assets/share/forum-poster-sonification-landscape.png
+og_image_alt: "Session: Sonification. Tuesday September 10 at 3:00 PM Eastern."
+---
 #Sonification: Why Multi-Modal Science is the Future
 
 <div class="lead">

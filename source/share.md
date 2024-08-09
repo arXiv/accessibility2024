@@ -1,3 +1,9 @@
+---
+title: Sharing the arXiv Accessibility Forum 2024 with your colleagues and academic networks
+description: "Help spread the word! We are all part of the effort to ensure access regardless of disability. Bring your voice, your questions, and your curiosity to the arXiv Accessibility forum and encourage others to come, too."
+og_image: /assets/share/forum-poster-general.jpg
+og_image_alt: "arXiv accessibility forum 2024: converging on accessible science together. Free, fully remote, and open to all. Starts September 13th. See all sessions and signup at accessibility2024.arxiv.org"
+---
 # Sharing the Forum with others
 
 Help spread the word! We are all part of the effort to ensure access regardless of disability. Bring your voice, your questions, and your curiosity to the arXiv Accessibility forum and encourage others to come, too. It is free and open to all.

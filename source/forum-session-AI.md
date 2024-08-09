@@ -1,3 +1,9 @@
+---
+title: AI and Accessibility session at the arXiv Accessibility Forum 2024
+description: "This session features demonstrations from two research teams discussing their AI-driven tools for accessibility, what is new and emerging, and how you can get involved."
+og_image: /assets/share/forum-poster-AI-landscape.png
+og_image_alt: "Session: AI and Accessibility. Wednesday September 4 at 12:00 PM Eastern."
+---
 # AI and Accessibility: Emerging Tools Demonstration
 
 <div class="lead">

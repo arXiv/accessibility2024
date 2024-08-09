@@ -1,8 +1,14 @@
+---
+title: Universal Designs for Research session at the arXiv Accessibility Forum 2024
+description: "There is no one right way to approach accessibility, but understanding different approaches can help us be much more accessible. Three brilliant thought leaders, authors, and powerful advocates share their understanding of accessibility."
+og_image: /assets/share/forum-poster-universal-designs-landscape.png
+og_image_alt: "Session: Universal Designs for Research. Friday September 13 at 12:00 PM Eastern."
+---
 # Keynote: Universal Designs for Research
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
 
-There is no one right way to approach accessibility, but understanding different approaches can help us be much more accessible. After these three brilliant thought leaders, authors, and powerful advocates share their vision of accessibility you wont experience the world in quite the same way again. We are so excited about this transformative talk and hope you can join us.
+There is no one right way to approach accessibility, but understanding different approaches can help us be much more accessible. After these three brilliant thought leaders, authors, and powerful advocates share their understanding of accessibility you wont experience the world in quite the same way again. We are so excited about this transformative talk and hope you can join us.
 
 This session is for everyone who wants to contribute to environments where we can all achieve our potential.
 

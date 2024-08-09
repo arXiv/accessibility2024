@@ -1,3 +1,9 @@
+---
+title: Check out these open volunteer opportunities at the arXiv Accessibility Forum 2024
+description: "We love to work with the scientific community and have a few volunteer opportunities open for the Accessibility Forum."
+og_image: /assets/share/forum-poster-general.jpg
+og_image_alt: "arXiv accessibility forum 2024: converging on accessible science together. Free, fully remote, and open to all. Starts September 13th. See all sessions and signup at accessibility2024.arxiv.org"
+---
 # Volunteer for the Accessibility Forum
 
 ![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
