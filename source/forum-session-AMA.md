@@ -1,8 +1,8 @@
 ---
-title: arXiv Accessibility Forum 2024
-description: Join us this September; the forum is free and open for all.
-og_image: /assets/share/forum-poster-AMA.jpg
-og_image_alt: The logo for the arXiv Accessibility Forum 2024
+title: Ask Me Anything session at the arXiv Accessibility Forum 2024
+description: "One of the biggest accessibility barriers is social: the discomfort that gets in the way of connection. We are often not sure what we can or should ask. Three brilliant researchers are here to cut through the fog. There are no silly questions! Come engage and learn."
+og_image: /assets/share/forum-poster-AMA-landscape.png
+og_image_alt: "Session: Ask Me Anything. Tuesday September 3 at 4:00 PM Eastern."
 ---
 #Ask Me Anything: A Lively Q&A on Navigating Academic Ecosystems With a Disability
 

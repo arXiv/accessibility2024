@@ -1,3 +1,9 @@
+---
+title: SciELO e Acessibilidade no arXiv Accessibility Forum 2024
+description: "Junte-se ao SciELO e aos editores de revistas de Física e Engenharia para saber mais sobre os desafios e oportunidades na publicação de pesquisas acessíveis."
+og_image: /assets/share/forum-poster-SciELO-landscape.png
+og_image_alt: "Sessão: SciELO e Acessibilidade. 11 de Setembro 5:00 pm CEST / 12:00 pm BRT"
+---
 <html lang="pt">
 
 # SciELO e Acessibilidade

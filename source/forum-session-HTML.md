@@ -1,3 +1,9 @@
+---
+title: HTML Papers on arXiv session at the arXiv Accessibility Forum 2024
+description: "Join four open-source software luminaries from the NVDA screenreader, the LaTeXML converter, and arXiv to take a peek under the hood of how HTML papers on arXiv are made, what is working well, and where there is room for improvement."
+og_image: /assets/share/forum-poster-html-landscape.png
+og_image_alt: "Session: HTML Papers on arXiv. Thursday September 12 at 8:00 PM Eastern."
+---
 #HTML Papers On arXiv: A peek under the hood with LaTeXML and NVDA
 
 <div class="lead">
