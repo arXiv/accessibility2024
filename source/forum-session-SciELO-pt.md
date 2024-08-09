@@ -33,7 +33,7 @@ Junte-se ao SciELO e aos editores de revistas de Física e Engenharia para saber
 
 ## Participar
 
-- [Inscribirse](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} para el evento.
+- [Inscreva-se](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} no evento.
 - Acha o conteúdo fascinante e está ansioso para participar? [Enviar Perguntas para Q&A](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq). Deixe suas perguntas aos apresentadores enviando-as antes da sessão ao vivo em setembro.
 - Espalhar a notícia a este evento. Encontre pôsteres e links [
 aqui](/share).
