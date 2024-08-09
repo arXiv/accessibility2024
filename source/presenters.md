@@ -1,3 +1,9 @@
+---
+title: Presenters at the arXiv Accessibility Forum 2024
+description: "We are very pleased to be working with the following distinguished participants from across a wide variety of fields to bring this forum to life."
+og_image: /assets/share/forum-poster-general.jpg
+og_image_alt: "arXiv accessibility forum 2024: converging on accessible science together. Free, fully remote, and open to all. Starts September 13th. See all sessions and signup at accessibility2024.arxiv.org"
+---
 # Presenter bios
 
 We are very pleased to be working with the following distinguished participants from across a wide variety of fields to bring this forum to life.
