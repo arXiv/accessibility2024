@@ -2,7 +2,7 @@
 title: arXiv Accessibility Forum 2024
 description: Join us this September; the forum is free and open for all.
 og_image: /assets/share/forum-poster-general.jpg
-og_image_alt: The logo for the arXiv Accessibility Forum 2024
+og_image_alt: "arXiv accessibility forum 2024: converging on accessible science together. Free, fully remote, and open to all. Starts September 13th. See all sessions and signup at accessibility2024.arxiv.org"
 ---
 ![Logo for the arXiv forum](../assets/forum-logotype-only.svg){.forum-logotype alt='logo for the arXiv forum' role="presentation"}
 
