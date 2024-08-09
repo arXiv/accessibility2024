@@ -83,16 +83,6 @@ Carmody's research focuses on better understanding ecosystem and climate interac
 
 Camille teaches in the Biology and Health department on Human Health and Disease, and is an active faculty member supporting deaf and hard of hearing (DHH) researchers throughout their academic journeys. Camille empowers students by connecting them to the resources they need. [Camille's RIT profile](https://www.rit.edu/directory/ceonts-camille-ouellette){target="_blank"}
 
----
-
-### Jenna Stewardson 	
-
-![Jenna Stewardson](../assets/profile/jenna.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Jenna Stewardson smiling in a blue and white checkered shirt and a navy blazer against a dark grey background'}
-
-**Research Program Coordinator, National Technical Institute for the Deaf, Rochester Institute of Technology.**
-
-Jenna is the research coordinator extraordinaire at Deaf Hub and will be sharing their experience supporting students who are deaf/hard-of-hearing on their academic journeys. [Jenna’s RIT profile](https://www.rit.edu/directory/jasccl-jenna-stewardson){target="_blank"}
-
 
 [See all Forum presenters](presenters){class="button-reg"}
 
