@@ -276,16 +276,6 @@ Ashley specializes in disability studies and technology ethics and believes in c
 
 ---
 
-## Jenna Stewardson 	
-
-![Jenna Stewardson](../assets/profile/jenna.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Jenna Stewardson smiling in a blue and white checkered shirt and a navy blazer against a dark grey background'}
-
-**Research Program Coordinator, National Technical Institute for the Deaf, Rochester Institute of Technology.**
-
-Jenna is the research coordinator extraordinaire at Deaf Hub and will be sharing their experiences supporting students who are deaf/hard-of-hearing on their academic journeys. [Jenna’s RIT profile](https://www.rit.edu/directory/jasccl-jenna-stewardson){target="_blank"}
-
----
-
 ## Dr. Licia Verde
 ![Licia Verde](../assets/profile/licia.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Licia with dramatic lighting against a dark background'}
 
