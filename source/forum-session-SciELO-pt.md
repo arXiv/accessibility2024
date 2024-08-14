@@ -31,12 +31,29 @@ Junte-se ao SciELO e aos editores de revistas de Física e Engenharia para saber
 |---|---|---|
 | 11 de Setembro | 5:00 pm CEST / 12:00 pm BRT | [Inscreva-se](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y)
 
-## Participar
+## Prepare-se
+<ul class="forum-actions">
+  <li class="col">
+    <div class="col-num shadow" role="presentation">1</div>
+    <h3>Inscrever-se</h3>
+    <p><a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Inscrever-se</a> no evento de graça. O fórum é para todos.</p>
+    <a class="button-reg" href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Inscrever-se</a>
+  </li>
+  <li class="col">
+    <div class="col-num shadow" role="presentation">2</div>
+    <h3>Ver Videos</h3>
+    <p>Ver Video <a href="https://youtu.be/wjzYB1DTbe0?feature=shared" target="blank">de Boas-vindas</a> e outros na <a href="https://www.youtube.com/playlist?list=PLYgeAMJvRZ6ZRuNQGoekx0FdjXqEG0bzM" target="blank">Forum playlist</a>.</p>
+    <a class="button-reg" href="https://youtu.be/wjzYB1DTbe0?feature=shared" target="blank">Watch</a>
+  </li>
+  <li class="col">
+    <div class="col-num shadow" role="presentation">3</div>
+    <h3>Enviar Perguntas!</h3>
+    <p><a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq" target="_blank">Deixe suas perguntas</a> antes da sessão. Os apresentadores vão adorar você!</p>
+    <a class="button-reg" href="https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq" target="_blank">Perguntar</a>
+  </li>
+</ul>
 
-- [Inscrever-se](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} no evento.
-- Acha o conteúdo fascinante e está ansioso para participar? [Enviar Perguntas para Q&A](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq). Deixe suas perguntas aos apresentadores enviando-as antes da sessão ao vivo em setembro.
-- Espalhar a notícia a este evento. Encontre pôsteres e links [
-aqui](/share).
+Também espalhar a notícia a este evento. Encontre pôsteres e links [aqui](/share).
 
 ## Apresentadores
 

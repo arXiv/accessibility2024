@@ -36,7 +36,7 @@ This session is for all academics who want to give or get support navigating aca
     <div class="col-num shadow" role="presentation">2</div>
     <h3>Watch videos</h3>
     <p>Watch the <a href="https://youtu.be/rjFvfz34G1g?feature=shared" target="blank">welcome video</a> and others in the <a href="https://www.youtube.com/playlist?list=PLYgeAMJvRZ6ZRuNQGoekx0FdjXqEG0bzM" target="blank">Forum playlist</a>.</p>
-    <a class="button-reg" href="https://youtu.be/ceh6l0dhvqo?feature=shared" target="blank">Watch</a>
+    <a class="button-reg" href="https://youtu.be/rjFvfz34G1g?feature=shared" target="blank">Watch</a>
   </li>
   <li class="col">
     <div class="col-num shadow" role="presentation">3</div>

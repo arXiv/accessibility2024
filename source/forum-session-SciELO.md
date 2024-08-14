@@ -31,12 +31,29 @@ og_image_alt: "Sesión: SciELO y Accessibilidad. El 11 de Septiembre 5:00 pm CES
 |---|---|---|
 | El 11 de Septiembre | 5:00 pm CEST / 12:00 pm BRT | [Inscribirse](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
 
-## Participar
+## Preparse
+<ul class="forum-actions">
+  <li class="col">
+    <div class="col-num shadow" role="presentation">1</div>
+    <h3>Inscribirse</h3>
+    <p><a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Inscribirse</a> por gratis. El foro es para todos.</p>
+    <a class="button-reg" href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Inscibirse</a>
+  </li>
+  <li class="col">
+    <div class="col-num shadow" role="presentation">2</div>
+    <h3>Ver Videos</h3>
+    <p>Ver Video <a href="https://youtu.be/wjzYB1DTbe0?feature=shared" target="blank">de Bienvenida</a> y otros en el <a href="https://www.youtube.com/playlist?list=PLYgeAMJvRZ6ZRuNQGoekx0FdjXqEG0bzM" target="blank">Forum playlist</a>.</p>
+    <a class="button-reg" href="https://youtu.be/wjzYB1DTbe0?feature=shared" target="blank">Ver video</a>
+  </li>
+  <li class="col">
+    <div class="col-num shadow" role="presentation">3</div>
+    <h3>Enviar Perguntas!</h3>
+    <p>Informe a los presentadores <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq" target="_blank">sus preguntas</a> antes de la sesión. Los presentadores te amarán!</p>
+    <a class="button-reg" href="https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq" target="_blank">Preguntar</a>
+  </li>
+</ul>
 
-- [Inscribirse](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} para el evento.
-- El contenido le resulta fascinante y tiene mas preguntas? [Enviar Preguntas para Q&A](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq). Informe a los presentadores sus preguntas enviándolas antes de la sesión en vivo en septiembre.
-- Difundir el mensaje sobre este evento. Encuentra sesión pósters y enlaces [
-aquí](/share).
+Tambien puedes difundir el mensaje sobre este evento. Encuentra sesión pósters y enlaces [aquí](/share).
 
 ## Presentadores
 

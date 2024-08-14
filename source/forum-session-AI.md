@@ -38,7 +38,7 @@ Watch the demo videos posted here then [share your questions](https://cornell.ca
     <div class="col-num shadow" role="presentation">2</div>
     <h3>Watch videos</h3>
     <p>Watch the <a href="https://youtu.be/kUsk7wVVQAo?feature=shared" target="blank">first</a> and <a href="https://youtu.be/nNnXwqScxw4?feature=shared" target="_blank">second</a> demo videos.</p>
-    <a class="button-reg" href="https://youtu.be/ceh6l0dhvqo?feature=shared" target="blank">Watch</a>
+    <a class="button-reg" href="https://youtu.be/ceh6l0dhvqo?feature=shared" target="blank">Watch Playlist</a>
   </li>
   <li class="col">
     <div class="col-num shadow" role="presentation">3</div>

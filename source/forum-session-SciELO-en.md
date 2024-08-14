@@ -28,11 +28,29 @@ If you do not speak Portuguese or Spanish you can still help by [spreading the w
 |---|---|---|
 | September 11, 2024 | 5:00 pm CEST / 12:00 pm BRT | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
 
-## Participate
+## Get ready:
+<ul class="forum-actions">
+  <li class="col">
+    <div class="col-num shadow" role="presentation">1</div>
+    <h3>Sign Up</h3>
+    <p><a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Sign up</a> for free. The forum is open to everyone.</p>
+    <a class="button-reg" href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Sign up</a>
+  </li>
+  <li class="col">
+    <div class="col-num shadow" role="presentation">2</div>
+    <h3>Watch videos</h3>
+    <p>Watch the <a href="https://youtu.be/wjzYB1DTbe0?feature=shared" target="blank">welcome video</a> and others in the <a href="https://www.youtube.com/playlist?list=PLYgeAMJvRZ6ZRuNQGoekx0FdjXqEG0bzM" target="blank">Forum playlist</a>.</p>
+    <a class="button-reg" href="https://youtu.be/wjzYB1DTbe0?feature=shared" target="blank">Watch</a>
+  </li>
+  <li class="col">
+    <div class="col-num shadow" role="presentation">3</div>
+    <h3>Ask Questions!</h3>
+    <p><a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq" target="_blank">Submit your questions</a> in advance. The presenters will love you!</p>
+    <a class="button-reg" href="https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq" target="_blank">Ask</a>
+  </li>
+</ul>
 
-- [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} for the accessibility forum
-- Have questions for this session? [Submit your questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq) ahead of time. The presenters are eager to hear from you in advance so they can answer as many of them as possible during the session.
-- Help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
+Then help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
 
 ## Session resources
 - The [SciELO e-book in English](https://25.scielo.org/en/we-so-loved-open-access/){target="_blank"} sheds lights on the ways that SciELO and other individuals from underrepresented regions in the sciences pushed forward open access in global academic communication. This e-book is published as part of SciELO's 25th anniversary celebration, and it is free to download for all.
