@@ -16,6 +16,29 @@ This session is for everyone who wants to contribute to environments where we ca
 |---|---|---|
 | Friday, September 13, 2024 | 12:00 pm ET | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
 
+## Get ready:
+<ul class="forum-actions">
+  <li class="col">
+    <div class="col-num shadow" role="presentation">1</div>
+    <h3>Sign Up</h3>
+    <p><a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Sign up</a> for free. The forum is open to everyone.</p>
+    <a class="button-reg" href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Sign up</a>
+  </li>
+  <li class="col">
+    <div class="col-num shadow" role="presentation">2</div>
+    <h3>Watch videos</h3>
+    <p>Watch videos from the <a href="https://www.youtube.com/playlist?list=PLYgeAMJvRZ6ZRuNQGoekx0FdjXqEG0bzM" target="blank">Forum playlist</a>.</p>
+    <a class="button-reg" href="https://www.youtube.com/playlist?list=PLYgeAMJvRZ6ZRuNQGoekx0FdjXqEG0bzM" target="blank">Watch</a>
+  </li>
+  <li class="col">
+    <div class="col-num shadow" role="presentation">3</div>
+    <h3>Ask Questions!</h3>
+    <p><a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq" target="_blank">Submit your questions</a> in advance. The presenters will love you!</p>
+    <a class="button-reg" href="https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq" target="_blank">Ask</a>
+  </li>
+</ul>
+
+Then help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
 ## Participate
 - [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} for the accessibility forum
 - Have a burning question? [Submit your questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq) ahead of time. The presenters are eager to hear from you in advance so they can answer as many of them as possible during the session.

@@ -26,11 +26,29 @@ Watch the demo videos posted here then [share your questions](https://cornell.ca
 |---|---|---|
 | Wednesday, September 4, 2024  | 12:00 pm ET | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
 
-## Participate
+## Get ready:
+<ul class="forum-actions">
+  <li class="col">
+    <div class="col-num shadow" role="presentation">1</div>
+    <h3>Sign Up</h3>
+    <p><a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Sign up</a> for free. The forum is open to everyone.</p>
+    <a class="button-reg" href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Sign up</a>
+  </li>
+  <li class="col">
+    <div class="col-num shadow" role="presentation">2</div>
+    <h3>Watch videos</h3>
+    <p>Watch the <a href="https://youtu.be/kUsk7wVVQAo?feature=shared" target="blank">first</a> and <a href="https://youtu.be/nNnXwqScxw4?feature=shared" target="_blank">second</a> demo videos.</p>
+    <a class="button-reg" href="https://youtu.be/ceh6l0dhvqo?feature=shared" target="blank">Watch Playlist</a>
+  </li>
+  <li class="col">
+    <div class="col-num shadow" role="presentation">3</div>
+    <h3>Ask Questions!</h3>
+    <p><a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq" target="_blank">Submit your questions</a> in advance. The presenters will love you!</p>
+    <a class="button-reg" href="https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq" target="_blank">Ask</a>
+  </li>
+</ul>
 
-- [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} for the accessibility forum
-- Enjoyed the teaser video and have more questions? [Submit your questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq) ahead of time. The presenters are eager to hear from you in advance so they can answer as many of them as possible during the session.
-- Help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
+Then help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
 
 
 ## Presenters
