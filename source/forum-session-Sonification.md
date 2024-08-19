@@ -8,11 +8,11 @@ og_image_alt: "Session: Sonification. Tuesday September 10 at 3:00 PM Eastern."
 
 <div class="lead">
   <div class="content">
-    <p>Join some of the world's leading experts on sonification to go beyond the visual and learn how all our senses can be engaged in exploring and understanding data. This session will demonstrate and discuss how sonification is used across multiple fields including astronomy, statistics, biology and education. Hear from the researchers behind prominent sonification tools how (and why) they use it in their daily work, and why multi-modal scientific outputs are a win for accessibility and the future of science.</p>
+    <p>Join some of the world's leading experts on sonification to go beyond the visual and learn how all our senses can be engaged in exploring and understanding data. This session will demonstrate and discuss how sonification is used across multiple fields including astronomy, statistics, volacnology, oceanography and education. Hear from the researchers behind prominent sonification tools on how (and why) they use it in their daily work, and why multi-modal scientific outputs are a win for accessibility and the future of science.</p>
   </div>
   <div class="videos">
     <h2>Welcome video from the Sonification panelists!</h2>
-    <iframe src="https://www.youtube.com/embed/-XmHEbp0DCk?si=C7fAuEavRS50CJ_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/IK5ZSD4nm6w?si=PopYRTfFSOno1TwG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -33,8 +33,8 @@ This session is for anyone interested in more ways of exploring and understandin
   <li class="col">
     <div class="col-num shadow" role="presentation">2</div>
     <h3>Watch videos</h3>
-    <p>Watch the <a href="https://youtu.be/-XmHEbp0DCk?feature=shared" target="blank">welcome video</a> and the technical demos listed below.</p>
-    <a class="button-reg" href="https://youtu.be/-XmHEbp0DCk?feature=shared" target="blank">Watch</a>
+    <p>Watch the <a href="https://youtu.be/IK5ZSD4nm6w?si=pv_5YIItPaVMqfqt" target="blank">welcome video</a> and the technical demos listed below.</p>
+    <a class="button-reg" href="https://youtu.be/IK5ZSD4nm6w?si=pv_5YIItPaVMqfqt" target="blank">Watch</a>
   </li>
   <li class="col">
     <div class="col-num shadow" role="presentation">3</div>
