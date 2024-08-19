@@ -10,11 +10,11 @@ og_image_alt: "arXiv accessibility forum 2024: converging on accessible science 
 
 <div class="lead">
   <div class="content">
-    <p>You are warmly invited to arXiv's second accessibility forum, a free conference for entire the scientific community focused on making research more accessible. Accessibility means *access regardless of disability*, and only when research is fully accessible can we truly call it open science.</p>
-    <p>The Forum is <strong>fully remote, free, and open to all.</strong> Learn, share, and engage with a diversity researchers and experts from many fields whose work is all converging on accessible science</p>
+    <p>You are warmly invited to arXiv's second accessibility forum, a free conference for the scientific community focused on making research more accessible. Accessibility means <em>access regardless of disability</em>, and only when research is accessible can we truly call it open science.</p>
+    <p>The Forum is <strong>free, fully remote, and open to all.</strong> Learn, share, and engage with a diversity researchers and experts from many fields whose work is all converging on accessible science</p>
   </div>
   <div class="videos">
-    <h2>The 2024 Accessibility Forum playlist is growing!</h2>
+    <h2>Watch the 2024 Accessibility Forum playlist!</h2>
     <iframe src="https://www.youtube.com/embed/videoseries?si=f32YwVHsF_Y5gGsj&amp;list=PLYgeAMJvRZ6ZRuNQGoekx0FdjXqEG0bzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 </div>
@@ -22,8 +22,8 @@ og_image_alt: "arXiv accessibility forum 2024: converging on accessible science 
 <div style="clear:both;"></div>
 
 <div class="highlight">
-  <h2>Signup is open</h2>
-  <p>It is time! Forum sessions are free and open to all. By signing up you will receive advance access to webinar links and be emailed when recordings are available.</p>
+  <h2>Sign ups are growing fast!</h2>
+  <p>Due to popular demand we have increased our Forum capacity. Sign up and join thousands of your academic peers this September. Free, open to all, no limits.</p>
 
   <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-reg">Sign up for the Forum</a>
 

@@ -319,50 +319,20 @@ Allie's research focuses on pairing AI with systems thinking to drive inclusivit
 ---
 <br>
 
-# Facilitators
+# Organizers
 ## Shamsi Brinn
 ![Shamsi Brinn](../assets/profile/shamsi.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Shamsi outdoors against a leafy background'}
 
 **UX Manager, arXiv.**
 
-For the last few years Shamsi has championed the research and implementation of more accessible practices at arXiv, including the addition of HTML-formatted papers. She has also had the pleasure of organizing this forum and working with each of the wonderful participants above to bring it to life. Thank you! [Shamsi's LinkedIn profile](https://www.linkedin.com/in/shamsi-brinn/){target="_blank"}
+For the last few years Shamsi has championed accessibility research and implementation of more accessible features, closely responding to the needs of our community. She has also had the pleasure of organizing this forum and working with each of the wonderful participants above to bring it to life. Thank you! [Shamsi's LinkedIn profile](https://www.linkedin.com/in/shamsi-brinn/){target="_blank"}
 
 ## Miranda Yang
 ![Miranda Yang](../assets/profile/miranda.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Miranda smiling against a clear white background'}
 
 **UX Specialist, arXiv.**
 
-Miranda is a researcher that puts users front and center in her work and has a bias for impact. Her contribution in accessibility at arXiv has spanned across generative interviews with researchers of visual impairment, the roll-out of the HTML paper feature, and the shaping of this forum. [Miranda's LinkedIn profile](https://www.linkedin.com/in/miranda-jingqiong-yang/){target="_blank"}
+Miranda puts users front and center in her work and has a bias for impact. Her contributions to accessibility at arXiv include UX research with users and accessibility experts, assisting with the design and roll-out of HTML versions of papers, and as a key organizing force for this forum. [Miranda's LinkedIn profile](https://www.linkedin.com/in/miranda-jingqiong-yang/){target="_blank"}
 
 
 ![No Giscus](){#no-giscus}
-
-<!-- ---
-
-## Joshua Miele
-
-![Joshua Miele ](../assets/profile/josh.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Joshua Miele smiling against a greenery'}
-
-Principal Accessibility Researcher, Amazon Lab126; 2021 MacArthur Foundation Fellow.
-
-Josh specializes in accessible technology design with previous research projects on tactile graphics and auditory displays. Additionally, he is an expert in effective giving and philanthropy in the accessible science space.
-
----
-
-## Sina Bahram
-
-![Sina Bahram](../assets/profile/sina.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Sina Bahram sitting  on a sofa holding an iPad'}
-
-Founder, Prime Access Computing.
-
-Sina is a blind computer scientist, consultant, entrepreneur, and researcher. He brings expertise in inclusive design  in an operationally scalable and sustainable manner, be it a website, a mix-reality experience, or an entire museum.
-
----
-
-## Dr. Patrick Smyth
-
-![Patrick Smyth](../assets/profile/patrick.jpg){.mkd-img-left .mkd-img-profile alt='Headshot of Patrick Smyth against a clear grey background'}
-
-Chief Learner, Iota School; Staff Developer Relations Engineer, Chainguard.
-
-Patrick is a blind hacker and programmer whose work focuses on citizen technology, critical infrastructure, accessibility, and technical pedagogy. [Patrick's Homepage](https://smythp.com/index.html){target="_blank"} -->
