@@ -1,22 +1,28 @@
 ---
-title: HTML Papers on arXiv session at the arXiv Accessibility Forum 2024
-description: "Join four open-source software luminaries from the NVDA screenreader, the LaTeXML converter, and arXiv to take a peek under the hood of how HTML papers on arXiv are made, what is working well, and where there is room for improvement."
+title: A demonstration of how the NVDA screen reader approaches math formula in HTML and PDF
+description: "A demonstration page for the HTML Papers on arXiv session at the arXiv Accessibility Forum."
 og_image: /assets/share/forum-poster-html-landscape.png
 og_image_alt: "Session: HTML Papers on arXiv. Thursday September 12 at 8:00 PM Eastern."
 ---
-#HTML Papers On arXiv: A peek under the hood with LaTeXML and NVDA
+#HTML Papers On arXiv demonstration page
 
-<div class="lead">
-  <div class="content">
-    <p>arXiv added HTML as a paper format in December 2023. This impactful change was only possible because of organizations whose long-standing commitments to accessibility and open-source software go back decades. Join four open-source software luminaries from the NVDA screenreader, the LaTeXML converter, and arXiv to take a peek under the hood of how HTML papers on arXiv are made, what is working well, and where there is room for improvement.</p>
-  </div>
-  <div class="videos">
-    <H2>Welcome message from Mick, Deyan, Tony, and Norbert!</h2>
-    <iframe src="https://www.youtube.com/embed/PYBgeITZhL4?si=21tyiuFr3JeMqn4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-</div>
+The video below demonstrates a short mathematical formula being read by the NVDA screen reader. We selected one example formula from a paper on arXiv titled "KAN: Kolmogorov-Arnold Networks". Here are the [HTML version](https://arxiv.org/html/2404.19756v4) and [PDF version](https://arxiv.org/pdf/2404.19756v4) of the paper.
 
-**Join us for this double celebration of accessibility gains and open-source software!** Get ready with this [demo of accessible math](forum-session-HTML-demo.md), then join us to gain a deeper understanding of what really makes a more accessible research paper.
+We use the NVDA screen reader on the same formula across three brief scenarios:
+
+1. The formula from the HTML version of the paper
+2. The same formula from the PDF version of the paper
+3. Back at the HTML version again, demonstrating how NVDA can step through sections of the formula
+
+## Demonstration video
+<iframe style="width:100%; aspect-ratio:16/9; border:2px solid black;" src="https://www.youtube.com/embed/YC_r_Lk17_U?si=qxIkbdN54JPQCKHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+By using the NVDA screen reader to access the math we illuminate key differences in how HTML and PDF are structuring the content. For example, in the PDF version you'll notice that the very first thing that is read is the upper limit of the summation because that is the first visual element when scrolling downwards. For the same reason, the last thing that is read is the lower limit of the summation. By contrast, in the HTML version the formula is read in a logical order that follows how the author wrote it.
+
+Math in PDFs are nearly always inaccessible to screen readers and other assistive technologies. Papers in HTML go a long way towards overcoming some of the barriers posed by PDF and making the sciences more accessible to all.
+
+## More about the forum
+Join [this forum session](forum-session-HTML.md) in September; it is free and open to all.
 
 | Session Date | Time | Link |
 |---|---|---|
