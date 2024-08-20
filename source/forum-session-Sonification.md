@@ -11,8 +11,8 @@ og_image_alt: "Session: Sonification. Tuesday September 10 at 3:00 PM Eastern."
     <p>Join some of the world's leading experts on sonification to go beyond the visual and learn how all our senses can be engaged in exploring and understanding data. This session will demonstrate and discuss how sonification is used across multiple fields including astronomy, statistics, volacnology, oceanography and education. Hear from the researchers behind prominent sonification tools on how (and why) they use it in their daily work, and why multi-modal scientific outputs are a win for accessibility and the future of science.</p>
   </div>
   <div class="videos">
-    <h2>Welcome video from the Sonification panelists!</h2>
-    <iframe src="https://www.youtube.com/embed/IK5ZSD4nm6w?si=PopYRTfFSOno1TwG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div class="shadow"><h2>Welcome video from the Sonification panelists!</h2>
+    <iframe src="https://www.youtube.com/embed/IK5ZSD4nm6w?si=PopYRTfFSOno1TwG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   </div>
 </div>
 
