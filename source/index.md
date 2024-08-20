@@ -10,8 +10,8 @@ og_image_alt: "arXiv accessibility forum 2024: converging on accessible science 
 
 <div class="lead">
   <div class="content">
-    <p>You are warmly invited to arXiv's second accessibility forum, a free conference for the scientific community focused on making research more accessible. Accessibility means <em>access regardless of disability</em>, and only when research is accessible can we truly call it open science.</p>
-    <p>The Forum is <strong>free, fully remote, and open to all.</strong> Learn, share, and engage with a diversity researchers and experts from many fields whose work is all converging on accessible science</p>
+    <p>You are warmly invited to arXiv's second accessibility forum, a free conference for the scientific community focused on making research more accessible. Accessibility means <em>access regardless of disability</em>, and only then can we truly call it open science.</p>
+    <p>The Forum is <strong>free, fully remote, and open to all.</strong> Learn, share, and engage with a diversity researchers and experts from many fields whose work is all converging on more accessible science.</p>
   </div>
   <div class="videos">
     <div class="shadow"><h2>Watch the 2024 Accessibility Forum welcome videos!</h2>
@@ -22,8 +22,8 @@ og_image_alt: "arXiv accessibility forum 2024: converging on accessible science 
 <div style="clear:both;"></div>
 
 <div class="highlight">
-  <h2>The excitement is real!</h2>
-  <p>Due to popular demand we have increased our Forum capacity again! Join many thousands of your academic peers this September. Free, virtual, and open to all.</p>
+  <h2>The excitement is real</h2>
+  <p>Due to popular demand we have increased our Forum capacity again... to unlimited! <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Sign up</a> and join thousands of your academic peers. Free, virtual, and open to everyone.</p>
 
   <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-reg">Sign up for the Forum</a>
 
@@ -34,7 +34,7 @@ og_image_alt: "arXiv accessibility forum 2024: converging on accessible science 
 <div class="calendar" markdown="1">
 ## September Calendar
 
-Seven individual sessions will take place on multiple days between September 3<sup>rd</sup> and 13<sup>th</sup> in 2024, featuring diverse panelists from many scientific fields.
+Seven individual sessions will take place on multiple days between September 3<sup>rd</sup> and 13<sup>th</sup> featuring diverse panelists from many scientific fields.
 
 | Mon | Tues | Wed | Thurs | Fri |
 | --- | --- | --- | --- | --- |
