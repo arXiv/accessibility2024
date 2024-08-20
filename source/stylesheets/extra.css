@@ -824,5 +824,6 @@ ol.color-blocks li img {
   }
   .forum-actions li.col {
     width: 100%;
+    margin-bottom: 0;
   }
 }
