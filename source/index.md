@@ -14,16 +14,16 @@ og_image_alt: "arXiv accessibility forum 2024: converging on accessible science 
     <p>The Forum is <strong>free, fully remote, and open to all.</strong> Learn, share, and engage with a diversity researchers and experts from many fields whose work is all converging on accessible science</p>
   </div>
   <div class="videos">
-    <h2>Watch the 2024 Accessibility Forum playlist!</h2>
-    <iframe src="https://www.youtube.com/embed/videoseries?si=f32YwVHsF_Y5gGsj&amp;list=PLYgeAMJvRZ6ZRuNQGoekx0FdjXqEG0bzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div class="shadow"><h2>Watch the 2024 Accessibility Forum welcome videos!</h2>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=f32YwVHsF_Y5gGsj&amp;list=PLYgeAMJvRZ6ZRuNQGoekx0FdjXqEG0bzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   </div>
 </div>
 
 <div style="clear:both;"></div>
 
 <div class="highlight">
-  <h2>Sign ups are growing fast!</h2>
-  <p>Due to popular demand we have increased our Forum capacity. Sign up and join thousands of your academic peers this September. Free, open to all, no limits.</p>
+  <h2>The excitement is real!</h2>
+  <p>Due to popular demand we have increased our Forum capacity again! Join many thousands of your academic peers this September. Free, virtual, and open to all.</p>
 
   <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-reg">Sign up for the Forum</a>
 

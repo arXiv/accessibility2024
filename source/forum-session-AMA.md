@@ -13,8 +13,8 @@ og_image_alt: "Session: Ask Me Anything. Tuesday September 3 at 4:00 PM Eastern.
     <p>There are no silly questions. Come engage and learn!</p>
   </div>
   <div class="videos">
-    <H2>Welcome message from Anne, Venkatesh, and Jonathan</h2>
-    <iframe src="https://www.youtube.com/embed/ceh6l0dhvqo?si=7kVS6EwPGb7JBldc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div class="shadow"><H2>Welcome message from Anne, Venkatesh, and Jonathan</h2>
+    <iframe src="https://www.youtube.com/embed/ceh6l0dhvqo?si=7kVS6EwPGb7JBldc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   </div>
 </div>
 

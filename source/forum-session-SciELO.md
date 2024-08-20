@@ -5,7 +5,6 @@ og_image: /assets/share/forum-poster-SciELO-landscape.png
 og_image_alt: "Sesión: SciELO y Accessibilidad. El 11 de Septiembre 5:00 pm CEST / 12:00 pm BRT"
 ---
 <html lang="es">
-
 # SciELO y Accessibilidad
 
 <nav class="tabs" aria-description="Choose which language to view this content in">
@@ -19,8 +18,8 @@ og_image_alt: "Sesión: SciELO y Accessibilidad. El 11 de Septiembre 5:00 pm CES
   <p>Está cordialmente invitado a esta sesión sobre la publicación de artículos accesibles en la comunidad SciELO. Esta sesión innovadora sobre accesibilidad en la comunidad SciELO profundizará en el progreso y los próximos pasos para hacer que los productos científicos sean más accesibles.  SciELO es una parte fundamental de la infraestructura editorial de acceso abierto que presta servicios en América del Sur, España, Portugal y más allá. </p>
   </div>
   <div class="videos">
-    <h2>Ver Video de Bienvenida</h2>
-    <iframe src="https://www.youtube.com/embed/wjzYB1DTbe0?si=RUrkHpTHORp9sF_6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div class="shadow"><h2>Ver Video de Bienvenida</h2>
+    <iframe src="https://www.youtube.com/embed/wjzYB1DTbe0?si=RUrkHpTHORp9sF_6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   </div>
 </div>
 
