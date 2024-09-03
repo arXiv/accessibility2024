@@ -20,7 +20,7 @@ og_image_alt: "Session: Ask Me Anything. Tuesday September 3 at 4:00 PM Eastern.
 
 | Date | Time | Link |
 |---|---|---|
-| Tuesday, September 3, 2024 | 4:00 pm ET | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| Tuesday, September 3, 2024 | 4:00 pm ET | [Webinar link](https://cornell.zoom.us/j/98545128980?pwd=nTqDO00SOxW6ThtbYPFRSbbA57aWYM.1) |
 
 ## Get ready:
 <ul class="forum-actions">

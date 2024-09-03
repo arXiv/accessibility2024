@@ -20,7 +20,7 @@ This session is for anyone interested in more ways of exploring and understandin
 
 | Session Date | Time | Link |
 |---|---|---|
-| Tuesday, September 10, 2024 | 3:00 pm ET | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| Tuesday, September 10, 2024 | 3:00 pm ET | [Webinar link](https://cornell.zoom.us/j/95303704836?pwd=bnIanuPLl7mJvdHGIq5VDsdiEhhuYT.1) |
 
 ## Get ready:
 <ul class="forum-actions">

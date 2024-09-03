@@ -6,7 +6,7 @@ og_image_alt: "arXiv accessibility forum 2024: converging on accessible science 
 ---
 ![Logo for the arXiv forum](../assets/forum-logotype-only.svg){.forum-logotype alt='logo for the arXiv forum' role="presentation"}
 
-# Sign up for the arXiv Accessibility Forum 2024!
+# Welcome to the arXiv Accessibility Forum 2024!
 
 <div class="lead">
   <div class="content">
@@ -22,8 +22,8 @@ og_image_alt: "arXiv accessibility forum 2024: converging on accessible science 
 <div style="clear:both;"></div>
 
 <div class="highlight">
-  <h2>The excitement is real</h2>
-  <p>Due to popular demand we have increased our Forum capacity again... to unlimited! <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Sign up</a> and join thousands of your academic peers. Free, virtual, and open to everyone.</p>
+  <h2>The Forum has arrived!</h2>
+  <p>The Forum is taking place during the first two weeks of September. You can still <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Sign up</a> to get webinar links, receive updates, and be informed of session recordings. it is free, virtual, and open to everyone.</p>
 
   <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-reg">Sign up for the Forum</a>
 

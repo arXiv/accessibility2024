@@ -24,7 +24,7 @@ og_image_alt: "Session: AI and Accessibility. Wednesday September 4 at 12:00 PM 
 
 | Date | Time | Link |
 |---|---|---|
-| Wednesday, September 4, 2024  | 12:00 pm ET | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| Wednesday, September 4, 2024  | 12:00 pm ET | [Webinar link](https://cornell.zoom.us/j/93724730382?pwd=qealqZFZRu1qdVzEFFYbUl94fPiamw.1) |
 
 ## Get ready:
 <ul class="forum-actions">

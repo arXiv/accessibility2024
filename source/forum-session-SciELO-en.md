@@ -26,7 +26,7 @@ If you do not speak Portuguese or Spanish you can still help by [spreading the w
 
 | Session Date | Time | Link |
 |---|---|---|
-| September 11, 2024 | 5:00 pm CEST / 12:00 pm BRT | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| September 11, 2024 | 5:00 pm CEST / 12:00 pm BRT | [Webinar link](https://cornell.zoom.us/j/95978099995?pwd=TLFRHtobdTSpwJLDInZ8GNgVEFWUPB.1) |
 
 ## Get ready:
 <ul class="forum-actions">

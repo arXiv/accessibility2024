@@ -14,7 +14,7 @@ This session is for everyone who wants to contribute to environments where we ca
 
 | Session Date | Time | Link |
 |---|---|---|
-| Friday, September 13, 2024 | 12:00 pm ET | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| Friday, September 13, 2024 | 12:00 pm ET | [Webinar link](https://cornell.zoom.us/j/94263795591?pwd=2cni3kKjJiYHykTfAooNCIyYxTPB2p.1) |
 
 ## Get ready:
 <ul class="forum-actions">
