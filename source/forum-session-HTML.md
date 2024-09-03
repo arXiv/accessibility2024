@@ -20,7 +20,7 @@ og_image_alt: "Session: HTML Papers on arXiv. Thursday September 12 at 8:00 PM E
 
 | Session Date | Time | Link |
 |---|---|---|
-| Thursday, September 12, 2024 | 8:00 pm ET | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| Thursday, September 12, 2024 | 8:00 pm ET | [Webinar link](https://cornell.zoom.us/j/92772646280?pwd=nN9qJXOPnDZ9kdFUsVYDciuL5M4oXA.1) |
 *(This event is optimal for Asia-Pacific and PST time zones. All are welcome!)*
 
 ## Get ready:

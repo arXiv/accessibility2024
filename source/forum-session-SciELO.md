@@ -28,7 +28,7 @@ og_image_alt: "Sesión: SciELO y Accessibilidad. El 11 de Septiembre 5:00 pm CES
 ## Fecha y Hora
 | Fecha | Hora | Enlace |
 |---|---|---|
-| El 11 de Septiembre | 5:00 pm CEST / 12:00 pm BRT | [Inscribirse](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| El 11 de Septiembre | 5:00 pm CEST / 12:00 pm BRT | [Webinar](https://cornell.zoom.us/j/95978099995?pwd=TLFRHtobdTSpwJLDInZ8GNgVEFWUPB.1) |
 
 ## Preparse
 <ul class="forum-actions">

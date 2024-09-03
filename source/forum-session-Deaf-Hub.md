@@ -19,7 +19,7 @@ og_image_alt: "Session: Deaf Hub at RIT. Friday September 6 at 12:00 PM Eastern.
 
 | Date | Time | Link |
 |---|---|---|
-| Friday, September 6, 2024 | 12:00 pm ET | [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y) |
+| Friday, September 6, 2024 | 12:00 pm ET | [Webinar link](https://cornell.zoom.us/j/95831073771?pwd=Abdx2xsJanNwGS7UL4dxQVn9sQpojr.1) |
 
 ## Get ready:
 <ul class="forum-actions">

@@ -28,7 +28,7 @@ Junte-se ao SciELO e aos editores de revistas de Física e Engenharia para saber
 ## Data e Hora
 | Data | Hora | Link da web |
 |---|---|---|
-| 11 de Setembro | 5:00 pm CEST / 12:00 pm BRT | [Inscreva-se](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y)
+| 11 de Setembro | 5:00 pm CEST / 12:00 pm BRT | [Webinar](https://cornell.zoom.us/j/95978099995?pwd=TLFRHtobdTSpwJLDInZ8GNgVEFWUPB.1)
 
 ## Prepare-se
 <ul class="forum-actions">
