@@ -108,7 +108,16 @@ Camille teaches in the Biology and Health department on Human Health and Disease
 [See all Forum presenters](presenters){class="button-reg"}
 
 ## Session materials and resources
-- [Slide deck on presenter introductions in welcome video](https://docs.google.com/presentation/d/1DqvdU9F0na_WjIiJO1uUH8fjLovSZwJbUr-MdzSC_Ck/edit?usp=sharing)
+- [Live session slide deck](../assets/Deaf Hub at RIT.pptx)
+- [Welcome video slide deck](https://docs.google.com/presentation/d/1DqvdU9F0na_WjIiJO1uUH8fjLovSZwJbUr-MdzSC_Ck/edit?usp=sharing)
+### Resources related to medical sciences
+- [Lifeline VIEW AED device](https://www.defibtech.com/products/lifeline-view-aed/) that offers visual access for cardiac emergencies
+- Most popular [digital stethoscopes compared](https://www.amphl.org/stethoscopes)  
+- Image of [Eko CORE digital stethoscope](https://www.ekohealth.com/products/core-500-digital-stethoscope?variant=39999867879520) and more information
+- Information about [digital blood pressure cuffs](https://www.health.com/best-blood-pressure-monitors-6543568)
+- [Association of Medical Professionals with Hearing Losses](https://www.amphl.org/)
+
+
 
 
 ## Discussion board
