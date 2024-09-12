@@ -76,7 +76,8 @@ Ashley specializes in disability studies and technology ethics and believes in c
 [See all Forum presenters](presenters){class="button-reg"}
 
 ## Session resources
-- [Progress Over Perfection](https://meryl.net/accessibility-progress-over-perfection/){target="_blank"} (blog post by Meryl K. Evans, CPACC)
+- [Slide deck](https://docs.google.com/presentation/d/1haVebvmDruOmgWEITM7I8rAVjOq-iRjhDjzO49llAQs/edit?usp=sharing) for Ashley and Kim's presentation
+- [Progress Over Perfection](https://meryl.net/accessibility-progress-over-perfection/){target="_blank"}, a blog post by Meryl K. Evans, CPACC
 
 ## Discussion board
 Use this discussion board to continue the conversation, ask questions, and share more resources around approaches to accessibility. See these [instructions](discussion-board.md) for setting up a free GitHub account.
