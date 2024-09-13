@@ -79,6 +79,7 @@ Ashley specializes in disability studies and technology ethics and believes in c
 - Slide deck for [Devva's presentation](../assets/MasterSociocultural Model 2024.pptx){target="_blank"} (PowerPoint file)
 - Slide deck for [Ashley and Kim's presentation](https://docs.google.com/presentation/d/1haVebvmDruOmgWEITM7I8rAVjOq-iRjhDjzO49llAQs/edit?usp=sharing){target="_blank"} (Google Slides)
 - [Progress Over Perfection](https://meryl.net/accessibility-progress-over-perfection/){target="_blank"}, a blog post by Meryl K. Evans, CPACC
+- [Best Practices](../assets/How to Make Your Online Meeting or Webinar.pdf){target="_blank"} for meetings with AAC users, by AAC users (AAC = Augmentative and Assistive Communication)
 
 ## Discussion board
 Use this discussion board to continue the conversation, ask questions, and share more resources around approaches to accessibility. See these [instructions](discussion-board.md) for setting up a free GitHub account.
