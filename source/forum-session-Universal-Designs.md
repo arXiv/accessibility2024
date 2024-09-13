@@ -76,7 +76,8 @@ Ashley specializes in disability studies and technology ethics and believes in c
 [See all Forum presenters](presenters){class="button-reg"}
 
 ## Session resources
-- [Slide deck](https://docs.google.com/presentation/d/1haVebvmDruOmgWEITM7I8rAVjOq-iRjhDjzO49llAQs/edit?usp=sharing) for Ashley and Kim's presentation
+- Slide deck for [Devva's presentation](../assets/MasterSociocultural Model 2024.pptx){target="_blank"} (PowerPoint file)
+- Slide deck for [Ashley and Kim's presentation](https://docs.google.com/presentation/d/1haVebvmDruOmgWEITM7I8rAVjOq-iRjhDjzO49llAQs/edit?usp=sharing){target="_blank"} (Google Slides)
 - [Progress Over Perfection](https://meryl.net/accessibility-progress-over-perfection/){target="_blank"}, a blog post by Meryl K. Evans, CPACC
 
 ## Discussion board
