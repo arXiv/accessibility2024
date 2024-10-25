@@ -707,7 +707,7 @@ ol.color-blocks li img {
 }
 
 
-/* top section with videos*/
+/* display of embedded videos*/
 .lead {
   display: flex;
   flex-flow: column;
@@ -743,6 +743,20 @@ ol.color-blocks li img {
   .lead .videos {
     width: 100%;
     float: right;
+  }
+}
+
+.extra-videos {
+
+}
+.extra-videos iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+@media (min-width: 680px) {
+  .extra-videos iframe {
+    width: 49.7%;
+    aspect-ratio: 16 / 9;
   }
 }
 

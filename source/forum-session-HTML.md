@@ -9,6 +9,7 @@ og_image_alt: "Session: HTML Papers on arXiv. Thursday September 12 at 8:00 PM E
 <div class="lead">
   <div class="content">
     <p>arXiv added HTML as a paper format in December 2023. This impactful change was only possible because of organizations whose long-standing commitments to accessibility and open-source software go back decades. Join four open-source software luminaries from the NVDA screenreader, the LaTeXML converter, and arXiv to take a peek under the hood of how HTML papers on arXiv are made, what is working well, and where there is room for improvement.</p>
+    <p>Session recording coming soon...</p>
   </div>
   <div class="videos">
     <div class="shadow"><H2>Welcome message from Mick, Deyan, Tony, and Norbert!</h2>
@@ -16,13 +17,18 @@ og_image_alt: "Session: HTML Papers on arXiv. Thursday September 12 at 8:00 PM E
   </div>
 </div>
 
-**Join us for this double celebration of accessibility gains and open-source software!** Get ready with this [demo of accessible math](forum-session-HTML-demo.md), then join us to gain a deeper understanding of what really makes a more accessible research paper.
+<h2>Technical Demonstration</h2>
+
+<div class="extra-videos">
+  <iframe src="https://www.youtube.com/embed/wUvFYwLxFM8?si=CNuZvmCEFlnVw5LD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%;" class="shadow"></iframe>
+</div>
 
 | Session Date | Time | Link |
 |---|---|---|
 | Thursday, September 12, 2024 | 8:00 pm ET | [Webinar link](https://cornell.zoom.us/j/92772646280?pwd=nN9qJXOPnDZ9kdFUsVYDciuL5M4oXA.1) |
-*(This event is optimal for Asia-Pacific and PST time zones. All are welcome!)*
+*(This event was optimal for Asia-Pacific and PST time zones)*
 
+<!--
 ## Get ready:
 <ul class="forum-actions">
   <li class="col">
@@ -45,7 +51,7 @@ og_image_alt: "Session: HTML Papers on arXiv. Thursday September 12 at 8:00 PM E
   </li>
 </ul>
 
-Then help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
+Then help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share). -->
 
 ## Presenters
 

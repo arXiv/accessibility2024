@@ -6,15 +6,15 @@ og_image_alt: "arXiv accessibility forum 2024: converging on accessible science 
 ---
 ![Logo for the arXiv forum](../assets/forum-logotype-only.svg){.forum-logotype alt='logo for the arXiv forum' role="presentation"}
 
-# Welcome to the arXiv Accessibility Forum 2024!
+# Thank you for attending the arXiv Accessibility Forum 2024!
 
 <div class="lead">
   <div class="content">
-    <p>You are warmly invited to arXiv's second accessibility forum, a free conference for the scientific community focused on making research more accessible. Accessibility means <em>access regardless of disability</em>, and only then can we truly call it open science.</p>
-    <p>The Forum is <strong>free, fully remote, and open to all.</strong> Learn, share, and engage with a diversity researchers and experts from many fields whose work is all converging on more accessible science.</p>
+    <p>Thank you for attending arXiv's second accessibility forum, a free conference for the scientific community focused on making research more accessible. Accessibility means <em>access regardless of disability</em>, and only then can we truly call it open science.</p>
+    <p>The Forum was a huge success, bringing together a diversity researchers and experts from many fields whose work is all converging on more accessible science.</p>
   </div>
   <div class="videos">
-    <div class="shadow"><h2>Watch the 2024 Accessibility Forum welcome videos!</h2>
+    <div class="shadow"><h2>Watch the 2024 Accessibility Forum playlist!</h2>
     <iframe src="https://www.youtube.com/embed/videoseries?si=f32YwVHsF_Y5gGsj&amp;list=PLYgeAMJvRZ6ZRuNQGoekx0FdjXqEG0bzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   </div>
 </div>
@@ -22,10 +22,10 @@ og_image_alt: "arXiv accessibility forum 2024: converging on accessible science 
 <div style="clear:both;"></div>
 
 <div class="highlight">
-  <h2>The Forum has arrived!</h2>
-  <p>The Forum is taking place during the first two weeks of September. You can still <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Sign up</a> to get webinar links, receive updates, and be informed of session recordings. it is free, virtual, and open to everyone.</p>
+  <h2>The Forum has passed but you can sign up for recordings</h2>
+  <p>The Forum took place during the first two weeks of September. You can still <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank">Sign up</a> to be informed when session recordings are ready, or hear about future sessions. All arXiv events are free, virtual, and open to everyone.</p>
 
-  <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-reg">Sign up for the Forum</a>
+  <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y" target="_blank" class="button-reg">Sign up</a>
 
   <img src="../assets/forum-logotype-with-logo.svg" role="presentation" alt="arxiv forum logotype saying accessibility 2024" class="mkd-img-right">
   <div style="clear:both;"></div>
@@ -34,7 +34,7 @@ og_image_alt: "arXiv accessibility forum 2024: converging on accessible science 
 <div class="calendar" markdown="1">
 ## September Calendar
 
-Seven individual sessions will take place on multiple days between September 3<sup>rd</sup> and 13<sup>th</sup> featuring diverse panelists from many scientific fields.
+Seven individual sessions on multiple days between September 3<sup>rd</sup> and 13<sup>th</sup> featuring diverse panelists from many scientific fields.
 
 | Mon | Tues | Wed | Thurs | Fri |
 | --- | --- | --- | --- | --- |
@@ -83,7 +83,7 @@ We are pleased to be collaborating this year with presenters from these universi
 [Meet the presenters](/presenters){class="button-reg"}
 
 ## Help spread the word
-[Help spread the word](share) about this event! We are all part of the effort to ensure access regardless of disability and the arXiv Forum is free and open to everyone.
+[Help spread the word](share) about accessible research! We are all part of the effort to ensure access regardless of disability. Though the Forum has ended please share the recordings with your networks to raise awareness of these important development in accessible science and the role we can all play.
 
 ## Event policy
 All participants must follow arXiv's [code of conduct](https://info.arxiv.org/help/policies/code_of_conduct.html#inclusiveness-and-respect){target="_blank"}.

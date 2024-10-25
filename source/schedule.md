@@ -8,9 +8,9 @@ og_image_alt: "arXiv accessibility forum 2024: converging on accessible science 
 
 The Accessibility Forum, hosted by arXiv, is **a remote event that is free and open to all.**
 
-Seven individual sessions will be held on different days over the first two weeks in September. Join scientists from around the globe for presentations, Q&A discussions, and new research all focused on making academia more accessible.
+Seven individual sessions were held on different days over the first two weeks in September 2024 with scientists from around the globe sharing presentations, Q&A discussions, and new research all focused on making academia more accessible.
 
-[Add to Calendar](arXiv-forum.ics){:download="arXiv-forum.ics" .button-reg}
+<!-- [Add to Calendar](arXiv-forum.ics){:download="arXiv-forum.ics" .button-reg} -->
 
 ## Session dates
 

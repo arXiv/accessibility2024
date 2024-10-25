@@ -9,6 +9,7 @@ og_image_alt: "Session: Sonification. Tuesday September 10 at 3:00 PM Eastern."
 <div class="lead">
   <div class="content">
     <p>Join some of the world's leading experts on sonification to go beyond the visual and learn how all our senses can be engaged in exploring and understanding data. This session will demonstrate and discuss how sonification is used across multiple fields including astronomy, statistics, volacnology, oceanography and education. Hear from the researchers behind prominent sonification tools on how (and why) they use it in their daily work, and why multi-modal scientific outputs are a win for accessibility and the future of science.</p>
+    <p>Session recording coming soon...</p>
   </div>
   <div class="videos">
     <div class="shadow"><h2>Welcome video from the Sonification panelists!</h2>
@@ -16,12 +17,13 @@ og_image_alt: "Session: Sonification. Tuesday September 10 at 3:00 PM Eastern."
   </div>
 </div>
 
-This session is for anyone interested in more ways of exploring and understanding data.
+
 
 | Session Date | Time | Link |
 |---|---|---|
 | Tuesday, September 10, 2024 | 3:00 pm ET | [Webinar link](https://cornell.zoom.us/j/95303704836?pwd=bnIanuPLl7mJvdHGIq5VDsdiEhhuYT.1) |
 
+<!--
 ## Get ready:
 <ul class="forum-actions">
   <li class="col">
@@ -44,9 +46,9 @@ This session is for anyone interested in more ways of exploring and understandin
   </li>
 </ul>
 
-Then help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
+Then help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share). -->
 
-## Technical demos
+## Technical Demonstrations
 <div class="mkd-ordered-list-third" markdown="1">
 
 1. [![Thumbnail image of sonification demo with Amy](/assets/video/sonification-amy.png)](https://youtu.be/f6r5BVZ93pk?si=Yzszw5RkUuiu-7SS){target="_blank"}
@@ -66,10 +68,10 @@ Then help get the word out by sharing this free and important event with your co
 
 </div>
 
-## Submit Questions for Q&A
+<!-- ## Submit Questions for Q&A
 Finding the content fascinating and eager to participate? Let the presenters know your questions by submitting them ahead of the live session in September.
 
-[Submit Questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq){class="button-reg"}
+[Submit Questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq){class="button-reg"} -->
 
 ## Presenters
 

@@ -10,6 +10,7 @@ og_image_alt: "Session: Deaf Hub at RIT. Friday September 6 at 12:00 PM Eastern.
   <div class="content">
     <p>Have you ever wondered how deaf or hard of hearing researchers navigate academia? Have you wondered how you can help make academic spaces (including your own presentations) accessible to all? Join Deaf Hub colleagues and friends to learn more about the deaf and deaf-blind experience and how this incredible treasure trove of resources has helped students and professors... and can help you too.</p>
     <p>Deaf Hub is based at Rochester Institute of Technology's National Technical Institute for the Deaf and is a resource open to the entire scientific community.</p>
+    <p>Session recording coming soon...</p>
   </div>
   <div class="videos">
     <div class="shadow"><h2>Welcome video from the Deaf Hub team!</h2>
@@ -20,7 +21,7 @@ og_image_alt: "Session: Deaf Hub at RIT. Friday September 6 at 12:00 PM Eastern.
 | Date | Time | Link |
 |---|---|---|
 | Friday, September 6, 2024 | 12:00 pm ET | [Webinar link](https://cornell.zoom.us/j/95831073771?pwd=Abdx2xsJanNwGS7UL4dxQVn9sQpojr.1) |
-
+<!--
 ## Get ready:
 <ul class="forum-actions">
   <li class="col">
@@ -43,7 +44,7 @@ og_image_alt: "Session: Deaf Hub at RIT. Friday September 6 at 12:00 PM Eastern.
   </li>
 </ul>
 
-Then help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
+Then help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share). -->
 
 ## Presenters
 
