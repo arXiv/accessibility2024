@@ -10,19 +10,20 @@ og_image_alt: "Session: Ask Me Anything. Tuesday September 3 at 4:00 PM Eastern.
   <div class="content">
     <p>One of the biggest accessibility barriers is social: the discomfort that gets in the way of connection, friendship, and truly understanding the needs of those around us. We are often not sure what we can or should ask. Three brilliant researchers with diverse disabilities and at different academic career stages are here to cut through the fog and answer your questions.</p>
 
-    <p>There are no silly questions. Come engage and learn!</p>
+    <p>There are no silly questions. Watch the session recording and find out what audience members wanted to know.</p>
   </div>
   <div class="videos">
-    <div class="shadow"><H2>Welcome message from Anne, Venkatesh, and Jonathan</h2>
-    <iframe src="https://www.youtube.com/embed/ceh6l0dhvqo?si=7kVS6EwPGb7JBldc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+    <div class="shadow"><H2>Session Recording</h2>
+    <iframe src="https://www.youtube.com/embed/uPQ7w5ju3jE?si=zM2gkCmYSBFifxzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   </div>
 </div>
+
 
 | Date | Time | Link |
 |---|---|---|
 | Tuesday, September 3, 2024 | 4:00 pm ET | [Webinar link](https://cornell.zoom.us/j/98545128980?pwd=nTqDO00SOxW6ThtbYPFRSbbA57aWYM.1) |
 
-## Get ready:
+<!-- ## Get ready:
 <ul class="forum-actions">
   <li class="col">
     <div class="col-num shadow" role="presentation">1</div>
@@ -44,7 +45,7 @@ og_image_alt: "Session: Ask Me Anything. Tuesday September 3 at 4:00 PM Eastern.
   </li>
 </ul>
 
-Then help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
+Then help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share). -->
 
 ## Presenters
 

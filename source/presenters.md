@@ -6,7 +6,7 @@ og_image_alt: "arXiv accessibility forum 2024: converging on accessible science 
 ---
 # Presenter bios
 
-We are very pleased to be working with the following distinguished participants from across a wide variety of fields to bring this forum to life.
+We are very pleased to have worked with the following distinguished participants from across a wide variety of fields to bring this forum to life.
 
 
 ## Arwa Alnajashi

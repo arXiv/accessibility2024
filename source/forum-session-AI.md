@@ -8,16 +8,21 @@ og_image_alt: "Session: AI and Accessibility. Wednesday September 4 at 12:00 PM 
 
 <div class="lead">
   <div class="content">
-    <p>Has the bleeding edge finally caught up with user needs? This session features demonstrations from two research teams discussing their AI-driven tools for accessibility. The discussions are led by a vision-impaired scientist who uses AI tools daily to improve accessibility in her work.</p>
-
-    <p>This session is for everyone seeking practical insights into AI's role in accessibility and offers the opportunity to learn more about and get involved with two emerging AI tools. Watch the demo videos posted here then <a href="https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq" target="_blank">share your questions</a> ahead of time for the Q&A!</p>
+    <p>Has the bleeding edge finally caught up with user needs? This session features demonstrations from two research teams discussing their AI-driven tools for accessibility. This session is for everyone seeking practical insights into AI's role in accessibility and offers the opportunity to learn more about and get involved with two emerging AI tools.</p>
   </div>
   <div class="videos">
-    <div class="shadow"><h2>Demo videos</h2>
-    <iframe style="margin-bottom:1px !important;" src="https://www.youtube.com/embed/nNnXwqScxw4?si=UJP20pP_G0ED2hG7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-    <iframe src="https://www.youtube.com/embed/kUsk7wVVQAo?si=8fYSZRGja0D7TKVf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+    <div class="shadow"><H2>Session Recording</h2>
+    <iframe src="https://www.youtube.com/embed/mdzC9J78i6I?si=aCyT2mu_2Vju3lhb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   </div>
+</div>
+
+
+<h2>Technical Demonstrations</h2>
+
+<div class="extra-videos">
+  <iframe src="https://www.youtube.com/embed/nNnXwqScxw4?si=UJP20pP_G0ED2hG7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="shadow"></iframe>
+
+  <iframe src="https://www.youtube.com/embed/kUsk7wVVQAo?si=8fYSZRGja0D7TKVf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="shadow"></iframe>
 </div>
 
 ## Session Date
@@ -25,7 +30,7 @@ og_image_alt: "Session: AI and Accessibility. Wednesday September 4 at 12:00 PM 
 | Date | Time | Link |
 |---|---|---|
 | Wednesday, September 4, 2024  | 12:00 pm ET | [Webinar link](https://cornell.zoom.us/j/93724730382?pwd=qealqZFZRu1qdVzEFFYbUl94fPiamw.1) |
-
+<!--
 ## Get ready:
 <ul class="forum-actions">
   <li class="col">
@@ -48,7 +53,7 @@ og_image_alt: "Session: AI and Accessibility. Wednesday September 4 at 12:00 PM 
   </li>
 </ul>
 
-Then help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
+Then help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share). -->
 
 
 ## Presenters

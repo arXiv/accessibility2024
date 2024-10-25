@@ -30,6 +30,7 @@ og_image_alt: "Sesión: SciELO y Accessibilidad. El 11 de Septiembre 5:00 pm CES
 |---|---|---|
 | El 11 de Septiembre | 5:00 pm CEST / 12:00 pm BRT | [Webinar](https://cornell.zoom.us/j/95978099995?pwd=TLFRHtobdTSpwJLDInZ8GNgVEFWUPB.1) |
 
+<!--
 ## Preparse
 <ul class="forum-actions">
   <li class="col">
@@ -52,7 +53,7 @@ og_image_alt: "Sesión: SciELO y Accessibilidad. El 11 de Septiembre 5:00 pm CES
   </li>
 </ul>
 
-Tambien puedes difundir el mensaje sobre este evento. Encuentra sesión pósters y enlaces [aquí](/share).
+Tambien puedes difundir el mensaje sobre este evento. Encuentra sesión pósters y enlaces [aquí](/share). -->
 
 ## Presentadores
 

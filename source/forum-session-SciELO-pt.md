@@ -30,6 +30,7 @@ Junte-se ao SciELO e aos editores de revistas de Física e Engenharia para saber
 |---|---|---|
 | 11 de Setembro | 5:00 pm CEST / 12:00 pm BRT | [Webinar](https://cornell.zoom.us/j/95978099995?pwd=TLFRHtobdTSpwJLDInZ8GNgVEFWUPB.1)
 
+<!--
 ## Prepare-se
 <ul class="forum-actions">
   <li class="col">
@@ -52,7 +53,7 @@ Junte-se ao SciELO e aos editores de revistas de Física e Engenharia para saber
   </li>
 </ul>
 
-Também espalhar a notícia a este evento. Encontre pôsteres e links [aqui](/share).
+Também espalhar a notícia a este evento. Encontre pôsteres e links [aqui](/share). -->
 
 ## Apresentadores
 

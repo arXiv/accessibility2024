@@ -6,11 +6,11 @@ og_image_alt: "arXiv accessibility forum 2024: converging on accessible science 
 ---
 # Sharing the Forum with others
 
-Help spread the word! We are all part of the effort to ensure access regardless of disability. Bring your voice, your questions, and your curiosity to the arXiv Accessibility forum and encourage others to come, too. It is free and open to all.
+Help spread the word! Though the forum has ended we can share the session recordings with our colleagues and networks to raise awareness that we are all part of the effort to ensure access regardless of disability.
 
 Below are links and posters available to use on social media or other channels. We appreciate your sharing the forum with your networks and helping to raising awareness around the need for greater accessibility in research.
 
-## Forum sign up link
+<!-- ## Forum sign up link
 ```
 https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y
 ```
@@ -35,9 +35,9 @@ Images to use in social media posts as an attendee or as a presenter. Attendee B
     <li><a target="_blank" href="../assets/share/presenter-badge-1.jpg"><img src="../assets/share/presenter-badge-1.jpg" alt="An image for social media with a dark background and the text I'm presenting at the Accessibility Forum because...">Presenter Badge #1</a></li>
     <li><a target="_blank" href="../assets/share/presenter-badge-2.jpg"><img src="../assets/share/presenter-badge-2.jpg" alt="An image for social media with a bright lime green background and the text Im attending as well as the logo for the arXiv Accessibility Forum">Presenter Badge #2</a></li>
   </ul>
-</div>
+</div> -->
 
-## Youtube playlist of Forum welcome videos and technical demonstrations
+## Our YouTube playlist
 ```
 https://youtube.com/playlist?list=PLYgeAMJvRZ6ZRuNQGoekx0FdjXqEG0bzM&feature=shared
 ```

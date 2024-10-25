@@ -10,12 +10,13 @@ og_image_alt: "Session: Universal Designs for Research. Friday September 13 at 1
 
 There is no one right way to approach accessibility, but understanding different approaches can help us be much more accessible. After these three brilliant thought leaders, authors, and powerful advocates share their understanding of accessibility you wont experience the world in quite the same way again. We are so excited about this transformative talk and hope you can join us.
 
-This session is for everyone who wants to contribute to environments where we can all achieve our potential.
+Session recording coming soon...
 
 | Session Date | Time | Link |
 |---|---|---|
 | Friday, September 13, 2024 | 12:00 pm ET | [Webinar link](https://cornell.zoom.us/j/94263795591?pwd=2cni3kKjJiYHykTfAooNCIyYxTPB2p.1) |
 
+<!--
 ## Get ready:
 <ul class="forum-actions">
   <li class="col">
@@ -42,7 +43,7 @@ Then help get the word out by sharing this free and important event with your co
 ## Participate
 - [Sign up](https://cornell.ca1.qualtrics.com/jfe/form/SV_eEZ1d27LF2fVM7Y){target="_blank"} for the accessibility forum
 - Have a burning question? [Submit your questions](https://cornell.ca1.qualtrics.com/jfe/form/SV_bBqisDGVGcrzQeq) ahead of time. The presenters are eager to hear from you in advance so they can answer as many of them as possible during the session.
-- Help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
+- Help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share). -->
 
 ## Presenters
 

@@ -28,6 +28,7 @@ If you do not speak Portuguese or Spanish you can still help by [spreading the w
 |---|---|---|
 | September 11, 2024 | 5:00 pm CEST / 12:00 pm BRT | [Webinar link](https://cornell.zoom.us/j/95978099995?pwd=TLFRHtobdTSpwJLDInZ8GNgVEFWUPB.1) |
 
+<!--
 ## Get ready:
 <ul class="forum-actions">
   <li class="col">
@@ -50,7 +51,7 @@ If you do not speak Portuguese or Spanish you can still help by [spreading the w
   </li>
 </ul>
 
-Then help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share).
+Then help get the word out by sharing this free and important event with your colleagues and other academic networks. Session posters and links are available on [the share page](/share). -->
 
 ## Session resources
 - The [SciELO e-book in English](https://25.scielo.org/en/we-so-loved-open-access/){target="_blank"} sheds lights on the ways that SciELO and other individuals from underrepresented regions in the sciences pushed forward open access in global academic communication. This e-book is published as part of SciELO's 25th anniversary celebration, and it is free to download for all.
