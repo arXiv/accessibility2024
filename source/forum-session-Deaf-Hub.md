@@ -11,7 +11,7 @@ og_image_alt: "Session: Deaf Hub at RIT. Friday September 6 at 12:00 PM Eastern.
     <p>Have you ever wondered how deaf or hard of hearing researchers navigate academia? Have you wondered how you can help make academic spaces (including your own presentations) accessible to all? Join Deaf Hub colleagues and friends to learn more about the deaf and deaf-blind experience and how this incredible treasure trove of resources has helped students and professors... and can help you too.</p>
   </div>
   <div class="videos">
-    <div class="shadow"><h2>Welcome video from the Deaf Hub team!</h2>
+    <div class="shadow"><h2>Session Recording</h2>
     <iframe src="https://www.youtube.com/embed/EqoD_SzxL0w?si=r1I3_jzVEzFUw_-P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   </div>
 </div>
