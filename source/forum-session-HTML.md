@@ -9,11 +9,10 @@ og_image_alt: "Session: HTML Papers on arXiv. Thursday September 12 at 8:00 PM E
 <div class="lead">
   <div class="content">
     <p>arXiv added HTML as a paper format in December 2023. This impactful change was only possible because of organizations whose long-standing commitments to accessibility and open-source software go back decades. Join four open-source software luminaries from the NVDA screenreader, the LaTeXML converter, and arXiv to take a peek under the hood of how HTML papers on arXiv are made, what is working well, and where there is room for improvement.</p>
-    <p>Session recording coming soon...</p>
   </div>
   <div class="videos">
-    <div class="shadow"><H2>Welcome message from Mick, Deyan, Tony, and Norbert!</h2>
-    <iframe src="https://www.youtube.com/embed/PYBgeITZhL4?si=21tyiuFr3JeMqn4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+    <div class="shadow"><H2>Session Recording</h2>
+    <iframe src="https://www.youtube.com/embed/Lq_F4vkfqV0?si=tsY9SQZXT7VdZfFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   </div>
 </div>
 

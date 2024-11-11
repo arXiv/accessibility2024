@@ -9,14 +9,14 @@ og_image_alt: "Session: Deaf Hub at RIT. Friday September 6 at 12:00 PM Eastern.
 <div class="lead">
   <div class="content">
     <p>Have you ever wondered how deaf or hard of hearing researchers navigate academia? Have you wondered how you can help make academic spaces (including your own presentations) accessible to all? Join Deaf Hub colleagues and friends to learn more about the deaf and deaf-blind experience and how this incredible treasure trove of resources has helped students and professors... and can help you too.</p>
-    <p>Deaf Hub is based at Rochester Institute of Technology's National Technical Institute for the Deaf and is a resource open to the entire scientific community.</p>
-    <p>Session recording coming soon...</p>
   </div>
   <div class="videos">
     <div class="shadow"><h2>Welcome video from the Deaf Hub team!</h2>
-    <iframe src="https://www.youtube.com/embed/rjFvfz34G1g?si=BYo3UGwyV39OZ-XL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+    <iframe src="https://www.youtube.com/embed/EqoD_SzxL0w?si=r1I3_jzVEzFUw_-P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   </div>
 </div>
+
+Deaf Hub is based at Rochester Institute of Technology's National Technical Institute for the Deaf and is a resource open to the entire scientific community.
 
 | Date | Time | Link |
 |---|---|---|
