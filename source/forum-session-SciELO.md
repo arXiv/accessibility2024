@@ -18,8 +18,8 @@ og_image_alt: "Sesión: SciELO y Accessibilidad. El 11 de Septiembre 5:00 pm CES
   <p>Está cordialmente invitado a esta sesión sobre la publicación de artículos accesibles en la comunidad SciELO. Esta sesión innovadora sobre accesibilidad en la comunidad SciELO profundizará en el progreso y los próximos pasos para hacer que los productos científicos sean más accesibles.  SciELO es una parte fundamental de la infraestructura editorial de acceso abierto que presta servicios en América del Sur, España, Portugal y más allá. </p>
   </div>
   <div class="videos">
-    <div class="shadow"><h2>Ver Video de Bienvenida</h2>
-    <iframe src="https://www.youtube.com/embed/wjzYB1DTbe0?si=RUrkHpTHORp9sF_6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+    <div class="shadow"><h2>Video de Sesión</h2>
+    <iframe src="https://www.youtube.com/embed/nv3n2lf80L4?si=9teQc1wWy7RiQcV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   </div>
 </div>
 

@@ -6,11 +6,15 @@ og_image_alt: "Session: Universal Designs for Research. Friday September 13 at 1
 ---
 # Keynote: Universal Designs for Research
 
-![Logo for the arXiv forum](../../assets/arxiv-forum-logo-full-2024.svg){.mkd-img-right .mkd-spacing alt='logo for the arXiv forum' role="presentation"}
-
-There is no one right way to approach accessibility, but understanding different approaches can help us be much more accessible. After these three brilliant thought leaders, authors, and powerful advocates share their understanding of accessibility you wont experience the world in quite the same way again. We are so excited about this transformative talk and hope you can join us.
-
-Session recording coming soon...
+<div class="lead">
+  <div class="content">
+    <p>There is no one right way to approach accessibility, but understanding different approaches can help us be much more accessible. After these three brilliant thought leaders, authors, and powerful advocates share their understanding of accessibility you wont experience the world in quite the same way again. We are so excited about this transformative talk and hope you can join us.</p>
+  </div>
+  <div class="videos">
+    <div class="shadow"><h2>Session Recording</h2>
+    <iframe src="https://www.youtube.com/embed/xP2S6irKqfc?si=6kseuyZYx-uwInrn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+  </div>
+</div>
 
 | Session Date | Time | Link |
 |---|---|---|
